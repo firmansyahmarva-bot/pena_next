@@ -1,27 +1,45 @@
 {
-    "id": "01kyw9nkmm19mh2a7vj83m7e8v",
-    "name": "Perhotelan",
+    "id": "ind_88e76fdbeb716850db0e6f4cfbf63a76",
+    "name": "Perhotelan, Pariwisata & Restoran",
     "slug": "perhotelan",
     "path": "/industri/perhotelan",
-    "description": "K3 untuk sektor Perhotelan.",
+    "meta_title": "Solusi K3 Perhotelan, Resort & Pariwisata 2026 — Sertifikasi Resmi",
+    "meta_description": "Pelatihan K3 Hotel Bintang 5, Resort & Restoran komersial. K3 Penanggulangan Kebakaran D/C, Higiene Sanitasi Makanan, Petugas P3K & Keselamatan Tamu.",
+    "description": "Hotel berbintang, resort tepi pantai, gedung konvensi MICE, dan restoran fine dining dituntut memberikan jaminan keselamatan prima bagi tamu domestik dan internasional. PENA Consultant menyediakan pelatihan K3 evakuasi kebakaran gedung perhotelan, first aid pariwisata, dan higiene sanitasi dapur.",
+    "relevant_offering_slugs": [
+        "petugas-peran-kebakaran-kelas-d",
+        "regu-penanggulangan-kebakaran-kelas-c",
+        "petugas-p3k-first-aid",
+        "ahli-k3-umum",
+        "internal-auditor-iso-45001-2018"
+    ],
     "regulatory_context": [
         {
-            "type": "paragraph",
-            "text": "Hotel dan fasilitas MICE wajib memiliki petugas P3K dan unit penanggulangan kebakaran internal sesuai kewajiban umum K3 di tempat kerja (UU No. 1 Tahun 1970)."
+            "type": "heading",
+            "text": "Standar Keselamatan Sektor Pariwisata & Hospitality"
         },
         {
             "type": "citation",
-            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
-            "source": "UU No. 1 Tahun 1970"
+            "text": "Permen Pariwisata dan Ekonomi Kreatif No. 4 Tahun 2021 tentang Standar Kegiatan Usaha Sektor Pariwisata.",
+            "source": "Permenparekraf No. 4/2021"
+        },
+        {
+            "type": "citation",
+            "text": "Kepmenaker No. 186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja.",
+            "source": "Kepmenaker No. 186/1999"
+        },
+        {
+            "type": "heading",
+            "text": "Titik Kritis Bahaya di Industri Perhotelan"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>Kebakaran Dapur Komersial (Kitchen Grease Fire)</strong>: Nyala api pada saluran pembuangan minyak (exhaust hood) yang tersulut kompor gas kapasitas tinggi.",
+                "<strong>Kecelakaan Tergelincir & Jatuh (Slips, Trips & Falls)</strong>: Insiden pada lantai marmer basah lobi, area pinggir kolam renang (swimming pool deck), dan tangga darurat.",
+                "<strong>Bahaya Ergonomi Staf Housekeeping</strong>: Cedera tulang belakang (low back pain) akibat membalik kasur pegas berat dan mendorong troli linen ratusan kilogram setiap hari.",
+                "<strong>Keracunan Pangan Tamu (Food Contamination)</strong>: Risiko kontaminasi silang bahan makanan mentah dan matang pada fasilitas banquet prasmanan skala besar."
+            ]
         }
-    ],
-    "relevant_offering_slugs": [
-        "pengkaji-teknis-proteksi-kebakaran",
-        "ahli-k3-penanggulangan-kebakaran-kelas-a",
-        "regu-penanggulangan-kebakaran-kelas-c",
-        "petugas-peran-kebakaran-kelas-d",
-        "damkar-paralel-kelas-dcba",
-        "petugas-p3k-first-aid",
-        "petugas-p3k"
     ]
 }

@@ -1,19 +1,45 @@
 {
-    "id": "01kyw9nkdsa3szfefth1cmt0z0",
-    "name": "Transportasi dan Logistik",
+    "id": "ind_f461b6f405fdf8bba770fe62289af643",
+    "name": "Transportasi, Logistik & Pergudangan",
     "slug": "transportasi",
     "path": "/industri/transportasi",
-    "description": "K3 untuk sektor Transportasi dan Logistik. Penerapan K3 pada sektor Transportasi dan Logistik sangat krusial untuk mencegah kecelakaan kerja akibat pengoperasian mesin produksi berat, bahan kimia pestisida, dan potensi kecelakaan lalu lintas operasional. PT PENA Consultant menyediakan layanan pembinaan K3 terpadu, pendampingan SMK3 PP No. 50 Tahun 2012, dan sertifikasi resmi Kemnaker RI untuk memastikan perlindungan keselamatan kerja yang komprehensif bagi seluruh staf perusahaan Anda.",
+    "meta_title": "Solusi K3 Logistik & Transportasi Armada 2026 — PENA Consultant",
+    "meta_description": "Pelatihan K3 Logistik, Pergudangan & Transportasi Armada Truk/B3. Sertifikasi Operator Forklift, Defensive Driving K3, SMKP Angkutan Umum & Petugas P3K.",
+    "description": "Rantai pasok modern mengandalkan gudang distribusi otomatis (FMCG mega distribution centers) dan ribuan armada truk pengangkut kontainer dan bahan B3 cair. PENA Consultant membina operator logistik, driver armada, dan supervisor keselamatan pergudangan.",
+    "relevant_offering_slugs": [
+        "operator-forklift-kelas-2",
+        "operator-crane-kelas-3",
+        "ahli-k3-umum",
+        "petugas-p3k-first-aid",
+        "investigasi-kecelakaan"
+    ],
     "regulatory_context": [
         {
-            "type": "paragraph",
-            "text": "Operator pesawat angkat dan pesawat angkut (forklift, mobile crane, dan sejenisnya) di sektor transportasi dan logistik wajib memiliki lisensi K3 sesuai Permenaker No. 8 Tahun 2020."
+            "type": "heading",
+            "text": "Regulasi K3 Sektor Logistik & Angkutan Barang"
         },
         {
             "type": "citation",
-            "text": "Keselamatan dan Kesehatan Kerja Pesawat Angkat dan Pesawat Angkut.",
-            "source": "Permenaker No. 8 Tahun 2020"
+            "text": "Permenhub No. PM 85 Tahun 2018 tentang Sistem Manajemen Keselamatan Perusahaan Angkutan Umum.",
+            "source": "Permenhub PM 85/2018"
+        },
+        {
+            "type": "citation",
+            "text": "Permenaker No. 08 Tahun 2020 tentang K3 Pesawat Angkat dan Angkut (Forklift & Stacker).",
+            "source": "Permenaker No. 08/2020"
+        },
+        {
+            "type": "heading",
+            "text": "Titik Risiko Pergudangan & Distribusi"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>Keruntuhan Rak Penyimpanan Palet (Racking Collapse)</strong>: Kelebihan beban muatan palet atau tertabrak tiang rak oleh forklift yang memicu keruntuhan berantai.",
+                "<strong>Kecelakaan Tabrakan Truk Angkutan Barang (Rollover & Highway Crash)</strong>: Kegagalan sistem rem angin (brake failure) atau kelelahan ekstrim supir (driver fatigue) di jalan tol.",
+                "<strong>Jatuh Terjepit di Area Loading Dock</strong>: Truk bergerak maju saat forklift masih berada di dalam boks kontainer (trailer creep).",
+                "<strong>Kebocoran Muatan Bahan Berbahaya B3 di Jalan Raya</strong>: Tumpahan zat kimia cair atau gas cair yang membahayakan pengguna jalan umum."
+            ]
         }
-    ],
-    "relevant_offering_slugs": []
+    ]
 }

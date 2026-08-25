@@ -1,27 +1,45 @@
 {
-    "id": "01kyw9nmfh2q7nnzfk6egz3skm",
-    "name": "Umum / Lintas Sektor",
+    "id": "ind_adfab9c56b8b16d6c067f8d3cff8818e",
+    "name": "Perkantoran, Pusat Niaga & Jasa Komersial",
     "slug": "umum",
     "path": "/industri/umum",
-    "description": "K3 untuk sektor Umum / Lintas Sektor.",
+    "meta_title": "Solusi K3 Perkantoran, Mall & Gedung Komersial 2026 — PENA Consultant",
+    "meta_description": "Sertifikasi K3 Perkantoran resmi (Permenkes 48/2016). K3 Gedung Komersial, Mall Pusat Belanja, Ergonomi Kerja, Petugas P3K Kantor & Damkar Gedung.",
+    "description": "Pusat perbelanjaan (mall), ruko sentra bisnis, gedung perkantoran sewa, dan perusahaan rintisan teknologi (startup) memerlukan manajemen K3 terpadu untuk menjamin keselamatan ribuan karyawan kantor dan pengunjung umum. PENA Consultant menyediakan pelatihan K3 Perkantoran dan sertifikasi tim tanggap darurat.",
+    "relevant_offering_slugs": [
+        "petugas-peran-kebakaran-kelas-d",
+        "petugas-p3k",
+        "ahli-k3-umum",
+        "k3-teknisi-listrik",
+        "internal-auditor-iso-45001-2018"
+    ],
     "regulatory_context": [
         {
-            "type": "paragraph",
-            "text": "Setiap perusahaan di Indonesia, lintas sektor, wajib memenuhi kewajiban dasar K3 sesuai UU No. 1 Tahun 1970 — termasuk memiliki Ahli K3 Umum yang ditunjuk sesuai Permenaker No. 02/MEN/1992."
+            "type": "heading",
+            "text": "Standar Keselamatan dan Kesehatan Kerja Perkantoran"
         },
         {
             "type": "citation",
-            "text": "Tata Cara Penunjukan, Kewajiban dan Wewenang Ahli Keselamatan dan Kesehatan Kerja.",
-            "source": "Permenaker No. 02/MEN/1992"
+            "text": "Permenkes No. 48 Tahun 2016 tentang Standar Keselamatan dan Kesehatan Kerja Perkantoran — Mengatur standar keselamatan gedung, ergonomi meja kursi, kualitas udara dalam ruangan (IAQ), dan pencahayaan.",
+            "source": "Permenkes No. 48/2016"
+        },
+        {
+            "type": "citation",
+            "text": "Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja.",
+            "source": "Permenaker No. 05/2018"
+        },
+        {
+            "type": "heading",
+            "text": "Potensi Masalah Kesehatan & Bahaya di Perkantoran Modern"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>Sindrom Gedung Sakit (Sick Building Syndrome - SBS)</strong>: Gangguan pusing, lelah, dan alergi saluran napas akibat sirkulasi AC sentral kotor dan kurangnya asupan oksigen segar.",
+                "<strong>Gangguan Postur Kerja Sedentari (Sedentary Ergonomic Strain)</strong>: Duduk statis di depan komputer > 6 jam per hari yang memicu nyeri leher, bahu kaku, dan nyeri pinggang bawah kronis.",
+                "<strong>Korsleting Listrik Multi-Stopkontak Komputer</strong>: Beban listrik berlebih pada kabel colokan extension di kolong meja yang memicu percikan api di karpet.",
+                "<strong>Bahaya Gempa Bumi & Kebakaran Mall</strong>: Hambatan evakuasi pengunjung akibat pintu darurat terkunci atau tertutup tumpukan barang toko."
+            ]
         }
-    ],
-    "relevant_offering_slugs": [
-        "ahli-k3-umum",
-        "ahli-k3-umum-2",
-        "ahli-k3-umum-paket-ekonomis",
-        "ahli-k3-umum-fresh-graduate",
-        "petugas-k3",
-        "petugas-k3-kimia",
-        "petugas-k3-rumah-sakit"
     ]
 }

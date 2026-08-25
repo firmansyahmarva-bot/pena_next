@@ -1,24 +1,51 @@
 {
-    "id": "01kyw9nk3kvmbj6bg9mdh8fqaj",
-    "name": "Kelistrikan",
+    "id": "ind_6e8ba70be7aabb3255d9b98f95ce947f",
+    "name": "Ketenagalistrikan & Energi",
     "slug": "kelistrikan",
     "path": "/industri/kelistrikan",
-    "description": "K3 untuk sektor Kelistrikan.",
+    "meta_title": "Solusi K3 Ketenagalistrikan 2026 — Sertifikasi Ahli K3 Listrik Kemnaker RI",
+    "meta_description": "Pusat pelatihan K3 Listrik resmi Kemnaker RI (Permenaker 12/2015). Ahli K3 Listrik, Teknisi Listrik Pabrik, Proteksi Petir, Gardu Trafo & Arc Flash Safety.",
+    "description": "Pembangkit listrik (PLTU, PLTG, PLTA, PLTS), jaringan transmisi SUTET, gardu induk, dan panel distribusi daya industri menyimpan potensi bahaya sengatan listrik bertegangan ribuan volt dan ledakan busur api (Arc Flash). PENA Consultant membina personil K3 Listrik bersertifikat resmi Kemnaker RI.",
+    "relevant_offering_slugs": [
+        "k3-teknisi-listrik",
+        "teknisi-k3-listrik",
+        "ahli-k3-listrik",
+        "ahli-k3-listrik-2",
+        "operator-motor-diesel-genset",
+        "auditor-sistem-manajemen-k3"
+    ],
     "regulatory_context": [
         {
-            "type": "paragraph",
-            "text": "Personel yang merencanakan, memasang, memeriksa, atau memelihara instalasi listrik di tempat kerja wajib memenuhi kompetensi K3 listrik sesuai Permenaker No. 12 Tahun 2015."
+            "type": "heading",
+            "text": "Peraturan Keselamatan Kerja Bidang Kelistrikan"
         },
         {
             "type": "citation",
-            "text": "Keselamatan dan Kesehatan Kerja Listrik di Tempat Kerja.",
-            "source": "Permenaker No. 12 Tahun 2015"
+            "text": "Permenaker No. 12 Tahun 2015 tentang Keselamatan dan Kesehatan Kerja Listrik di Tempat Kerja — Kewajiban sertifikasi Ahli K3 Listrik untuk instalasi > 200 kVA.",
+            "source": "Permenaker No. 12/2015"
+        },
+        {
+            "type": "citation",
+            "text": "Permenaker No. 31 Tahun 2015 tentang Pengawasan Instalasi Penyalur Petir.",
+            "source": "Permenaker No. 31/2015"
+        },
+        {
+            "type": "citation",
+            "text": "Standar PUIL 2020 (Persyaratan Umum Instalasi Listrik).",
+            "source": "SNI PUIL 2020"
+        },
+        {
+            "type": "heading",
+            "text": "Bahaya Kelistrikan Tingkat Fatal"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>Ledakan Busur Api (Arc Flash & Arc Blast)</strong>: Pelepasan energi listrik mendadak berhawa panas > 20.000°C yang melumerkan logam switchgear dan merusak organ tubuh.",
+                "<strong>Sengatan Listrik Sentuh Langsung & Tak Langsung (Electrocution)</strong>: Arus bocor melewati tubuh manusia menuju tanah akibat kegagalan sistem pembumian (grounding).",
+                "<strong>Kebakaran Panel Daya Listrik (Electrical Fire)</strong>: Beban lebih (overload) atau sambungan kabel kendor yang memicu busur panas pada kabel berinsulasi PVC.",
+                "<strong>Sambaran Petir Induksi (Lightning Strike)</strong>: Kerusakan instrumentasi kontrol pabrik dan bahaya sengatan saat badai petir."
+            ]
         }
-    ],
-    "relevant_offering_slugs": [
-        "ahli-k3-listrik",
-        "ahli-k3-listrik-2",
-        "teknisi-k3-listrik",
-        "k3-teknisi-listrik"
     ]
 }

@@ -1,56 +1,53 @@
 {
-    "id": "01kyhbn3apsd2qqe9ck3e3b32y",
-    "name": "Manufaktur",
+    "id": "ind_48d7941567802a3992ffd0fdb81b7225",
+    "name": "Manufaktur & Otomotif",
     "slug": "manufaktur",
     "path": "/industri/manufaktur",
-    "description": "Pabrik dan fasilitas produksi mengoperasikan mesin, pesawat angkat, dan sistem tenaga yang menuntut pengawasan K3 berkelanjutan agar operasional tetap aman dan produktif.",
-    "regulatory_context": [
-        {
-            "type": "paragraph",
-            "text": "Kewajiban K3 di lingkungan manufaktur mencakup:"
-        },
-        {
-            "type": "citation",
-            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
-            "source": "UU No. 1 Tahun 1970"
-        },
-        {
-            "type": "citation",
-            "text": "Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) — wajib bagi perusahaan dengan ≥100 pekerja atau tingkat bahaya tinggi.",
-            "source": "PP No. 50 Tahun 2012"
-        },
-        {
-            "type": "citation",
-            "text": "Keselamatan dan Kesehatan Kerja Pesawat Tenaga dan Produksi.",
-            "source": "Permenaker No. 38 Tahun 2016"
-        },
-        {
-            "type": "citation",
-            "text": "Keselamatan dan Kesehatan Kerja Pesawat Angkat dan Pesawat Angkut.",
-            "source": "Permenaker No. 8 Tahun 2020"
-        },
-        {
-            "type": "paragraph",
-            "text": "Perusahaan manufaktur dengan ≥100 pekerja atau tingkat bahaya tinggi wajib menerapkan SMK3 secara penuh, termasuk pembentukan P2K3 dan audit berkala."
-        }
-    ],
+    "meta_title": "Solusi K3 Manufaktur & Pabrik Otomotif 2026 — Sertifikasi Resmi Kemnaker RI",
+    "meta_description": "Program pelatihan K3 pabrik manufaktur & otomotif. Ahli K3 Umum, Lisensi Operator Forklift SIA, K3 Teknisi Listrik, LOTO, Ergonomi & SMK3 PP 50/2012.",
+    "description": "Sektor manufaktur terpadu, perakitan otomotif, elektronika, dan mesin presisi beroperasi dengan ribuan lini produksi otomatis, conveyor berkecepatan tinggi, dan armada logistik internal. PENA Consultant mendampingi pabrik-pabrik di kawasan industri Cikarang, Karawang, Surabaya, dan Semarang dalam mencapai zero accident dan kepatuhan audit SMK3.",
     "relevant_offering_slugs": [
         "ahli-k3-umum",
-        "ahli-k3-listrik",
-        "ahli-k3-listrik-2",
-        "teknisi-k3-listrik",
+        "operator-forklift-kelas-2",
+        "operator-pesawat-tenaga-produksi-ptp",
         "k3-teknisi-listrik",
         "auditor-sistem-manajemen-k3",
-        "ahli-k3-penanggulangan-kebakaran-kelas-a",
-        "regu-penanggulangan-kebakaran-kelas-c",
-        "petugas-peran-kebakaran-kelas-d",
-        "koordinator-unit-p-keb-kelas-b",
-        "unit-p-keb-kelas-c",
-        "damkar-paralel-kelas-dcba",
         "petugas-p3k",
-        "operator-boiler-kelas-2",
-        "operator-pesawat-tenaga-produksi-ptp",
-        "operator-forklift-kelas-2",
-        "operator-crane-kelas-3"
+        "petugas-peran-kebakaran-kelas-d"
+    ],
+    "regulatory_context": [
+        {
+            "type": "heading",
+            "text": "Dasar Regulasi K3 Industri Manufaktur"
+        },
+        {
+            "type": "citation",
+            "text": "Permenaker No. 38 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja Pesawat Tenaga dan Produksi — Mengatur syarat keselamatan mesin press, gerinda, bor, rol, dan conveyor pabrik.",
+            "source": "Permenaker No. 38/2016"
+        },
+        {
+            "type": "citation",
+            "text": "Permenaker No. 08 Tahun 2020 tentang Keselamatan dan Kesehatan Kerja Pesawat Angkat dan Pesawat Angkut — Kewajiban lisensi operator forklift, stacker, dan overhead crane pabrik.",
+            "source": "Permenaker No. 08/2020"
+        },
+        {
+            "type": "citation",
+            "text": "Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja — Standar Nilai Ambang Batas (NAB) kebisingan mesin, getaran lengan, pencahayaan lux meter, dan sirkulasi udara pabrik.",
+            "source": "Permenaker No. 05/2018"
+        },
+        {
+            "type": "heading",
+            "text": "Bahaya Kerja Kritis di Lini Produksi Manufaktur"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>Terjepit & Terpotong Mesin (Mechanical Entanglement)</strong>: Risiko fatal pada mesin stamping hidrolik dan conveyor tanpa safety sensor / interlock guard terpasang.",
+                "<strong>Ketiadaan Isolasi Energi Berbahaya (Lockout / Tagout - LOTO)</strong>: Mesin menyala tiba-tiba saat teknisi melakukan perawatan atau pembersihan komponen dalam.",
+                "<strong>Tabrakan Forklift & Pejalan Kaki (Pedestrian Collision)</strong>: Kecelakaan di area blind spot lorong pergudangan dan loading dock pabrik.",
+                "<strong>Gangguan Pendengaran Akibat Bising (Noise Induced Hearing Loss - NIHL)</strong>: Penyakit akibat kerja jangka panjang akibat paparan suara mesin > 85 dB tanpa earplug/earmuff standar.",
+                "<strong>Gangguan Otot Rangka (Musculoskeletal Disorders - MSDs)</strong>: Nyeri punggung bawah akibat gerakan mengangkat material berat berulang (manual material handling)."
+            ]
+        }
     ]
 }

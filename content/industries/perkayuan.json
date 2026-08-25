@@ -1,19 +1,45 @@
 {
-    "id": "01kyw9nm053yp5m8htmrwsvwt5",
-    "name": "Perkayuan dan Kehutanan",
+    "id": "ind_7b7187e3b6b26c7017b052c67477eb8d",
+    "name": "Industri Pengolahan Kayu, Pulp & Kertas",
     "slug": "perkayuan",
     "path": "/industri/perkayuan",
-    "description": "K3 untuk sektor Perkayuan dan Kehutanan. Penerapan K3 pada sektor Perkayuan dan Kehutanan sangat krusial untuk mencegah kecelakaan kerja akibat pengoperasian mesin produksi berat, bahan kimia pestisida, dan potensi kecelakaan lalu lintas operasional. PT PENA Consultant menyediakan layanan pembinaan K3 terpadu, pendampingan SMK3 PP No. 50 Tahun 2012, dan sertifikasi resmi Kemnaker RI untuk memastikan perlindungan keselamatan kerja yang komprehensif bagi seluruh staf perusahaan Anda.",
+    "meta_title": "Solusi K3 Industri Kayu, Plywood, Pulp & Paper 2026",
+    "meta_description": "Pelatihan K3 Pabrik Kertas, Pulp & Kayu Lapis. Operator Recovery Boiler, Pengendalian Debu Kayu Karsinogenik, K3 Mesin Pemotong Kayu Band Saw & Kimia Bleaching.",
+    "description": "Pabrik bubur kertas (Pulp & Paper) dan industri kayu lapis (plywood/sawmill) mengoperasikan mesin potong berkekuatan tinggi, recovery boiler kimia pembakar black liquor, dan zat kimia pemutih klorin. PENA Consultant mendukung pemenuhan standar K3 di pabrik Riau, Jambi, Sumsel, dan Kaltim.",
+    "relevant_offering_slugs": [
+        "operator-boiler-kelas-2",
+        "ahli-k3-kimia",
+        "operator-pesawat-tenaga-produksi-ptp",
+        "teknisi-ruang-terbatas",
+        "ahli-k3-umum"
+    ],
     "regulatory_context": [
         {
-            "type": "paragraph",
-            "text": "Industri perkayuan dan kehutanan tunduk pada kewajiban umum K3 sesuai UU No. 1 Tahun 1970, dengan perhatian khusus pada pengoperasian alat berat dan pesawat angkat-angkut di area kerja."
+            "type": "heading",
+            "text": "Regulasi K3 Industri Pulp, Kertas & Pengolahan Kayu"
         },
         {
             "type": "citation",
-            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
-            "source": "UU No. 1 Tahun 1970"
+            "text": "Permenaker No. 38 Tahun 2016 tentang K3 Pesawat Tenaga dan Produksi (PTP).",
+            "source": "Permenaker No. 38/2016"
+        },
+        {
+            "type": "citation",
+            "text": "Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja (NAB Debu Kayu Wood Dust).",
+            "source": "Permenaker No. 05/2018"
+        },
+        {
+            "type": "heading",
+            "text": "Bahaya Kritis Industri Kayu & Kertas"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>Terpotong Mesin Gergaji Putar (Band Saw & Chipper Amputation)</strong>: Bahaya amputasi jari/tangan pada mesin pemotong log kayu berkecepatan ribuan RPM.",
+                "<strong>Ledakan Recovery Boiler (Smelt-Water Explosion)</strong>: Kontak lelehan kimia panas dengan air dalam recovery boiler pabrik pulp yang memicu ledakan berdaya hancur tinggi.",
+                "<strong>Paparan Debu Kayu Karsinogenik</strong>: Debu partikel kayu halus yang terhirup kronis memicu kanker rongga hidung (sino-nasal cancer) dan asma kerja.",
+                "<strong>Kebocoran Gas Klorin Dioksida ($ClO_2$)</strong>: Gas oksidator kuat beracun pada unit pemutihan serat kayu (bleaching area)."
+            ]
         }
-    ],
-    "relevant_offering_slugs": []
+    ]
 }

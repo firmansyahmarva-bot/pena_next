@@ -1,19 +1,47 @@
 {
-    "id": "01kyw9nkxcap8827v1zfhxpv1p",
-    "name": "Pertanian dan Perkebunan",
+    "id": "ind_24f8e0b2d41e91682b3ee1107b60a702",
+    "name": "Perkebunan Kelapa Sawit & Agroindustri",
     "slug": "pertanian",
     "path": "/industri/pertanian",
-    "description": "K3 untuk sektor Pertanian dan Perkebunan. Penerapan K3 pada sektor Pertanian dan Perkebunan sangat krusial untuk mencegah kecelakaan kerja akibat pengoperasian mesin produksi berat, bahan kimia pestisida, dan potensi kecelakaan lalu lintas operasional. PT PENA Consultant menyediakan layanan pembinaan K3 terpadu, pendampingan SMK3 PP No. 50 Tahun 2012, dan sertifikasi resmi Kemnaker RI untuk memastikan perlindungan keselamatan kerja yang komprehensif bagi seluruh staf perusahaan Anda.",
+    "meta_title": "Solusi K3 Perkebunan Kelapa Sawit & Pabrik Sawit (PKS) 2026",
+    "meta_description": "Program sertifikasi K3 Perkebunan Sawit & PKS resmi. Operator Boiler Sawit, Keselamatan Pestisida B3, Operator Loader, Ruang Terbatas Tangki CPO & ISPO.",
+    "description": "Perkebunan kelapa sawit dan Pabrik Kelapa Sawit (PKS) di Sumatera dan Kalimantan mengolah jutaan ton tandan buah segar dengan instalasi perebusan uap bertekanan tinggi, turbin biomassa cangkang, dan bahan kimia agrokimia. PENA Consultant menyediakan pembinaan K3 PKS bersertifikat Kemnaker RI.",
+    "relevant_offering_slugs": [
+        "operator-boiler-kelas-2",
+        "ahli-k3-kimia",
+        "teknisi-ruang-terbatas",
+        "operator-alat-berat",
+        "ahli-k3-umum",
+        "petugas-p3k"
+    ],
     "regulatory_context": [
         {
-            "type": "paragraph",
-            "text": "Perusahaan di sektor pertanian dan perkebunan tetap tunduk pada kewajiban umum K3 sesuai UU No. 1 Tahun 1970, termasuk pembentukan Panitia Pembina K3 (P2K3) bagi perusahaan berisiko tinggi."
+            "type": "heading",
+            "text": "Dasar Kepatuhan K3 Perkebunan & PKS"
         },
         {
             "type": "citation",
-            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
-            "source": "UU No. 1 Tahun 1970"
+            "text": "Permentan No. 38 Tahun 2020 tentang Penyelenggaraan Sertifikasi Perkebunan Kelapa Sawit Berkelanjutan Indonesia (ISPO).",
+            "source": "Permentan No. 38/2020"
+        },
+        {
+            "type": "citation",
+            "text": "Permenaker No. 01 Tahun 1988 tentang Syarat Operator Pesawat Uap (Boiler PKS).",
+            "source": "Permenaker No. 01/1988"
+        },
+        {
+            "type": "heading",
+            "text": "Bahaya Kerja Fatal di Pabrik Kelapa Sawit (PKS)"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>Ledakan Bejana Rebusan Sawit (Sterilizer Door Blowout)</strong>: Pintu sterilizer terbuka saat tekanan uap masih tinggi akibat kegagalan safety pin pengunci.",
+                "<strong>Terjepit Mesin Pengempa Ulir (Screw Press Entrapment)</strong>: Pekerja tergelincir masuk ke dalam corong umpan press saat membersihkan sumbatan ampas sawit.",
+                "<strong>Keracunan Akut Pestisida Herbisida</strong>: Paparan racun herbisida pada pekerja semprot afdeling tanpa masker respirator dan APD kedap air.",
+                "<strong>Tenggelam & Asfiksia Tangki Timbun CPO (CPO Storage Tank)</strong>: Terpeleset ke dalam minyak sawit panas saat pengambilan sampel atau pembersihan kerak tangki.",
+                "<strong>Ledakan Gas Biogas Kolam Limbah POME</strong>: Akumulasi gas metana ($CH_4$) mudah menyala dari kolam instalasi pengolahan air limbah sawit."
+            ]
         }
-    ],
-    "relevant_offering_slugs": []
+    ]
 }

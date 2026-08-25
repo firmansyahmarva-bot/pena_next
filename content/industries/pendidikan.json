@@ -1,26 +1,45 @@
 {
-    "id": "01kyw9nm80hgsr8abm26sm0h1q",
-    "name": "Pendidikan",
+    "id": "ind_41cde09309583cd048d69d6e2deb95f8",
+    "name": "Pendidikan Tinggi, Laboratorium Riset & SMK",
     "slug": "pendidikan",
     "path": "/industri/pendidikan",
-    "description": "K3 untuk sektor Pendidikan.",
+    "meta_title": "Solusi K3 Kampus, Laboratorium Riset & Sekolah Vokasi 2026",
+    "meta_description": "Program K3 Laboratorium Pendidikan & Bengkel Praktik Vokasi. Keselamatan Bahan Kimia Kampus, First Aid Laboratorium, K3 Bengkel Mesin & Sertifikasi Calon Ahli K3.",
+    "description": "Universitas, politeknik, balai latihan kerja (BLK), dan sekolah menengah kejuruan (SMK) mengelola laboratorium kimia, bengkel mesin bubut/las, dan instalasi listrik praktik mahasiswa. PENA Consultant memberikan pembinaan K3 laboratorium dan pembekalan sertifikasi Ahli K3 bagi lulusan vokasi.",
+    "relevant_offering_slugs": [
+        "pengawas-k3-laboratorium",
+        "ahli-k3-umum-fresh-graduate",
+        "petugas-p3k-first-aid",
+        "petugas-k3-kimia",
+        "k3-teknisi-listrik"
+    ],
     "regulatory_context": [
         {
-            "type": "paragraph",
-            "text": "Institusi pendidikan dengan fasilitas laboratorium, bengkel, atau asrama tetap memerlukan petugas P3K dan kesiapsiagaan kebakaran sesuai kewajiban umum K3 di tempat kerja."
+            "type": "heading",
+            "text": "Penerapan K3 di Lembaga Pendidikan & Riset"
         },
         {
             "type": "citation",
-            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
-            "source": "UU No. 1 Tahun 1970"
+            "text": "Permenkes No. 43 Tahun 2019 tentang Standar Keselamatan Laboratorium Pengujian & Riset.",
+            "source": "Permenkes No. 43/2019"
+        },
+        {
+            "type": "citation",
+            "text": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja di Tempat Percobaan & Praktik.",
+            "source": "UU No. 1/1970 Pasal 2"
+        },
+        {
+            "type": "heading",
+            "text": "Titik Rawan Kecelakaan di Kampus & Laboratorium"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>Ledakan Uap Pelarut Kimia di Lemari Asam (Fume Hood Fire)</strong>: Reaksi sintesis kimia organik yang memercikkan api akibat ventilasi lemari asam tersumbat.",
+                "<strong>Kecelakaan Bengkel Bubut & Mesin Las Vokasi</strong>: Rambut/pakaian tersangkut spindle putar mesin bubut atau sengatan listrik mesin las busur.",
+                "<strong>Tumpahan Reagen B3 Kimia Beracun</strong>: Pecahnya botol reagen asam nitrat atau merkuri di ruang praktikum tanpa spill kit penampung standar.",
+                "<strong>Bahaya Biologis Patogen di Lab Mikrobiologi</strong>: Paparan kuman penyakit akibat rusaknya filter Biosafety Cabinet (BSC)."
+            ]
         }
-    ],
-    "relevant_offering_slugs": [
-        "pengkaji-teknis-proteksi-kebakaran",
-        "ahli-k3-penanggulangan-kebakaran-kelas-a",
-        "regu-penanggulangan-kebakaran-kelas-c",
-        "petugas-peran-kebakaran-kelas-d",
-        "petugas-p3k-first-aid",
-        "petugas-p3k"
     ]
 }

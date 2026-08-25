@@ -1,56 +1,67 @@
 {
-    "id": "01kyhbn36sfvc1t4asx781dhz3",
-    "name": "Konstruksi",
+    "id": "ind_9c68d8fbd1e18cd5ba96c50d8dde4a26",
+    "name": "Konstruksi & Infrastruktur Sipil",
     "slug": "konstruksi",
     "path": "/industri/konstruksi",
-    "description": "Sektor konstruksi memiliki tingkat risiko kecelakaan kerja tertinggi di Indonesia — bekerja pada ketinggian, alat berat, dan struktur bangunan menuntut kepatuhan K3 yang ketat di setiap tahap proyek.",
-    "regulatory_context": [
-        {
-            "type": "paragraph",
-            "text": "Kewajiban K3 spesifik sektor konstruksi diatur melalui:"
-        },
-        {
-            "type": "citation",
-            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
-            "source": "UU No. 1 Tahun 1970"
-        },
-        {
-            "type": "citation",
-            "text": "Keselamatan dan Kesehatan Kerja pada Konstruksi Bangunan.",
-            "source": "Permenaker No. 01/MEN/1980"
-        },
-        {
-            "type": "citation",
-            "text": "Keselamatan dan Kesehatan Kerja pada Tempat Kegiatan Konstruksi.",
-            "source": "SKB Menaker–MenPU No. 174/1986–104/KPTS/1986"
-        },
-        {
-            "type": "citation",
-            "text": "Keselamatan dan Kesehatan Kerja dalam Pekerjaan pada Ketinggian.",
-            "source": "Permenaker No. 9 Tahun 2016"
-        },
-        {
-            "type": "paragraph",
-            "text": "Setiap proyek konstruksi umumnya mempersyaratkan personel K3 konstruksi tersertifikasi, ahli/petugas bekerja pada ketinggian, dan operator alat berat berlisensi."
-        }
-    ],
+    "meta_title": "Solusi K3 Konstruksi & Infrastruktur 2026 — Pelatihan Ahli K3 Konstruksi Resmi",
+    "meta_description": "Pusat sertifikasi K3 Konstruksi resmi Kemnaker RI & BNSP. Pelatihan Ahli K3 Konstruksi (Muda, Madya, Utama), Scaffolding, Bekerja di Ketinggian & SMKK PUPR.",
+    "description": "Sektor jasa konstruksi dan proyek infrastruktur sipil memiliki karakteristik risiko tinggi (high risk) dengan dinamika area kerja yang selalu berubah. PENA Consultant mendampingi kontraktor BUMN, swasta, dan konsultan pengawas dalam pemenuhan Sistem Manajemen Keselamatan Konstruksi (SMKK) dan penyiapan personil K3 bersertifikat resmi.",
     "relevant_offering_slugs": [
+        "ahli-k3-konstruksi",
         "ahli-muda-k3-konstruksi",
-        "auditor-sistem-manajemen-k3",
-        "ahli-k3-penanggulangan-kebakaran-kelas-a",
-        "regu-penanggulangan-kebakaran-kelas-c",
-        "petugas-peran-kebakaran-kelas-d",
-        "koordinator-unit-p-keb-kelas-b",
-        "unit-p-keb-kelas-c",
-        "damkar-paralel-kelas-dcba",
-        "operator-boiler-kelas-2",
-        "operator-forklift-kelas-2",
-        "operator-crane-kelas-3",
         "operator-scaffolding",
-        "operator-alat-berat",
+        "tenaga-kerja-pada-ketinggian",
         "tkbt-i-tenaga-kerja-bangunan-tinggi",
         "tkbt-ii-tenaga-kerja-bangunan-tinggi",
-        "ahli-k3-konstruksi",
-        "pipe-group-welder-welding-inspector-basic"
+        "auditor-sistem-manajemen-k3"
+    ],
+    "regulatory_context": [
+        {
+            "type": "heading",
+            "text": "Dasar Hukum & Kewajiban K3 Sektor Konstruksi"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang No. 2 Tahun 2017 tentang Jasa Konstruksi — Mengatur kewajiban standar keamanan, keselamatan, kesehatan, dan keberlanjutan (K4) pada setiap penyelenggaraan jasa konstruksi di Indonesia.",
+            "source": "UU No. 2 Tahun 2017"
+        },
+        {
+            "type": "citation",
+            "text": "Permen PUPR No. 10 Tahun 2021 tentang Pedoman Sistem Manajemen Keselamatan Konstruksi (SMKK) — Wajib diterapkan pada seluruh proyek pekerjaan konstruksi pemerintah maupun swasta.",
+            "source": "Permen PUPR No. 10/2021"
+        },
+        {
+            "type": "citation",
+            "text": "Permenaker No. 01/MEN/1980 tentang Keselamatan dan Kesehatan Kerja pada Konstruksi Bangunan — Landasan teknis pencegahan kecelakaan kerja galian, perancah, dan instalasi konstruksi.",
+            "source": "Permenaker No. 01/1980"
+        },
+        {
+            "type": "heading",
+            "text": "Identifikasi Bahaya Kritis (HIRADC) Proyek Konstruksi"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>Kegagalan Struktur Perancah (Scaffolding Collapse)</strong>: Risiko keruntuhan scaffolding akibat kelebihan beban atau kesalahan penguncian clamp coupler saat pengecoran lantai tinggi.",
+                "<strong>Jatuh dari Ketinggian (Fall from Height)</strong>: Bahaya fatal pada pekerjaan facade gedung, pemasangan girder jembatan, dan atap baja tanpa lifeline atau full body harness terpasang.",
+                "<strong>Bahaya Tertimpa Benda Jatuh (Dropped Objects)</strong>: Risiko material batu, baut, atau alat kerja jatuh dari area atas mengenai pekerja di ground level.",
+                "<strong>Longsoran Dinding Galian Tanah (Excavation Cave-in)</strong>: Runtuhnya tanah saat pembuatan pondasi basement dalam tanpa penahan turap (shoring/sheet pile).",
+                "<strong>Bahaya Alat Berat & Crane</strong>: Senggolan excavator, terbaliknya mobile crane akibat tanah amblas (outrigger failure), dan putusnya sling tali kawat angkat."
+            ]
+        },
+        {
+            "type": "heading",
+            "text": "Personil K3 Wajib Proyek Konstruksi"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Ahli Utama K3 Konstruksi (Proyek Risiko Tinggi / Nilai Kontrak > Rp 100 Miliar)",
+                "Ahli Madya K3 Konstruksi (Proyek Risiko Sedang / Nilai Kontrak Rp 25 M - Rp 100 Miliar)",
+                "Ahli Muda K3 Konstruksi & Petugas K3 Konstruksi (Proyek Risiko Rendah / Nilai Kontrak < Rp 25 Miliar)",
+                "Supervisor & Teknisi Perancah (Scaffolding Inspector & Scaffolder Berlisensi Kemnaker RI)",
+                "Petugas K3 Bekerja Pada Ketinggian (TKPK & TKBT Level 1-2)"
+            ]
+        }
     ]
 }

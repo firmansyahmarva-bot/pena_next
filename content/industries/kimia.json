@@ -1,22 +1,46 @@
 {
-    "id": "01kyw9njyefyfwxjn93najyprp",
-    "name": "Kimia",
+    "id": "ind_5c913be9b7d3732443786aeebbad0818",
+    "name": "Industri Kimia, Pupuk & Petrokimia",
     "slug": "kimia",
     "path": "/industri/kimia",
-    "description": "K3 untuk sektor Kimia.",
+    "meta_title": "Solusi K3 Industri Kimia & Petrokimia 2026 — Ahli K3 Kimia Kemnaker RI",
+    "meta_description": "Sertifikasi Ahli K3 Kimia & Petugas K3 Kimia resmi Kemnaker RI (Kepmenaker 187/1999). Keselamatan B3, Operator Bejana Tekan, Tangki Timbun & Damkar Kimia.",
+    "description": "Pabrik pengolahan bahan kimia dasar, pupuk, cat, farmasi bahan aktif, dan petrokimia mengelola ribuan ton zat berbahaya, reaktif, dan mudah terbakar. PENA Consultant mendampingi industri kimia dalam audit Instalasi Bahaya Besar (Major Hazard Installation) dan sertifikasi personil K3 Kimia berlisensi resmi.",
+    "relevant_offering_slugs": [
+        "ahli-k3-kimia",
+        "petugas-k3-kimia",
+        "teknisi-bejana-tekan",
+        "operator-boiler-kelas-2",
+        "hazops-hazard-operability-studies",
+        "regu-penanggulangan-kebakaran-kelas-c"
+    ],
     "regulatory_context": [
         {
-            "type": "paragraph",
-            "text": "Perusahaan yang menyimpan atau menggunakan bahan kimia berbahaya di atas nilai ambang kuantitas wajib menunjuk petugas/ahli K3 kimia sesuai Kepmenaker No. 187/MEN/1999."
+            "type": "heading",
+            "text": "Kewajiban Pengendalian Bahan Kimia Berbahaya"
         },
         {
             "type": "citation",
-            "text": "Pengendalian Bahan Kimia Berbahaya di Tempat Kerja.",
-            "source": "Kepmenaker No. 187/MEN/1999"
+            "text": "Kepmenaker No. 187/MEN/1999 tentang Pengendalian Bahan Kimia Berbahaya di Tempat Kerja — Kewajiban penunjukan Petugas K3 Kimia dan Ahli K3 Kimia untuk industri kategori Bahaya Besar dan Bahaya Menengah.",
+            "source": "Kepmenaker No. 187/1999"
+        },
+        {
+            "type": "citation",
+            "text": "Permenaker No. 37 Tahun 2016 tentang K3 Bejana Tekanan dan Tangki Timbun.",
+            "source": "Permenaker No. 37/2016"
+        },
+        {
+            "type": "heading",
+            "text": "Risiko Kritis Proses Kimia"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>Kebocoran Gas Toksik Massal (Toxic Gas Release)</strong>: Lepasnya gas klorin, amonia, atau fosgen yang dapat menjangkau pemukiman sekitar pabrik.",
+                "<strong>Reaksi Polimerisasi Tak Terkendali (Runaway Reaction)</strong>: Peningkatan suhu dan tekanan mendadak dalam reaktor yang memicu ledakan bejana.",
+                "<strong>Luka Bakar Asam/Basa Kuat (Chemical Burn)</strong>: Percikan asam klorida (HCl) atau natrium hidroksida (NaOH) akibat kebocoran flange pipa.",
+                "<strong>Kebakaran Pelarut Volatile (Vapor Cloud Explosion - VCE)</strong>: Akumulasi uap pelarut organik yang tersulut percikan listrik statis."
+            ]
         }
-    ],
-    "relevant_offering_slugs": [
-        "ahli-k3-kimia",
-        "petugas-k3-kimia"
     ]
 }

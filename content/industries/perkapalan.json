@@ -1,21 +1,45 @@
 {
-    "id": "01kyw9nk9q669y55drsp9nx937",
-    "name": "Perkapalan",
+    "id": "ind_d462e2ce3b5c534892707fef97b75acd",
+    "name": "Perkapalan, Galangan Kapal & Maritim",
     "slug": "perkapalan",
     "path": "/industri/perkapalan",
-    "description": "K3 untuk sektor Perkapalan.",
+    "meta_title": "Solusi K3 Galangan Kapal & Industri Maritim 2026 — Shipyard Safety",
+    "meta_description": "Pusat sertifikasi K3 Galangan Kapal & Maritim (Shipyard). Welding Inspector, Teknisi Ruang Terbatas Kapal, Scaffolding Gantung Dok & Crane Pelabuhan.",
+    "description": "Aktivitas pembuatan dan reparasi kapal di dok apung (floating dock) dan graving dock sarat dengan pekerjaan panas pengelasan plat baja, pemotongan oxy-acetylene di tangki bahan bakar, dan sandblasting lambung kapal. PENA Consultant membina tenaga kerja maritim di Batam, Surabaya, Jakarta, dan Lampung.",
+    "relevant_offering_slugs": [
+        "welding-inspector-standard",
+        "teknisi-ruang-terbatas",
+        "operator-crane-kelas-3",
+        "tenaga-kerja-pada-ketinggian",
+        "ahli-k3-umum"
+    ],
     "regulatory_context": [
         {
-            "type": "paragraph",
-            "text": "Operasi bongkar-muat dan pekerjaan di area pelabuhan/kapal melibatkan pesawat angkat-angkut dan sering kali ruang terbatas, sehingga tunduk pada kewajiban K3 umum di bawah UU No. 1 Tahun 1970."
+            "type": "heading",
+            "text": "Standar Keselamatan Kerja Galangan Kapal Maritim"
         },
         {
             "type": "citation",
-            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
-            "source": "UU No. 1 Tahun 1970"
+            "text": "Undang-Undang No. 17 Tahun 2008 tentang Pelayaran dan Konvensi IMO SOLAS 1974.",
+            "source": "UU No. 17/2008 & SOLAS"
+        },
+        {
+            "type": "citation",
+            "text": "Permenaker No. 08 Tahun 2020 tentang Pesawat Angkat dan Angkut di Area Pelabuhan.",
+            "source": "Permenaker No. 08/2020"
+        },
+        {
+            "type": "heading",
+            "text": "Bahaya Utama Aktivitas Galangan Kapal"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>Ledakan Uap Bahan Bakar saat Hot Work (Ship Tank Explosion)</strong>: Percikan las menyambar sisa uap hidrokarbon di dalam tangki bahan bakar kapal yang belum dibersihkan (gas-freeing certificate).",
+                "<strong>Asfiksia di Ruang Tertutup Kapal (Enclosed Space Suffocation)</strong>: Masuk ke tangki ballast, void space, atau chain locker berkarat yang menyerap habis kadar oksigen udara.",
+                "<strong>Jatuh dari Perancah Gantung Dok Kapal (Staging Failure)</strong>: Keruntuhan scaffolding gantung saat proses pengecatan lambung kapal di dok kolam.",
+                "<strong>Paparan Debu Silika Sandblasting</strong>: Penyakit paru-paru silikosis akut pada operator pembersih kerak plat baja kapal."
+            ]
         }
-    ],
-    "relevant_offering_slugs": [
-        "teknisi-confined-space"
     ]
 }

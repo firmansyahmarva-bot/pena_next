@@ -1,23 +1,45 @@
 {
-    "id": "01kyw9nm2x931abtrgb7n70nz6",
-    "name": "Pemerintahan dan BUMN",
+    "id": "ind_c9c60fba70eb1ae845c5e3b6ce1ab8d5",
+    "name": "Instansi Pemerintah, BUMN & Layanan Publik",
     "slug": "pemerintahan",
     "path": "/industri/pemerintahan",
-    "description": "K3 untuk sektor Pemerintahan dan BUMN.",
+    "meta_title": "Solusi K3 Instansi Pemerintah & BUMN 2026 — Penerapan SMK3 PP 50/2012",
+    "meta_description": "Pendampingan penerapan K3 & audit SMK3 instansi kementerian, dinas pemda & BUMN. Ahli K3 Umum ASN, Damkar Gedung Arsip, Tanggap Darurat & Ergonomi Kantor.",
+    "description": "Gedung kementerian, kantor dinas pemerintah daerah, balai pelayanan publik, dan badan usaha milik negara (BUMN) menampung ribuan aparatur sipil negara dan masyarakat. PENA Consultant mendampingi pembentukan P2K3 instansi dan audit SMK3 berbasis PP No. 50 Tahun 2012.",
+    "relevant_offering_slugs": [
+        "ahli-k3-umum",
+        "auditor-sistem-manajemen-k3-2",
+        "petugas-peran-kebakaran-kelas-d",
+        "petugas-p3k",
+        "internal-auditor-iso-45001-2018"
+    ],
     "regulatory_context": [
         {
-            "type": "paragraph",
-            "text": "Instansi pemerintah dan BUMN yang mengelola fasilitas dan tenaga kerja tunduk pada kewajiban penerapan SMK3 sesuai PP No. 50 Tahun 2012, termasuk audit kepatuhan berkala."
+            "type": "heading",
+            "text": "Dasar Kepatuhan K3 Lembaga Pemerintah"
         },
         {
             "type": "citation",
-            "text": "Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) — wajib bagi perusahaan dengan ≥100 pekerja atau tingkat bahaya tinggi.",
-            "source": "PP No. 50 Tahun 2012"
+            "text": "Peraturan Pemerintah No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja.",
+            "source": "PP No. 50/2012"
+        },
+        {
+            "type": "citation",
+            "text": "Permenpan-RB No. 49 Tahun 2020 tentang Standar Pengawasan Ketenagakerjaan Instansi.",
+            "source": "Permenpan-RB No. 49/2020"
+        },
+        {
+            "type": "heading",
+            "text": "Fokus Manajemen Risiko Gedung Pemerintah"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>Bahaya Kebakaran Gedung Arsip Negara & Dokumen Rahasia</strong>: Korsleting kabel instalasi lama yang membakar arsip kertas dan server data center instansi.",
+                "<strong>Kepadatan Pengunjung Ruang Pelayanan Publik</strong>: Bahaya desak-desakan dan kepanikan massal saat alarm darurat berbunyi di loket pelayanan perizinan.",
+                "<strong>Ergonomi Perkantoran & Paparan Layar Komputer (CVS)</strong>: Sindrom kelelahan mata dan carpal tunnel syndrome pada ribuan staf entri data.",
+                "<strong>Keselamatan Petugas Lapangan Dinas Teknis</strong>: Bahaya kecelakaan lalu lintas dan cuaca ekstrem pada petugas inspeksi lapangan PU, Dishub, dan LH."
+            ]
         }
-    ],
-    "relevant_offering_slugs": [
-        "welding-specialist-supervisor",
-        "internal-auditor-iso-45001-2018",
-        "lead-auditor-iso-45001-2018"
     ]
 }

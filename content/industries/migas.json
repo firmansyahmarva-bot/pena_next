@@ -1,49 +1,66 @@
 {
-    "id": "01kyhbn39a7x34t22sfcsv0t4n",
-    "name": "Minyak & Gas (Migas)",
+    "id": "ind_1e56b8fe25364fcc4b37d2e3c67b3117",
+    "name": "Minyak, Gas Bumi & Panas Bumi",
     "slug": "migas",
     "path": "/industri/migas",
-    "description": "Industri migas menghadapi bahaya khas: gas beracun/mudah terbakar, ruang terbatas, dan tekanan tinggi — sehingga menuntut kompetensi K3 yang paling ketat di antara semua sektor industri.",
+    "meta_title": "Solusi K3 Industri Migas & Panas Bumi 2026 — Sertifikasi Resmi Kemnaker & BNSP",
+    "meta_description": "Pusat sertifikasi K3 Migas resmi. Pengawas K3 Migas BNSP, Authorized Gas Tester (AGT), Keselamatan Gas Beracun H2S, Confined Space Offshore & Hazops.",
+    "description": "Industri hulu dan hilir Minyak dan Gas Bumi (Oil & Gas) beroperasi pada kondisi tekanan ekstrem, temperatur tinggi, fluida mudah terbakar, dan gas beracun mematikan. PENA Consultant menyelenggarakan pembinaan kompetensi K3 standar internasional untuk mendukung target Zero Accident pada operasi kilang, rig pengeboran, dan fasilitas offshore.",
+    "relevant_offering_slugs": [
+        "pengawas-k3-industri-migas",
+        "authorized-gas-tester",
+        "penanganan-bahaya-gas-h2s",
+        "teknisi-ruang-terbatas",
+        "teknisi-confined-space",
+        "hazops-hazard-operability-studies",
+        "ahli-k3-kimia"
+    ],
     "regulatory_context": [
         {
-            "type": "paragraph",
-            "text": "Selain UU No. 1 Tahun 1970, operasi migas tunduk pada regulasi K3 lingkungan kerja dan ruang terbatas yang ketat:"
+            "type": "heading",
+            "text": "Landasan Hukum & Regulasi Keselamatan Operasi Migas"
         },
         {
             "type": "citation",
-            "text": "Keselamatan dan Kesehatan Kerja Lingkungan Kerja.",
-            "source": "Permenaker No. 5 Tahun 2018"
+            "text": "Peraturan Pemerintah No. 11 Tahun 1979 tentang Keselamatan Kerja Pada Pemurnian dan Pengolahan Minyak dan Gas Bumi.",
+            "source": "PP No. 11 Tahun 1979"
         },
         {
             "type": "citation",
-            "text": "Pedoman Keselamatan dan Kesehatan Kerja di Ruang Terbatas (Confined Spaces).",
-            "source": "Kepdirjen PPK No. 113/DJPPK/IX/2006"
+            "text": "Permen ESDM No. 32 Tahun 2021 tentang Keselamatan Operasi Minyak dan Gas Bumi — Pengaturan manajemen integritas fasilitas, sistem izin kerja aman (PTW), dan kualifikasi personil migas.",
+            "source": "Permen ESDM No. 32/2021"
         },
         {
             "type": "citation",
-            "text": "Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) — wajib bagi perusahaan dengan ≥100 pekerja atau tingkat bahaya tinggi.",
-            "source": "PP No. 50 Tahun 2012"
+            "text": "Kepmenaker No. 187/MEN/1999 tentang Pengendalian Bahan Kimia Berbahaya di Tempat Kerja.",
+            "source": "Kepmenaker No. 187/1999"
         },
         {
-            "type": "paragraph",
-            "text": "Personel yang bekerja di area migas umumnya memerlukan sertifikasi ruang terbatas, deteksi gas, dan penanganan bahaya H2S sebelum diizinkan memasuki area operasi."
+            "type": "heading",
+            "text": "Potensi Bahaya Katastropik Sektor Migas"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>Semburan Liar Sumur (Well Blowout)</strong>: Kegagalan sistem pencegah semburan liar (BOP) yang memicu semburan hidrokarbon tak terkontrol dan ledakan rig.",
+                "<strong>Paparan Gas Beracun Hidrogen Sulfida (H2S Toxic Release)</strong>: Gas tidak berwarna berbau telur busuk yang dapat melumpuhkan saraf pernapasan dalam hitungan detik pada konsentrasi > 100 ppm.",
+                "<strong>Kebakaran Kolam & Jet Fire Hidrokarbon</strong>: Kebocoran pipa gas bertekanan tinggi atau tumpahan kondensat yang memicu kebakaran radiasi panas intensif.",
+                "<strong>Asfiksia di Ruang Tertutup (Confined Space Hazard)</strong>: Kekurangan oksigen (< 19.5%) atau akumulasi gas mudah menyala di dalam tangki penyimpanan minyak (storage tank) dan separator."
+            ]
+        },
+        {
+            "type": "heading",
+            "text": "Skema Sertifikasi Wajib Sektor Migas"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Pengawas K3 Migas Tingkat Operator & Pengawas (Sertifikasi BNSP)",
+                "Authorized Gas Tester (AGT) Penguji Atmosfer Gas Berbahaya",
+                "Petugas Penanganan Bahaya Gas Beracun H2S & Pengguna SCBA",
+                "Teknisi K3 Ruang Terbatas (Confined Space Entry & Rescue)",
+                "Spesialis Kajian Bahaya HAZOPS (Hazard and Operability Studies)"
+            ]
         }
-    ],
-    "relevant_offering_slugs": [
-        "petugas-k3",
-        "petugas-k3-kimia",
-        "pengawas-k3-industri-migas",
-        "petugas-k3-rumah-sakit",
-        "investigasi-kecelakaan",
-        "hazops-hazard-operability-studies",
-        "petugas-peran-kebakaran-kelas-d",
-        "petugas-p3k-first-aid",
-        "petugas-p3k",
-        "teknisi-ruang-terbatas",
-        "ahli-muda-ruang-terbatas",
-        "ahli-madya-ruang-terbatas",
-        "ahli-utama-ruang-terbatas",
-        "authorized-gas-tester",
-        "penanganan-bahaya-gas-h2s"
     ]
 }

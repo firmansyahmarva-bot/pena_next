@@ -1,38 +1,47 @@
 {
-    "id": "01kyhbn3d8h5dxsc0e1mk9mhh6",
-    "name": "Fasilitas Kesehatan",
+    "id": "ind_03c7173d2ed6323f73452218ae626b78",
+    "name": "Fasilitas Pelayanan Kesehatan & Rumah Sakit",
     "slug": "kesehatan",
     "path": "/industri/kesehatan",
-    "description": "Rumah sakit dan fasilitas pelayanan kesehatan menghadapi bahaya kerja yang unik — biologi, kimia, dan ergonomi — dengan kerangka K3 tersendiri di luar regulasi K3 umum.",
-    "regulatory_context": [
-        {
-            "type": "paragraph",
-            "text": "K3 di fasilitas pelayanan kesehatan diatur secara khusus melalui:"
-        },
-        {
-            "type": "citation",
-            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
-            "source": "UU No. 1 Tahun 1970"
-        },
-        {
-            "type": "citation",
-            "text": "Keselamatan dan Kesehatan Kerja Rumah Sakit (K3RS).",
-            "source": "PMK No. 66 Tahun 2016"
-        },
-        {
-            "type": "paragraph",
-            "text": "Rumah sakit dan fasyankes wajib memiliki petugas/pengawas K3 yang memahami pengelolaan B3, limbah medis, dan pencegahan infeksi okupasional."
-        }
-    ],
+    "meta_title": "Solusi K3 Rumah Sakit & Fasyankes 2026 — Sertifikasi K3RS Resmi",
+    "meta_description": "Pelatihan K3 Rumah Sakit resmi (Permenkes 66/2016). K3RS, Akreditasi KARS, Penanganan Limbah B3 Medis, Radiasi X-Ray, Petugas Damkar RS & Evakuasi Pasien.",
+    "description": "Rumah sakit, klinik utama, laboratorium medis, dan fasilitas isolasi memiliki tantangan K3 unik karena melayani pasien rentan 24 jam dengan paparan bahan infeksius, radiasi pengion, dan gas medis bertekanan. PENA Consultant membantu rumah sakit memenuhi standar akreditasi KARS dan K3RS Kemnaker/Kemenkes.",
     "relevant_offering_slugs": [
-        "ahli-k3-kimia",
+        "pengawas-k3-fasyankes",
         "pengawas-k3-rumah-sakit",
         "petugas-k3-rumah-sakit",
-        "pengawas-k3-fasyankes",
-        "petugas-p3k-first-aid",
+        "pengawas-k3-laboratorium",
         "petugas-p3k",
-        "paramedis-k3-muda",
-        "paramedis-k3-madya",
-        "paramedis-k3-utama"
+        "regu-penanggulangan-kebakaran-kelas-c"
+    ],
+    "regulatory_context": [
+        {
+            "type": "heading",
+            "text": "Regulasi K3 Rumah Sakit & Layanan Medis"
+        },
+        {
+            "type": "citation",
+            "text": "Permenkes No. 66 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja Rumah Sakit (K3RS) — Standar wajib manajemen risiko, keselamatan bangunan, dan kesehatan pegawai RS.",
+            "source": "Permenkes No. 66/2016"
+        },
+        {
+            "type": "citation",
+            "text": "PermenLHK No. P.56/Menlhk-Setjen/2015 tentang Tata Cara Pengelolaan Limbah B3 dari Fasilitas Pelayanan Kesehatan.",
+            "source": "PermenLHK No. P.56/2015"
+        },
+        {
+            "type": "heading",
+            "text": "Bahaya Spesifik Lingkungan Medis"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>Tertusuk Jarum Suntik Bekas (Needlestick Injury - NSI)</strong>: Risiko penularan virus patogen darah seperti Hepatitis B, Hepatitis C, dan HIV pada perawat dan petugas kebersihan.",
+                "<strong>Paparan Radiasi Pengion (Ionizing Radiation)</strong>: Bahaya paparan radiasi pada petugas radiologi unit X-Ray, Cath Lab, dan CT-Scan tanpa apron timbal standar.",
+                "<strong>Infeksi Nosokomial Silang (Airborne Pathogens)</strong>: Penularan bakteri TBC, virus influenza, atau patogen udara akibat kegagalan tata udara ruang isolasi bertekanan negatif.",
+                "<strong>Bahaya Kebakaran Ruang Rawat Inap</strong>: Evakuasi darurat pasien kritis ICU, bayi inkubator, dan pasien operasi saat sistem alarm kebakaran aktif.",
+                "<strong>Bahaya Ledakan Tabung Oksigen Medis</strong>: Kebakaran akibat akumulasi gas oksigen murni yang bereaksi dengan pelumas atau minyak (combustion enrichment)."
+            ]
+        }
     ]
 }

@@ -64,6 +64,8 @@ export interface Industry {
   slug: string;
   path: string;
   description: string | null;
+  meta_title?: string;
+  meta_description?: string;
   regulatory_context: StructuredBlock[];
   relevant_offering_slugs: string[];
 }
