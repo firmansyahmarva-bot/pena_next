@@ -230,3 +230,57 @@ export function WebSiteJsonLd() {
     />
   );
 }
+export function DefinedTermSetJsonLd() {
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'DefinedTermSet',
+    '@id': 'https://penaconsultant.com/#k3-glossary',
+    name: 'Glosarium Standar Istilah Keselamatan dan Kesehatan Kerja (K3) Indonesia',
+    description: 'Kamus terminologi resmi regulasi K3 Kemnaker RI, BNSP, dan SMK3 PP 50/2012.',
+    inDefinedTermSet: 'https://penaconsultant.com',
+    hasDefinedTerm: [
+      {
+        '@type': 'DefinedTerm',
+        name: 'Ahli K3 Umum',
+        termCode: 'AK3U',
+        description: 'Tenaga teknis berkeahlian khusus dari luar instansi pemerintah yang ditunjuk oleh Menteri Ketenagakerjaan untuk mengawasi ditaatinya UU No. 1 Tahun 1970 di tempat kerja.',
+        url: 'https://penaconsultant.com/pelatihan/ahli-k3-umum',
+      },
+      {
+        '@type': 'DefinedTerm',
+        name: 'Sistem Manajemen Keselamatan dan Kesehatan Kerja',
+        termCode: 'SMK3',
+        description: 'Bagian dari sistem manajemen perusahaan secara keseluruhan dalam rangka pengendalian risiko yang berkaitan dengan kegiatan kerja guna terciptanya tempat kerja yang aman, efisien, dan produktif berdasarkan PP No. 50 Tahun 2012.',
+        url: 'https://penaconsultant.com/panduan/smk3',
+      },
+      {
+        '@type': 'DefinedTerm',
+        name: 'Surat Izin Operator',
+        termCode: 'SIO',
+        description: 'Sertifikat lisensi kewenangan pengoperasian peralatan kerja berisiko tinggi seperti forklift, crane, boiler, dan bejana tekan yang diterbitkan oleh Ditjen Binwasnaker & K3 Kemnaker RI.',
+        url: 'https://penaconsultant.com/pelatihan',
+      },
+      {
+        '@type': 'DefinedTerm',
+        name: 'Panitia Pembina Keselamatan dan Kesehatan Kerja',
+        termCode: 'P2K3',
+        description: 'Badan pembantu di tempat kerja yang merupakan wadah kerja sama antara pengusaha dan pekerja untuk mengembangkan kerja sama saling pengertian dan partisipasi efektif dalam penerapan K3 berdasarkan Permenaker No. Per.04/MEN/1987.',
+        url: 'https://penaconsultant.com/panduan/regulasi-k3',
+      },
+      {
+        '@type': 'DefinedTerm',
+        name: 'Hazard Identification, Risk Assessment, and Determining Control',
+        termCode: 'HIRADC',
+        description: 'Metodologi sistematis untuk mengidentifikasi potensi bahaya di lingkungan kerja, menganalisis tingkat keparahan dan kemungkinan risiko, serta menetapkan hierarki pengendalian bahaya.',
+        url: 'https://penaconsultant.com/panduan',
+      },
+    ],
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
