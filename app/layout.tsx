@@ -13,9 +13,48 @@ const fontSans = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: 'PENA Consultant — Pusat Pelatihan & Sertifikasi K3 Resmi Kemnaker RI & BNSP',
-  description: 'Penyelenggara pembinaan, sertifikasi profesi K3, dan in-house training resmi Kemnaker RI & BNSP di Indonesia. Jadwal batch 2026, biaya terjangkau & materi lengkap.',
+  title: {
+    default: 'PENA Consultant — Pusat Pelatihan & Sertifikasi K3 Resmi Kemnaker RI & BNSP',
+    template: '%s | PENA Consultant',
+  },
+  description: 'Lembaga pembinaan, sertifikasi profesi K3 resmi Kemnaker RI & BNSP di Indonesia. Jadwal batch 2026, Tempat Uji Kompetensi resmi, materi lengkap & garansi kelulusan.',
   metadataBase: new URL('https://penaconsultant.com'),
+  alternates: {
+    canonical: 'https://penaconsultant.com',
+  },
+  openGraph: {
+    title: 'PENA Consultant — Pusat Pelatihan & Sertifikasi K3 Resmi Kemnaker RI & BNSP',
+    description: 'Pusat pembinaan sertifikasi K3 resmi Kemnaker RI & BNSP. Public online, TUK offline di 23 kota, dan in-house training korporat.',
+    url: 'https://penaconsultant.com',
+    siteName: 'PENA Consultant',
+    locale: 'id_ID',
+    type: 'website',
+    images: [
+      {
+        url: 'https://penaconsultant.com/images/og-share-card.png',
+        width: 1200,
+        height: 630,
+        alt: 'PENA Consultant - PJK3 Resmi Kemnaker RI & BNSP',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'PENA Consultant — Sertifikasi K3 Kemnaker RI & BNSP',
+    description: 'Pusat pelatihan & sertifikasi K3 resmi Kemnaker RI & BNSP. Jadwal batch 2026 & biaya terjangkau.',
+    images: ['https://penaconsultant.com/images/og-share-card.png'],
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
   icons: {
     icon: '/favicon.svg',
     shortcut: '/favicon.svg',
