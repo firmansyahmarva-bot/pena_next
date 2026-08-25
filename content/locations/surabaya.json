@@ -6,8 +6,8 @@
     "is_physical": true,
     "address": "Kompleks Ruko Rungkut Megah Raya Blok D-12, Jl. Raya Rungkut No. 5, Surabaya, Jawa Timur 60293",
     "phone": "+62 812-9687-0884",
-    "meta_title": "Pelatihan & Sertifikasi K3 di Surabaya 2026 — Jadwal & Biaya Resmi Kemnaker RI",
-    "meta_description": "Pusat pelatihan & sertifikasi K3 resmi Kemnaker RI & BNSP di Surabaya. Pembinaan Ahli K3 Umum, K3 Listrik, Konstruksi, Damkar, Forklift. Public batch & In-house training kawasan industri Surabaya.",
+    "meta_title": "Pelatihan & Sertifikasi K3 di Surabaya 2026 — Jadwal & Biaya Resmi",
+    "meta_description": "Pusat pelatihan K3 resmi Kemnaker RI Surabaya & Jawa Timur (SIER, JIIPE, Tanjung Perak). Ahli K3 Umum, Forklift, Boiler, Kimia & Petugas P3K.",
     "tagline": "Tempat Uji Kompetensi (TUK) K3 Resmi Kemnaker RI Wilayah Jawa Timur & Gerbangkertosusila",
     "service_areas": [
         "Kawasan Industri Rungkut (SIER)",
@@ -16,146 +16,49 @@
         "Tanjung Perak & Margomulyo Perdagangan Logistik",
         "Mojokerto (Ngoro Industrial Park / NIP)"
     ],
-    "key_industries": [
-        "Manufaktur Logam, Mesin & Otomotif",
-        "Industri Kimia, Semen & Pupuk Terpadu",
-        "Galangan Kapal, Maritim & Offshore Repair",
-        "Gudang Logistik & Depo Kontainer Tanjung Perak",
-        "Industri Makanan, Minuman & Pengolahan Hasil Bumi"
-    ],
-    "top_programs": [
-        "Ahli K3 Umum Kemnaker RI Blended Surabaya",
-        "Operator Pesawat Angkat & Angkut (Forklift, Crane)",
-        "Operator Boiler & Bejana Tekan Kelas 1 & 2",
-        "Ahli K3 Kimia & Petugas K3 Kimia",
-        "Petugas P3K di Tempat Kerja Resmi Kemnaker",
-        "Teknisi K3 Ruang Terbatas (Confined Space)"
-    ],
-    "target_queries": [
-        "pelatihan k3 surabaya",
-        "ahli k3 umum surabaya",
-        "biaya pelatihan k3 di surabaya",
-        "jadwal pembinaan k3 kemnaker surabaya 2026",
-        "tempat kursus k3 terdekat di surabaya",
-        "in-house training k3 kawasan industri surabaya",
-        "sertifikasi bnsp k3 surabaya",
-        "pjk3 resmi kemnaker ri surabaya"
-    ],
     "tuk_facilities": [
         "Ruang Kelas Teori Ber-AC Full Multimedia & Audio Visual Standar Kemnaker RI",
         "Laboratorium Praktik Pengukuran Faktor Fisika & Kimia (Sound Level Meter, Lux Meter, Gas Detector)",
-        "Area Praktik Lapangan Penanggulangan Kebakaran (Fire Ground & Simulasi APAR/Hydrant)",
-        "Simulator Peragaan K3 Ketinggian (Scaffolding & Harness Fall Arrestor Kit)",
+        "Area Praktik Lapangan Penanggulangan Kebakaran (Simulasi APAR & Fire Hydrant)",
+        "Simulator Peragaan K3 Ketinggian (Scaffolding & Full Body Harness Fall Arrestor)",
         "Manikin Resusitasi Jantung Paru (RJP/CPR) & Peralatan Lengkap Praktik First Aid P3K",
         "Akses Free Wi-Fi High-Speed, Coffee Break, Lunch & Training Kit Eksklusif"
     ],
     "intro": [
         {
             "type": "heading",
-            "text": "Pusat Pembinaan & Sertifikasi K3 Resmi Kemnaker RI di Wilayah Surabaya"
+            "text": "Pengawasan K3 Wilayah Industri & Logistik Surabaya-Jawa Timur"
         },
         {
             "type": "paragraph",
-            "text": "PENA Consultant hadir sebagai Lembaga Jasa Keselamatan dan Kesehatan Kerja (PJK3) terakreditasi resmi Kementerian Ketenagakerjaan Republik Indonesia (Kemnaker RI) dan Tempat Uji Kompetensi (TUK) Lembaga Sertifikasi Profesi (LSP) BNSP untuk melayani kebutuhan sertifikasi kompetensi tenaga kerja di wilayah Surabaya dan sekitarnya. Surabaya dan kawasan metropolitan Gerbangkertosusila (Gresik, Bangkalan, Mojokerto, Surabaya, Sidoarjo, Lamongan) adalah sentra manufaktur berat, galangan kapal Tanjung Perak, industri kimia, serta logistik ekspor-impor terbesar di Indonesia Timur."
+            "text": "Surabaya sebagai kota industri dan pelabuhan gerbang timur Indonesia memiliki ribuan perusahaan yang bergerak di bidang pengolahan makanan, pabrik kimia, galangan kapal perbaikan, manufaktur logam dasar, serta terminal peti kemas Tanjung Perak dan Teluk Lamong."
         },
         {
             "type": "callout",
-            "text": "Berdasarkan Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja dan Permenaker No. 02/MEN/1992, setiap tempat kerja di wilayah Surabaya dengan tenaga kerja lebih dari 100 orang atau memiliki potensi bahaya tinggi WAJIB memiliki minimal 1 (satu) orang Ahli K3 Umum yang ditunjuk resmi oleh Kemnaker RI."
+            "text": "Dinas Tenaga Kerja dan Transmigrasi Provinsi Jawa Timur secara aktif melakukan audit kepatuhan SMK3 PP No. 50 Tahun 2012 dan pengawasan sertifikasi personil K3 di seluruh kawasan industri SIER, PIER, dan JIIPE."
         },
         {
             "type": "heading",
-            "text": "Karakteristik Sektor Industri & Kebutuhan Kepatuhan K3 di Surabaya"
-        },
-        {
-            "type": "paragraph",
-            "text": "Aktivitas ekonomi di Surabaya memiliki dinamika risiko operasional yang khas. Berikut adalah klaster industri utama di wilayah Surabaya yang menjadi prioritas pendampingan kepatuhan SMK3 dan sertifikasi kompetensi oleh PENA Consultant:"
+            "text": "Program Sertifikasi K3 Pilihan di Surabaya"
         },
         {
             "type": "list",
             "items": [
-                "<strong>Manufaktur Logam, Mesin & Otomotif</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA).",
-                "<strong>Industri Kimia, Semen & Pupuk Terpadu</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA).",
-                "<strong>Galangan Kapal, Maritim & Offshore Repair</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA).",
-                "<strong>Gudang Logistik & Depo Kontainer Tanjung Perak</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA).",
-                "<strong>Industri Makanan, Minuman & Pengolahan Hasil Bumi</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA)."
-            ]
-        },
-        {
-            "type": "heading",
-            "text": "Skema Program Pelatihan Unggulan di Kantor Cabang Surabaya"
-        },
-        {
-            "type": "paragraph",
-            "text": "PENA Consultant menyelenggarakan berbagai pilihan skema pelatihan reguler (Public Training) setiap bulan maupun pelatihan khusus di lokasi perusahaan (In-House Training) di wilayah Surabaya:"
-        },
-        {
-            "type": "list",
-            "items": [
-                "<strong>Pembinaan Calon Ahli K3 Umum Kemnaker RI (12 Hari Kerja)</strong>: Skema pembinaan wajib untuk mencetak personil K3 profesional bersertifikat, berlisensi SKP resmi Kemnaker RI, dan berwenang menjadi sekretaris P2K3 perusahaan.",
-                "<strong>Sertifikasi K3 Ketenagalistrikan & Teknisi Listrik (Permenaker No. 12/2015)</strong>: Pembinaan khusus teknisi dan pengawas instalasi listrik pabrik, gardu trafo, genset diesel, dan sistem proteksi petir bangunan komersial.",
-                "<strong>Sertifikasi K3 Konstruksi Bangunan (Permenaker No. 01/1980)</strong>: Pembinaan Ahli Muda, Madya, dan Utama K3 Konstruksi untuk proyek infrastruktur, gedung bertingkat, dan pekerjaan sipil sipil di wilayah Surabaya.",
-                "<strong>Sertifikasi Unit Penanggulangan Kebakaran (Kepmenaker No. 186/1999)</strong>: Pelatihan berjenjang Petugas Peran Kebakaran (Kelas D), Regu Damkar (Kelas C), Koordinator Unit Damkar (Kelas B), dan Ahli K3 Damkar (Kelas A).",
-                "<strong>Lisensi Operator Pesawat Angkat & Angkut (Permenaker No. 08/2020)</strong>: Pelatihan dan uji lisensi SIO resmi untuk Operator Forklift, Mobile Crane, Overhead Crane, Excavator, dan Rigger Juru Ikat.",
-                "<strong>Petugas Pertolongan Pertama Pada Kecelakaan / P3K (Permenaker No. 15/2008)</strong>: Pembinaan personil First Aider perusahaan dengan sertifikat resmi dan lisensi petugas P3K berstempel Garuda Kemnaker RI."
-            ]
-        },
-        {
-            "type": "heading",
-            "text": "Keunggulan Tempat Uji Kompetensi (TUK) PENA Consultant di Surabaya"
-        },
-        {
-            "type": "paragraph",
-            "text": "Mengapa ratusan perusahaan BUMN dan korporasi swasta mempercayakan pelatihan K3 kepada PENA Consultant Cabang Surabaya?"
-        },
-        {
-            "type": "list",
-            "items": [
-                "<strong>100% Legalitas Terdaftar</strong>: Seluruh sertifikat, SKP, dan lisensi diterbitkan langsung oleh Direktorat Bina Pengawasan Ketenagakerjaan dan Pengujian K3 Kemnaker RI serta BNSP.",
-                "<strong>Instruktur Berpengalaman & Senior</strong>: Tim pengajar terdiri dari Pengawas Ketenagakerjaan Disnaker, akademisi K3, dan praktisi industri dengan pengalaman lapangan lebih dari 15 tahun.",
-                "<strong>Jadwal Running Pasti Setiap Bulan</strong>: Peserta tidak perlu khawatir jadwal dibatalkan karena kuota pelatihan public batch selalu terpenuhi.",
-                "<strong>Fasilitas Lengkap & Nyaman</strong>: Tersedia laboratorium peragaan K3 modern, modul cetak lengkap, himpunan perundangan K3 tebal, tas ransel training kit, dan makan siang prasmanan.",
-                "<strong>Pendampingan Pasca-Pelatihan & Perpanjangan Lisensi</strong>: Layanan konsultasi K3 gratis seumur hidup dan bantuan perpanjangan SKP/Lisensi K3 berkala bagi alumni."
-            ]
-        },
-        {
-            "type": "heading",
-            "text": "Jangkauan Layanan & Wilayah Cakupan In-House Training di Surabaya"
-        },
-        {
-            "type": "paragraph",
-            "text": "Bagi perusahaan yang memiliki 5 orang peserta atau lebih, PENA Consultant menyediakan layanan Corporate In-House Training langsung di lokasi pabrik, site proyek, atau kantor Anda dengan kurikulum yang dapat dikustomisasi sesuai SOP internal perusahaan. Layanan kami mencakup seluruh kawasan industri dan distrik di Surabaya:"
-        },
-        {
-            "type": "list",
-            "items": [
-                "Kawasan Industri Rungkut (SIER)",
-                "Kawasan Industri Gresik (KIG & JIIPE Manyar)",
-                "Sidoarjo (Berbek Industri, Jabon, Waru)",
-                "Tanjung Perak & Margomulyo Perdagangan Logistik",
-                "Mojokerto (Ngoro Industrial Park / NIP)"
+                "<strong>Ahli K3 Umum Kemnaker RI Kelas Surabaya</strong>: Pembinaan 12 hari kerja dengan studi kasus riil industri manufaktur Jatim.",
+                "<strong>Operator Boiler & Bejana Tekan</strong>: Lisensi SIO untuk pabrik pakan ternak, pengolahan makanan, dan pabrik gula.",
+                "<strong>Operator Forklift & Crane Pelabuhan</strong>: Sertifikasi resmi operator logistik Tanjung Perak & depo peti kemas.",
+                "<strong>Ahli K3 Kimia & Petugas K3 Kimia</strong>: Pengawasan industri pupuk, cat, dan pelarut kimia di kawasan Gresik & Rungkut."
             ]
         }
     ],
     "faqs": [
         {
-            "question": "Berapa biaya pelatihan Ahli K3 Umum di Surabaya tahun 2026?",
-            "answer": "Biaya pelatihan Ahli K3 Umum Kemnaker RI di Surabaya berkisar antara Rp 7.500.000 hingga Rp 8.500.000 per peserta untuk kelas Public Training Blended/Online. Biaya tersebut sudah mencakup seluruh rangkaian pembinaan 12 hari, ujian sertifikasi Kemnaker RI, modul lengkap, training kit, dan penerbitan sertifikat resmi serta SKP bagi utusan perusahaan."
+            "question": "Berapa biaya kursus Ahli K3 Umum di Surabaya?",
+            "answer": "Biaya pelatihan Ahli K3 Umum di Surabaya mulai dari Rp 7.500.000 (Online/Blended) sudah termasuk sertifikat resmi Kemnaker RI, SKP, modul, dan training kit."
         },
         {
-            "question": "Di mana alamat kantor dan Tempat Uji Kompetensi (TUK) PENA Consultant di Surabaya?",
-            "answer": "Kantor dan fasilitas pelatihan PENA Consultant di Surabaya berlokasi di Kompleks Ruko Rungkut Megah Raya Blok D-12, Jl. Raya Rungkut No. 5, Surabaya, Jawa Timur 60293. Kami juga melayani pendaftaran online dan konsultasi via WhatsApp di nomor +62 812-9687-0884."
-        },
-        {
-            "question": "Apakah peserta Fresh Graduate dari kampus di Surabaya boleh mendaftar?",
-            "answer": "Ya, lulusan baru (Fresh Graduate) berpendidikan minimal Diploma III (D3) atau Sarjana (S1) dari seluruh perguruan tinggi negeri maupun swasta diperbolehkan mendaftar untuk mendapatkan Sertifikat Pembinaan Calon Ahli K3 Umum sebagai sertifikasi profesi bernilai tinggi untuk melamar kerja."
-        },
-        {
-            "question": "Bagaimana cara mengajukan In-House Training K3 untuk pabrik di kawasan industri Surabaya?",
-            "answer": "Anda cukup menghubungi tim korporat PENA Consultant melalui WhatsApp di +62 812-9687-0884 atau mengisi formulir Request Proposal di situs kami. Tim konsultan kami akan mengirimkan proposal resmi, silabus pelatihan, dan rincian penawaran harga diskon korporat dalam 1x24 jam."
-        },
-        {
-            "question": "Berapa lama masa berlaku sertifikat dan lisensi Ahli K3 Kemnaker RI?",
-            "answer": "Sertifikat Pembinaan Ahli K3 Umum berlaku seumur hidup sebagai bukti kompetensi kelulusan pembinaan. Sedangkan Surat Keputusan Penunjukan (SKP) dan Kartu Lisensi Kewenangan Ahli K3 Kemnaker RI berlaku selama 3 (tiga) tahun dan dapat diperpanjang melalui PENA Consultant."
+            "question": "Di mana lokasi TUK PENA di Surabaya?",
+            "answer": "Kantor dan fasilitas TUK kami berlokasi di Rungkut Megah Raya Blok D-12, sangat dekat dengan Kawasan Industri SIER Rungkut Surabaya."
         }
     ]
 }

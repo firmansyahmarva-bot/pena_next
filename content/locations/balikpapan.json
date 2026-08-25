@@ -6,156 +6,59 @@
     "is_physical": true,
     "address": "PENA Consultant Training Hub Balikpapan, Jl. Jenderal Sudirman No. 45, Markoni, Balikpapan Kota, Kalimantan Timur 76112",
     "phone": "+62 812-9687-0884",
-    "meta_title": "Pelatihan & Sertifikasi K3 di Balikpapan 2026 — Jadwal & Biaya Resmi Kemnaker RI",
-    "meta_description": "Pusat pelatihan & sertifikasi K3 resmi Kemnaker RI & BNSP di Balikpapan. Pembinaan Ahli K3 Umum, K3 Listrik, Konstruksi, Damkar, Forklift. Public batch & In-house training kawasan industri Balikpapan.",
+    "meta_title": "Pelatihan & Sertifikasi K3 di Balikpapan 2026 — Migas & IKN Kaltim",
+    "meta_description": "Pusat pelatihan K3 resmi Kemnaker RI & BNSP di Balikpapan Kaltim. Pembinaan K3 Migas, Ahli K3 Umum, Confined Space, Gas Tester H2S & IKN Nusantara.",
     "tagline": "Pusat Pelatihan K3 Sektor Minyak, Gas Bumi, Pertambangan & Penyangga Utama IKN Nusantara",
     "service_areas": [
         "Kawasan Industri Kariangau (KIK)",
-        "Balikpapan Selatan (Sepinggan, Damai)",
+        "Balikpapan Selatan (Sepinggan, Damai, Batakan)",
         "Balikpapan Barat (Kampung Baru, Pelabuhan Semayang)",
         "Balikpapan Utara (Batu Ampar, Karang Joang)",
         "Kawasan Penyangga IKN (Sepaku & Penajam Paser Utara)"
     ],
-    "key_industries": [
-        "Eksplorasi & Pengolahan Minyak dan Gas Bumi (Oil & Gas)",
-        "Pertambangan Batubara & Heavy Equipment Maintenance",
-        "Konstruksi Sipil & Megaproyek IKN Nusantara",
-        "Galangan Kapal, Marine Supply & Offshore Fabrication",
-        "Logistik Alat Berat & Transportasi Laut Balikpapan"
-    ],
-    "top_programs": [
-        "Ahli K3 Umum Kemnaker RI Balikpapan",
-        "Pengawas K3 Migas & Authorized Gas Tester (AGT)",
-        "Penanganan Bahaya Gas Beracun H2S (Hydrogen Sulfide)",
-        "Teknisi Ruang Terbatas (Confined Space Entry)",
-        "Bekerja Pada Ketinggian (TKPK & TKBT Level 1-2)",
-        "Operator Rigger & Mobile Crane Kelas 1-3"
-    ],
-    "target_queries": [
-        "pelatihan k3 balikpapan",
-        "ahli k3 umum balikpapan",
-        "biaya pelatihan k3 di balikpapan",
-        "jadwal pembinaan k3 kemnaker balikpapan 2026",
-        "tempat kursus k3 terdekat di balikpapan",
-        "in-house training k3 kawasan industri balikpapan",
-        "sertifikasi bnsp k3 balikpapan",
-        "pjk3 resmi kemnaker ri balikpapan"
-    ],
     "tuk_facilities": [
         "Ruang Kelas Teori Ber-AC Full Multimedia & Audio Visual Standar Kemnaker RI",
         "Laboratorium Praktik Pengukuran Faktor Fisika & Kimia (Sound Level Meter, Lux Meter, Gas Detector)",
-        "Area Praktik Lapangan Penanggulangan Kebakaran (Fire Ground & Simulasi APAR/Hydrant)",
-        "Simulator Peragaan K3 Ketinggian (Scaffolding & Harness Fall Arrestor Kit)",
+        "Area Praktik Lapangan Penanggulangan Kebakaran (Simulasi APAR & Fire Hydrant)",
+        "Simulator Peragaan K3 Ketinggian (Scaffolding & Full Body Harness Fall Arrestor)",
         "Manikin Resusitasi Jantung Paru (RJP/CPR) & Peralatan Lengkap Praktik First Aid P3K",
         "Akses Free Wi-Fi High-Speed, Coffee Break, Lunch & Training Kit Eksklusif"
     ],
     "intro": [
         {
             "type": "heading",
-            "text": "Pusat Pembinaan & Sertifikasi K3 Resmi Kemnaker RI di Wilayah Balikpapan"
+            "text": "Kebutuhan Kompetensi K3 Migas & Megaproyek IKN di Balikpapan"
         },
         {
             "type": "paragraph",
-            "text": "PENA Consultant hadir sebagai Lembaga Jasa Keselamatan dan Kesehatan Kerja (PJK3) terakreditasi resmi Kementerian Ketenagakerjaan Republik Indonesia (Kemnaker RI) dan Tempat Uji Kompetensi (TUK) Lembaga Sertifikasi Profesi (LSP) BNSP untuk melayani kebutuhan sertifikasi kompetensi tenaga kerja di wilayah Balikpapan dan sekitarnya. Balikpapan merupakan pintu gerbang utama logistik dan energi Kalimantan Timur dengan Kilang Minyak Pertamina RU V, Kawasan Industri Kariangau (KIK), serta perannya sebagai kota penyangga logistik utama Ibu Kota Nusantara (IKN)."
+            "text": "Balikpapan memegang peranan vital sebagai pusat pengolahan kilang minyak Pertamina RU V, hub logistik pertambangan batubara, serta pintu gerbang utama pembangunan Ibu Kota Nusantara (IKN). Pekerjaan di sektor ini sarat dengan risiko confined space entry pada tangki minyak, paparan gas beracun H2S, pekerjaan pada ketinggian, dan pengangkatan alat berat di dermaga pelabuhan."
         },
         {
             "type": "callout",
-            "text": "Berdasarkan Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja dan Permenaker No. 02/MEN/1992, setiap tempat kerja di wilayah Balikpapan dengan tenaga kerja lebih dari 100 orang atau memiliki potensi bahaya tinggi WAJIB memiliki minimal 1 (satu) orang Ahli K3 Umum yang ditunjuk resmi oleh Kemnaker RI."
+            "text": "Setiap personil yang bekerja pada fasilitas industri migas, galangan kapal Kariangau, dan proyek konstruksi IKN wajib memiliki sertifikasi kompetensi K3 yang teregistrasi resmi di Kemnaker RI dan BNSP."
         },
         {
             "type": "heading",
-            "text": "Karakteristik Sektor Industri & Kebutuhan Kepatuhan K3 di Balikpapan"
-        },
-        {
-            "type": "paragraph",
-            "text": "Aktivitas ekonomi di Balikpapan memiliki dinamika risiko operasional yang khas. Berikut adalah klaster industri utama di wilayah Balikpapan yang menjadi prioritas pendampingan kepatuhan SMK3 dan sertifikasi kompetensi oleh PENA Consultant:"
+            "text": "Skema Sertifikasi Prioritas Cabang Balikpapan"
         },
         {
             "type": "list",
             "items": [
-                "<strong>Eksplorasi & Pengolahan Minyak dan Gas Bumi (Oil & Gas)</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA).",
-                "<strong>Pertambangan Batubara & Heavy Equipment Maintenance</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA).",
-                "<strong>Konstruksi Sipil & Megaproyek IKN Nusantara</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA).",
-                "<strong>Galangan Kapal, Marine Supply & Offshore Fabrication</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA).",
-                "<strong>Logistik Alat Berat & Transportasi Laut Balikpapan</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA)."
-            ]
-        },
-        {
-            "type": "heading",
-            "text": "Skema Program Pelatihan Unggulan di Kantor Cabang Balikpapan"
-        },
-        {
-            "type": "paragraph",
-            "text": "PENA Consultant menyelenggarakan berbagai pilihan skema pelatihan reguler (Public Training) setiap bulan maupun pelatihan khusus di lokasi perusahaan (In-House Training) di wilayah Balikpapan:"
-        },
-        {
-            "type": "list",
-            "items": [
-                "<strong>Pembinaan Calon Ahli K3 Umum Kemnaker RI (12 Hari Kerja)</strong>: Skema pembinaan wajib untuk mencetak personil K3 profesional bersertifikat, berlisensi SKP resmi Kemnaker RI, dan berwenang menjadi sekretaris P2K3 perusahaan.",
-                "<strong>Sertifikasi K3 Ketenagalistrikan & Teknisi Listrik (Permenaker No. 12/2015)</strong>: Pembinaan khusus teknisi dan pengawas instalasi listrik pabrik, gardu trafo, genset diesel, dan sistem proteksi petir bangunan komersial.",
-                "<strong>Sertifikasi K3 Konstruksi Bangunan (Permenaker No. 01/1980)</strong>: Pembinaan Ahli Muda, Madya, dan Utama K3 Konstruksi untuk proyek infrastruktur, gedung bertingkat, dan pekerjaan sipil sipil di wilayah Balikpapan.",
-                "<strong>Sertifikasi Unit Penanggulangan Kebakaran (Kepmenaker No. 186/1999)</strong>: Pelatihan berjenjang Petugas Peran Kebakaran (Kelas D), Regu Damkar (Kelas C), Koordinator Unit Damkar (Kelas B), dan Ahli K3 Damkar (Kelas A).",
-                "<strong>Lisensi Operator Pesawat Angkat & Angkut (Permenaker No. 08/2020)</strong>: Pelatihan dan uji lisensi SIO resmi untuk Operator Forklift, Mobile Crane, Overhead Crane, Excavator, dan Rigger Juru Ikat.",
-                "<strong>Petugas Pertolongan Pertama Pada Kecelakaan / P3K (Permenaker No. 15/2008)</strong>: Pembinaan personil First Aider perusahaan dengan sertifikat resmi dan lisensi petugas P3K berstempel Garuda Kemnaker RI."
-            ]
-        },
-        {
-            "type": "heading",
-            "text": "Keunggulan Tempat Uji Kompetensi (TUK) PENA Consultant di Balikpapan"
-        },
-        {
-            "type": "paragraph",
-            "text": "Mengapa ratusan perusahaan BUMN dan korporasi swasta mempercayakan pelatihan K3 kepada PENA Consultant Cabang Balikpapan?"
-        },
-        {
-            "type": "list",
-            "items": [
-                "<strong>100% Legalitas Terdaftar</strong>: Seluruh sertifikat, SKP, dan lisensi diterbitkan langsung oleh Direktorat Bina Pengawasan Ketenagakerjaan dan Pengujian K3 Kemnaker RI serta BNSP.",
-                "<strong>Instruktur Berpengalaman & Senior</strong>: Tim pengajar terdiri dari Pengawas Ketenagakerjaan Disnaker, akademisi K3, dan praktisi industri dengan pengalaman lapangan lebih dari 15 tahun.",
-                "<strong>Jadwal Running Pasti Setiap Bulan</strong>: Peserta tidak perlu khawatir jadwal dibatalkan karena kuota pelatihan public batch selalu terpenuhi.",
-                "<strong>Fasilitas Lengkap & Nyaman</strong>: Tersedia laboratorium peragaan K3 modern, modul cetak lengkap, himpunan perundangan K3 tebal, tas ransel training kit, dan makan siang prasmanan.",
-                "<strong>Pendampingan Pasca-Pelatihan & Perpanjangan Lisensi</strong>: Layanan konsultasi K3 gratis seumur hidup dan bantuan perpanjangan SKP/Lisensi K3 berkala bagi alumni."
-            ]
-        },
-        {
-            "type": "heading",
-            "text": "Jangkauan Layanan & Wilayah Cakupan In-House Training di Balikpapan"
-        },
-        {
-            "type": "paragraph",
-            "text": "Bagi perusahaan yang memiliki 5 orang peserta atau lebih, PENA Consultant menyediakan layanan Corporate In-House Training langsung di lokasi pabrik, site proyek, atau kantor Anda dengan kurikulum yang dapat dikustomisasi sesuai SOP internal perusahaan. Layanan kami mencakup seluruh kawasan industri dan distrik di Balikpapan:"
-        },
-        {
-            "type": "list",
-            "items": [
-                "Kawasan Industri Kariangau (KIK)",
-                "Balikpapan Selatan (Sepinggan, Damai)",
-                "Balikpapan Barat (Kampung Baru, Pelabuhan Semayang)",
-                "Balikpapan Utara (Batu Ampar, Karang Joang)",
-                "Kawasan Penyangga IKN (Sepaku & Penajam Paser Utara)"
+                "<strong>Ahli K3 Umum Kemnaker RI Balikpapan</strong>: Program pembinaan 12 hari kerja dengan kurikulum regulasi K3 terpadu.",
+                "<strong>Authorized Gas Tester (AGT) & Penanganan Gas H2S</strong>: Sertifikasi uji atmosfer berbahaya dan keselamatan gas beracun di kilang minyak dan tangki storage.",
+                "<strong>Teknisi Ruang Terbatas (Confined Space Entry & Rescue)</strong>: Pembinaan keselamatan masuk ruang tertutup, pemakaian SCBA, dan prosedur evakuasi darurat.",
+                "<strong>Bekerja Pada Ketinggian (TKPK & TKBT Level 1-2)</strong>: Sertifikasi rope access dan keselamatan kerja struktur tinggi."
             ]
         }
     ],
     "faqs": [
         {
-            "question": "Berapa biaya pelatihan Ahli K3 Umum di Balikpapan tahun 2026?",
-            "answer": "Biaya pelatihan Ahli K3 Umum Kemnaker RI di Balikpapan berkisar antara Rp 7.500.000 hingga Rp 8.500.000 per peserta untuk kelas Public Training Blended/Online. Biaya tersebut sudah mencakup seluruh rangkaian pembinaan 12 hari, ujian sertifikasi Kemnaker RI, modul lengkap, training kit, dan penerbitan sertifikat resmi serta SKP bagi utusan perusahaan."
+            "question": "Apakah sertifikat PENA Consultant diakui untuk proyek konstruksi di IKN Nusantara?",
+            "answer": "Ya, 100% diakui. Seluruh sertifikat diterbitkan resmi oleh Kemnaker RI dan LSP BNSP yang merupakan standar legalitas tertinggi dalam proyek infrastruktur IKN."
         },
         {
-            "question": "Di mana alamat kantor dan Tempat Uji Kompetensi (TUK) PENA Consultant di Balikpapan?",
-            "answer": "Kantor dan fasilitas pelatihan PENA Consultant di Balikpapan berlokasi di PENA Consultant Training Hub Balikpapan, Jl. Jenderal Sudirman No. 45, Markoni, Balikpapan Kota, Kalimantan Timur 76112. Kami juga melayani pendaftaran online dan konsultasi via WhatsApp di nomor +62 812-9687-0884."
-        },
-        {
-            "question": "Apakah peserta Fresh Graduate dari kampus di Balikpapan boleh mendaftar?",
-            "answer": "Ya, lulusan baru (Fresh Graduate) berpendidikan minimal Diploma III (D3) atau Sarjana (S1) dari seluruh perguruan tinggi negeri maupun swasta diperbolehkan mendaftar untuk mendapatkan Sertifikat Pembinaan Calon Ahli K3 Umum sebagai sertifikasi profesi bernilai tinggi untuk melamar kerja."
-        },
-        {
-            "question": "Bagaimana cara mengajukan In-House Training K3 untuk pabrik di kawasan industri Balikpapan?",
-            "answer": "Anda cukup menghubungi tim korporat PENA Consultant melalui WhatsApp di +62 812-9687-0884 atau mengisi formulir Request Proposal di situs kami. Tim konsultan kami akan mengirimkan proposal resmi, silabus pelatihan, dan rincian penawaran harga diskon korporat dalam 1x24 jam."
-        },
-        {
-            "question": "Berapa lama masa berlaku sertifikat dan lisensi Ahli K3 Kemnaker RI?",
-            "answer": "Sertifikat Pembinaan Ahli K3 Umum berlaku seumur hidup sebagai bukti kompetensi kelulusan pembinaan. Sedangkan Surat Keputusan Penunjukan (SKP) dan Kartu Lisensi Kewenangan Ahli K3 Kemnaker RI berlaku selama 3 (tiga) tahun dan dapat diperpanjang melalui PENA Consultant."
+            "question": "Di mana lokasi TUK PENA di Balikpapan?",
+            "answer": "Kantor dan TUK kami berlokasi di Jl. Jenderal Sudirman No. 45, Markoni, Balikpapan Kota, sangat mudah dijangkau dari Bandara Sepinggan maupun Pelabuhan Semayang."
         }
     ]
 }

@@ -1,163 +1,77 @@
 {
     "id": "loc_50f2194377ef22be5018b6ee76898d4d",
-    "name": "Bekasi",
+    "name": "Bekasi & Cikarang",
     "slug": "bekasi",
     "path": "/cabang/bekasi",
     "is_physical": true,
     "address": "Kawasan Industri Jababeka II, Jl. Industri Raya No. 10, Cikarang Selatan, Bekasi, Jawa Barat 17530",
     "phone": "+62 812-9687-0884",
-    "meta_title": "Pelatihan & Sertifikasi K3 di Bekasi 2026 — Jadwal & Biaya Resmi Kemnaker RI",
-    "meta_description": "Pusat pelatihan & sertifikasi K3 resmi Kemnaker RI & BNSP di Bekasi. Pembinaan Ahli K3 Umum, K3 Listrik, Konstruksi, Damkar, Forklift. Public batch & In-house training kawasan industri Bekasi.",
-    "tagline": "Pusat Pelatihan K3 Korporat Kawasan Industri Terbesar di Asia Tenggara (Cikarang - Bekasi)",
+    "meta_title": "Pelatihan & Sertifikasi K3 di Bekasi & Cikarang 2026 — PENA Consultant",
+    "meta_description": "Pusat pelatihan K3 resmi Kemnaker RI kawasan industri Cikarang & Bekasi (Jababeka, MM2100, EJIP, GIIC). Ahli K3 Umum, Forklift, Listrik & Damkar Pabrik.",
+    "tagline": "Pusat Pembinaan K3 Korporat Kawasan Industri Manufaktur & Otomotif Terbesar Asia Tenggara",
     "service_areas": [
         "Kawasan Industri Jababeka I - VII Cikarang",
         "Kawasan Industri MM2100 Cikarang Barat",
-        "East Jakarta Industrial Park (EJIP)",
+        "East Jakarta Industrial Park (EJIP Cikarang Selatan)",
         "Greenland International Industrial Center (GIIC Delta Mas)",
         "Delta Silicon Industrial Park Lippo Cikarang",
-        "Kawasan Industri BIIE Hyundai Cikarang"
-    ],
-    "key_industries": [
-        "Perakitan Kendaraan Bermotor & Komponen Otomotif",
-        "Industri Elektronik, Audio-Video & Peralatan Rumah Tangga",
-        "Manufaktur Consumer Goods (FMCG) & Farmasi Steril",
-        "Fabrikasi Logam, Cetakan Presisi & Injection Molding",
-        "Mega Distribution Center & Logistik Rantai Pasok"
-    ],
-    "top_programs": [
-        "Ahli K3 Umum Kemnaker RI In-House Cikarang",
-        "K3 Teknisi Listrik Pabrik & Pembangkit Trafo",
-        "Operator Forklift Kelas 1 & 2 (SIA Kemnaker)",
-        "Petugas Peran Kebakaran & Regu Damkar Gedung Pabrik",
-        "Petugas P3K (First Aid) Bersertifikat Kemnaker",
-        "Ergonomi Industri & Higiene Lingkungan Kerja"
-    ],
-    "target_queries": [
-        "pelatihan k3 bekasi",
-        "ahli k3 umum bekasi",
-        "biaya pelatihan k3 di bekasi",
-        "jadwal pembinaan k3 kemnaker bekasi 2026",
-        "tempat kursus k3 terdekat di bekasi",
-        "in-house training k3 kawasan industri bekasi",
-        "sertifikasi bnsp k3 bekasi",
-        "pjk3 resmi kemnaker ri bekasi"
+        "Kawasan Industri BIIE Hyundai Cikarang & Narogong"
     ],
     "tuk_facilities": [
         "Ruang Kelas Teori Ber-AC Full Multimedia & Audio Visual Standar Kemnaker RI",
         "Laboratorium Praktik Pengukuran Faktor Fisika & Kimia (Sound Level Meter, Lux Meter, Gas Detector)",
-        "Area Praktik Lapangan Penanggulangan Kebakaran (Fire Ground & Simulasi APAR/Hydrant)",
-        "Simulator Peragaan K3 Ketinggian (Scaffolding & Harness Fall Arrestor Kit)",
+        "Area Praktik Lapangan Penanggulangan Kebakaran (Simulasi APAR & Fire Hydrant)",
+        "Simulator Peragaan K3 Ketinggian (Scaffolding & Full Body Harness Fall Arrestor)",
         "Manikin Resusitasi Jantung Paru (RJP/CPR) & Peralatan Lengkap Praktik First Aid P3K",
         "Akses Free Wi-Fi High-Speed, Coffee Break, Lunch & Training Kit Eksklusif"
     ],
     "intro": [
         {
             "type": "heading",
-            "text": "Pusat Pembinaan & Sertifikasi K3 Resmi Kemnaker RI di Wilayah Bekasi"
+            "text": "Dinamika Risiko K3 di Koridor Industri Otomotif & Manufaktur Cikarang-Bekasi"
         },
         {
             "type": "paragraph",
-            "text": "PENA Consultant hadir sebagai Lembaga Jasa Keselamatan dan Kesehatan Kerja (PJK3) terakreditasi resmi Kementerian Ketenagakerjaan Republik Indonesia (Kemnaker RI) dan Tempat Uji Kompetensi (TUK) Lembaga Sertifikasi Profesi (LSP) BNSP untuk melayani kebutuhan sertifikasi kompetensi tenaga kerja di wilayah Bekasi dan sekitarnya. Kabupaten dan Kota Bekasi menampung ribuan pabrik multinasional Jepang, Korea, dan Eropa di bidang perakitan otomotif, elektronik, komponen logam presisi, serta logistik FMCG terbesar di Indonesia."
+            "text": "Kabupaten dan Kota Bekasi menaungi klaster industri manufaktur terpadu terbesar di Asia Tenggara. Ribuan pabrik prinsipal otomotif, komponen presisi logam, elektronika, bahan kimia, dan pergudangan raksasa beroperasi 24 jam sehari dengan ribuan mesin berkecepatan tinggi, robotik perakitan, dan lalu lintas alat angkut material."
         },
         {
             "type": "callout",
-            "text": "Berdasarkan Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja dan Permenaker No. 02/MEN/1992, setiap tempat kerja di wilayah Bekasi dengan tenaga kerja lebih dari 100 orang atau memiliki potensi bahaya tinggi WAJIB memiliki minimal 1 (satu) orang Ahli K3 Umum yang ditunjuk resmi oleh Kemnaker RI."
+            "text": "Berdasarkan Permenaker No. 38 Tahun 2016 dan Permenaker No. 08 Tahun 2020, pengoperasian mesin press, boiler, conveyor, forklift, dan crane di pabrik manufaktur Cikarang wajib diawasi oleh personil K3 bersertifikat dan berlisensi Surat Izin Alat (SIA/SIO) Kemnaker RI."
         },
         {
             "type": "heading",
-            "text": "Karakteristik Sektor Industri & Kebutuhan Kepatuhan K3 di Bekasi"
-        },
-        {
-            "type": "paragraph",
-            "text": "Aktivitas ekonomi di Bekasi memiliki dinamika risiko operasional yang khas. Berikut adalah klaster industri utama di wilayah Bekasi yang menjadi prioritas pendampingan kepatuhan SMK3 dan sertifikasi kompetensi oleh PENA Consultant:"
+            "text": "Kebutuhan Kepatuhan K3 Sektor Manufaktur Bekasi"
         },
         {
             "type": "list",
             "items": [
-                "<strong>Perakitan Kendaraan Bermotor & Komponen Otomotif</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA).",
-                "<strong>Industri Elektronik, Audio-Video & Peralatan Rumah Tangga</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA).",
-                "<strong>Manufaktur Consumer Goods (FMCG) & Farmasi Steril</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA).",
-                "<strong>Fabrikasi Logam, Cetakan Presisi & Injection Molding</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA).",
-                "<strong>Mega Distribution Center & Logistik Rantai Pasok</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA)."
+                "<strong>Manufaktur Perakitan Otomotif & Mesin Cetak Presisi</strong>: Pengendalian risiko mekanik pada mesin press stamping, robot welding, permesinan CNC, dan penerapan Lockout/Tagout (LOTO).",
+                "<strong>Logistik Material Handling & Pergudangan Modern</strong>: Sertifikasi resmi Operator Forklift Counterbalance & Reach Truck, kepatuhan batas beban angkat, dan keselamatan racking system.",
+                "<strong>K3 Kelistrikan Industri Tegangan Menengah/Tinggi</strong>: Keselamatan gardu trafo pabrik, panel distribusi MDP/SDP, dan sistem grounding instalasi otomatisasi industri.",
+                "<strong>Penerapan Sistem Manajemen K3 (SMK3 PP 50/2012) & ISO 45001</strong>: Persyaratan audit wajib bagi rantai pasok (supply chain tier 1 & tier 2) industri otomotif dan ekspor."
             ]
         },
         {
             "type": "heading",
-            "text": "Skema Program Pelatihan Unggulan di Kantor Cabang Bekasi"
+            "text": "Solusi Pelatihan In-House K3 Khusus Kawasan Industri Cikarang"
         },
         {
             "type": "paragraph",
-            "text": "PENA Consultant menyelenggarakan berbagai pilihan skema pelatihan reguler (Public Training) setiap bulan maupun pelatihan khusus di lokasi perusahaan (In-House Training) di wilayah Bekasi:"
-        },
-        {
-            "type": "list",
-            "items": [
-                "<strong>Pembinaan Calon Ahli K3 Umum Kemnaker RI (12 Hari Kerja)</strong>: Skema pembinaan wajib untuk mencetak personil K3 profesional bersertifikat, berlisensi SKP resmi Kemnaker RI, dan berwenang menjadi sekretaris P2K3 perusahaan.",
-                "<strong>Sertifikasi K3 Ketenagalistrikan & Teknisi Listrik (Permenaker No. 12/2015)</strong>: Pembinaan khusus teknisi dan pengawas instalasi listrik pabrik, gardu trafo, genset diesel, dan sistem proteksi petir bangunan komersial.",
-                "<strong>Sertifikasi K3 Konstruksi Bangunan (Permenaker No. 01/1980)</strong>: Pembinaan Ahli Muda, Madya, dan Utama K3 Konstruksi untuk proyek infrastruktur, gedung bertingkat, dan pekerjaan sipil sipil di wilayah Bekasi.",
-                "<strong>Sertifikasi Unit Penanggulangan Kebakaran (Kepmenaker No. 186/1999)</strong>: Pelatihan berjenjang Petugas Peran Kebakaran (Kelas D), Regu Damkar (Kelas C), Koordinator Unit Damkar (Kelas B), dan Ahli K3 Damkar (Kelas A).",
-                "<strong>Lisensi Operator Pesawat Angkat & Angkut (Permenaker No. 08/2020)</strong>: Pelatihan dan uji lisensi SIO resmi untuk Operator Forklift, Mobile Crane, Overhead Crane, Excavator, dan Rigger Juru Ikat.",
-                "<strong>Petugas Pertolongan Pertama Pada Kecelakaan / P3K (Permenaker No. 15/2008)</strong>: Pembinaan personil First Aider perusahaan dengan sertifikat resmi dan lisensi petugas P3K berstempel Garuda Kemnaker RI."
-            ]
-        },
-        {
-            "type": "heading",
-            "text": "Keunggulan Tempat Uji Kompetensi (TUK) PENA Consultant di Bekasi"
-        },
-        {
-            "type": "paragraph",
-            "text": "Mengapa ratusan perusahaan BUMN dan korporasi swasta mempercayakan pelatihan K3 kepada PENA Consultant Cabang Bekasi?"
-        },
-        {
-            "type": "list",
-            "items": [
-                "<strong>100% Legalitas Terdaftar</strong>: Seluruh sertifikat, SKP, dan lisensi diterbitkan langsung oleh Direktorat Bina Pengawasan Ketenagakerjaan dan Pengujian K3 Kemnaker RI serta BNSP.",
-                "<strong>Instruktur Berpengalaman & Senior</strong>: Tim pengajar terdiri dari Pengawas Ketenagakerjaan Disnaker, akademisi K3, dan praktisi industri dengan pengalaman lapangan lebih dari 15 tahun.",
-                "<strong>Jadwal Running Pasti Setiap Bulan</strong>: Peserta tidak perlu khawatir jadwal dibatalkan karena kuota pelatihan public batch selalu terpenuhi.",
-                "<strong>Fasilitas Lengkap & Nyaman</strong>: Tersedia laboratorium peragaan K3 modern, modul cetak lengkap, himpunan perundangan K3 tebal, tas ransel training kit, dan makan siang prasmanan.",
-                "<strong>Pendampingan Pasca-Pelatihan & Perpanjangan Lisensi</strong>: Layanan konsultasi K3 gratis seumur hidup dan bantuan perpanjangan SKP/Lisensi K3 berkala bagi alumni."
-            ]
-        },
-        {
-            "type": "heading",
-            "text": "Jangkauan Layanan & Wilayah Cakupan In-House Training di Bekasi"
-        },
-        {
-            "type": "paragraph",
-            "text": "Bagi perusahaan yang memiliki 5 orang peserta atau lebih, PENA Consultant menyediakan layanan Corporate In-House Training langsung di lokasi pabrik, site proyek, atau kantor Anda dengan kurikulum yang dapat dikustomisasi sesuai SOP internal perusahaan. Layanan kami mencakup seluruh kawasan industri dan distrik di Bekasi:"
-        },
-        {
-            "type": "list",
-            "items": [
-                "Kawasan Industri Jababeka I - VII Cikarang",
-                "Kawasan Industri MM2100 Cikarang Barat",
-                "East Jakarta Industrial Park (EJIP)",
-                "Greenland International Industrial Center (GIIC Delta Mas)",
-                "Delta Silicon Industrial Park Lippo Cikarang",
-                "Kawasan Industri BIIE Hyundai Cikarang"
-            ]
+            "text": "PENA Consultant Cabang Cikarang menyediakan program training intensif yang disesuaikan dengan shift kerja pabrik (Shift 1, 2, 3), studi kasus kecelakaan kerja riil di line produksi, dan praktik langsung pada fasilitas mesin internal perusahaan Anda."
         }
     ],
     "faqs": [
         {
-            "question": "Berapa biaya pelatihan Ahli K3 Umum di Bekasi tahun 2026?",
-            "answer": "Biaya pelatihan Ahli K3 Umum Kemnaker RI di Bekasi berkisar antara Rp 7.500.000 hingga Rp 8.500.000 per peserta untuk kelas Public Training Blended/Online. Biaya tersebut sudah mencakup seluruh rangkaian pembinaan 12 hari, ujian sertifikasi Kemnaker RI, modul lengkap, training kit, dan penerbitan sertifikat resmi serta SKP bagi utusan perusahaan."
+            "question": "Berapa tarif in-house training K3 untuk pabrik di kawasan Jababeka / MM2100?",
+            "answer": "Paket in-house training K3 dihitung berdasarkan jumlah peserta (paket 10-25 orang). Biaya per peserta menjadi jauh lebih hemat dibandingkan public class dan jadwal dapat disesuaikan dengan shift operasional pabrik."
         },
         {
-            "question": "Di mana alamat kantor dan Tempat Uji Kompetensi (TUK) PENA Consultant di Bekasi?",
-            "answer": "Kantor dan fasilitas pelatihan PENA Consultant di Bekasi berlokasi di Kawasan Industri Jababeka II, Jl. Industri Raya No. 10, Cikarang Selatan, Bekasi, Jawa Barat 17530. Kami juga melayani pendaftaran online dan konsultasi via WhatsApp di nomor +62 812-9687-0884."
+            "question": "Apakah PENA Consultant menerbitkan Surat Izin Operator (SIO) Forklift resmi Kemnaker?",
+            "answer": "Ya, kami menyelenggarakan pembinaan dan sertifikasi lisensi K3 Operator Forklift Kelas 1 & Kelas 2 berlisensi resmi Kemnaker RI yang dilengkapi buku kerja dan lisensi Surat Izin Alat (SIA/SIO)."
         },
         {
-            "question": "Apakah peserta Fresh Graduate dari kampus di Bekasi boleh mendaftar?",
-            "answer": "Ya, lulusan baru (Fresh Graduate) berpendidikan minimal Diploma III (D3) atau Sarjana (S1) dari seluruh perguruan tinggi negeri maupun swasta diperbolehkan mendaftar untuk mendapatkan Sertifikat Pembinaan Calon Ahli K3 Umum sebagai sertifikasi profesi bernilai tinggi untuk melamar kerja."
-        },
-        {
-            "question": "Bagaimana cara mengajukan In-House Training K3 untuk pabrik di kawasan industri Bekasi?",
-            "answer": "Anda cukup menghubungi tim korporat PENA Consultant melalui WhatsApp di +62 812-9687-0884 atau mengisi formulir Request Proposal di situs kami. Tim konsultan kami akan mengirimkan proposal resmi, silabus pelatihan, dan rincian penawaran harga diskon korporat dalam 1x24 jam."
-        },
-        {
-            "question": "Berapa lama masa berlaku sertifikat dan lisensi Ahli K3 Kemnaker RI?",
-            "answer": "Sertifikat Pembinaan Ahli K3 Umum berlaku seumur hidup sebagai bukti kompetensi kelulusan pembinaan. Sedangkan Surat Keputusan Penunjukan (SKP) dan Kartu Lisensi Kewenangan Ahli K3 Kemnaker RI berlaku selama 3 (tiga) tahun dan dapat diperpanjang melalui PENA Consultant."
+            "question": "Di mana lokasi TUK PENA di Cikarang?",
+            "answer": "Training center kami berada di Kawasan Industri Jababeka II, Cikarang Selatan, berdekatan dengan akses gerbang tol Cikarang Barat dan Cibatu."
         }
     ]
 }
