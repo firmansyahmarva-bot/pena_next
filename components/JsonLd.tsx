@@ -1,5 +1,44 @@
 import React from 'react';
-import { Program } from '@/lib/types';
+import { Program, Article } from '@/lib/types';
+
+export function ArticleJsonLd({ article }: { article: Article }) {
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: article.title,
+    description: article.meta_description || article.summary || '',
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': `https://penaconsultant.co.id/panduan/${article.slug}`,
+    },
+    datePublished: article.published_at || '2026-01-01T08:00:00+07:00',
+    dateModified: '2026-08-25T12:00:00+07:00',
+    author: {
+      '@type': 'Person',
+      name: 'Ir. H. Hendra Wijaya, S.T., M.KKK., IPM.',
+      jobTitle: 'Lead Auditor SMK3 & Praktisi Senior K3',
+      worksFor: {
+        '@type': 'Organization',
+        name: 'PENA Consultant',
+      },
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'PENA Consultant',
+      logo: {
+        '@type': 'ImageObject',
+        url: 'https://penaconsultant.co.id/logo.svg',
+      },
+    },
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
 
 export function CourseJsonLd({ program }: { program: Program }) {
   const schema = {
