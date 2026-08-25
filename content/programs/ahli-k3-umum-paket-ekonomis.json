@@ -118,6 +118,11 @@
             ]
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-012.webp",
+        "alt_text": "Pelatihan & Sertifikasi Ahli K3 Umum (Paket Ekonomis) PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": []
 }

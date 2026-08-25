@@ -122,6 +122,11 @@
             "text": "Untuk informasi jadwal pelatihan, kategori alat yang tersedia, dan proses pendaftaran, hubungi tim PENA Consultant melalui kontak resmi di penaconsultant.com. Tim kami akan membantu menyesuaikan program dengan jenis alat berat dan kebutuhan perusahaan Anda."
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-032.webp",
+        "alt_text": "Pelatihan & Sertifikasi Operator Alat Berat PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": []
 }

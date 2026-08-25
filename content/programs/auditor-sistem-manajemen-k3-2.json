@@ -132,7 +132,12 @@
             ]
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-018.webp",
+        "alt_text": "Pelatihan & Sertifikasi Auditor Sistem Manajemen K3 PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": [
         {
             "id": "01kywb7vn96nts7vtsaqwbg6pj",

@@ -166,6 +166,11 @@
             "text": "PENA Consultant menyelenggarakan pelatihan HAZOP bagi individu maupun kelompok dari perusahaan di sektor industri proses. Hubungi tim PENA Consultant untuk mengetahui jadwal pelatihan terdekat, cakupan materi lengkap, dan proses pendaftaran."
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-024.webp",
+        "alt_text": "Pelatihan & Sertifikasi HAZOPS (Hazard & Operability Studies) PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": []
 }

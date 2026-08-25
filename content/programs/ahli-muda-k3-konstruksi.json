@@ -141,7 +141,12 @@
             ]
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-015.webp",
+        "alt_text": "Pelatihan & Sertifikasi Ahli Muda K3 Konstruksi PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": [
         {
             "id": "01kywb7v8mhhk46zz3a7fqyf7c",

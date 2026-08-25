@@ -147,6 +147,11 @@
             ]
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-050.webp",
+        "alt_text": "Pelatihan & Sertifikasi Pengkaji Teknis Proteksi Kebakaran PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": []
 }

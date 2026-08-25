@@ -157,6 +157,11 @@
             ]
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-055.webp",
+        "alt_text": "Pelatihan & Sertifikasi Petugas P3K / First Aid PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": []
 }

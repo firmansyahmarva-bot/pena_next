@@ -132,6 +132,11 @@
             ]
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-008.webp",
+        "alt_text": "Pelatihan & Sertifikasi Ahli K3 Penanggulangan Kebakaran Kelas A PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": []
 }

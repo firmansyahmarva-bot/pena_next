@@ -119,6 +119,11 @@
             "text": "Calon peserta cukup menghubungi tim PENA Consultant untuk berkonsultasi mengenai jadwal terdekat, melengkapi dokumen administrasi, mengikuti sesi pembinaan selama periode yang ditentukan, dan menempuh ujian akhir. Skema in-house training juga tersedia bagi perusahaan yang ingin menyertifikasi beberapa teknisi sekaligus langsung di lokasi kerja."
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-060.webp",
+        "alt_text": "Pelatihan & Sertifikasi Teknisi Bejana Tekan PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": []
 }

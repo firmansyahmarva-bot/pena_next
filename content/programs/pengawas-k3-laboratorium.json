@@ -137,6 +137,11 @@
             ]
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-048.webp",
+        "alt_text": "Pelatihan & Sertifikasi Pengawas K3 Laboratorium PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": []
 }

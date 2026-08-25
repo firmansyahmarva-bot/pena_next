@@ -115,6 +115,11 @@
             ]
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-052.webp",
+        "alt_text": "Pelatihan & Sertifikasi Petugas K3 Kimia PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": []
 }

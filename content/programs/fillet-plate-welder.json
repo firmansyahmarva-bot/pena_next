@@ -128,6 +128,11 @@
             ]
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-022.webp",
+        "alt_text": "Pelatihan & Sertifikasi Fillet & Plate Welder PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": []
 }

@@ -137,6 +137,11 @@
             ]
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-045.webp",
+        "alt_text": "Pelatihan & Sertifikasi Penanganan Bahaya Gas H2S PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": []
 }

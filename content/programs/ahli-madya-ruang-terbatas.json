@@ -124,6 +124,11 @@
             "text": "Calon peserta dapat menghubungi tim PENA Consultant untuk konsultasi jadwal, melengkapi dokumen administrasi, mengikuti sesi teori dan simulasi lapangan, hingga menempuh evaluasi akhir. In-house training tersedia bagi perusahaan yang ingin menyertifikasi timnya langsung di lokasi kerja."
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-014.webp",
+        "alt_text": "Pelatihan & Sertifikasi Ahli Madya Ruang Terbatas PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": []
 }

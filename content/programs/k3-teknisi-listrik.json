@@ -126,6 +126,11 @@
             "text": "PENA Consultant memfasilitasi penyelenggaraan pelatihan Teknisi K3 Listrik jalur Kemnaker RI, baik untuk individu maupun rombongan dari perusahaan. Hubungi tim PENA Consultant untuk mengetahui jadwal pelatihan terdekat, kelengkapan dokumen, dan tahapan pendaftaran."
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-029.webp",
+        "alt_text": "Pelatihan & Sertifikasi K3 Teknisi Listrik PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": []
 }

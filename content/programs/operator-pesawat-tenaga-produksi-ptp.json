@@ -121,6 +121,11 @@
             "text": "Kepemilikan SIO merupakan kewajiban hukum sesuai Permenaker 38/2016 — pabrik yang membiarkan operator tanpa SIO mengoperasikan mesin berisiko terkena sanksi administratif, penghentian alat oleh Pengawas K3, serta gugatan hukum jika terjadi kecelakaan kerja. Lisensi/SIO Operator PTP berlaku 5 tahun dan dapat diperpanjang melalui PENA Consultant dengan melampirkan SIO lama dan surat keterangan sehat dokter. Pelatihan dan penunjukan SIO diterbitkan spesifik sesuai sub-bidang jenis alat (misalnya SIO Penggerak Mula untuk genset, atau SIO Mesin Perkakas Produksi untuk CNC/press) — tim kami akan membantu memetakan jenis SIO yang sesuai dengan alat di pabrik Anda."
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-038.webp",
+        "alt_text": "Pelatihan & Sertifikasi Operator Pesawat Tenaga Produksi (PTP) PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": []
 }

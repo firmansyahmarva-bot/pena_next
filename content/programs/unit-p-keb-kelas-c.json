@@ -131,6 +131,11 @@
             ]
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-067.webp",
+        "alt_text": "Pelatihan & Sertifikasi Unit P. Keb Kelas C PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": []
 }

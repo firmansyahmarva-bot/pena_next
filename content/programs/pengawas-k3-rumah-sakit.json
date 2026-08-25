@@ -132,6 +132,11 @@
             "text": "PENA Consultant menyelenggarakan pelatihan dan memfasilitasi sertifikasi Pengawas K3 Rumah Sakit BNSP untuk individu maupun rombongan dari rumah sakit/klinik. Hubungi tim PENA Consultant untuk informasi jadwal, persyaratan lengkap, dan proses pendaftaran."
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-049.webp",
+        "alt_text": "Pelatihan & Sertifikasi Pengawas K3 Rumah Sakit PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": []
 }

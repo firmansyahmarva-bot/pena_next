@@ -140,6 +140,11 @@
             ]
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-020.webp",
+        "alt_text": "Pelatihan & Sertifikasi Authorized Gas Tester PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": []
 }

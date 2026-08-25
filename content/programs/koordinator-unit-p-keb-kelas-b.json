@@ -141,6 +141,11 @@
             "text": "Peserta yang lulus akan mendapatkan Sertifikat Pembinaan K3 dan Lisensi Kewenangan/Kartu Tanda Kewenangan (SIO) Koordinator Kebakaran Kelas B resmi dari Kemnaker RI. Lisensi berlaku 3 tahun dan dapat diperpanjang melalui PENA Consultant. Program ini juga tersedia sebagai in-house training di lokasi pabrik, dengan penyesuaian skenario tanggap darurat sesuai potensi bahaya spesifik industri."
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-030.webp",
+        "alt_text": "Pelatihan & Sertifikasi Koordinator Unit P. Keb Kelas B PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": []
 }

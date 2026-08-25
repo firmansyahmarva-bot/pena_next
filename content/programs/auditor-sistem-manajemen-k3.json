@@ -142,6 +142,11 @@
             "text": "Calon peserta dapat menghubungi tim PENA Consultant melalui kontak resmi di website penaconsultant.com untuk mendapatkan informasi jadwal pelatihan terdekat, kelengkapan dokumen yang dibutuhkan, serta konsultasi kesesuaian program dengan kebutuhan perusahaan atau individu. Tim kami akan membantu proses pendaftaran, verifikasi dokumen, hingga pendampingan sampai pelaksanaan uji kompetensi."
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-019.webp",
+        "alt_text": "Pelatihan & Sertifikasi Auditor Sistem Manajemen K3 PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": []
 }

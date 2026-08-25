@@ -128,6 +128,11 @@
             "text": "Untuk jadwal pelatihan, persyaratan lengkap, dan proses pendaftaran, hubungi tim PENA Consultant melalui kontak resmi di penaconsultant.com."
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-065.webp",
+        "alt_text": "Pelatihan & Sertifikasi TKBT I (Tenaga Kerja Bangunan Tinggi) PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": []
 }

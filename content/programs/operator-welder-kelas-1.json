@@ -135,6 +135,11 @@
             ]
         }
     ],
-    "hero_media": null,
+    "hero_media": {
+        "path": "media/pelatihan-040.webp",
+        "alt_text": "Pelatihan & Sertifikasi Operator Welder Kelas 1 PENA Consultant",
+        "width": 800,
+        "height": 600
+    },
     "batches": []
 }
