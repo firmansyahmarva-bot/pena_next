@@ -9,6 +9,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const staticRoutes: MetadataRoute.Sitemap = [
     { url: baseUrl, lastModified: now, changeFrequency: 'daily', priority: 1.0 },
     { url: `${baseUrl}/pelatihan`, lastModified: now, changeFrequency: 'daily', priority: 0.9 },
+    { url: `${baseUrl}/webinar`, lastModified: now, changeFrequency: 'daily', priority: 0.9 },
     { url: `${baseUrl}/panduan`, lastModified: now, changeFrequency: 'daily', priority: 0.9 },
     { url: `${baseUrl}/jadwal`, lastModified: now, changeFrequency: 'daily', priority: 0.8 },
     { url: `${baseUrl}/cabang`, lastModified: now, changeFrequency: 'weekly', priority: 0.8 },
