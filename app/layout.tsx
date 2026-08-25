@@ -4,7 +4,7 @@ import './globals.css';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import FloatingWhatsApp from '@/components/FloatingWhatsApp';
-import { OrganizationJsonLd } from '@/components/JsonLd';
+import { OrganizationJsonLd, WebSiteJsonLd } from '@/components/JsonLd';
 
 const fontSans = Plus_Jakarta_Sans({
   subsets: ['latin'],
@@ -75,6 +75,7 @@ export default function RootLayout({
       </head>
       <body className="min-h-screen flex flex-col bg-slate-50 text-slate-900 font-sans antialiased selection:bg-primary-500 selection:text-white">
         <OrganizationJsonLd />
+        <WebSiteJsonLd />
         <Navbar />
         <main id="main-content" className="flex-grow">{children}</main>
         <FloatingWhatsApp />

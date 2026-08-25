@@ -201,3 +201,32 @@ export function BreadcrumbJsonLd({ items }: { items: Array<{ name: string; url: 
     />
   );
 }
+export function WebSiteJsonLd() {
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    '@id': 'https://penaconsultant.com/#website',
+    url: 'https://penaconsultant.com',
+    name: 'PENA Consultant',
+    description: 'Pusat Pelatihan & Sertifikasi K3 Resmi Kemnaker RI & BNSP di Indonesia',
+    publisher: {
+      '@id': 'https://penaconsultant.com/#organization',
+    },
+    inLanguage: 'id-ID',
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: {
+        '@type': 'EntryPoint',
+        urlTemplate: 'https://penaconsultant.com/panduan?q={search_term_string}',
+      },
+      'query-input': 'required name=search_term_string',
+    },
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
