@@ -77,6 +77,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Membentuk regu Kelas C baru dan ingin tahu apakah paket unit lebih efisien dibanding pendaftaran satu per satu? Tim kami dapat membantu menghitung berdasarkan jumlah anggota regu Anda."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "unit-p-keb-kelas-c",

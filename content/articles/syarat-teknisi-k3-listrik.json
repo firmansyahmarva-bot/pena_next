@@ -87,6 +87,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Kirim CV, bukti kerja, dan kutipan tender untuk pre-assessment Teknisi K3 Listrik BNSP."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "teknisi-k3-listrik",

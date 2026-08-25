@@ -106,6 +106,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Tidak yakin jenjang K3 konstruksi mana yang sesuai untuk tim proyek Anda? Tim kami dapat membantu menentukan berdasarkan skala dan risiko proyek."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "ahli-k3-konstruksi",

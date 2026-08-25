@@ -83,6 +83,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Tanpa SK Pengesahan P2K3 dari Disnaker dan laporan triwulan aktif, perusahaan tidak dapat memenuhi kriteria audit SMK3 PP 50/2012."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "ahli-k3-umum",

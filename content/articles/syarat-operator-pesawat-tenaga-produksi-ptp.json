@@ -79,6 +79,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Kirim daftar mesin dan operator per shift agar kebutuhan PTP dapat dipetakan sebelum penawaran dibuat."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "operator-pesawat-tenaga-produksi-ptp",

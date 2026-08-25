@@ -38,6 +38,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Pelatihan ini membekali peserta untuk memimpin kajian keselamatan proses pada tahapan FEED, Detailed Engineering, maupun Re-HAZOP fasilitas aktif."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "hazops-hazard-operability-studies",

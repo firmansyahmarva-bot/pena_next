@@ -88,6 +88,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Membangun tim ruang terbatas dari nol dan butuh tahu berapa teknisi vs ahli yang diperlukan? Tim kami dapat membantu merancang komposisi tim sesuai skala pekerjaan Anda."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "teknisi-ruang-terbatas",

@@ -92,6 +92,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Kirim foto nameplate dan tugas teknisi agar jenis program dapat dipastikan sebelum pendaftaran."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "teknisi-bejana-tekan",

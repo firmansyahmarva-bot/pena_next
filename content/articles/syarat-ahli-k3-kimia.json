@@ -83,6 +83,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Ingin memastikan kelengkapan berkas sebelum mendaftar Ahli K3 Kimia? Tim kami akan membantu verifikasi sebelum pendaftaran diproses."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "ahli-k3-kimia",

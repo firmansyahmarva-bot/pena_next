@@ -79,6 +79,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Perusahaan Anda sudah punya Ahli K3 Kimia tapi belum ada Petugas K3 Kimia di lapangan, atau sebaliknya? Tim kami dapat membantu menilai kebutuhan kombinasi keduanya."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "petugas-k3-kimia",

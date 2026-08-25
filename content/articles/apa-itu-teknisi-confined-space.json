@@ -88,6 +88,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Proyek Anda mensyaratkan sertifikat Kemnaker RI, bukan BNSP, untuk teknisi ruang terbatas? Tim kami dapat membantu memastikan jalur yang sesuai kebutuhan Anda."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "teknisi-confined-space",

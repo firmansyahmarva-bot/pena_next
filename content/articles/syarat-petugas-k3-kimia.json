@@ -92,6 +92,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Kirim inventaris ringkas bahan dan tugas calon agar kebutuhan Petugas K3 Kimia dapat dipetakan."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "petugas-k3-kimia",

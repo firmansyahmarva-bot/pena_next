@@ -84,6 +84,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Operasi migas Anda sudah punya AGT dan personel H2S tapi belum ada yang mengoordinasikan semuanya? Tim kami dapat membantu menilai kebutuhan Pengawas K3 Migas untuk fasilitas Anda."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "pengawas-k3-industri-migas",

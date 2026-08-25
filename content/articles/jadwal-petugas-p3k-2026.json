@@ -18,6 +18,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Segera daftarkan perwakilan shift kerja perusahaan Anda untuk memenuhi kepatuhan audit SMK3."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "petugas-p3k",

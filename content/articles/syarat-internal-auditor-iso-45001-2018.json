@@ -37,6 +37,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Sertifikat Internal Auditor membuktikan kesiapan organisasi menghadapi audit sertifikasi dan surveillance audit tahunan."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "internal-auditor-iso-45001-2018",

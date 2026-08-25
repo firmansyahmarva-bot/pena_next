@@ -58,6 +58,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Fresh graduate jurusan keperawatan yang baru lulus dan telah memiliki STR tetap diperbolehkan mendaftar."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "paramedis-k3-muda",

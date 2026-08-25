@@ -68,6 +68,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Sertifikasi juru las pelat dan fillet membuktikan keterampilan manual dan kepatuhan teknik las terhadap Welding Procedure Specification (WPS)."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "fillet-plate-welder",

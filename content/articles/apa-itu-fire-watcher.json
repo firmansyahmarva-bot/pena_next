@@ -83,6 +83,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Perusahaan Anda rutin melakukan pekerjaan panas di area berisiko? Tim kami dapat membantu menentukan kombinasi Fire Watcher dan AGT yang sesuai dengan sistem izin kerja Anda."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "fire-watcher",

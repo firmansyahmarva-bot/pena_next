@@ -99,6 +99,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Pastikan nama pada ijazah, KTP, dan formulir pendaftaran sinkron huruf per huruf untuk mencegah kendala pencetakan sertifikat fisik dan e-certificate Kemnaker."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "ahli-k3-umum",

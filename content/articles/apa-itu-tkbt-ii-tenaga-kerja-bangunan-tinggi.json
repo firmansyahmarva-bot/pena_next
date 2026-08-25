@@ -83,6 +83,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Proyek Anda melibatkan akses tali atau konfigurasi ketinggian kompleks? Tim kami dapat membantu menentukan berapa personel Tingkat II yang dibutuhkan."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "tkbt-ii-tenaga-kerja-bangunan-tinggi",

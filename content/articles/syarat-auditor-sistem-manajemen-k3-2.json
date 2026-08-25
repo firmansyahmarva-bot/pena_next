@@ -82,6 +82,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Lulusan pembinaan ini berhak menerima Sertifikat Auditor SMK3 resmi yang diterbitkan langsung oleh Kementerian Ketenagakerjaan Republik Indonesia."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "auditor-sistem-manajemen-k3-2",

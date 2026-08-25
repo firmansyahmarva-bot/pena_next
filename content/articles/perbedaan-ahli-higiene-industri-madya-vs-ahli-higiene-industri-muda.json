@@ -53,6 +53,10 @@
             "type": "callout",
             "variant": "info",
             "text": "HIMU bertugas mengumpulkan data yang akurat di lapangan; HIMA bertugas merumuskan rekayasa teknis agar data tersebut berada di bawah Nilai Ambang Batas (NAB)."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "ahli-higiene-industri-madya",

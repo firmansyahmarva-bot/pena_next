@@ -82,6 +82,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Kirim peran entrant/attendant dan bukti kerja untuk pre-assessment BNSP."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "teknisi-ruang-terbatas",

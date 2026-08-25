@@ -86,6 +86,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Kirim jumlah calon, latar belakang, instalasi, dan lokasi untuk quotation Ahli K3 Listrik Kemnaker."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "ahli-k3-listrik-2",

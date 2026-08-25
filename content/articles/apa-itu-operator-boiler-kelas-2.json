@@ -84,6 +84,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Tidak yakin boiler di fasilitas Anda memerlukan operator Kelas 2 atau Kelas 1? Tim kami dapat membantu mengecek berdasarkan spesifikasi teknis pesawat uap Anda."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "operator-boiler-kelas-2",

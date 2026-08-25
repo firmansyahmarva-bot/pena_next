@@ -39,6 +39,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Setiap perawat yang bertugas di klinik perusahaan wajib memiliki sertifikat pelatihan Hyperkes resmi sesuai regulasi ketenagakerjaan."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "paramedis-k3-muda",

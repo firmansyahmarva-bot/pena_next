@@ -69,6 +69,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Perusahaan yang berhasil meraih skor audit ≥ 85% pada tingkat lanjutan berhak menerima Penghargaan Sertifikat dan Bendera Emas SMK3 resmi dari Menteri Ketenagakerjaan RI."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "auditor-sistem-manajemen-k3",

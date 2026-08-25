@@ -87,6 +87,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Ingin tahu apakah latar belakang Anda sudah memenuhi syarat Ahli Muda K3 Ruang Terbatas? Tim kami dapat membantu menilai sebelum pendaftaran."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "ahli-muda-ruang-terbatas",

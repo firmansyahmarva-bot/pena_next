@@ -83,6 +83,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Belum punya sertifikasi Ahli Madya tapi punya pengalaman setara sebagai penanggung jawab ruang terbatas? Tim kami dapat membantu menilai kesetaraannya."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "ahli-utama-ruang-terbatas",

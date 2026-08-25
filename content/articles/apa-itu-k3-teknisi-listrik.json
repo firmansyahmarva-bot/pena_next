@@ -89,6 +89,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Perlu memastikan lisensi Kemnaker RI atau sertifikasi BNSP yang diminta proyek Anda? Tim kami dapat membantu mengecek persyaratan yang berlaku untuk pekerjaan Anda."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "k3-teknisi-listrik",

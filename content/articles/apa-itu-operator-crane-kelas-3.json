@@ -80,6 +80,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Menentukan kelas lisensi crane yang sesuai kapasitas alat di fasilitas Anda? Tim kami dapat membantu mengecek berdasarkan spesifikasi crane yang dioperasikan."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "operator-crane-kelas-3",

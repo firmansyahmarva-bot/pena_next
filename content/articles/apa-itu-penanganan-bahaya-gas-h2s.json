@@ -84,6 +84,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Fasilitas Anda berpotensi terpapar H2S dan ingin memastikan seluruh pekerja terkait siap merespons? Tim kami dapat membantu menilai cakupan pelatihan yang dibutuhkan."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "penanganan-bahaya-gas-h2s",

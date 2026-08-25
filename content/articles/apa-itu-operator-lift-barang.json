@@ -38,6 +38,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Operator Lift Barang memastikan pemeliharaan berkala dan uji beban tahunan berjalan sesuai standar K3."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "operator-lift-barang",

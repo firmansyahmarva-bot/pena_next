@@ -93,6 +93,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Tidak yakin operasi ruang terbatas Anda cukup ditangani Ahli Muda atau perlu Ahli Madya? Tim kami dapat membantu menilai berdasarkan jumlah titik masuk dan tingkat risiko fasilitas Anda."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "ahli-madya-ruang-terbatas",

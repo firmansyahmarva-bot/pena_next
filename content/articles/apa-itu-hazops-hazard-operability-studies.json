@@ -76,6 +76,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Pelatihan HAZOPS membekali peserta keterampilan memimpin dan mendokumentasikan kajian keselamatan proses mutlak untuk proyek EPC dan industri kimia."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "hazops-hazard-operability-studies",

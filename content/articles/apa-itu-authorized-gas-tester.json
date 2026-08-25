@@ -98,6 +98,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Fasilitas Anda membutuhkan AGT, pelatihan H2S, atau keduanya? Tim kami dapat membantu menilai berdasarkan jenis pekerjaan dan potensi bahaya gas di lokasi Anda."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "authorized-gas-tester",

@@ -92,6 +92,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Kirim daftar regu dan shift agar kebutuhan Kelas C dihitung sebagai sistem, bukan jumlah sertifikat."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "regu-penanggulangan-kebakaran-kelas-c",

@@ -101,6 +101,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Belum yakin perusahaan Anda termasuk wajib menunjuk Ahli K3 Kimia atau cukup Petugas K3 Kimia? Tim kami dapat membantu menilai berdasarkan jenis dan kuantitas bahan kimia yang digunakan."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "ahli-k3-kimia",

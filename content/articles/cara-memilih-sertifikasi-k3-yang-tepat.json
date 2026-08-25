@@ -89,6 +89,10 @@
             "type": "callout",
             "variant": "info",
             "text": "PENA Consultant menyediakan sesi konsultasi karier gratis bagi calon peserta untuk memetakan jalur sertifikasi yang paling efisien."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "ahli-k3-umum",

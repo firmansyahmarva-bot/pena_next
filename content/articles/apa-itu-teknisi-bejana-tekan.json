@@ -88,6 +88,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Fasilitas Anda punya bejana tekan, tangki timbun, atau keduanya sekaligus dengan boiler? Tim kami dapat membantu memetakan kebutuhan lisensi teknisi sesuai jenis peralatan Anda."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "teknisi-bejana-tekan",

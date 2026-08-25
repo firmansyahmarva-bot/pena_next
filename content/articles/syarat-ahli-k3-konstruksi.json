@@ -83,6 +83,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Perlu mengecek apakah pengalaman kerja Anda memenuhi syarat Ahli K3 Konstruksi skema BNSP? Tim kami akan membantu verifikasi sebelum pendaftaran diproses."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "ahli-k3-konstruksi",

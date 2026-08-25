@@ -82,6 +82,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Minta quotation Ahli K3 Kimia dengan jumlah peserta, lokasi, dan target jadwal agar biaya dapat dihitung resmi."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "ahli-k3-kimia",

@@ -77,6 +77,10 @@
             "type": "callout",
             "variant": "info",
             "text": "Tanggal batch 2026 belum terverifikasi dalam data program. Tim PENA akan mengonfirmasi jadwal aktif; durasi program bukan janji tanggal mulai atau tanggal dokumen terbit."
+        },
+        {
+            "type": "callout",
+            "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
         }
     ],
     "related_offering_slug": "ahli-k3-konstruksi",
