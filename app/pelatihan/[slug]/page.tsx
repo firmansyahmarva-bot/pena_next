@@ -29,6 +29,7 @@ export default async function ProgramPage({ params }: { params: Promise<{ slug: 
 
   const isKemnaker = program.certification_body === 'kemnaker';
   const isBnsp = program.certification_body === 'bnsp';
+  const imageSrc = program.hero_media?.path ? `/${program.hero_media.path}` : null;
   const relatedArticles = getArticles().filter(a => a.related_offering_slug === program.slug).slice(0, 3);
 
   const sections = [
@@ -52,11 +53,20 @@ export default async function ProgramPage({ params }: { params: Promise<{ slug: 
         <span className="text-slate-900 line-clamp-1">{program.name}</span>
       </nav>
 
-      {/* Program Hero Header */}
-      <div className="bg-white p-6 sm:p-10 rounded-2xl border border-slate-200 shadow-sm relative overflow-hidden">
-        <div className="absolute top-0 right-0 w-80 h-80 bg-primary-50 rounded-full blur-3xl -mr-20 -mt-20 pointer-events-none"></div>
+      {/* Program Hero Header with Picture */}
+      <div className="bg-white rounded-2xl border border-slate-200 shadow-sm overflow-hidden grid grid-cols-1 lg:grid-cols-12">
+        {imageSrc && (
+          <div className="lg:col-span-4 relative min-h-[260px] bg-slate-900">
+            <img
+              src={imageSrc}
+              alt={program.hero_media?.alt_text || program.name}
+              className="w-full h-full object-cover"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-slate-950/60 to-transparent lg:hidden"></div>
+          </div>
+        )}
 
-        <div className="relative z-10 max-w-4xl">
+        <div className={`${imageSrc ? 'lg:col-span-8' : 'lg:col-span-12'} p-6 sm:p-10 flex flex-col justify-center`}>
           <div className="flex flex-wrap items-center gap-2.5 mb-4">
             {isKemnaker && (
               <span className="bg-emerald-100 text-emerald-900 border border-emerald-300 font-extrabold text-xs px-3 py-1 rounded-md flex items-center gap-1">
@@ -78,31 +88,31 @@ export default async function ProgramPage({ params }: { params: Promise<{ slug: 
             )}
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black text-slate-900 leading-tight mb-4">
+          <h1 className="text-2xl sm:text-4xl font-black text-slate-900 leading-tight mb-4">
             {program.title || program.name}
           </h1>
 
           {program.summary && (
-            <p className="text-base sm:text-lg text-slate-600 leading-relaxed">
+            <p className="text-sm sm:text-base text-slate-600 leading-relaxed mb-6">
               {program.summary}
             </p>
           )}
 
           {/* Quick Highlight Pills */}
-          <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 pt-6 mt-6 border-t border-slate-100 text-xs font-semibold text-slate-700">
-            <div className="p-3 bg-slate-50 rounded-lg border border-slate-200">
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 pt-4 border-t border-slate-100 text-xs font-semibold text-slate-700">
+            <div className="p-2.5 bg-slate-50 rounded-lg border border-slate-200">
               <span className="text-slate-400 block text-[10px] uppercase font-bold">Metode Pelaksanaan</span>
               <span>Online / Onsite TUK</span>
             </div>
-            <div className="p-3 bg-slate-50 rounded-lg border border-slate-200">
+            <div className="p-2.5 bg-slate-50 rounded-lg border border-slate-200">
               <span className="text-slate-400 block text-[10px] uppercase font-bold">Masa Berlaku</span>
-              <span>3 Tahun (Dapat Diperpanjang)</span>
+              <span>3 Tahun Resmi</span>
             </div>
-            <div className="p-3 bg-slate-50 rounded-lg border border-slate-200">
+            <div className="p-2.5 bg-slate-50 rounded-lg border border-slate-200">
               <span className="text-slate-400 block text-[10px] uppercase font-bold">Kelulusan</span>
-              <span>Sertifikat &amp; SKP / Lisensi</span>
+              <span>Sertifikat &amp; SKP</span>
             </div>
-            <div className="p-3 bg-slate-50 rounded-lg border border-slate-200">
+            <div className="p-2.5 bg-slate-50 rounded-lg border border-slate-200">
               <span className="text-slate-400 block text-[10px] uppercase font-bold">Investasi</span>
               <span className="text-primary-700 font-bold">
                 {program.base_price ? `Rp ${program.base_price.toLocaleString('id-ID')}` : 'Hubungi Admin'}
@@ -173,7 +183,7 @@ export default async function ProgramPage({ params }: { params: Promise<{ slug: 
             </div>
           </section>
 
-          {/* Semantic Schedule Table (Google Featured Snippet Ready) */}
+          {/* Semantic Schedule Table */}
           <section className="bg-white p-6 sm:p-8 rounded-2xl border border-slate-200 shadow-sm">
             <h2 className="text-xl font-bold text-slate-900 mb-2 flex items-center gap-2">
               📅 Tabel Jadwal Batch 2026 &amp; Rincian Biaya

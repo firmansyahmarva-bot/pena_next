@@ -15,23 +15,18 @@ export default function Footer() {
           {/* Brand Col */}
           <div className="space-y-4">
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-xl bg-primary-600 flex items-center justify-center text-white">
-                <Shield className="w-6 h-6 text-amber-400" />
-              </div>
-              <span className="text-xl font-black tracking-tight text-white">
-                PENA <span className="text-primary-400">CONSULTANT</span>
-              </span>
+              <img
+                src="/logo.svg"
+                alt="PENA Consultant Logo"
+                className="h-10 w-auto object-contain brightness-0 invert"
+              />
             </div>
-            <p className="text-sm text-slate-400 leading-relaxed">
-              Lembaga Pembinaan &amp; Sertifikasi K3 resmi terakreditasi Kemnaker RI dan berlisensi BNSP. Melayani program public batch &amp; in-house training di seluruh Indonesia.
+            <p className="text-xs sm:text-sm text-slate-400 leading-relaxed">
+              Lembaga Pembinaan &amp; Sertifikasi K3 resmi terakreditasi Kemnaker RI dan berlisensi BNSP. Melayani public batch &amp; in-house training di seluruh Indonesia.
             </p>
-            <div className="space-y-2 pt-2">
-              <div className="flex items-center gap-2 text-xs text-emerald-400 font-semibold">
-                <CheckCircle2 className="w-4 h-4" /> SKP Resmi Kemnaker RI
-              </div>
-              <div className="flex items-center gap-2 text-xs text-emerald-400 font-semibold">
-                <CheckCircle2 className="w-4 h-4" /> Lisensi Profesi BNSP RI
-              </div>
+            <div className="flex flex-wrap gap-2 pt-2">
+              <img src="/images/kemnaker-badge.svg" alt="Kemnaker RI" className="h-9 w-auto rounded" />
+              <img src="/images/bnsp-badge.svg" alt="BNSP RI" className="h-9 w-auto rounded" />
             </div>
           </div>
 

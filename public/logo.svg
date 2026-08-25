@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 90" fill="none">
+  <defs>
+    <linearGradient id="logoShield" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#16a34a" />
+      <stop offset="100%" stop-color="#064e3b" />
+    </linearGradient>
+    <linearGradient id="logoGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef08a" />
+      <stop offset="50%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Emblem Group -->
+  <g transform="translate(10, 5)">
+    <!-- Shield Base -->
+    <path d="M40 3 L72 15 C72 54 40 76 40 78 C40 76 8 54 8 15 Z" fill="url(#logoShield)" stroke="#22c55e" stroke-width="1.5" />
+    <!-- Gold Ring -->
+    <path d="M40 9 L66 19 C66 50 40 68 40 70 C40 68 14 50 14 19 Z" fill="none" stroke="url(#logoGold)" stroke-width="2.5" />
+    <!-- K3 Star / Cross Center -->
+    <circle cx="40" cy="38" r="17" fill="#022c22" stroke="url(#logoGold)" stroke-width="1.5" />
+    <path d="M37 28 H43 V35 H50 V41 H43 V48 H37 V41 H30 V35 H37 Z" fill="url(#logoGold)" />
+  </g>
+
+  <!-- Brand Text -->
+  <text x="95" y="44" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="34" fill="#0f172a" letter-spacing="-0.5">
+    PENA <tspan fill="#16a34a">CONSULTANT</tspan>
+  </text>
+  <text x="96" y="65" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="10.5" fill="#64748b" letter-spacing="3.5">
+    PUSAT EDUKASI &amp; SERTIFIKASI K3
+  </text>
+</svg>
