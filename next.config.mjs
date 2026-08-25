@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
+  poweredByHeader: false,
+  productionBrowserSourceMaps: false,
   staticPageGenerationTimeout: 300,
   images: {
     unoptimized: true,
@@ -28,7 +30,7 @@ const nextConfig = {
           },
           {
             key: 'Permissions-Policy',
-            value: 'camera=(), microphone=(), geolocation=()',
+            value: 'camera=(), microphone=(), geolocation=(), payment=()',
           },
           {
             key: 'Strict-Transport-Security',

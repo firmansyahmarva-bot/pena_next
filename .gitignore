@@ -7,25 +7,38 @@
 # testing
 /coverage
 
-# next.js
+# next.js build outputs
 /.next/
 /out/
-
-# production
 /build
 
-# misc
-.DS_Store
+# environment & secrets (NEVER LEAK)
+.env
+.env.*
+!.env.example
 *.pem
+*.key
+*.cert
+*.p12
+*.json.key
+*service_account*.json
+*credentials*.json
 
-# debug
+# database dumps & logs
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+*.bak
+*.dump
+*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# local env files
-.env*.local
-
-# typescript
+# system & IDE
+.DS_Store
+.vscode/
+.idea/
 *.tsbuildinfo
 next-env.d.ts
