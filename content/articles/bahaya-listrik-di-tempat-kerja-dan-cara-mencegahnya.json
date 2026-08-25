@@ -1,0 +1,55 @@
+{
+    "id": "01kyhqmdwm1y6ed7gk1tvzqsp8",
+    "title": "Bahaya Listrik di Tempat Kerja dan Cara Mencegahnya",
+    "slug": "bahaya-listrik-di-tempat-kerja-dan-cara-mencegahnya",
+    "path": "/panduan/k3-teknis/bahaya-listrik-di-tempat-kerja-dan-cara-mencegahnya",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Panduan komprehensif identifikasi bahaya sengatan listrik, busur api (arc flash), dan ledakan serta penerapan hierarki pengendalian sesuai PUIL 2011 dan Permenaker 12/2015.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Energi listrik merupakan sumber daya vital industri sekaligus salah satu potensi bahaya mematikan tertinggi jika tidak dikelola dengan standar K3 yang ketat. Sengatan listrik (electric shock), panas busur api (arc flash), dan kebakaran akibat korsleting dapat melumpuhkan operasional serta merenggut korban jiwa dalam hitungan milidetik."
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Listrik di Tempat Kerja.",
+            "source": "Permenaker No. 12 Tahun 2015"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tiga Bahaya Utama Energi Listrik Industri"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Sengatan Listrik (Electric Shock): Terjadi saat tubuh manusia menjadi bagian dari sirkuit listrik. Arus di atas 10 mA dapat menyebabkan kejang otot (freeze), di atas 50 mA memicu fibrilasi ventrikel jantung fatal",
+                "Busur Api & Ledakan (Arc Flash & Arc Blast): Pelepasan energi listrik bertegangan tinggi melalui udara yang menghasilkan temperatur hingga 20.000°C, gelombang kejut tekanan tinggi, dan lontaran logam cair",
+                "Kebakaran Listrik (Electrical Fires): Akibat beban lebih (overload), sambungan longgar (poor termination), isolasi kabel terkelupas, atau ketiadaan proteksi arus lebih"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Prosedur Keselamatan Wajib (LOTO & PUIL 2011)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Pencegahan kecelakaan listrik bertumpu pada prosedur Lockout/Tagout (LOTO) dan kepatuhan terhadap Persyaratan Umum Instalasi Listrik (PUIL 2011): isolasi sumber daya, verifikasi zero voltage dengan multimeter terkalibrasi, pemasangan grounding temporer, serta pemakaian APD tahan busur api (Arc Flash PPE berstandar NFPA 70E)."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Setiap pekerjaan instalasi listrik industri wajib diawasi oleh Ahli K3 Listrik atau Teknisi K3 Listrik bersertifikat Kemnaker RI."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-listrik",
+    "meta_title": "Bahaya Listrik di Tempat Kerja dan Cara Mencegahnya — Gu",
+    "meta_description": "Panduan teknis keselamatan Bahaya Listrik di Tempat Kerja dan Cara Mencegahnya resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography ",
+    "published_at": "2026-07-27"
+}

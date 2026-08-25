@@ -1,0 +1,146 @@
+{
+    "id": "01kyfffj0sp0a90m08w2kedxk4",
+    "type": "training",
+    "name": "Operator Boiler Kelas 2",
+    "slug": "operator-boiler-kelas-2",
+    "path": "/pelatihan/operator-boiler-kelas-2",
+    "title": "Operator Boiler Kelas 2",
+    "meta_title": "Operator Boiler Kelas 2",
+    "meta_description": "Pembinaan Operator Boiler Kelas 2 Kemnaker RI. Pengoperasian ketel uap industri, pengujian safety valve, & Permenaker 01/1988.",
+    "summary": "Operator Boiler Kelas 2 adalah program pembinaan dan sertifikasi personel operator pesawat uap (boiler) Kelas 2 — kompetensi wajib pada pengoperasian/penanganan peralatan bertekanan sesuai peraturan uap dan bejana tekanan yang berlaku. Tersedia online & offline.",
+    "certification_body": "kemnaker",
+    "base_price": 6500000,
+    "duration": "4 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Boiler (pesawat uap) mengubah air menjadi uap bertekanan tinggi untuk kebutuhan produksi — kegagalan operasional pada peralatan ini berisiko ledakan katastropik, bukan sekadar kerusakan alat. Karena risikonya, pengawasan pesawat uap di Indonesia diatur sejak era kolonial melalui Stoom Ordonnantie 1930 dan diperkuat oleh peraturan kualifikasi operator modern."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Peraturan Uap (Stoom Ordonnantie) — dasar pengawasan pesawat uap.",
+            "source": "Stoom Ordonnantie 1930"
+        },
+        {
+            "type": "citation",
+            "text": "Kwalifikasi Operator Pesawat Uap.",
+            "source": "Permenaker No. 01/MEN/1988"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kelas 2 menunjukkan kualifikasi operator untuk boiler dengan kapasitas tertentu — operator wajib memiliki lisensi K3 sesuai kelasnya sebelum diizinkan mengoperasikan boiler, dan boiler itu sendiri wajib melalui pemeriksaan dan pengujian berkala oleh PJK3 berwenang sebagai syarat kelaikan operasional yang terpisah dari kompetensi operator."
+        },
+        {
+            "type": "paragraph",
+            "text": "Pemerintah mengklasifikasikan operator pesawat uap berdasarkan kapasitas dan tekanan kerja boiler yang diizinkan dioperasikan — semakin besar kapasitasnya, semakin tinggi kelas lisensi yang dipersyaratkan. Klasifikasi ini memastikan operator hanya diberi kewenangan mengoperasikan peralatan yang sesuai dengan tingkat kompetensinya, bukan sekadar formalitas administratif."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini menyasar operator boiler di pabrik, rumah sakit (untuk sterilisasi/pemanas), atau fasilitas produksi yang menggunakan pesawat uap sebagai bagian proses produksinya."
+        },
+        {
+            "type": "paragraph",
+            "text": "Insiden boiler tergolong jarang tetapi konsekuensinya termasuk yang paling berat di antara seluruh kategori kecelakaan kerja — ledakan boiler dapat merusak bangunan dan menimbulkan korban jiwa dalam radius luas. Karena itu, lisensi operator boiler menjadi salah satu dokumen K3 yang paling ketat diverifikasi saat audit asuransi maupun inspeksi pemerintah, dan perusahaan yang mengoperasikan boiler tanpa operator berlisensi menghadapi risiko hukum dan operasional yang serius."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sebagian besar insiden boiler bukan disebabkan kegagalan alat semata, melainkan kombinasi kelalaian pemeriksaan harian dan respons yang lambat/keliru terhadap tanda-tanda awal masalah — tekanan yang naik di luar kebiasaan, suara abnormal, atau kebocoran kecil yang diabaikan. Operator yang benar-benar kompeten justru dinilai dari kemampuannya mengenali dan merespons anomali sekecil apa pun sebelum berkembang menjadi kegagalan besar, bukan hanya dari kemampuannya menjalankan operasi normal sehari-hari. Setelah menyelesaikan program, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memahami regulasi K3 pesawat uap dan kewajiban lisensi operator sesuai kelasnya",
+                "Mengidentifikasi bahaya tekanan, suhu, dan potensi kegagalan material pada boiler",
+                "Melakukan pengoperasian boiler sesuai prosedur start-up, operasi normal, dan shutdown",
+                "Membaca instrumen tekanan dan suhu serta merespons kondisi abnormal secara tepat",
+                "Melakukan pemeriksaan harian dan perawatan dasar boiler sesuai kewenangan operator",
+                "Memenuhi persyaratan lisensi K3 operator boiler Kelas 2"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kurikulum menggabungkan teori tekanan dan panas dengan praktik operasional langsung, karena kompetensi operator boiler pada akhirnya dinilai dari kemampuannya menjalankan dan mengawasi alat secara nyata:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Dasar hukum pengawasan pesawat uap dan kewajiban lisensi operator sesuai kelasnya",
+                "Pengetahuan teknis boiler: komponen, sistem pengaman (safety valve, pressure gauge), dan prinsip kerja perpindahan panas",
+                "Prosedur operasi normal: start-up, operasi berjalan, dan shutdown yang aman sesuai instruksi pabrikan",
+                "Identifikasi kondisi abnormal (tekanan/suhu tidak wajar, kebocoran, suara asing) dan prosedur tanggap darurat boiler",
+                "Pemeriksaan harian, perawatan dasar, dan pencatatan log operasi secara disiplin",
+                "Praktik operasi langsung dan evaluasi kompetensi sebelum penerbitan lisensi"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal SMA/SMK sederajat, diutamakan jurusan teknik mesin",
+                "Usia minimal 18 tahun, sehat jasmani dan rohani",
+                "Ditugaskan oleh perusahaan sebagai calon operator boiler",
+                "Diutamakan memiliki pemahaman dasar mekanik/teknik, meski pengalaman operasional boiler sebelumnya tidak wajib bagi peserta pemula",
+                "Bersedia mengikuti pelatihan teori dan praktik operasi langsung hingga dinyatakan kompeten"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter",
+                "Surat tugas dari perusahaan sebagai calon operator boiler"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "paragraph",
+            "text": "Fasilitas program menekankan praktik operasi langsung, karena kompetensi operator boiler pada akhirnya diuji melalui kemampuan menjalankan alat secara nyata:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul teknis pesawat uap sesuai Permenaker No. 01/MEN/1988",
+                "Instruktur praktisi berpengalaman operasional boiler industri",
+                "Unit/simulator boiler untuk praktik langsung start-up hingga shutdown",
+                "Praktik pembacaan instrumen dan simulasi respons kondisi abnormal",
+                "Ujian teori dan praktik sebelum penerbitan lisensi"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir di halaman ini.",
+                "Terima penawaran resmi: jadwal dan biaya.",
+                "Lengkapi berkas administrasi.",
+                "Ikuti pelatihan teori dasar hukum dan teknis pesawat uap.",
+                "Ikuti praktik pengoperasian boiler langsung, dari start-up hingga shutdown.",
+                "Ikuti ujian teori dan praktik.",
+                "Terima lisensi K3 Operator Boiler Kelas 2."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

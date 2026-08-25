@@ -1,0 +1,72 @@
+{
+    "id": "01kyhqmdy66503awpba8vxdrhf",
+    "title": "Panduan Karier K3: Dari Petugas Lapangan Hingga Ahli Madya",
+    "slug": "panduan-karier-k3-dari-petugas-hingga-ahli-madya",
+    "path": "/panduan/karier-k3",
+    "role": "pillar",
+    "cluster": {
+        "name": "Karier K3",
+        "slug": "karier-k3"
+    },
+    "summary": "Peta jalan karier profesional K3 Indonesia: tahapan promosi dari Safety Officer lapangan, Ahli K3 Umum, Ahli Spesialis, hingga EHS Director tingkat korporasi.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Karier di bidang Keselamatan dan Kesehatan Kerja (K3 / EHS) menawarkan jenjang profesi yang sangat jelas, terstruktur, dan memiliki permintaan tinggi di seluruh sektor industri nasional maupun multinasional."
+        },
+        {
+            "type": "citation",
+            "text": "Standar Kualifikasi Kerja Nasional Sektor K3.",
+            "source": "Kepmenaker No. 38 Tahun 2019"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "4 Jenjang Roadmap Profesi K3 di Indonesia"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Jenjang Karier",
+                "Jabatan Kerja Tipikal",
+                "Sertifikasi Kunci Wajib",
+                "Rentang Pengalaman"
+            ],
+            "rows": [
+                [
+                    "Tingkat Entry / Pelaksana",
+                    "Safety Inspector, Safety Man, Petugas K3",
+                    "Petugas K3 / First Aider / Teknisi K3",
+                    "0 – 2 Tahun"
+                ],
+                [
+                    "Tingkat Officer / Spesialis",
+                    "HSE Officer, Safety Specialist, Sekretaris P2K3",
+                    "Ahli K3 Umum Kemnaker RI / BNSP",
+                    "2 – 5 Tahun"
+                ],
+                [
+                    "Tingkat Supervisor / Lead",
+                    "HSE Coordinator, Industrial Hygienist, Lead Auditor",
+                    "Auditor SMK3 PP 50/2012, Lead Auditor ISO 45001, HIMA",
+                    "5 – 8 Tahun"
+                ],
+                [
+                    "Tingkat Manajerial / Eksekutif",
+                    "HSE Manager, Corporate EHS Director, VP Sustainability",
+                    "Ahli Higiene Industri Utama (HIU), Process Safety Lead",
+                    "8+ Tahun"
+                ]
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Mengembangkan sertifikasi yang terencana mempercepat promosi jabatan dan meningkatkan daya tawar gaji profesional HSE."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-umum",
+    "meta_title": "Panduan Karier K3 Dari Petugas Hingga Ahli Madya K3 AI",
+    "meta_description": "Panduan komprehensif Panduan Karier K3: Dari Petugas hingga Ahli Madya. Pembahasan mendalam regulasi Kemnaker RI, BNSP, teknologi AI, & sertifikasi ",
+    "published_at": "2026-07-27"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9kr8hnzqhawx96nff6hmb",
+    "title": "Jadwal Pembinaan Operator Alat Berat 2026",
+    "slug": "jadwal-operator-alat-berat-2026",
+    "path": "/panduan/sertifikasi-k3/jadwal-operator-alat-berat-2026",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Jadwal pembinaan dan uji lisensi SIO Operator Alat Berat tahun 2026.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Jadwal pembinaan dibuka secara rutin setiap bulan sepanjang tahun 2026 di fasilitas pusat pelatihan teknik PENA Consultant dengan unit alat berat lengkap."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Pendaftaran ditutup 7 hari sebelum pelaksanaan batch untuk verifikasi berkas di sistem Kemnaker RI."
+        }
+    ],
+    "related_offering_slug": "operator-alat-berat",
+    "meta_title": "Jadwal Operator Alat Berat 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Jadwal Operator Alat Berat 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9m3tak767h751mz2r86rr",
+    "title": "Apa Itu Pengawas K3 Laboratorium?",
+    "slug": "apa-itu-pengawas-k3-laboratorium",
+    "path": "/panduan/sertifikasi-k3/apa-itu-pengawas-k3-laboratorium",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Pengawas K3 Laboratorium adalah profesional yang mengendalikan bahaya reagen kimia, biosafety pathogen, dan instrumen analisis di laboratorium uji dan riset.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Pengawas K3 Laboratorium memastikan ketaatan Good Laboratory Practice (GLP), pengoperasian Fume Hood & Biosafety Cabinet (BSC), penyimpanan bahan kimia inkompatibel, serta penanganan tumpahan bahan kimia berbahaya."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Mencegah insiden keracunan uap kimia, ledakan reaktif, dan kontaminasi biologis di laboratorium."
+        }
+    ],
+    "related_offering_slug": "pengawas-k3-laboratorium",
+    "meta_title": "Apa itu Pengawas K3 Laboratorium? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Pengawas K3 Laboratorium? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikas",
+    "published_at": "2026-07-31"
+}

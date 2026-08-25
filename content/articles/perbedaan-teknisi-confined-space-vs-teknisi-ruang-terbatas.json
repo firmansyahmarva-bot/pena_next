@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9mxtdxw8q57js6yck68zk",
+    "title": "Perbedaan Teknisi Confined Space Kemnaker vs Teknisi BNSP",
+    "slug": "perbedaan-teknisi-confined-space-vs-teknisi-ruang-terbatas",
+    "path": "/panduan/k3-teknis/perbedaan-teknisi-confined-space-vs-teknisi-ruang-terbatas",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Perbandingan kualifikasi pekerja masuk (entrant) dan petugas siaga (attendant) di ruang terbatas skema Kemnaker RI vs BNSP.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Keduanya melatih personel yang memasuki manhole, tangki, atau gorong-gorong untuk melakukan pembersihan, pengelasan, atau inspeksi dengan perlengkapan tripod, harness rescue, blower ventilasi, dan pemantauan gas berkala."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Sertifikasi menjamin zero fatality pada pekerjaan berisiko asfiksia di ruang sempit."
+        }
+    ],
+    "related_offering_slug": "teknisi-confined-space",
+    "meta_title": "Perbedaan Teknisi Confined Space dan Teknisi Ruang Terba",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Teknisi Confined Space dan Teknisi Ruang Terbatas resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, therm",
+    "published_at": "2026-07-31"
+}

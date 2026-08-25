@@ -1,0 +1,140 @@
+{
+    "id": "01kyfffj5wnwac9dhrxp0eqsfj",
+    "type": "training",
+    "name": "Operator Welder Kelas 1",
+    "slug": "operator-welder-kelas-1",
+    "path": "/pelatihan/operator-welder-kelas-1",
+    "title": "Operator Welder Kelas 1",
+    "meta_title": "Sertifikasi Welder Kelas 1 Kemnaker 6G/6GR Pipa Bertekanan",
+    "meta_description": "Lisensi K3 Juru Las Kelas 1 Kemnaker untuk pipa & bejana tekan. Kualifikasi 6G/6GR, uji radiografi NDT X-Ray, standar Permenaker 02/1982 & 01/1988.",
+    "summary": "Pembinaan dan Lisensi K3 Juru Las (Welder) Kelas 1 Kemnaker RI — kualifikasi tertinggi untuk pengelasan pipa bertekanan, bejana tekan, dan ketel uap posisi 6G/6GR dengan pengujian radiografi (NDT X-Ray).",
+    "certification_body": "kemnaker",
+    "base_price": 22000000,
+    "duration": "5 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Juru Las Kelas 1 adalah tingkatan kualifikasi pengelasan tertinggi yang diatur dalam Permenaker No. 02/MEN/1982 tentang Kualifikasi Juru Las di Tempat Kerja. Sertifikasi ini diwajibkan bagi juru las yang melakukan pengelasan pada objek pengawasan K3 berisiko tinggi seperti ketel uap, bejana tekanan, dan tangki timbun."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sesuai Pasal 4 Permenaker No. 02/MEN/1982, Juru Las Kelas 1 berwenang melakukan seluruh pekerjaan pengelasan yang dapat dilakukan oleh Kelas 2 dan Kelas 3, ditambah pekerjaan las posisi paling sulit yaitu 5G, 6G (pipa miring 45° fixed), dan 6GR (pipa miring dengan ring pembatas). Seluruh spesimen hasil lasan wajib lolos pengujian radiografi (NDT X-Ray) dan uji tekuk (bend test)."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Kualifikasi Juru Las di Tempat Kerja.",
+            "source": "Permenaker No. 02/MEN/1982"
+        },
+        {
+            "type": "citation",
+            "text": "Kualifikasi dan Syarat-Syarat Operator Pesawat Uap.",
+            "source": "Permenaker No. 01/MEN/1988"
+        },
+        {
+            "type": "citation",
+            "text": "K3 Bejana Tekanan dan Tangki Timbun.",
+            "source": "Permenaker No. 37 Tahun 2016"
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini dirancang untuk menguji dan menerbitkan Lisensi K3 Kemnaker RI bagi juru las profesional yang menangani pengelasan bertekanan tinggi. Setelah menyelesaikan program, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memahami regulasi K3 pengelasan bejana tekan, boiler, instalasi pipa migas, dan tangki timbun minyak/gas",
+                "Membaca dokumen Welding Procedure Specification (WPS) dan melaksanakan pengelasan sesuai prosedur yang disahkan",
+                "Menguasai pengelasan pipa posisi 6G & 6GR menggunakan kombinasi proses GTAW (TIG root pass) dan SMAW (fill & capping)",
+                "Menghasilkan sambungan las tanpa cacat internal yang memenuhi kriteria keberterimaan radiografi NDT (ASME IX / AWS D1.1)",
+                "Memperoleh Buku Kerja Juru Las Kelas 1 dan Lisensi K3 Kemnaker RI resmi yang diakui dalam proyek migas, EPC, dan pembangkit listrik"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kurikulum pembinaan difokuskan pada pengelasan bejana tekan berstandar tinggi:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Kelompok Dasar: Peraturan perundang-undangan K3 bejana tekan, ketel uap, dan tangki timbun (Permenaker 02/1982, Permenaker 01/1988, Permenaker 37/2016)",
+                "Kelompok Inti: Metalurgi las pipa baja karbon & paduan, penafsiran WPS/PQR, teknik GTAW root pass & SMAW capping, kriteria keberterimaan radiografi (NDT X-Ray)",
+                "Kelompok Praktik: Praktik pengelasan pipa 6G (miring 45° fixed), pengujian radiografi X-Ray spesimen las, uji tekuk (bend test), dan ujian teori Kemnaker RI"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal SMK Teknik / SMA sederajat",
+                "Memiliki sertifikat Juru Las Kelas 2 Kemnaker RI ATAU bukti pengalaman kerja pengelasan pipa minimal 3 tahun (dibuktikan dengan surat keterangan kerja)",
+                "Surat Keterangan Sehat dan TIDAK BUTA WARNA dari dokter (wajib)",
+                "Pasfoto formal latar belakang merah (4x6 & 2x3)",
+                "Fotokopi KTP dan ijazah terakhir"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Kelengkapan administrasi yang umum dipersyaratkan untuk mengikuti program ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter",
+                "Surat rekomendasi/penugasan dari perusahaan (untuk peserta utusan perusahaan)",
+                "Curriculum vitae (untuk skema sertifikasi BNSP)"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan pendidikan minimum dan pengalaman kerja mengikuti ketentuan skema/penunjukan yang berlaku — tim kami akan memverifikasi kelengkapan Anda sebelum pendaftaran diproses."
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul dan materi pelatihan",
+                "Instruktur praktisi tersertifikasi di bidangnya",
+                "Ujian/asesmen sertifikasi",
+                "Sertifikat sesuai skema (Kemnaker RI atau BNSP)",
+                "Konsultasi pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir pendaftaran di halaman ini.",
+                "Terima penawaran resmi: jadwal, biaya, dan persyaratan program.",
+                "Lengkapi berkas administrasi dan lakukan konfirmasi pendaftaran.",
+                "Ikuti pelatihan dan ujian/asesmen sertifikasi.",
+                "Terima sertifikat dan lisensi/kartu kompetensi sesuai skema."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

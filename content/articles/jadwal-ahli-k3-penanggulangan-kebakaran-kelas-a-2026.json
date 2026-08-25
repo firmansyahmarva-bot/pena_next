@@ -1,0 +1,95 @@
+{
+    "id": "01kyw9k9gatrpzg8dkqcxr10sn",
+    "title": "Jadwal Ahli K3 Kebakaran Kelas A 2026",
+    "slug": "jadwal-ahli-k3-penanggulangan-kebakaran-kelas-a-2026",
+    "path": "/panduan/k3-teknis/jadwal-ahli-k3-penanggulangan-kebakaran-kelas-a-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Panduan jadwal Ahli K3 Penanggulangan Kebakaran Kelas A 2026 untuk merencanakan jenjang, batch Kemnaker, dan kebutuhan struktur perusahaan.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Program Kelas A adalah jalur Kemnaker untuk ahli fire safety tingkat lanjut. Data belum menyimpan tanggal batch 2026 terverifikasi. Jadwal harus dikaitkan dengan kelayakan jenjang calon dan gap struktur D-C-B-A, bukan hanya ketersediaan kursi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Durasi Terverifikasi, Tanggal Masih Harus Dikonfirmasi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Durasi tercatat sekitar tujuh hari dan tidak termasuk janji penerbitan dokumen. Perusahaan perlu merencanakan pengganti fungsi penanggung jawab, waktu pemeriksaan dokumen jenjang sebelumnya, serta kemungkinan perubahan batch."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Checklist Sebelum Mengunci Jadwal"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Tanggal mulai/selesai, jam, lokasi, mode, status confirmed, dan kuota",
+                "Sertifikat jenjang, pengalaman, pendidikan, surat tugas, dan kesehatan calon",
+                "Administrasi Kemnaker, evaluasi, biaya, reschedule, serta estimasi dokumen",
+                "Kebutuhan Kelas A versus paket DCBA dan target audit perusahaan"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Siapkan Peserta Sebelum Batch Penuh"
+        },
+        {
+            "type": "paragraph",
+            "text": "Periksa sertifikat Kelas D, C, B atau bukti lain yang disyaratkan sebelum pendaftaran. Jangan menempatkan calon pada batch Kelas A hanya karena jabatannya senior. Pre-check mencegah peserta tertolak atau struktur tetap tidak lengkap."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Batch Publik atau Pelaksanaan Perusahaan?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kelas publik cocok bila gap hanya satu atau dua ahli. Paket perusahaan lebih relevan bila beberapa jenjang dan shift perlu dibangun bersama, tetapi jadwalnya harus menjaga kesiapan fungsi darurat selama pembinaan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Siapkan satu calon cadangan yang juga telah lolos pre-check, terutama untuk kelas dengan kuota atau jadwal proyek ketat. Selaraskan persetujuan atasan, procurement, perjalanan, penginapan, pelepasan shift, dan akses platform sebelum batas daftar. Simpan opsi tanggal kedua bila minimum peserta belum terpenuhi atau operasional berubah. Untuk kelas perusahaan, tetapkan PIC yang mengendalikan daftar peserta, dokumen, fasilitas, komunikasi jadwal, dan keputusan reschedule agar perubahan tidak tersebar melalui pesan yang berbeda-beda."
+        },
+        {
+            "type": "paragraph",
+            "text": "Rencanakan mundur dari tanggal personel harus siap. Sisihkan waktu untuk pre-check, koreksi dokumen, persetujuan anggaran, pendaftaran, pelaksanaan, evaluasi, dan proses penerbitan. Jangan menyamakan tanggal selesai kelas dengan tanggal sertifikat atau lisensi diterima. Minta konfirmasi tertulis mengenai tanggal mulai/selesai, jam dan zona waktu, lokasi atau platform, status confirmed, minimum peserta, batas pendaftaran, kehadiran, reschedule, biaya, evaluasi, retake, serta estimasi dokumen. Jika kebutuhan berasal dari tender, lampirkan klausul aslinya agar penerbit dan jenjang tidak salah."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "FAQ Jadwal 2026"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah Kelas A dapat diambil langsung? Kelayakan harus diperiksa. Apakah tujuh hari termasuk dokumen? Tidak. Apakah paket DCBA lebih cepat? Bergantung struktur dan calon. Apakah in-house tersedia? Dapat dinilai. Apakah jadwal pasti? Harus dikonfirmasi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Jadwal Aktif dan Pre-check"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim struktur D-C-B-A, sertifikat calon, shift, lokasi, peserta, dan target audit. Tim PENA akan menilai jenjang dan memberikan jadwal aktif."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kalender batch 2026 belum terverifikasi dalam data program. Tim PENA akan mengonfirmasi jadwal yang masih aktif; durasi program bukan janji tanggal mulai, kelas pasti berjalan, atau dokumen langsung terbit."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-penanggulangan-kebakaran-kelas-a",
+    "meta_title": "Jadwal Ahli K3 Penanggulangan Kebakaran Kelas A 2026 — G",
+    "meta_description": "Panduan teknis keselamatan Jadwal Ahli K3 Penanggulangan Kebakaran Kelas A 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography",
+    "published_at": "2026-07-31"
+}

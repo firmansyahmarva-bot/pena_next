@@ -1,0 +1,124 @@
+{
+    "id": "01kyfffhst995qp3r7hyn0ybxx",
+    "type": "training",
+    "name": "Fire Watcher",
+    "slug": "fire-watcher",
+    "path": "/pelatihan/fire-watcher",
+    "title": "Fire Watcher",
+    "meta_title": "Fire Watcher",
+    "meta_description": "Pelatihan Fire Watcher (Petugas Pengawas Api). Pengawasan pekerjaan panas (Hot Work Permit), pemantauan spatter, & APAR PASS.",
+    "summary": "Tersedia online.",
+    "certification_body": "none",
+    "base_price": 2500000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Pekerjaan panas (hot work) seperti pengelasan, pemotongan dengan gas/plasma, grinding, dan brazing menghasilkan percikan api, panas tinggi, atau permukaan membara yang berpotensi memicu kebakaran — terutama di area yang memiliki material mudah terbakar, gas mudah menyala, atau debu yang berpotensi meledak. Untuk mengendalikan risiko tersebut, banyak perusahaan menerapkan sistem izin kerja panas (hot work permit) yang mensyaratkan kehadiran seorang Fire Watcher selama dan setelah pekerjaan panas berlangsung."
+        },
+        {
+            "type": "paragraph",
+            "text": "Perlu dipahami bahwa peran fire watcher pada umumnya diatur melalui kebijakan dan prosedur internal perusahaan atau proyek (seperti sistem izin kerja panas dan program manajemen kebakaran tempat kerja), dan bukan merupakan skema sertifikasi kompetensi nasional yang berdiri sendiri. Pelatihan ini disusun untuk membekali peserta dengan pengetahuan dan keterampilan praktis agar mampu menjalankan tugas fire watch secara kompeten sesuai kebutuhan tempat kerja masing-masing."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Fire watcher adalah petugas yang ditugaskan untuk memantau area kerja selama dan setelah aktivitas pekerjaan panas berlangsung, dengan tujuan utama mendeteksi dini potensi kebakaran akibat percikan api, panas sisa, atau material yang membara, serta mengambil tindakan cepat apabila terjadi indikasi awal kebakaran sebelum berkembang menjadi insiden yang lebih besar."
+        },
+        {
+            "type": "paragraph",
+            "text": "Siapa yang perlu mengikuti pelatihan ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pekerja yang ditugaskan sebagai pengawas kebakaran pada pekerjaan pengelasan, pemotongan, atau pekerjaan panas lainnya",
+                "HSE Officer dan supervisor lapangan yang perlu memahami standar pelaksanaan fire watch sebagai bagian dari sistem izin kerja panas",
+                "Perusahaan kontraktor dan pengelola fasilitas yang secara rutin melaksanakan pekerjaan panas di area operasionalnya",
+                "Tim tanggap darurat internal yang ingin memperkuat kompetensi pencegahan kebakaran di lokasi kerja"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Sesuai praktik umum pelaksanaan fire watch di tempat kerja, tugas fire watcher meliputi:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memastikan area kerja telah dipersiapkan dengan aman sebelum pekerjaan panas dimulai, termasuk menyingkirkan atau melindungi material mudah terbakar di sekitar area kerja",
+                "Memantau secara aktif selama pekerjaan panas berlangsung untuk mendeteksi percikan api, bara, atau asap yang berpotensi menimbulkan kebakaran",
+                "Mengenali dan memantau area tersembunyi yang berisiko terkena percikan api, seperti celah lantai, dinding, atau ruang di balik partisi",
+                "Menyediakan dan memastikan alat pemadam api ringan (APAR) yang sesuai tersedia dan siap digunakan di lokasi kerja",
+                "Menghentikan pekerjaan dan memberi peringatan segera apabila terjadi indikasi awal kebakaran",
+                "Melanjutkan pemantauan area kerja pada periode tertentu setelah pekerjaan panas selesai (fire watch pasca-kerja), karena bara api dapat memicu kebakaran meski pekerjaan telah dihentikan",
+                "Berkoordinasi dan berkomunikasi dengan pekerja pengelasan/pemotongan, supervisor, serta tim tanggap darurat apabila dibutuhkan eskalasi penanganan"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Fire watcher yang kompeten membantu perusahaan mencegah insiden kebakaran akibat pekerjaan panas — salah satu penyebab kebakaran industri yang paling umum namun sebenarnya dapat dicegah dengan pengawasan yang tepat. Kompetensi ini bernilai tinggi bagi kontraktor pengelasan, industri manufaktur, fasilitas migas, serta proyek konstruksi yang rutin melaksanakan pekerjaan panas."
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Peserta akan mempelajari sumber-sumber bahaya kebakaran yang umum terjadi pada pekerjaan panas:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Percikan api yang terlontar dan mengenai material mudah terbakar di sekitar atau di bawah area kerja",
+                "Panas konduksi yang merambat melalui logam ke material mudah terbakar di sisi lain suatu struktur",
+                "Akumulasi gas mudah menyala atau debu combustible di area kerja tertutup",
+                "Bara api tersembunyi yang tidak terlihat langsung namun tetap membara setelah pekerjaan selesai",
+                "Kegagalan komunikasi antara pekerja hot work dan fire watcher yang menyebabkan keterlambatan deteksi bahaya"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Materi pelatihan mencakup langkah-langkah pencegahan sebelum pekerjaan panas dimulai, seperti pemeriksaan dan pembersihan area kerja dari material mudah terbakar, penggunaan perisai/penghalang percikan api (fire blanket/welding curtain), memastikan ventilasi memadai untuk mencegah akumulasi gas, serta memastikan sistem izin kerja panas (hot work permit) telah dipenuhi sebelum pekerjaan dimulai. Peserta diperkenalkan pada jenis-jenis alat pemadam api ringan (APAR) yang umum digunakan di tempat kerja, cara memilih jenis APAR yang sesuai dengan kelas kebakaran yang mungkin terjadi di area kerja, cara memeriksa kesiapan APAR sebelum pekerjaan dimulai, serta teknik dasar penggunaan APAR dalam kondisi darurat."
+        },
+        {
+            "type": "paragraph",
+            "text": "Fire watcher tidak bekerja sendiri — efektivitas perannya sangat bergantung pada komunikasi yang baik dengan pekerja hot work, supervisor lapangan, dan tim tanggap darurat. Pelatihan ini menekankan teknik komunikasi yang jelas untuk memberi peringatan dini, prosedur pelaporan kondisi darurat, serta koordinasi penghentian pekerjaan (stop work authority) apabila kondisi tidak aman terdeteksi. Peserta mempelajari langkah dasar yang perlu diambil apabila indikasi kebakaran terdeteksi, termasuk memberi peringatan kepada pekerja di sekitar, melakukan pemadaman awal menggunakan APAR jika aman dilakukan, serta mengaktifkan prosedur evakuasi dan pelaporan kepada pihak berwenang di lokasi kerja apabila situasi tidak dapat dikendalikan secara mandiri."
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan disampaikan melalui pemaparan teori mengenai karakteristik kebakaran dan pekerjaan panas, studi kasus insiden kebakaran akibat hot work, praktik penggunaan APAR, serta simulasi peran fire watch dalam skenario pekerjaan panas untuk melatih kewaspadaan dan pengambilan keputusan cepat peserta. Peserta yang menyelesaikan pelatihan akan memperoleh sertifikat pelatihan dari PENA Consultant sebagai bukti telah mengikuti pembekalan kompetensi fire watch, yang dapat digunakan perusahaan sebagai bagian dari pemenuhan kompetensi petugas dalam sistem izin kerja panas internal."
+        }
+    ],
+    "requirements": [
+        {
+            "type": "paragraph",
+            "text": "Peserta diharapkan memiliki kondisi fisik yang memadai untuk bertugas mengawasi area kerja dalam periode tertentu, kemampuan memahami instruksi keselamatan dasar, serta kelengkapan dokumen administratif seperti KTP dan pas foto."
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP",
+                "Pas foto"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "paragraph",
+            "text": "Peserta mendapatkan materi pelatihan, instruktur berpengalaman di bidang pencegahan kebakaran dan K3, praktik penggunaan alat pemadam api, serta sertifikat pelatihan."
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "paragraph",
+            "text": "Untuk jadwal pelatihan dan informasi pendaftaran, hubungi tim PENA Consultant melalui kontak resmi di penaconsultant.com."
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

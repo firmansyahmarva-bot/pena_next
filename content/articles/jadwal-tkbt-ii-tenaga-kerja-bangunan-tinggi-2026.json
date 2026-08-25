@@ -1,0 +1,95 @@
+{
+    "id": "01kyw9mcypssrr9xcabt40s7r3",
+    "title": "Jadwal TKBT Tingkat II BNSP 2026",
+    "slug": "jadwal-tkbt-ii-tenaga-kerja-bangunan-tinggi-2026",
+    "path": "/panduan/k3-teknis/jadwal-tkbt-ii-tenaga-kerja-bangunan-tinggi-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Panduan jadwal TKBT Tingkat II 2026 untuk memeriksa jenjang lanjutan, bukti pengalaman, praktik rescue, alat, biaya, dan kebutuhan proyek.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Jadwal TKBT II 2026 relevan bagi pekerja ketinggian lanjutan yang telah memiliki dasar dan pengalaman sesuai. Data program mencatat jalur BNSP serta durasi sekitar tiga hari. Tanggal belum terverifikasi; jabatan senior atau kepemilikan TKBT I saja belum otomatis membuktikan kesiapan jenjang II."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Jadwal Aktif, Bukan Tanggal Rekaan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Tiga hari tidak mencakup seluruh review portofolio dan penerbitan. Konfirmasikan skema, asesor, tanggal pre-assessment/asesmen, lokasi praktik, alat, teknik lanjutan/rescue, cuaca, kuota, status batch, retake, dan estimasi sertifikat."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Checklist Verifikasi Batch 2026"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Tanggal review/praktik/asesmen, LSP, skema, asesor, lokasi, alat, kuota, dan status",
+                "Sertifikat jenjang, pengalaman, metode akses, rescue, pekerjaan, kesehatan, dan klausul klien",
+                "CV, portofolio, log/bukti kerja, pemeriksaan kesehatan, identitas, serta dokumen",
+                "Biaya, alat/APD, fasilitas, retake/perbaikan bukti, perjalanan, pajak, dan reschedule"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pre-check Peserta dan Bukti Kerja"
+        },
+        {
+            "type": "paragraph",
+            "text": "Portofolio perlu menunjukkan pekerjaan ketinggian lanjutan dan peran calon, bukan sekadar foto berada di atas struktur. Data klien dapat disamarkan. Kandidat harus memahami batas kompetensi, inspeksi alat, pemilihan sistem, komunikasi, rescue, dan penghentian kerja."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Batch Publik atau Pelatihan In-house?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Batch publik cocok untuk calon siap. In-house dapat memakai konteks struktur perusahaan setelah penilaian risiko. Pastikan alat kompatibel, anchor/fasilitas layak, rescue team tersedia, area dibatasi, dan kegiatan tidak dipaksakan saat cuaca buruk."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan Harga, Syarat, dan Sertifikat"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah TKBT II bisa diambil tanpa TKBT I? Ikuti skema dan pre-check. Apakah tiga hari termasuk sertifikat? Tidak. Apakah rescue termasuk? Periksa unit dan fasilitas. Apakah lulus dijamin? Tidak. Apakah sama dengan TKPK? Tidak."
+        },
+        {
+            "type": "paragraph",
+            "text": "Rencanakan mundur dari target audit, tender, shutdown, atau mobilisasi. Sisihkan waktu untuk pemeriksaan syarat, koreksi dokumen, persetujuan anggaran, pendaftaran, pelaksanaan, evaluasi atau asesmen, perbaikan bila diperlukan, dan proses dokumen hasil. Tanggal selesai kelas bukan janji sertifikat, lisensi, atau keputusan kompeten langsung terbit. Simpan satu opsi tanggal cadangan dan jangan membeli tiket sebelum status batch, lokasi, serta minimum peserta dikonfirmasi tertulis."
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk permintaan perusahaan, tunjuk satu PIC yang mengendalikan daftar peserta, dokumen, PO, fasilitas praktik, komunikasi jadwal, dan reschedule. Quotation perlu menjelaskan harga per peserta atau paket, pajak, minimum peserta, alat dan bahan praktik, perjalanan, konsumsi, evaluasi, retake, penggantian nama, pembatalan, serta estimasi dokumen. Perbandingan seperti ini lebih berguna daripada memilih angka headline termurah."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Jadwal Aktif dan Quotation"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim sertifikat jenjang, CV, portofolio, metode akses, rescue plan, kesehatan, peserta, lokasi, dan target. Tim PENA akan menilai kesiapan lalu memberi jadwal TKBT II aktif."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kalender batch 2026 belum terverifikasi dalam data program. Tim PENA akan memeriksa jadwal aktif, jalur, dan kesiapan peserta sebelum memberikan rekomendasi."
+        }
+    ],
+    "related_offering_slug": "tkbt-ii-tenaga-kerja-bangunan-tinggi",
+    "meta_title": "Jadwal TKBT II (Tenaga Kerja Bangunan Tinggi) 2026 — Gui",
+    "meta_description": "Panduan teknis keselamatan Jadwal TKBT II (Tenaga Kerja Bangunan Tinggi) 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography A",
+    "published_at": "2026-07-31"
+}

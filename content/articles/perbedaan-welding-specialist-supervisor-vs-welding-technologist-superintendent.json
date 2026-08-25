@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9myt6m3bp6wgetwcz3bnd",
+    "title": "Perbedaan Welding Specialist vs Welding Technologist",
+    "slug": "perbedaan-welding-specialist-supervisor-vs-welding-technologist-superintendent",
+    "path": "/panduan/sertifikasi-k3/perbedaan-welding-specialist-supervisor-vs-welding-technologist-superintendent",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Perbedaan tingkat kewenangan antara Welding Specialist (supervisi teknis menengah) dan Welding Technologist / Superintendent (manajemen fabrikasi skala besar).",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Welding Specialist mengawasi operasional teknis pengelasan di lini produksi; Welding Technologist memegang tanggung jawab manajerial fabrikasi, pemilihan material khusus, dan koordinasi mutu multi-proyek."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Dua jenjang koordinasi pengelasan berstandar International Institute of Welding (IIW)."
+        }
+    ],
+    "related_offering_slug": "welding-specialist-supervisor",
+    "meta_title": "Perbedaan Welding Specialist/Supervisor dan Welding Tech",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Welding Specialist/Supervisor dan Welding Technologist/Superintendent resmi Kemnaker RI dan BNSP. Persyaratan, ",
+    "published_at": "2026-07-31"
+}

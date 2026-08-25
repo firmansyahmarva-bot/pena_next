@@ -1,0 +1,62 @@
+{
+    "id": "01kyw9mvybjct4wfwps1rkn4jc",
+    "title": "Perbedaan Ahli K3 Konstruksi vs Ahli Muda K3 Konstruksi",
+    "slug": "perbedaan-ahli-k3-konstruksi-vs-ahli-muda-k3-konstruksi",
+    "path": "/panduan/k3-teknis/perbedaan-ahli-k3-konstruksi-vs-ahli-muda-k3-konstruksi",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Perbandingan jenjang kualifikasi, nilai proyek, dan tanggung jawab hukum antara Ahli K3 Konstruksi (Utama/Madya) dan Ahli Muda K3 Konstruksi sesuai Permenaker 01/1980.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Proyek konstruksi memiliki dinamika bahaya yang sangat tinggi seiring pergantian tahapan proyek (pondasi, struktur, MEP, finishing). Regulasi ketenagakerjaan dan Kementerian PUPR membagi kualifikasi keselamatan konstruksi menjadi beberapa jenjang."
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja pada Konstruksi Bangunan.",
+            "source": "Permenaker No. 01/MEN/1980"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Perbedaan Ruang Lingkup dan Skala Proyek"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Kategori",
+                "Ahli Muda K3 Konstruksi",
+                "Ahli K3 Konstruksi (Madya/Utama)"
+            ],
+            "rows": [
+                [
+                    "Skala Proyek",
+                    "Proyek konstruksi skala kecil hingga menengah (tenaga kerja 25–100 orang / nilai proyek moderat)",
+                    "Proyek konstruksi skala besar, megastruktur, multi-years, atau risiko tinggi (>100 pekerja)"
+                ],
+                [
+                    "Peran Pokok",
+                    "Mengawasi pelaksanaan Rencana Keselamatan Konstruksi (RKK) dan safety induction harian",
+                    "Merumuskan RKK, memimpin audit SMKK, dan berkoordinasi langsung dengan Project Manager"
+                ],
+                [
+                    "Prasyarat Pengalaman",
+                    "D3/S1 teknik dengan pengalaman awal di bidang konstruksi",
+                    "S1 Teknik dengan pengalaman minimal 3–5 tahun dalam manajemen keselamatan konstruksi"
+                ]
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Memiliki personel bersertifikat Ahli K3 Konstruksi adalah syarat mutlak lolos tender proyek pemerintah dan audit SMKK PUPR."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-konstruksi",
+    "meta_title": "Perbedaan Ahli K3 Konstruksi dan Ahli Muda K3 Konstruksi",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Ahli K3 Konstruksi dan Ahli Muda K3 Konstruksi resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermogr",
+    "published_at": "2026-07-31"
+}

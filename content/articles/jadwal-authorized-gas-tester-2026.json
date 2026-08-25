@@ -1,0 +1,95 @@
+{
+    "id": "01kyw9kenkq8h0hh8dtekdskq9",
+    "title": "Jadwal Authorized Gas Tester BNSP 2026",
+    "slug": "jadwal-authorized-gas-tester-2026",
+    "path": "/panduan/k3-teknis/jadwal-authorized-gas-tester-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Panduan jadwal Authorized Gas Tester BNSP 2026 untuk mengatur asesmen, bukti pengalaman, alat praktik, kuota, dan kebutuhan migas.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Data program mencatat AGT sebagai skema BNSP bagi petugas uji gas area tertutup atau migas, tetapi belum memiliki tanggal batch 2026 terverifikasi. Jangan menggunakan jadwal pelatihan H2S atau gas awareness sebagai pengganti AGT."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Durasi Terverifikasi, Tanggal Masih Harus Dikonfirmasi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Durasi tercatat sekitar tiga hari. Ini bukan jaminan dokumen terbit atau keputusan kompeten dalam tiga hari. Kesiapan portofolio, detector praktik, asesor, dan proses LSP memengaruhi garis waktu."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Checklist Sebelum Mengunci Jadwal"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Tanggal persiapan/asesmen, jam, mode, lokasi, LSP, dan status batch",
+                "Skema/unit, asesor, kuota, batas daftar, serta minimum peserta",
+                "CV, pengalaman gas testing, log/permit, jenis detector, dan kebutuhan klien",
+                "Biaya, alat praktik, retake, reschedule, dan estimasi dokumen"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Siapkan Peserta Sebelum Batch Penuh"
+        },
+        {
+            "type": "paragraph",
+            "text": "Calon perlu memahami sampling, pemeriksaan alat, sensor, interpretasi, pencatatan, dan tindakan. Kirim contoh log yang disamarkan dan jenis detector agar gap dapat diperiksa sebelum asesmen."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Batch Publik atau Pelaksanaan Perusahaan?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Batch publik sesuai bagi peserta individual. In-house bermanfaat bila perusahaan menyediakan alat dan skenario relevan, tetapi kalibrasi, area aman, peserta, dan asesor harus dikonfirmasi."
+        },
+        {
+            "type": "paragraph",
+            "text": "Siapkan satu calon cadangan yang juga telah lolos pre-check, terutama untuk kelas dengan kuota atau jadwal proyek ketat. Selaraskan persetujuan atasan, procurement, perjalanan, penginapan, pelepasan shift, dan akses platform sebelum batas daftar. Simpan opsi tanggal kedua bila minimum peserta belum terpenuhi atau operasional berubah. Untuk kelas perusahaan, tetapkan PIC yang mengendalikan daftar peserta, dokumen, fasilitas, komunikasi jadwal, dan keputusan reschedule agar perubahan tidak tersebar melalui pesan yang berbeda-beda."
+        },
+        {
+            "type": "paragraph",
+            "text": "Rencanakan mundur dari tanggal personel harus siap. Sisihkan waktu untuk pre-check, koreksi dokumen, persetujuan anggaran, pendaftaran, pelaksanaan, evaluasi, dan proses penerbitan. Jangan menyamakan tanggal selesai kelas dengan tanggal sertifikat atau lisensi diterima. Minta konfirmasi tertulis mengenai tanggal mulai/selesai, jam dan zona waktu, lokasi atau platform, status confirmed, minimum peserta, batas pendaftaran, kehadiran, reschedule, biaya, evaluasi, retake, serta estimasi dokumen. Jika kebutuhan berasal dari tender, lampirkan klausul aslinya agar penerbit dan jenjang tidak salah."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "FAQ Jadwal 2026"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah H2S sama dengan AGT? Tidak. Apakah detector disediakan? Tanyakan. Apakah tiga hari termasuk dokumen? Tidak. Apakah retake termasuk? Harus tertulis. Apakah sertifikat diterima klien? Verifikasi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Jadwal Aktif dan Pre-check"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim CV, pengalaman, detector, log/permit, klausul klien, peserta, lokasi, dan tenggat. Tim PENA akan memeriksa skema dan jadwal."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kalender batch 2026 belum terverifikasi dalam data program. Tim PENA akan mengonfirmasi jadwal yang masih aktif; durasi program bukan janji tanggal mulai, kelas pasti berjalan, atau dokumen langsung terbit."
+        }
+    ],
+    "related_offering_slug": "authorized-gas-tester",
+    "meta_title": "Jadwal Authorized Gas Tester 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Jadwal Authorized Gas Tester 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikas",
+    "published_at": "2026-07-31"
+}

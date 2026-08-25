@@ -1,0 +1,126 @@
+{
+    "id": "01kyfffj1bvtmmbhk4m48sv5p0",
+    "type": "training",
+    "name": "Operator Pesawat Tenaga Produksi (PTP)",
+    "slug": "operator-pesawat-tenaga-produksi-ptp",
+    "path": "/pelatihan/operator-pesawat-tenaga-produksi-ptp",
+    "title": "Operator Pesawat Tenaga Produksi (PTP)",
+    "meta_title": "Operator Pesawat Tenaga Produksi (PTP)",
+    "meta_description": "Sertifikasi Operator Pesawat Tenaga & Produksi (PTP) Kemnaker. Pengoperasian penggerak mula, mesin perkakas, & Permenaker 38/2016.",
+    "summary": "Operator Pesawat Tenaga dan Produksi (PTP) adalah program pembinaan dan sertifikasi operator pesawat tenaga dan produksi sesuai Permenaker No. 38 Tahun 2016 tentang K3 Pesawat Tenaga dan Produksi — operator wajib memiliki lisensi K3 sesuai jenis peralatan. Tersedia online & offline.",
+    "certification_body": "kemnaker",
+    "base_price": 6000000,
+    "duration": "5 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Penggunaan peralatan mekanis berdaya besar dalam proses manufaktur dan industri — seperti penggerak mula (motor diesel/genset), mesin perkakas, mesin produksi, dan tanur (furnace) — memiliki peran vital dalam menggerakkan roda produksi. Namun, di balik efisiensinya, peralatan ini menyimpan potensi bahaya tinggi seperti risiko ledakan, kebakaran, terjepit, tersengat listrik, hingga kecelakaan fatal jika dioperasikan oleh personel yang tidak memenuhi standar kompetensi."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Pesawat Tenaga dan Produksi.",
+            "source": "Permenaker No. 38 Tahun 2016"
+        },
+        {
+            "type": "paragraph",
+            "text": "Permenaker No. 38 Tahun 2016 secara resmi mencabut dan menggantikan peraturan lama PER.04/MEN/1985, memperketat standar pengawasan teknis dan kualifikasi operator."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Untuk menjamin keselamatan kerja dan mencegah kerusakan aset industri, Kementerian Ketenagakerjaan RI mewajibkan seluruh pengoperasian Pesawat Tenaga dan Produksi dilakukan oleh operator tersertifikasi yang memiliki Lisensi K3 (SIO)."
+        },
+        {
+            "type": "paragraph",
+            "text": "Berdasarkan Permenaker 38/2016, Pesawat Tenaga dan Produksi dibagi menjadi 4 kelompok utama: penggerak mula (motor bakar/motor diesel/genset, turbin gas/uap/air, kincir angin); mesin perkakas dan produksi (mesin bubut, skrap, press, milling, gergaji, CNC, serta robot industri); tanur/furnace (tanur pemanas, tanur peleburan/smelter, oven industri, boiler pemanas proses); dan transmisi tenaga mekanik (poros penggerak, roda gigi, rantai, dan sabuk transmisi)."
+        },
+        {
+            "type": "paragraph",
+            "text": "Seorang Operator PTP yang memiliki Lisensi K3 bertugas:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Melakukan pemeriksaan awal (pre-operational check) dan perawatan harian sebelum mesin dijalankan",
+                "Mengoperasikan mesin sesuai Prosedur Operasi Standar (SOP) dan batas kemampuan mesin",
+                "Memastikan seluruh perlengkapan pengaman (safety device/interlock) berfungsi baik",
+                "Mengidentifikasi kelainan operasi (troubleshooting dasar) dan segera melaporkan kondisi tidak aman kepada supervisor",
+                "Mengisi buku harian pengoperasian (logbook) pesawat tenaga dan produksi"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kualifikasi operator dibedakan berdasarkan kapasitas daya mesin dan tingkat kompleksitas peralatan. Operator penggerak mula (motor diesel/genset) Kelas II mengoperasikan kapasitas daya di atas 100 HP s.d. 214 HP (syarat minimal SLTP + pengalaman 3 tahun, atau SLTA usia minimal 21 tahun), sedangkan Kelas I mengoperasikan kapasitas daya di atas 214 HP (syarat minimal SLTA + pengalaman minimal 5 tahun, usia minimal 23 tahun). Operator mesin perkakas dan produksi mengikuti pola serupa: Kelas II untuk mesin produksi kategori sedang (SLTP + pengalaman 3 tahun, usia minimal 21 tahun), Kelas I untuk mesin produksi kapasitas besar/otomatisasi tinggi (SLTA + pengalaman 5 tahun, usia minimal 23 tahun). Operator tanur (furnace) mensyaratkan minimal SLTA dengan pengalaman minimal 5 tahun di bidangnya (usia minimal 23 tahun)."
+        },
+        {
+            "type": "paragraph",
+            "text": "Materi pelatihan mencakup:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Kelompok umum: kebijakan K3 Nasional, UU No. 1 Tahun 1970, dan Permenaker No. 38 Tahun 2016",
+                "Pengetahuan dasar engine/mesin perkakas/tanur",
+                "Dasar-dasar kelistrikan dan sistem kontrol mesin",
+                "Pengetahuan dasar pondasi dan transmisi mekanis",
+                "Perangkat keselamatan kerja (safety guard & emergency stop)",
+                "Pemeriksaan, pengujian, dan pemeliharaan berkala",
+                "Analisis sebab kecelakaan kerja pada mesin produksi"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Evaluasi kelulusan meliputi ujian praktik pengoperasian langsung dan evaluasi tertulis melalui portal TemanK3 Kemnaker RI."
+        }
+    ],
+    "requirements": [
+        {
+            "type": "paragraph",
+            "text": "Persyaratan pendidikan, usia, dan pengalaman kerja mengikuti kelas dan jenis pesawat yang dituju (lihat rincian kelas pada bagian Ruang Lingkup) — tim kami akan membantu memastikan kesesuaian sebelum pendaftaran."
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Scan ijazah terakhir asli (minimal SLTP/SLTA sesuai kelas)",
+                "Scan KTP asli",
+                "Scan surat keterangan kerja dari perusahaan (menyatakan posisi/pengalaman operator)",
+                "Scan surat keterangan sehat dari dokter",
+                "Pakta integritas bersedia mengikuti pelatihan",
+                "Pasfoto formal latar belakang merah"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Sertifikat Pembinaan K3 resmi dari Kemnaker RI",
+                "Surat Izin Operasi (SIO)/Lisensi K3 Operator resmi dari Kemnaker RI",
+                "Modul pelatihan & training kit eksklusif",
+                "Sesi praktik pengoperasian langsung didampingi instruktur ahli"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "paragraph",
+            "text": "Kepemilikan SIO merupakan kewajiban hukum sesuai Permenaker 38/2016 — pabrik yang membiarkan operator tanpa SIO mengoperasikan mesin berisiko terkena sanksi administratif, penghentian alat oleh Pengawas K3, serta gugatan hukum jika terjadi kecelakaan kerja. Lisensi/SIO Operator PTP berlaku 5 tahun dan dapat diperpanjang melalui PENA Consultant dengan melampirkan SIO lama dan surat keterangan sehat dokter. Pelatihan dan penunjukan SIO diterbitkan spesifik sesuai sub-bidang jenis alat (misalnya SIO Penggerak Mula untuk genset, atau SIO Mesin Perkakas Produksi untuk CNC/press) — tim kami akan membantu memetakan jenis SIO yang sesuai dengan alat di pabrik Anda."
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

@@ -1,0 +1,56 @@
+{
+    "id": "01kzqcbd8cysn8r9k1s8b1nwg0",
+    "type": "training",
+    "name": "Ahli K3 Umum BNSP",
+    "slug": "ahli-k3-umum-bnsp",
+    "path": "/pelatihan/ahli-k3-umum-bnsp",
+    "title": "Ahli K3 Umum BNSP",
+    "meta_title": "Ahli K3 Umum BNSP",
+    "meta_description": "Program Uji Kompetensi & Sertifikasi Ahli K3 Umum BNSP (Badan Nasional Sertifikasi Profesi) berbasis SKKNI (Standar Kompetensi Kerja Nasional Indonesia). Mengukur dan menguji kualifikasi manajerial K3 untuk pengakuan kompetensi nasional dan internasional.",
+    "summary": "Program Uji Kompetensi & Sertifikasi Ahli K3 Umum BNSP (Badan Nasional Sertifikasi Profesi) berbasis SKKNI (Standar Kompetensi Kerja Nasional Indonesia). Mengukur dan menguji kualifikasi manajerial K3 untuk pengakuan kompetensi nasional dan internasional.",
+    "certification_body": "bnsp",
+    "base_price": null,
+    "duration": null,
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Standar Kompetensi Kerja Nasional Indonesia (SKKNI) Bidang K3."
+        },
+        {
+            "type": "paragraph",
+            "text": "Peraturan Badan Nasional Sertifikasi Profesi (BNSP) tentang Tata Cara Pelaksanaan Uji Kompetensi."
+        },
+        {
+            "type": "paragraph",
+            "text": "Pedoman Lembaga Sertifikasi Profesi (LSP) dan Tempat Uji Kompetensi (TUK) Terakreditasi."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Menguji dan memverifikasi kompetensi kerja praktisi K3 sesuai dengan Standar Kompetensi SKKNI."
+        },
+        {
+            "type": "paragraph",
+            "text": "Menerbitkan Sertifikat Kompetensi Berlogo Garuda Emas BNSP yang diakui secara nasional dan industri ASEAN."
+        }
+    ],
+    "scope": [],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal D3/S1 dengan pengalaman kerja di bidang K3 sekurang-kurangnya 1-2 tahun.",
+                "Menyiapkan berkas portofolio bukti kerja (Laporan JSA, HIRADC, SOP K3, Sertifikat Pelatihan K3).",
+                "Fotokopi Ijazah, KTP, Surat Keterangan Kerja Perusahaan, & Pasfoto 3x4 background merah.",
+                "Mengisi Formulir Asesmen Mandiri (APL-01 & APL-02)."
+            ]
+        }
+    ],
+    "documents": [],
+    "facilities": [],
+    "registration_procedure": [],
+    "hero_media": null,
+    "batches": []
+}

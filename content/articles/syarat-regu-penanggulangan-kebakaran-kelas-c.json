@@ -1,0 +1,101 @@
+{
+    "id": "01kyw9mb5py33cerx3nqnfdqzv",
+    "title": "Syarat Regu Penanggulangan Kebakaran Kelas C",
+    "slug": "syarat-regu-penanggulangan-kebakaran-kelas-c",
+    "path": "/panduan/k3-teknis/syarat-regu-penanggulangan-kebakaran-kelas-c",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat Regu Penanggulangan Kebakaran Kelas C perlu melihat pengalaman jenjang dasar, kesehatan, penugasan tim, dokumen, alat, area, shift, dan struktur komando.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Kelas C adalah regu yang bekerja sebagai tim, sehingga pendaftaran tidak boleh diperlakukan sebagai kumpulan individu tanpa rencana penempatan. Calon perlu siap melakukan praktik fisik, memahami respons awal, berkomunikasi, mengikuti komando, menggunakan sarana pemadaman sesuai lingkup, dan tersedia pada shift yang membutuhkan. Pengalaman atau jenjang sebelumnya harus diverifikasi sesuai aturan pembinaan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kriteria Calon Anggota Regu"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Ditugaskan perusahaan sebagai anggota Regu Kelas C",
+                "Sehat dan mampu mengikuti aktivitas praktik pemadaman",
+                "Memiliki pengalaman/pemahaman dasar kebakaran yang relevan",
+                "Bersedia mengikuti latihan tim dan penempatan per shift"
+            ]
+        },
+        {
+            "type": "citation",
+            "text": "Unit Penanggulangan Kebakaran di Tempat Kerja.",
+            "source": "Kepmenaker No. 186/MEN/1999"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ketentuan pendidikan, pengalaman, dan jenjang perlu diperiksa pada proses resmi. Sertifikat Kelas D atau pengalaman internal dapat menjadi konteks, tetapi jangan menjanjikan kelayakan sebelum berkas dilihat. Perusahaan juga perlu memastikan calon tidak memiliki keterbatasan kesehatan yang membuat praktik atau tugas darurat tidak aman."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Berkas dan Struktur Regu"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah, CV, pas foto, surat sehat, dan surat tugas",
+                "Sertifikat damkar sebelumnya bila dimiliki",
+                "Daftar anggota per regu, area, shift, koordinator, dan cadangan",
+                "Profil bahaya, APAR/hidran, luas fasilitas, dan target audit"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Satu atau dua peserta tidak otomatis membentuk regu. Hitung kebutuhan dari shift, luas, risiko, waktu respons, dan ketersediaan. Personel yang mengikuti kelas bersamaan juga meninggalkan tugas rutin; pembagian angkatan perlu menjaga cakupan darurat. Untuk unit baru, paket tim memungkinkan calon berlatih bersama tetapi tetap harus terhubung dengan Kelas B dan A."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kesiapan Sistem Setelah Pelatihan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Regu membutuhkan alat layak, inspeksi, latihan rutin, komunikasi, command structure, muster control, evakuasi, dan batas respons. Sertifikat tidak membuat personel aman memasuki asap atau melakukan interior firefighting tanpa peralatan serta prosedur yang sesuai. Perusahaan harus mendefinisikan kapan regu mundur dan menyerahkan penanganan kepada pemadam eksternal."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Quotation Berdasarkan Regu, Bukan Kuota"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim struktur DCBA, daftar calon per shift, profil fasilitas, sarana pemadaman, dokumen peserta, lokasi, dan tenggat. Tim PENA akan memeriksa syarat, jumlah angkatan, jadwal, serta biaya. Bila kekurangan juga ada pada Kelas D, B, dan A, perusahaan dapat membandingkan paket paralel DCBA."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan yang Sering Diajukan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah satu peserta Kelas C sudah disebut regu? Tidak. Regu memerlukan anggota, komando, alat, komunikasi, latihan, cakupan shift, dan personel cadangan. Jumlah harus dipetakan dari profil fasilitas dan struktur yang berlaku."
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah calon harus pernah mengikuti Kelas D? Jenjang dan bukti pengalaman perlu diverifikasi pada ketentuan pembinaan aktif. Kirim sertifikat lama serta pengalaman calon; jangan menganggap satu persyaratan selalu berlaku untuk setiap kondisi."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim daftar regu dan shift agar kebutuhan Kelas C dihitung sebagai sistem, bukan jumlah sertifikat."
+        }
+    ],
+    "related_offering_slug": "regu-penanggulangan-kebakaran-kelas-c",
+    "meta_title": "Syarat Mengikuti Regu Penanggulangan Kebakaran Kelas C —",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Regu Penanggulangan Kebakaran Kelas C resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermograp",
+    "published_at": "2026-07-31"
+}

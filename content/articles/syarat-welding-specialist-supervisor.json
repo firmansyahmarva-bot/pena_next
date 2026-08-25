@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9mrhcy8tmmxjvqx4ebdcp",
+    "title": "Syarat Mengikuti Sertifikasi Welding Specialist / Supervisor",
+    "slug": "syarat-welding-specialist-supervisor",
+    "path": "/panduan/sertifikasi-k3/syarat-welding-specialist-supervisor",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Persyaratan sertifikasi Welding Specialist / Supervisor.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Pendidikan D3/S1 Teknik atau Welding Foreman berpengalaman dengan pemahaman metalurgi las dasar."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Mencakup perancangan urutan pengelasan (welding sequence) untuk meminimalkan distorsi termal."
+        }
+    ],
+    "related_offering_slug": "welding-specialist-supervisor",
+    "meta_title": "Syarat Mengikuti Welding Specialist/Supervisor — Guide 2",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Welding Specialist/Supervisor resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, d",
+    "published_at": "2026-07-31"
+}

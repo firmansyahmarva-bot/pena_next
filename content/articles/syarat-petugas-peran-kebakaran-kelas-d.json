@@ -1,0 +1,101 @@
+{
+    "id": "01kyw9m9s4czygm0b5m9yf37f0",
+    "title": "Syarat Petugas Peran Kebakaran Kelas D",
+    "slug": "syarat-petugas-peran-kebakaran-kelas-d",
+    "path": "/panduan/k3-teknis/syarat-petugas-peran-kebakaran-kelas-d",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat Petugas Peran Kebakaran Kelas D mencakup penugasan perusahaan, kesehatan, kesiapan respons awal, dokumen peserta, dan pemetaan kebutuhan per area serta shift.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Kelas D adalah petugas peran kebakaran pada tingkat dasar, tetapi pemilihannya tetap perlu direncanakan. Perusahaan membutuhkan orang yang berada di area saat kejadian, mampu mengenali alarm, melapor, membantu evakuasi, dan melakukan respons awal hanya bila aman. Mengirim karyawan kantor pusat tidak menyelesaikan kekosongan pada shift malam atau area produksi yang jauh."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Calon Peserta yang Tepat"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Ditunjuk perusahaan untuk mengisi fungsi Kelas D pada area/shift tertentu",
+                "Sehat dan mampu mengikuti praktik respons awal",
+                "Memahami area kerja, jalur evakuasi, alarm, dan titik kumpul",
+                "Bersedia mengikuti seluruh pembinaan serta simulasi"
+            ]
+        },
+        {
+            "type": "citation",
+            "text": "Unit Penanggulangan Kebakaran di Tempat Kerja.",
+            "source": "Kepmenaker No. 186/MEN/1999"
+        },
+        {
+            "type": "paragraph",
+            "text": "Rincian dokumen dan kelayakan harus dikonfirmasi terhadap ketentuan pembinaan. Kelas D tidak identik dengan pelatihan APAR singkat dan tidak menggantikan Regu Kelas C. Perusahaan perlu menentukan jumlah berdasarkan risiko kebakaran, luas, jumlah pekerja, shift, pembagian area, absensi, serta waktu kedatangan regu internal atau bantuan eksternal."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dokumen dan Peta Kebutuhan"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah, pas foto, surat sehat, dan surat tugas",
+                "Daftar calon beserta area dan shift penempatan",
+                "Jumlah pekerja, luas, fungsi area, dan bahaya kebakaran utama",
+                "Struktur D-C-B-A serta sertifikat yang sudah tersedia"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Susun matriks sederhana agar tidak ada shift tanpa petugas. Siapkan cadangan untuk cuti dan turnover. Nama harus konsisten pada dokumen. Bila perusahaan memiliki beberapa lokasi, jangan menggabungkan semuanya ke satu angka; profil bahaya, akses, dan jumlah pekerja setiap fasilitas dapat berbeda."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Setelah Peserta Lulus"
+        },
+        {
+            "type": "paragraph",
+            "text": "Perusahaan tetap harus menyediakan APAR yang tepat dan layak, alarm, jalur evakuasi, signage, titik kumpul, prosedur pelaporan, drill, inspeksi, serta koordinasi dengan Kelas C/B/A. Kelas D tidak boleh diminta melakukan pemadaman di luar kemampuan. Kondisi penghentian respons dan prioritas evakuasi harus jelas."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Jadwal dan Biaya In-House"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim profil fasilitas, area, shift, jumlah peserta, struktur damkar, dokumen calon, lokasi, dan target audit. Tim PENA akan membantu menghitung kelompok, memeriksa kelengkapan, dan memberikan jadwal serta penawaran. Jika seluruh struktur belum ada, paket DCBA dapat dibandingkan dengan pelaksanaan Kelas D saja."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan yang Sering Diajukan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah pelatihan APAR sama dengan Kelas D? Tidak boleh langsung disamakan. Pembinaan Kelas D terkait peran dalam struktur kebakaran, sedangkan pelatihan APAR internal dapat memiliki tujuan dan dokumen berbeda. Pastikan kebutuhan audit disebut lengkap."
+        },
+        {
+            "type": "paragraph",
+            "text": "Berapa orang Kelas D yang dibutuhkan? Tidak ada satu angka aman untuk semua fasilitas. Hitung berdasarkan ketentuan berlaku, pekerja, risiko, area, shift, absensi, dan respons internal. Tim memerlukan data tersebut sebelum memberi rekomendasi."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim jumlah pekerja per shift dan struktur damkar saat ini untuk menghitung kebutuhan Kelas D."
+        }
+    ],
+    "related_offering_slug": "petugas-peran-kebakaran-kelas-d",
+    "meta_title": "Syarat Mengikuti Petugas Peran Kebakaran Kelas D — Guide",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Petugas Peran Kebakaran Kelas D resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI,",
+    "published_at": "2026-07-31"
+}

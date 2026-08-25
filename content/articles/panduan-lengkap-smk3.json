@@ -1,0 +1,78 @@
+{
+    "id": "01kyhqmdqz76ftma5zqtbcfhyk",
+    "title": "Panduan Lengkap SMK3 (Sistem Manajemen K3 PP 50/2012)",
+    "slug": "panduan-lengkap-smk3",
+    "path": "/panduan/smk3",
+    "role": "pillar",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Panduan komprehensif Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) berbasis PP No. 50 Tahun 2012, 5 prinsip pokok, 12 elemen, dan 166 kriteria audit.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) adalah bagian dari sistem manajemen perusahaan secara keseluruhan dalam rangka pengendalian risiko yang berkaitan dengan kegiatan kerja guna terciptanya tempat kerja yang aman, efisien, dan produktif."
+        },
+        {
+            "type": "citation",
+            "text": "Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja.",
+            "source": "Peraturan Pemerintah No. 50 Tahun 2012"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "5 Prinsip Pokok Siklus SMK3 PP 50/2012"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "1. Penetapan Kebijakan K3: Komitmen tertulis pimpinan puncak mengenai keselamatan kerja, tinjauan berkala, dan sosialisasi ke seluruh tenaga kerja.",
+                "2. Perencanaan K3: Identifikasi bahaya, penilaian dan pengendalian risiko (IBPR / HIRADC), pemenuhan peraturan perundangan, serta penetapan sasaran K3 terukur.",
+                "3. Pelaksanaan Rencana K3: Penyediaan sumber daya manusia kompeten, sarana prasarana, prosedur kerja aman (SOP), izin kerja khusus, dan kesiapsiagaan tanggap darurat.",
+                "4. Pemantauan dan Evaluasi Kinerja K3: Pemeriksaan berkala, inspeksi tempat kerja, pemantauan lingkungan kerja, audit internal SMK3, dan investigasi insiden.",
+                "5. Peninjauan dan Peningkatan Kinerja SMK3: Tinjauan manajemen berkelanjutan (Management Review) untuk perbaikan berkesinambungan."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tingkatan Penerapan dan Kriteria Audit SMK3"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Tingkat Penerapan",
+                "Jumlah Kriteria Audit",
+                "Target Perusahaan"
+            ],
+            "rows": [
+                [
+                    "Tingkat Awal",
+                    "64 Kriteria Audit",
+                    "Perusahaan kecil dengan potensi bahaya rendah"
+                ],
+                [
+                    "Tingkat Transisi",
+                    "122 Kriteria Audit",
+                    "Perusahaan menengah dengan potensi bahaya sedang"
+                ],
+                [
+                    "Tingkat Lanjutan",
+                    "166 Kriteria Audit",
+                    "Perusahaan besar (≥100 pekerja) atau potensi bahaya tinggi (kimia, migas, tambang)"
+                ]
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Perusahaan yang berhasil meraih skor audit ≥ 85% pada tingkat lanjutan berhak menerima Penghargaan Sertifikat dan Bendera Emas SMK3 resmi dari Menteri Ketenagakerjaan RI."
+        }
+    ],
+    "related_offering_slug": "auditor-sistem-manajemen-k3",
+    "meta_title": "Panduan Lengkap SMK3 (PP No. 50 Tahun 2012) K3 & AI Tech",
+    "meta_description": "Panduan komprehensif Panduan Lengkap SMK3 (PP No. 50 Tahun 2012). Pembahasan mendalam PP 50/2012, ISO 45001:2018, audit AI digital, & sanksi K3 Kemn",
+    "published_at": "2026-07-27"
+}

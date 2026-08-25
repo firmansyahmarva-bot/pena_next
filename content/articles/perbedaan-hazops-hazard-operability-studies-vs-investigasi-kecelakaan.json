@@ -1,0 +1,62 @@
+{
+    "id": "01kyw9my3fvsv57mv9tptfgjgh",
+    "title": "Perbedaan HAZOPS Study vs Investigasi Kecelakaan",
+    "slug": "perbedaan-hazops-hazard-operability-studies-vs-investigasi-kecelakaan",
+    "path": "/panduan/smk3/perbedaan-hazops-hazard-operability-studies-vs-investigasi-kecelakaan",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Perbandingan antara analisis proaktif pra-kejadian (HAZOPS Study) dan penyelidikan reaktif pasca-kejadian (Investigasi Kecelakaan Kerja).",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Dalam manajemen risiko keselamatan kerja, terdapat dua pendekatan utama: pendekatan proaktif (mencegah sebelum terjadi) dan pendekatan reaktif (menyelidiki setelah terjadi). HAZOPS dan Investigasi Kecelakaan mewakili kedua pilar fundamental ini."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tabel Perbandingan: Proaktif HAZOPS vs Reaktif Investigasi Insiden"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Aspek",
+                "HAZOPS Study (Analisis Proaktif)",
+                "Investigasi Kecelakaan (Penyelidikan Reaktif)"
+            ],
+            "rows": [
+                [
+                    "Waktu Pelaksanaan",
+                    "Sebelum fasilitas beroperasi (FEED, DED, MOC) atau review berkala",
+                    "Setelah terjadinya kecelakaan kerja, kebakaran, ledakan, atau near-miss"
+                ],
+                [
+                    "Fokus Utama",
+                    "Mendeteksi deviasi parameter proses (Tekanan, Suhu, Aliran) dan kegagalan desain",
+                    "Mengungkap penyebab langsung, kondisi tidak aman, dan akar kegagalan sistem"
+                ],
+                [
+                    "Metodologi",
+                    "Kata Pandu (Guide Words: NO, MORE, LESS) pada titik simpul (Node) P&ID",
+                    "Metode 5-Why, Fishbone Diagram, SCAT (Systematic Cause Analysis Technique)"
+                ],
+                [
+                    "Output Dokumen",
+                    "HAZOPS Worksheet & Action Items rekomendasi pengamanan instrumen (SIS/SIL)",
+                    "Laporan Investigasi Insiden, Formulir Kemnaker 3 KK 01 A, dan Rencana CAPA"
+                ]
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kombinasi analisis HAZOPS yang disiplin dan investigasi insiden yang transparan menghasilkan sistem keselamatan operasional berstandar dunia."
+        }
+    ],
+    "related_offering_slug": "hazops-hazard-operability-studies",
+    "meta_title": "Perbedaan HAZOPS (Hazard & Operability Studies) dan Inve",
+    "meta_description": "Panduan teknis keselamatan Perbedaan HAZOPS (Hazard & Operability Studies) dan Investigasi Kecelakaan resmi Kemnaker RI dan BNSP. Persyaratan, prose",
+    "published_at": "2026-07-31"
+}

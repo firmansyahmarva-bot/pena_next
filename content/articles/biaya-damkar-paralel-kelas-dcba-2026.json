@@ -1,0 +1,97 @@
+{
+    "id": "01kyw9kf4tavh4kdpv7940ch0f",
+    "title": "Biaya Paket Damkar Paralel Kelas DCBA 2026",
+    "slug": "biaya-damkar-paralel-kelas-dcba-2026",
+    "path": "/panduan/k3-teknis/biaya-damkar-paralel-kelas-dcba-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Biaya Paket Damkar Paralel Kelas DCBA 2026 harus dihitung dari komposisi peserta per jenjang, shift, lokasi, praktik, dan struktur perusahaan; belum ada harga publik terverifikasi.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Paket DCBA mencakup empat fungsi berbeda, sehingga harga tidak boleh diperlakukan sebagai satu biaya sertifikat massal. Dataset mencatat jalur Kemnaker dengan durasi sekitar 20 hari tetapi tidak menyimpan harga publik terverifikasi. Quotation harus menjelaskan jumlah peserta pada Kelas D, C, B, A, jadwal, praktik, dokumen, serta biaya lokasi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Komponen yang Perlu Ada dalam Penawaran"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pembinaan setiap jenjang, praktik, simulasi, dan evaluasi",
+                "Administrasi serta dokumen hasil per peserta",
+                "Materi, fasilitas praktik, konsumsi, pajak, dan alat",
+                "Instruktur, perjalanan, akomodasi, serta kebutuhan in-house"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Harga dipengaruhi komposisi kelas, jumlah angkatan, shift, lokasi, dan fasilitas. Perusahaan juga menanggung surat kesehatan, waktu kerja, pengganti personel, serta koordinasi agar fungsi darurat tetap tersedia selama pelatihan. Paket paralel bisa efisien untuk unit baru, tetapi tidak selalu tepat bila hanya satu jenjang yang kurang."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data untuk Menghitung Biaya yang Benar"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Profil fasilitas, risiko, luas, pekerja, dan shift",
+                "Struktur DCBA saat ini serta sertifikat yang tersedia",
+                "Daftar calon per jenjang dan dokumen",
+                "Lokasi, target audit, fasilitas praktik, dan jadwal operasi"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Hindari Biaya Ulang dan Penawaran yang Tidak Setara"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bandingkan paket dengan kelas tunggal pada kebutuhan yang sama. Tanyakan dokumen, durasi, pembagian peserta, ketidakhadiran, penggantian calon, dan penerbitan. Jangan menempatkan satu orang pada semua jenjang tanpa kebutuhan. Pelatihan juga tidak menggantikan APAR, hidran, alarm, inspeksi, drill, dan emergency plan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan Biaya yang Sering Diajukan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah paket selalu lebih murah? Tergantung gap struktur. Apakah semua peserta ikut seluruh kelas? Tidak seharusnya diasumsikan. Apakah harga per peserta? Model quotation bergantung pelaksanaan. Apakah praktik termasuk? Harus tertulis. Apakah dokumen langsung terbit? Konfirmasikan. Apakah perusahaan tetap perlu alat? Ya."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Hitung Biaya Efektif, Bukan Hanya Harga Paket"
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk keputusan pengadaan, bagi total penawaran dengan jumlah peserta yang benar-benar memenuhi syarat dan dapat mengikuti seluruh proses. Catat pula biaya pemeriksaan dokumen, waktu kerja, perjalanan, penginapan, pengganti shift, fasilitas praktik, asesmen ulang, serta risiko jadwal mundur. Minta vendor menuliskan masa berlaku harga, jumlah minimum peserta, syarat pelunasan, kebijakan pembatalan atau penggantian nama, komponen yang dikecualikan, estimasi dokumen, dan tindakan bila jadwal penerbit berubah. Perbandingan ini menghasilkan biaya efektif per peserta yang lebih jujur dan mencegah penawaran murah berubah menjadi biaya tambahan setelah purchase order diterbitkan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Cara Meminta Quotation Resmi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim struktur, shift, profil risiko, calon per kelas, lokasi, dan target. Tim PENA akan memetakan kebutuhan, membandingkan paket atau kelas tunggal, serta menyusun jadwal dan quotation rinci."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim data peserta dan kebutuhan perusahaan agar tim PENA dapat melakukan pre-check serta menyusun penawaran resmi tanpa angka rekaan."
+        }
+    ],
+    "related_offering_slug": "damkar-paralel-kelas-dcba",
+    "meta_title": "Biaya Damkar Paralel Kelas DCBA 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Biaya Damkar Paralel Kelas DCBA 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifi",
+    "published_at": "2026-07-31"
+}

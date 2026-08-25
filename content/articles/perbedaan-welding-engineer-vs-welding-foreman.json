@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9myhgkkrp96ddg9nchfa0",
+    "title": "Perbedaan Welding Engineer vs Welding Foreman",
+    "slug": "perbedaan-welding-engineer-vs-welding-foreman",
+    "path": "/panduan/sertifikasi-k3/perbedaan-welding-engineer-vs-welding-foreman",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Perbandingan antara perancang prosedur rekayasa (Welding Engineer) dan eksekutor kepemimpinan lapangan (Welding Foreman).",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Welding Engineer merancang WPS, menghitung tegangan termal, dan menganalisis metalurgi sambungan secara ilmiah; Welding Foreman memimpin tim juru las di lapangan agar pengelasan selesai tepat waktu dan sesuai dengan WPS yang telah disahkan."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Dua pilar utama yang menyatukan sains rekayasa pengelasan dengan keahlian manual di lantai kerja."
+        }
+    ],
+    "related_offering_slug": "welding-engineer",
+    "meta_title": "Perbedaan Welding Engineer dan Welding Foreman — Guide 2",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Welding Engineer dan Welding Foreman resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, d",
+    "published_at": "2026-07-31"
+}

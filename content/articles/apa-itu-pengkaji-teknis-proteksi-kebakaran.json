@@ -1,0 +1,102 @@
+{
+    "id": "01kyw9m514xk9t75x0jgr2e1es",
+    "title": "Apa Itu Pengkaji Teknis Proteksi Kebakaran?",
+    "slug": "apa-itu-pengkaji-teknis-proteksi-kebakaran",
+    "path": "/panduan/k3-teknis/apa-itu-pengkaji-teknis-proteksi-kebakaran",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Pengkaji Teknis Proteksi Kebakaran menilai kelayakan sistem proteksi kebakaran bangunan (sprinkler, alarm, hidran) — peran teknis/rekayasa, berbeda dari personel D-C-B-A yang menangani kebakaran secara langsung.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Ada dua sisi berbeda dalam K3 kebakaran: orang yang memadamkan api saat kejadian, dan orang yang menilai apakah sistem proteksi kebakaran suatu bangunan sudah memadai sebelum kejadian terjadi. Pengkaji Teknis Proteksi Kebakaran adalah sisi kedua — peran teknis yang menilai kelayakan sistem, bukan personel tanggap darurat."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+            "source": "UU No. 13 Tahun 2003"
+        },
+        {
+            "type": "citation",
+            "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+            "source": "PP No. 23 Tahun 2004"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Apa yang Dikerjakan Pengkaji Teknis"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Menilai kelayakan sistem proteksi aktif (sprinkler, hidran, alarm) dan pasif (dinding tahan api, jalur evakuasi)",
+                "Melakukan pengujian teknis terhadap fungsi sistem proteksi yang terpasang",
+                "Menyusun laporan pengkajian teknis sebagai dasar rekomendasi perbaikan",
+                "Menilai kesesuaian sistem terhadap regulasi proteksi kebakaran bangunan"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Apakah Pengkaji Teknis Sama dengan Petugas Damkar Kelas A?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Tidak. Ahli K3 Penanggulangan Kebakaran Kelas A adalah penanggung jawab teknik pada organisasi tanggap darurat — perannya aktif saat kejadian kebakaran. Pengkaji Teknis Proteksi Kebakaran menilai kelayakan sistem sebelum kejadian terjadi, lebih dekat ke fungsi audit/rekayasa dibanding respons darurat."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Siapa yang Biasanya Membutuhkan Peran Ini?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Pemilik gedung, manajemen fasilitas, atau perusahaan yang perlu memverifikasi kelayakan sistem proteksi kebakaran — baik untuk kepatuhan regulasi maupun sebelum audit/sertifikasi bangunan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kapan Kompetensi Pengkajian Dibutuhkan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kebutuhan muncul pada gedung baru, renovasi, perubahan fungsi bangunan, penambahan proses berbahaya, persiapan audit, atau ketika pengujian sistem menunjukkan kinerja yang tidak sesuai. Sasaran peserta biasanya engineer, konsultan, auditor teknis, facility manager, atau personel proteksi kebakaran yang memang akan mengumpulkan bukti, menguji fungsi, menilai desain, dan menyusun rekomendasi."
+        },
+        {
+            "type": "paragraph",
+            "text": "Mengikuti pelatihan Pengkaji Teknis Proteksi Kebakaran tidak otomatis membuat semua laporan berlaku untuk setiap proses perizinan. Ruang lingkup pekerjaan, kewenangan penandatanganan, standar yang diminta, dan penerimaan oleh instansi atau pemilik proyek harus dikonfirmasi. Perusahaan juga tetap membutuhkan pemeliharaan sistem serta unit tanggap darurat; kajian teknis tidak menggantikan regu damkar."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data Gedung untuk Penawaran yang Berguna"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim tipe dan fungsi bangunan, luas serta jumlah lantai, sistem sprinkler, hidran, alarm dan proteksi pasif yang tersedia, tujuan pengkajian, lokasi, jumlah peserta, latar belakang calon, serta tenggat audit. Tim PENA dapat memeriksa apakah kebutuhan Anda pelatihan kompetensi, jasa kajian, atau kombinasi keduanya; lalu memberikan persyaratan, jadwal, dan biaya yang sesuai."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Perlu menilai kelayakan sistem proteksi kebakaran di gedung atau fasilitas Anda? Tim kami dapat membantu menjelaskan cakupan pengkajian yang relevan untuk kebutuhan Anda."
+        }
+    ],
+    "related_offering_slug": "pengkaji-teknis-proteksi-kebakaran",
+    "meta_title": "Apa itu Pengkaji Teknis Proteksi Kebakaran? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Pengkaji Teknis Proteksi Kebakaran? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan ",
+    "published_at": "2026-07-31"
+}

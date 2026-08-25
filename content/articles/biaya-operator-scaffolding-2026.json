@@ -1,0 +1,92 @@
+{
+    "id": "01kyw9kyaa9z9bdm4qnmpp418d",
+    "title": "Biaya Operator Scaffolding Kemnaker 2026",
+    "slug": "biaya-operator-scaffolding-2026",
+    "path": "/panduan/k3-teknis/biaya-operator-scaffolding-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Biaya Operator Scaffolding Kemnaker 2026 perlu membedakan pembinaan operator perancah, fasilitas praktik, kelayakan bekerja di ketinggian, dan kebutuhan proyek.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Tidak ada nominal publik terverifikasi dalam data program Operator Scaffolding. Data yang tersedia menyebut jalur Kemnaker, durasi sekitar lima hari, dan sasaran perakit/operator scaffolding konstruksi. Harga 2026 harus dikonfirmasi berdasarkan sistem perancah, lokasi, praktik, serta dokumen calon; program ini tidak sama dengan TKBT atau awareness bekerja di ketinggian."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Apa Saja yang Membentuk Biaya 2026?"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pembinaan, praktik pemasangan/pembongkaran, dan evaluasi",
+                "Administrasi Kemnaker serta dokumen hasil",
+                "Material scaffolding, area praktik, APD, instruktur, dan pengawas",
+                "Mobilisasi material, perjalanan, akomodasi, konsumsi, dan pajak"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Total biaya dipengaruhi jumlah peserta, sistem perancah, fasilitas praktik, lokasi proyek, mode, dan jadwal. Perusahaan harus memperhitungkan pemeriksaan kesehatan, pengganti shift, waktu kerja, APD personal, serta penghentian area. Mengirim pekerja yang tugasnya hanya bekerja di platform tanpa merakit perancah dapat menghasilkan pilihan program yang keliru."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data yang Dibutuhkan untuk Quotation Akurat"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah, CV, surat tugas, pengalaman, dan surat kesehatan",
+                "Jenis scaffolding, ketinggian, fungsi, dan lokasi proyek",
+                "Fasilitas material, area praktik, APD, serta prosedur rescue",
+                "Jumlah peserta, shift, persyaratan klien, dan tenggat mobilisasi"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Cara Membandingkan Penawaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Samakan program Operator Scaffolding, penerbit, praktik, material, APD, dokumen, pajak, dan kebijakan cuaca/jadwal. Jangan membandingkannya langsung dengan TKBT atau pelatihan pengguna scaffolding. Sertifikat tidak menggantikan desain, inspeksi/tagging, competent person, fall protection, dan rescue plan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Jangan berhenti pada harga per kursi. Hitung biaya efektif peserta yang lolos pemeriksaan awal dan dapat hadir penuh, lalu tambahkan waktu kerja, perjalanan, akomodasi, pengganti shift, pemeriksaan kesehatan, fasilitas praktik, dan potensi penjadwalan ulang. Minta penawaran menuliskan masa berlaku harga, minimum peserta, pajak, termin pembayaran, pembatalan, penggantian nama, komponen yang tidak termasuk, proses evaluasi, serta estimasi penerbitan dokumen. Dengan dasar yang sama, tim pengadaan dapat membedakan harga murah dari total biaya yang benar-benar terkendali."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan yang Sering Diajukan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah material praktik disediakan? Harus dikonfirmasi. Apakah sama dengan TKBT? Tidak. Apakah surat sehat diperlukan? Siapkan untuk pre-check. Apakah bisa in-house? Bergantung fasilitas. Apakah biaya termasuk APD? Periksa daftar inklusi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Pemeriksaan dan Penawaran Resmi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim dokumen calon, sistem scaffolding, lokasi, fasilitas praktik, persyaratan proyek, peserta, dan target. Tim PENA akan memeriksa jalur serta menyusun quotation resmi."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim kebutuhan perusahaan dan dokumen calon sebelum meminta invoice. Tim PENA akan memeriksa kecocokan program, kelayakan awal, ruang lingkup, dan komponen quotation tanpa mengarang harga publik."
+        }
+    ],
+    "related_offering_slug": "operator-scaffolding",
+    "meta_title": "Biaya Operator Scaffolding 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Biaya Operator Scaffolding 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

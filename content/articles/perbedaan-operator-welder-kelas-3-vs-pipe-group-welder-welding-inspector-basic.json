@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9mycxbnj05pewektbaep4",
+    "title": "Perbedaan Welder Kelas 3 vs Pipe Welder & Inspector Basic",
+    "slug": "perbedaan-operator-welder-kelas-3-vs-pipe-group-welder-welding-inspector-basic",
+    "path": "/panduan/sertifikasi-k3/perbedaan-operator-welder-kelas-3-vs-pipe-group-welder-welding-inspector-basic",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Perbandingan antara juru las pelat pemula (Welder Kelas 3) dan juru las pipa / inspektur las dasar.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Welder Kelas 3 fokus pada pengelasan pelat posisi flat; Pipe Group Welder menguasai sambungan circumferential pipa bertekanan; Welding Inspector Basic bertugas menginspeksi dimensi manik las dan mendeteksi cacat visual."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Dari eksekusi manual sambungan pelat hingga inspeksi mutu hasil las pipa."
+        }
+    ],
+    "related_offering_slug": "operator-welder-kelas-3",
+    "meta_title": "Perbedaan Operator Welder Kelas 3 dan Pipe, Group Welder",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Operator Welder Kelas 3 dan Pipe, Group Welder, Welding Inspector Basic resmi Kemnaker RI dan BNSP. Persyaratan",
+    "published_at": "2026-07-31"
+}

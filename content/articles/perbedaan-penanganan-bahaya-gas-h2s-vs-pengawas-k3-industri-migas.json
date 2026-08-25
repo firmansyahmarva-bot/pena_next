@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9mxp31h09p4gj5vh3dbfv",
+    "title": "Perbedaan Pelatihan Bahaya Gas H2S vs Pengawas K3 Migas",
+    "slug": "perbedaan-penanganan-bahaya-gas-h2s-vs-pengawas-k3-industri-migas",
+    "path": "/panduan/k3-teknis/perbedaan-penanganan-bahaya-gas-h2s-vs-pengawas-k3-industri-migas",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Perbandingan pelatihan keselamatan spesifik gas mematikan H2S versus kualifikasi komprehensif Pengawas HSE Migas BNSP.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Pelatihan Gas H2S membekali pekerja kemampuan bertahan hidup (contingency plan), penggunaan breathing apparatus (SCBA), dan deteksi gas asam di rig pengeboran. Pengawas K3 Migas mengawasi keseluruhan program keselamatan operasi minyak dan gas (HSE Plan, SIMOPS, Hot Work, Cold Work)."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Keduanya merupakan sertifikasi wajib untuk memasuki fasilitas hulu dan hilir migas."
+        }
+    ],
+    "related_offering_slug": "penanganan-bahaya-gas-h2s",
+    "meta_title": "Perbedaan Penanganan Bahaya Gas H2S dan Pengawas K3 Indu",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Penanganan Bahaya Gas H2S dan Pengawas K3 Industri Migas resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO",
+    "published_at": "2026-07-31"
+}

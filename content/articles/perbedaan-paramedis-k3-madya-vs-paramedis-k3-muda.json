@@ -1,0 +1,57 @@
+{
+    "id": "01kyw9n14znywm5m80qtg6ze7w",
+    "title": "Perbedaan Paramedis K3 Madya vs Muda",
+    "slug": "perbedaan-paramedis-k3-madya-vs-paramedis-k3-muda",
+    "path": "/panduan/sertifikasi-k3/perbedaan-paramedis-k3-madya-vs-paramedis-k3-muda",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Perbandingan peran antara Paramedis K3 Muda (pelayanan klinis & P3K gawat darurat) dan Paramedis K3 Madya (surveilans epidemiologi & kebijakan kesehatan kerja).",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Meskipun sama-sama berada di rumpun keperawatan industri, Paramedis Muda dan Paramedis Madya memiliki pemisahan fokus kerja yang jelas antara penanganan kuratif/tanggap darurat dan perancangan program preventif jangka panjang."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tabel Perbandingan: Paramedis K3 Muda vs Madya"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Parameter",
+                "Paramedis K3 Muda",
+                "Paramedis K3 Madya"
+            ],
+            "rows": [
+                [
+                    "Fokus Utama",
+                    "Tindakan P3K, rawat jalan klinik harian, & administrasi obat",
+                    "Surveilans epidemiologi, analisis tren MCU, & audit ergonomi"
+                ],
+                [
+                    "Tingkat Tanggung Jawab",
+                    "Operasional lini depan klinik perusahaan",
+                    "Supervisi program kesehatan kerja & koordinator klinik multi-site"
+                ],
+                [
+                    "Kualifikasi Masuk",
+                    "D3/S1 Keperawatan dengan STR (Fresh grad / 0–1 thn kerja)",
+                    "Perawat berpengalaman 2+ tahun di klinik industri / pemegang sertifikat Muda"
+                ]
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kombinasi keduanya menjamin respon darurat medis yang cepat di lapangan sekaligus perlindungan kesehatan kerja jangka panjang."
+        }
+    ],
+    "related_offering_slug": "paramedis-k3-madya",
+    "meta_title": "Perbedaan Paramedis K3 Madya dan Paramedis K3 Muda — Gui",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Paramedis K3 Madya dan Paramedis K3 Muda resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography A",
+    "published_at": "2026-07-31"
+}

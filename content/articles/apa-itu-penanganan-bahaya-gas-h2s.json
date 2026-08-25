@@ -1,0 +1,93 @@
+{
+    "id": "01kyw9m26s1zgfy58bncaxb58a",
+    "title": "Apa Itu Pelatihan Penanganan Bahaya Gas H2S?",
+    "slug": "apa-itu-penanganan-bahaya-gas-h2s",
+    "path": "/panduan/k3-teknis/apa-itu-penanganan-bahaya-gas-h2s",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Pelatihan Penanganan Bahaya Gas H2S membekali pekerja mengenali dan merespons paparan hidrogen sulfida — gas beracun yang mematikan pada konsentrasi tinggi dan umum dijumpai di industri migas dan pengolahan limbah.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Hidrogen sulfida (H2S) adalah gas beracun yang bisa mematikan hanya dalam hitungan menit pada konsentrasi tinggi, namun sulit dideteksi tanpa alat karena indra penciuman manusia cepat \"lumpuh\" (olfactory fatigue) terhadap baunya. Pekerja di area berpotensi H2S wajib memahami cara mengenali dan merespons paparannya."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+            "source": "UU No. 13 Tahun 2003"
+        },
+        {
+            "type": "citation",
+            "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+            "source": "PP No. 23 Tahun 2004"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Yang Dipelajari dalam Pelatihan Ini"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Sifat dan karakteristik gas H2S: sumber, ambang bau, dan tingkat bahaya per konsentrasi",
+                "Gejala paparan H2S mulai dari iritasi ringan hingga kondisi yang mengancam jiwa",
+                "Penggunaan alat pelindung pernapasan dan alat deteksi gas H2S",
+                "Prosedur evakuasi dan pertolongan pertama saat terjadi paparan"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Industri yang Paling Memerlukan Pelatihan Ini"
+        },
+        {
+            "type": "paragraph",
+            "text": "H2S umum dijumpai di industri minyak dan gas (terutama sumur dan fasilitas dengan kandungan sulfur), pengolahan air limbah, dan industri kertas/pulp. Berbeda dari Authorized Gas Tester yang berwenang menguji atmosfer secara umum untuk keperluan izin kerja, pelatihan ini berfokus sempit pada kesiapsiagaan personel terhadap satu jenis bahaya gas spesifik — keduanya saling melengkapi, bukan saling menggantikan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Siapa yang Perlu Mengikuti dan Siapa yang Tidak Cukup"
+        },
+        {
+            "type": "paragraph",
+            "text": "Program relevan bagi operator, teknisi, petugas HSE, tim inspeksi, pekerja confined space, dan personel tanggap darurat yang dapat memasuki area berpotensi H2S. Awareness H2S untuk seluruh pekerja dapat berbeda kedalamannya dari kompetensi petugas yang memakai detector, alat pelindung pernapasan, atau menjalankan respons. Karena itu perusahaan perlu mengelompokkan peserta berdasarkan paparan dan tugas, bukan mendaftarkan semua orang ke paket yang sama."
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan tidak menggantikan kajian bahaya, pemantauan atmosfer, ventilasi, permit-to-work, alarm, rencana evakuasi, atau perlengkapan penyelamatan. Pekerja juga tidak boleh mengandalkan bau sebagai peringatan. Bila tugas peserta mencakup pengesahan hasil pengujian gas untuk izin kerja, perusahaan mungkin membutuhkan Authorized Gas Tester selain program H2S."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Informasi untuk Menyusun Pelatihan yang Tepat"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim sektor dan lokasi kerja, sumber potensial H2S, hasil kajian atau pengukuran bila tersedia, tugas peserta, alat deteksi dan APD yang digunakan, jumlah shift, jumlah peserta, serta persyaratan klien. Tim PENA akan membantu menilai cakupan, jalur sertifikasi BNSP yang tersedia, dokumen, jadwal, dan biaya. Untuk perusahaan, skenario dapat diarahkan pada kondisi nyata fasilitas agar pelatihan menghasilkan tindakan yang dapat dipakai."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Fasilitas Anda berpotensi terpapar H2S dan ingin memastikan seluruh pekerja terkait siap merespons? Tim kami dapat membantu menilai cakupan pelatihan yang dibutuhkan."
+        }
+    ],
+    "related_offering_slug": "penanganan-bahaya-gas-h2s",
+    "meta_title": "Apa itu Penanganan Bahaya Gas H2S? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Penanganan Bahaya Gas H2S? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifika",
+    "published_at": "2026-07-31"
+}

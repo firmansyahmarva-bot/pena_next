@@ -1,0 +1,17 @@
+{
+    "id": "01kywb7y5agfd498cd68h72q0a",
+    "slug": "ahli-k3-listrik-batch-25",
+    "path": "/jadwal/ahli-k3-listrik-batch-25",
+    "batch_number": "25",
+    "start_date": "2026-11-16",
+    "end_date": "2026-11-20",
+    "is_online": false,
+    "mode": "offline",
+    "normal_price": 6000000,
+    "promo_price": 3800000,
+    "offering_name": "Ahli K3 Listrik",
+    "offering_slug": "ahli-k3-listrik",
+    "certification_body": "bnsp",
+    "location_name": "TUK Onsite",
+    "availability": "available"
+}

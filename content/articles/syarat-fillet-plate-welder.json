@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9kfjgr4k2hdjb7d0ry8q6",
+    "title": "Syarat Mengikuti Sertifikasi Fillet & Plate Welder",
+    "slug": "syarat-fillet-plate-welder",
+    "path": "/panduan/sertifikasi-k3/syarat-fillet-plate-welder",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Persyaratan sertifikasi Fillet & Plate Welder posisi 1F–4F dan 1G–4G.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Peserta disyaratkan mampu melakukan pengelasan pelat baja karbon menggunakan proses SMAW atau GMAW sesuai WPS yang ditentukan, mencakup uji spesimen tekuk (bend test) dan uji patah sambungan sudut."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kualifikasi wajib untuk welder struktur baja gedung dan galangan kapal."
+        }
+    ],
+    "related_offering_slug": "fillet-plate-welder",
+    "meta_title": "Syarat Mengikuti Fillet & Plate Welder — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Fillet & Plate Welder resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan serti",
+    "published_at": "2026-07-31"
+}

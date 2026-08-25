@@ -1,0 +1,108 @@
+{
+    "id": "01kyw9ka0xkvbcbggxj6e9q0gb",
+    "title": "Syarat Mengikuti Pelatihan Ahli K3 Umum Kemnaker RI",
+    "slug": "syarat-ahli-k3-umum",
+    "path": "/panduan/sertifikasi-k3/syarat-ahli-k3-umum",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Panduan lengkap persyaratan pendaftaran pembinaan Ahli K3 Umum Kemnaker RI, kriteria pendidikan D3/S1, berkas administrasi, dan alur verifikasi TemanK3.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Pelatihan dan pembinaan Ahli Keselamatan dan Kesehatan Kerja Umum (AK3U) Kemnaker RI merupakan program sertifikasi wajib bagi personel yang dipersiapkan untuk menjadi penanggung jawab keselamatan kerja dan Sekretaris P2K3 di perusahaan. Agar proses pendaftaran dan verifikasi akun TemanK3 Kementerian Ketenagakerjaan berjalan lancar, calon peserta wajib memenuhi persyaratan formal yang telah diatur oleh regulasi ketenagakerjaan."
+        },
+        {
+            "type": "citation",
+            "text": "Tata Cara Penunjukan Kewajiban dan Wewenang Ahli Keselamatan dan Kesehatan Kerja.",
+            "source": "Permenaker No. 02/MEN/1992"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kriteria Kualifikasi Pendidikan dan Kelulusan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sesuai dengan ketentuan Pasal 3 Permenaker 02/1992, kualifikasi dasar calon Ahli K3 Umum adalah:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Lulusan Sarjana (S1) atau Diploma IV (D4) dari semua jurusan / program studi dengan pengalaman kerja minimal 2 tahun di bidang yang relevan.",
+                "Lulusan Sarjana Muda atau Diploma III (D3) dari semua jurusan / program studi dengan pengalaman kerja minimal 4 tahun di tempat kerja.",
+                "Khusus untuk lulusan baru (Fresh Graduate) D3/S1 yang belum memiliki pengalaman kerja, tetap diperbolehkan mengikuti seluruh rangkaian pembinaan dan berhak menerima Sertifikat Pembinaan Calon Ahli K3 Kemnaker RI, namun penerbitan SKP & Lisensi K3 akan diproses setelah peserta resmi bekerja di perusahaan."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dokumen Persyaratan Administrasi Wajib"
+        },
+        {
+            "type": "paragraph",
+            "text": "Calon peserta wajib menyiapkan scan berkas dokumen asli (bukan fotokopi buram) dalam format PDF/JPG beresolusi tinggi:"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "No",
+                "Nama Dokumen",
+                "Format & Keterangan Khusus"
+            ],
+            "rows": [
+                [
+                    "1",
+                    "Ijazah Terakhir (D3 / D4 / S1)",
+                    "Scan ijazah asli berwarna (SKL sementara berlaku bagi fresh graduate)"
+                ],
+                [
+                    "2",
+                    "Transkrip Nilai Akademik",
+                    "Scan transkrip asli untuk verifikasi keabsahan institusi pendidikan"
+                ],
+                [
+                    "3",
+                    "Kartu Tanda Penduduk (KTP)",
+                    "Scan e-KTP jelas tanpa crop sudut"
+                ],
+                [
+                    "4",
+                    "Surat Keterangan Sehat Jasmani",
+                    "Asli dari dokter / klinik / RS yang masih berlaku (maks. 1 bulan)"
+                ],
+                [
+                    "5",
+                    "Surat Tugas / Rekomendasi Perusahaan",
+                    "Khusus utusan perusahaan (mencantumkan jabatan & penunjukan P2K3)"
+                ],
+                [
+                    "6",
+                    "Pasfoto Berwarna Formal",
+                    "Latar belakang merah (red background), kemeja berkerah / jas, tanpa kacamata"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Alur Pendaftaran dan Registrasi Akun TemanK3"
+        },
+        {
+            "type": "paragraph",
+            "text": "Seluruh peserta pembinaan wajib terdaftar dalam database digital Direktorat Bina Pengawasan Norma K3 melalui portal resmi TemanK3. Tim administrasi PENA Consultant akan mendampingi proses validasi NIK, unggah berkas, hingga pembuatan akun ujian online CAT Kemnaker."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Pastikan nama pada ijazah, KTP, dan formulir pendaftaran sinkron huruf per huruf untuk mencegah kendala pencetakan sertifikat fisik dan e-certificate Kemnaker."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-umum",
+    "meta_title": "Syarat Mengikuti Ahli K3 Umum — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Ahli K3 Umum resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

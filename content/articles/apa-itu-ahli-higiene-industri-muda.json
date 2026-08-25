@@ -1,0 +1,81 @@
+{
+    "id": "01kyw9k5bw64hjst7s84wzw4d7",
+    "title": "Apa Itu Ahli Higiene Industri Muda (HIMU)?",
+    "slug": "apa-itu-ahli-higiene-industri-muda",
+    "path": "/panduan/sertifikasi-k3/apa-itu-ahli-higiene-industri-muda",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Ahli Higiene Industri Muda (HIMU) adalah personel teknis K3 yang berwenang mengoperasikan alat ukur lingkungan kerja, mengambil sampel faktor fisika dan kimia, serta menyusun laporan baseline.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Ahli Higiene Industri Muda (HIMU) adalah garda terdepan dalam pengujian lingkungan kerja di industri. Peran utama HIMU adalah mengidentifikasi faktor bahaya fisik dan kimia di tempat kerja secara kuantitatif dengan menggunakan instrumen pengukuran terkalibrasi, memastikan data yang diambil akurat dan representatif terhadap kondisi kerja aktual."
+        },
+        {
+            "type": "citation",
+            "text": "Standar Kompetensi Kerja Nasional Indonesia (SKKNI) Bidang Higiene Industri — mengatur unit kompetensi teknis pelaksanaan pengukuran faktor bahaya di tempat kerja.",
+            "source": "Kepmenaker No. 209 Tahun 2008"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kompetensi Praktis yang Dikuasai HIMU"
+        },
+        {
+            "type": "paragraph",
+            "text": "Seorang personel bersertifikat HIMU dibekali keahlian praktis dalam mengoperasikan berbagai instrumen pengukuran industri:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Sound Level Meter (SLM) dan Noise Dosimeter untuk pemetaan kebisingan dan dosis pajanan suara pekerja",
+                "Lux Meter untuk pengukuran intensitas penerangan umum dan lokal sesuai standar pekerjaan",
+                "Heat Stress Monitor (WBGT meter) untuk mengukur indeks suhu basah dan bola pada area beriklim kerja panas",
+                "Personal Dust Sampler dan Low/High Volume Air Sampler untuk pengujian partikulat debu dan aerosol kimia",
+                "Direct-reading Gas Detector untuk mendeteksi konsentrasi gas mudah terbakar, beracun, dan oksigen di area kerja"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Alur Kerja Pengukuran Lingkungan Kerja oleh HIMU"
+        },
+        {
+            "type": "paragraph",
+            "text": "Dalam menjalankan tugasnya, HIMU mengikuti prosedur standar pengukuran:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "1. Melakukan survei pendahuluan (walkthrough survey) untuk mengidentifikasi titik-titik rawan pajanan",
+                "2. Menentukan titik sampling dan jumlah sampel representatif sesuai metodologi SNI atau NIOSH/OSHA",
+                "3. Memeriksa status kalibrasi alat dan melakukan kalibrasi lapangan (zeroing / field calibration)",
+                "4. Melakukan pencatatan parameter meteorologi dan kondisi operasional pabrik selama proses sampling",
+                "5. Menyusun logbook data mentah dan laporan awal hasil uji untuk diverifikasi oleh HIMA atau Ahli K3"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Peluang Karier Pemegang Sertifikat HIMU"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi HIMU merupakan kredensial awal yang sangat bernilai bagi lulusan Kesehatan Masyarakat (FKM), Teknik Lingkungan, Teknik Kimia, serta teknisi laboratorium penguji K3 (PJK3 Lingkungan Kerja) dan tim HSE internal pabrik."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Pengukuran lingkungan kerja yang akurat berawal dari ketelitian HIMU dalam pengoperasian alat dan kepatuhan terhadap metodologi sampling standar."
+        }
+    ],
+    "related_offering_slug": "ahli-higiene-industri-muda",
+    "meta_title": "Apa itu Ahli Higiene Industri Muda? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Ahli Higiene Industri Muda? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifik",
+    "published_at": "2026-07-31"
+}

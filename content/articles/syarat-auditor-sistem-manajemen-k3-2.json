@@ -1,0 +1,91 @@
+{
+    "id": "01kyw9ke0a4d1bpyxeppx87403",
+    "title": "Syarat Mengikuti Pelatihan Auditor SMK3 Kemnaker",
+    "slug": "syarat-auditor-sistem-manajemen-k3-2",
+    "path": "/panduan/smk3/syarat-auditor-sistem-manajemen-k3-2",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Persyaratan resmi pendaftaran pelatihan dan sertifikasi Auditor SMK3 Kemnaker RI sesuai PP No. 50 Tahun 2012 untuk mendapatkan penunjukan auditor internal.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Pelatihan Auditor SMK3 Kemnaker RI ditujukan bagi personel yang dipersiapkan menjadi Tim Auditor Internal SMK3 di perusahaan untuk mengukur tingkat kepatuhan terhadap 166 kriteria audit sistem manajemen K3. Program ini merupakan instrumen wajib sebelum perusahaan menghadapi audit sertifikasi eksternal oleh Lembaga Audit SMK3 yang ditunjuk Menaker."
+        },
+        {
+            "type": "citation",
+            "text": "Pedoman Penerapan dan Penilaian SMK3.",
+            "source": "Peraturan Pemerintah No. 50 Tahun 2012"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kriteria Kualifikasi Calon Auditor SMK3 Kemnaker"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal Sarjana Muda / Diploma III (D3) atau Sarjana (S1) semua jurusan.",
+                "Telah memiliki Sertifikat Pembinaan Ahli K3 Umum Kemnaker RI atau memiliki pengalaman kerja di bidang K3 minimal 1 tahun.",
+                "Mendapatkan surat penunjukan atau surat tugas dari pimpinan perusahaan untuk bergabung dalam Tim Audit Internal SMK3."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dokumen Persyaratan Administrasi Wajib"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "No",
+                "Nama Dokumen",
+                "Format & Keterangan"
+            ],
+            "rows": [
+                [
+                    "1",
+                    "Salinan Ijazah Terakhir",
+                    "Scan legalisir atau scan asli berwarna (min. D3/S1)"
+                ],
+                [
+                    "2",
+                    "Sertifikat Ahli K3 Umum (Opsional/Disarankan)",
+                    "Scan sertifikat pembinaan AK3U Kemnaker RI"
+                ],
+                [
+                    "3",
+                    "Surat Tugas Perusahaan",
+                    "Mencantumkan penunjukan sebagai calon auditor internal SMK3"
+                ],
+                [
+                    "4",
+                    "Kartu Tanda Penduduk (KTP)",
+                    "Scan e-KTP jelas"
+                ],
+                [
+                    "5",
+                    "Surat Keterangan Berbadan Sehat",
+                    "Asli dari dokter / klinik / RS"
+                ],
+                [
+                    "6",
+                    "Pasfoto Resmi",
+                    "Latar belakang merah (red background), kemeja formal"
+                ]
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Lulusan pembinaan ini berhak menerima Sertifikat Auditor SMK3 resmi yang diterbitkan langsung oleh Kementerian Ketenagakerjaan Republik Indonesia."
+        }
+    ],
+    "related_offering_slug": "auditor-sistem-manajemen-k3-2",
+    "meta_title": "Syarat Mengikuti Auditor Sistem Manajemen K3 — Guide 202",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Auditor Sistem Manajemen K3 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan",
+    "published_at": "2026-07-31"
+}

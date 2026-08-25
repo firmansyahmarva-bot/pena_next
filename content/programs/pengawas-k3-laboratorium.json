@@ -1,0 +1,142 @@
+{
+    "id": "01kyfffhnj7avq1kr7zxd4vjrf",
+    "type": "training",
+    "name": "Pengawas K3 Laboratorium",
+    "slug": "pengawas-k3-laboratorium",
+    "path": "/pelatihan/pengawas-k3-laboratorium",
+    "title": "Pengawas K3 Laboratorium",
+    "meta_title": "Sertifikasi Pengawas K3 Laboratorium BNSP: BSL & Spill",
+    "meta_description": "Sertifikasi BNSP Pengawas K3 Laboratorium. Pengelolaan Biosafety Level (BSL), Chemical Hygiene Plan, fume hood, & penanganan tumpahan B3.",
+    "summary": "Sertifikasi kompetensi Pengawas K3 Laboratorium BNSP untuk pengawas laboratorium pengujian, klinik, dan riset — menguasai pengawasan Biosafety Level (BSL-1 s.d. BSL-3), Rencana Higiene Kimia (Chemical Hygiene Plan), pengoperasian Fume Hood & Biosafety Cabinet (BSC), serta respon tanggap tumpahan (Spill Kit Protocol).",
+    "certification_body": "bnsp",
+    "base_price": 4200000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi Pengawas K3 Laboratorium diselenggarakan berbasis SKKNI Bidang K3 Sub-Bidang Laboratorium Pengujian & Riset. Sertifikasi ini memberikan kualifikasi resmi bagi pengawas K3 laboratorium medis, analisis kimia, biologi, dan pengujian industri."
+        },
+        {
+            "type": "paragraph",
+            "text": "Operasional laboratorium diatur dalam Permenkes No. 43 Tahun 2013 tentang Penyelenggaraan Laboratorium Klinik yang Baik (GLP) dan Permenaker No. 05 Tahun 2018 tentang Pengendalian Bahaya Kimia dan Biologi."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+            "source": "UU No. 13 Tahun 2003"
+        },
+        {
+            "type": "citation",
+            "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+            "source": "PP No. 23 Tahun 2004"
+        },
+        {
+            "type": "citation",
+            "text": "Penyelenggaraan Laboratorium Klinik yang Baik (Good Laboratory Practice).",
+            "source": "Permenkes No. 43 Tahun 2013"
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini mendidik pengawas K3 laboratorium yang presisi. Setelah lulus asesmen, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Menyusun dan menerapkan Rencana Higiene Kimia (Chemical Hygiene Plan / CHP) serta lembar data keselamatan (MSDS/GHS) di laboratorium",
+                "Mengawasi kesesuaian tingkat biosafety (Biosafety Level / BSL-1, BSL-2, BSL-3) dan alur kerja steril penanganan agen biologis patogen",
+                "Menguji dan memverifikasi kecepatan aliran udara (laminar airflow velocity) pada Fume Hood (Lemari Asam) dan Biosafety Cabinet (BSC Class I, II, III)",
+                "Menguasai prosedur penanganan tumpahan bahan kimia beracun dan limbah infeksius menggunakan Chemical & Biohazard Spill Kit",
+                "Mengawasi penyimpanan bahan kimia berbahaya (reagen korosif, reaktif, dan flammable) sesuai matriks kompatibilitas penyimpanan",
+                "Meraih Sertifikat Kompetensi BNSP bersimbol Garuda skema Pengawas K3 Laboratorium"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kurikulum materi pelatihan & asesmen BNSP Pengawas K3 Laboratorium:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul 1: Regulasi K3 Laboratorium, Standar GLP, & Sistem Manajemen K3 Laboratorium",
+                "Modul 2: Prinsip Biosafety & Biosecurity (BSL Level 1-3, BSC Operation, Decontaminant)",
+                "Modul 3: Rencana Higiene Kimia (CHP), Simbol GHS, MSDS, & Penyimpanan Reagen Bahan Kimia",
+                "Modul 4: Pengujian Alat Proteksi Lemari Asam (Fume Hood), Eye Wash, Safety Shower, & Autoklaf Sterilisasi",
+                "Modul 5: Prosedur Penanganan Tumpahan (Spill Kit Protocol) & Pengelolaan Limbah Laboratorium B3",
+                "Pelaksanaan Asesmen: Penilaian portofolio pengawasan lab, uji tertulis teknis, simulasi tanggap tumpahan di TUK, & wawancara lisan asesor BNSP"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Minimal D3/S1 Kimia, Biologi, Farmasi, Analis Kesehatan (TLM), Teknik Kimia, atau K3 dengan pengalaman kerja di laboratorium minimal 1 tahun",
+                "Surat Keterangan Kerja dari Laboratorium Pengujian / Klinik / Industri",
+                "Pasfoto formal latar belakang merah (3x4 & 4x6), KTP, & ijazah"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Kelengkapan administrasi yang umum dipersyaratkan untuk mengikuti program ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter",
+                "Surat rekomendasi/penugasan dari perusahaan (untuk peserta utusan perusahaan)",
+                "Curriculum vitae (untuk skema sertifikasi BNSP)"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan pendidikan minimum dan pengalaman kerja mengikuti ketentuan skema/penunjukan yang berlaku — tim kami akan memverifikasi kelengkapan Anda sebelum pendaftaran diproses."
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul dan materi pelatihan",
+                "Instruktur praktisi tersertifikasi di bidangnya",
+                "Ujian/asesmen sertifikasi",
+                "Sertifikat sesuai skema (Kemnaker RI atau BNSP)",
+                "Konsultasi pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir pendaftaran di halaman ini.",
+                "Terima penawaran resmi: jadwal, biaya, dan persyaratan program.",
+                "Lengkapi berkas administrasi dan lakukan konfirmasi pendaftaran.",
+                "Ikuti pelatihan dan ujian/asesmen sertifikasi.",
+                "Terima sertifikat dan lisensi/kartu kompetensi sesuai skema."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

@@ -1,0 +1,32 @@
+{
+    "id": "01kyw9m2r3e9q5c39fstsdsmd6",
+    "title": "Apa Itu Pengawas K3 Fasyankes (Puskesmas & Klinik)?",
+    "slug": "apa-itu-pengawas-k3-fasyankes",
+    "path": "/panduan/sertifikasi-k3/apa-itu-pengawas-k3-fasyankes",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Pengawas K3 Fasilitas Pelayanan Kesehatan (Puskesmas & Klinik) sesuai Permenkes No. 52 Tahun 2018.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Permenkes No. 52 Tahun 2018 mewajibkan seluruh fasilitas pelayanan kesehatan tingkat pertama (Puskesmas dan Klinik) untuk menyelenggarakan K3 Fasyankes guna melindungi tenaga kesehatan, pasien, dan lingkungan dari bahaya infeksius dan kecelakaan kerja."
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja di Fasilitas Pelayanan Kesehatan.",
+            "source": "Permenkes No. 52 Tahun 2018"
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Membantu Puskesmas dan Klinik memenuhi standar keselamatan akreditasi fasyankes nasional."
+        }
+    ],
+    "related_offering_slug": "pengawas-k3-fasyankes",
+    "meta_title": "Apa itu Pengawas K3 & Fasyankes? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Pengawas K3 & Fasyankes? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi",
+    "published_at": "2026-07-31"
+}

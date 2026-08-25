@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9mqxg63jt6f5wh6d1vxvf",
+    "title": "Syarat Mengikuti Sertifikasi Welding Inspector Standard",
+    "slug": "syarat-welding-inspector-standard",
+    "path": "/panduan/sertifikasi-k3/syarat-welding-inspector-standard",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Persyaratan sertifikasi Welding Inspector Standard BNSP / B4T: kualifikasi pendidikan teknik, pengalaman kerja, dan berkas administrasi.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Peserta disyaratkan berpendidikan minimal Diploma 3 (D3) atau Sarjana (S1) Teknik (Mesin, Metalurgi, Sipil, Perkapalan) atau SMA/SMK dengan pengalaman kerja fabrikasi las minimal 3 tahun."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Mencakup pemahaman kode standar ASME Section IX, AWS D1.1, API 1104, dan ISO 5817."
+        }
+    ],
+    "related_offering_slug": "welding-inspector-standard",
+    "meta_title": "Syarat Mengikuti Welding Inspector Standard — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Welding Inspector Standard resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan ",
+    "published_at": "2026-07-31"
+}

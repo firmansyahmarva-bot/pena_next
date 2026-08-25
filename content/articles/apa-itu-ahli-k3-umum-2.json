@@ -1,0 +1,96 @@
+{
+    "id": "01kyw9kadhdmr0xd9bkjmebfpk",
+    "title": "Apa Itu Ahli K3 Umum BNSP (Sertifikasi Kompetensi)?",
+    "slug": "apa-itu-ahli-k3-umum-2",
+    "path": "/panduan/sertifikasi-k3/apa-itu-ahli-k3-umum-2",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Ahli K3 Umum BNSP adalah sertifikasi profesi berbasis uji kompetensi yang diterbitkan oleh Badan Nasional Sertifikasi Profesi melalui LSP berlisensi, berstandar SKKNI dan berlaku nasional.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Ahli K3 Umum skema BNSP adalah sertifikasi kompetensi profesi yang diterbitkan oleh Badan Nasional Sertifikasi Profesi (BNSP) melalui Lembaga Sertifikasi Profesi (LSP) berlisensi. Sertifikasi ini menggunakan instrumen uji kompetensi berbasis Standar Kompetensi Kerja Nasional Indonesia (SKKNI), bukan berdasarkan jam pelajaran pelatihan kelas semata."
+        },
+        {
+            "type": "citation",
+            "text": "Sertifikasi Kompetensi Kerja Nasional — setiap tenaga kerja berhak memperoleh pengakuan kompetensi kerja setelah mengikuti pelatihan kerja atau memiliki pengalaman kerja.",
+            "source": "UU No. 13 Tahun 2003 Pasal 18"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Karakteristik Utama Skema BNSP"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi Ahli K3 Umum BNSP memiliki karakteristik yang membedakannya secara fungsional:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Sertifikat berlogo Burung Garuda Emas diterbitkan langsung oleh negara melalui BNSP",
+                "Pengakuan kompetensi melekat penuh pada individu (personal credential) tanpa memerlukan surat usulan dari satu perusahaan tertentu",
+                "Sangat fleksibel bagi profesional lepas (freelancer), konsultan K3 independen, auditor, subkontraktor proyek, dan pencari kerja profesional",
+                "Proses penilaian berfokus pada portofolio bukti kerja nyata (verifikasi berkas, wawancara asesmen, uji tulis/studi kasus)",
+                "Masa berlaku sertifikat adalah 3 tahun dan diperpanjang melalui proses resertifikasi kompetensi"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Perbandingan Ahli K3 Umum Kemnaker RI vs Ahli K3 Umum BNSP"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Parameter",
+                "Ahli K3 Umum Kemnaker RI",
+                "Ahli K3 Umum BNSP"
+            ],
+            "rows": [
+                [
+                    "Landasan Hukum",
+                    "UU 1/1970 & Permenaker 02/1992",
+                    "UU 13/2003 & PP 23/2004"
+                ],
+                [
+                    "Tujuan Utama",
+                    "Penunjukan pejabat K3 struktural internal perusahaan (Sekretaris P2K3)",
+                    "Pengakuan standar kompetensi profesi individu skala nasional & regional"
+                ],
+                [
+                    "Keterikatan Badan Usaha",
+                    "Wajib diusulkan badan usaha tempat bekerja untuk penerbitan SKP",
+                    "Tidak terikat badan usaha (bebas untuk perorangan/lintas perusahaan)"
+                ],
+                [
+                    "Metode Evaluasi",
+                    "Pembinaan 12 hari (120 JP), PKL, seminar, dan evaluasi Kemnaker",
+                    "Uji kompetensi asesmen portofolio dan wawancara asesor LSP"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kapan Memilih Sertifikasi BNSP?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Pilihlah skema BNSP jika Anda berprofesi sebagai konsultan independen, auditor eksternal, tenaga ahli proyek migas/konstruksi lintas kontraktor, atau membutuhkan sertifikasi profesi yang diakui dalam kerangka kualifikasi kerja nasional tanpa terikat birokrasi penunjukan satu PT."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kedua skema sertifikasi saling melengkapi: Kemnaker untuk kepatuhan regulasi wajib perusahaan, BNSP untuk standardisasi kompetensi profesi individu."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-umum-2",
+    "meta_title": "Apa itu Ahli K3 Umum? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Ahli K3 Umum? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

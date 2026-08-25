@@ -1,0 +1,216 @@
+{
+    "id": "01kyfffhk9kg0e0j44yqybwj7p",
+    "type": "training",
+    "name": "Ahli K3 Kimia",
+    "slug": "ahli-k3-kimia",
+    "path": "/pelatihan/ahli-k3-kimia",
+    "title": "Ahli K3 Kimia",
+    "meta_title": "Ahli K3 Kimia",
+    "meta_description": "Sertifikasi Ahli K3 Kimia Kemnaker RI. Pengendalian bahan kimia berbahaya (B3), penetapan NAK/NAB, MSDS, & Kepmenaker 187/1999.",
+    "summary": "Ahli K3 Kimia adalah program pembinaan Ahli K3 Kimia sesuai Kepmenaker No. 187/MEN/1999 tentang pengendalian bahan kimia berbahaya — kompetensi wajib bagi perusahaan yang menyimpan atau menggunakan bahan kimia berbahaya di atas nilai ambang kuantitas. Tersedia online & offline.",
+    "certification_body": "kemnaker",
+    "base_price": 15000000,
+    "duration": "12 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Bahan kimia berbahaya — mudah terbakar, korosif, beracun, atau reaktif — menuntut pengelolaan yang berbeda dari bahaya kerja umum, karena kegagalan penanganannya bisa berujung pada kebakaran besar, ledakan, atau paparan yang berdampak jangka panjang pada kesehatan pekerja. Kepmenaker No. 187/MEN/1999 secara khusus mewajibkan perusahaan yang menyimpan atau menggunakan bahan kimia berbahaya di atas nilai ambang kuantitas tertentu untuk menunjuk Ahli K3 Kimia yang bertanggung jawab atas pengendaliannya."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Pengendalian Bahan Kimia Berbahaya di Tempat Kerja — termasuk kewajiban penunjukan Petugas dan Ahli K3 Kimia.",
+            "source": "Kepmenaker No. 187/MEN/1999"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kepmenaker No. 187/MEN/1999 membagi instalasi berdasarkan potensi bahaya (bahaya besar atau bahaya menengah) — klasifikasi ini menentukan kewajiban spesifik perusahaan, termasuk penyusunan dokumen pengendalian bahaya besar dan frekuensi pelaporan. Ahli K3 Kimia adalah personel yang berwenang menyusun dan menjaga kepatuhan dokumen-dokumen tersebut atas nama perusahaan."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini menyasar personel yang menangani gudang bahan kimia, laboratorium, atau proses produksi yang melibatkan bahan kimia berbahaya — umumnya staf HSE, QA/QC, atau engineer proses di industri manufaktur, farmasi, dan petrokimia."
+        },
+        {
+            "type": "paragraph",
+            "text": "Kesalahan pengelolaan bahan kimia adalah salah satu penyebab insiden kerja dengan konsekuensi terberat — kebakaran gudang B3, kebocoran gas, atau ledakan proses seringkali berakar pada lemahnya sistem informasi bahaya (LDKB/MSDS yang tidak mutakhir) atau penyimpanan yang tidak sesuai kompatibilitas kimia. Ahli K3 Kimia bersertifikat menjadi lapisan pertahanan utama perusahaan terhadap risiko ini, sekaligus personel yang paling sering diminta hadir saat audit klien atau asuransi meninjau fasilitas penyimpanan B3. Setelah menyelesaikan program, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memahami regulasi pengendalian bahan kimia berbahaya dan klasifikasi potensi bahaya instalasi (besar/menengah) sesuai Kepmenaker No. 187/MEN/1999",
+                "Menyusun dan mengelola Lembar Data Keselamatan Bahan (LDKB/MSDS) serta label sesuai Sistem Harmonisasi Global (GHS)",
+                "Menetapkan potensi bahaya instalasi dan menyusun dokumen pengendalian bahaya besar bila dipersyaratkan",
+                "Merencanakan tanggap darurat kimia: skenario kebocoran, tumpahan, dan paparan, termasuk koordinasi dengan tim tanggap darurat perusahaan",
+                "Mengendalikan paparan bahan kimia pada pekerja melalui hierarki pengendalian dan program pemantauan lingkungan kerja",
+                "Menjalankan tugas dan kewajiban pelaporan sesuai penunjukannya sebagai Ahli K3 Kimia"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kurikulum menggabungkan pengetahuan teknis bahan kimia dengan kewajiban administratif regulasi, karena keduanya sama-sama diuji dalam praktik sehari-hari peran ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Dasar hukum pengendalian bahan kimia berbahaya dan klasifikasi potensi bahaya instalasi",
+                "Klasifikasi, sifat fisik-kimia, dan bahaya bahan kimia (mudah terbakar, korosif, toksik, reaktif)",
+                "Lembar Data Keselamatan Bahan (LDKB/MSDS), pelabelan, dan Sistem Harmonisasi Global (GHS)",
+                "Penyimpanan bahan kimia: kompatibilitas, segregasi, dan desain gudang B3",
+                "Penanganan dan transportasi bahan kimia berbahaya di lingkungan kerja",
+                "Penilaian dan pengendalian paparan pekerja; pemantauan lingkungan kerja",
+                "Perencanaan dan prosedur tanggap darurat kimia, termasuk simulasi skenario kebocoran/tumpahan",
+                "Penyusunan dokumen pengendalian bahaya besar dan pelaporan berkala"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "paragraph",
+            "text": "Karena tanggung jawabnya menyangkut keputusan teknis atas bahan berbahaya, program ini mensyaratkan latar belakang yang relevan:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal D3/S1 bidang teknik, kimia, atau sains terapan yang relevan dengan proses/bahan kimia di tempat kerja",
+                "Memiliki penugasan atau pengalaman kerja pada fasilitas yang menyimpan/menggunakan bahan kimia berbahaya",
+                "Ditugaskan secara tertulis oleh perusahaan sebagai calon Ahli K3 Kimia",
+                "Sehat jasmani dan rohani"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Latar belakang pendidikan teknis/kimia disyaratkan karena peran ini menyangkut keputusan pengendalian bahaya yang berdampak langsung pada keselamatan fasilitas — tim kami akan memverifikasi kesesuaian latar belakang Anda sebelum pendaftaran diproses."
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir (D3/S1 teknik, kimia, atau sains terapan)",
+                "Pas foto terbaru latar belakang merah",
+                "Surat penugasan dari perusahaan sebagai calon Ahli K3 Kimia",
+                "Surat keterangan sehat dari dokter"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul teknis pengendalian bahan kimia berbahaya sesuai Kepmenaker No. 187/MEN/1999",
+                "Instruktur praktisi berpengalaman di industri kimia/petrokimia",
+                "Studi kasus penyusunan LDKB/MSDS dan simulasi tanggap darurat kimia",
+                "Sertifikat dan konsultasi pasca-pelatihan seputar dokumen pengendalian bahaya besar"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir di halaman ini.",
+                "Tim kami mengonfirmasi kesesuaian latar belakang pendidikan/pengalaman Anda dengan proses kimia di tempat kerja.",
+                "Terima penawaran resmi: jadwal dan biaya.",
+                "Lengkapi berkas administrasi dan surat penugasan perusahaan.",
+                "Ikuti pelatihan teori dan studi kasus penyusunan dokumen pengendalian bahaya.",
+                "Terima sertifikat Ahli K3 Kimia."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": [
+        {
+            "id": "01kywb7x70mzd4am6sc2nhjddb",
+            "slug": "ahli-k3-kimia-batch-15",
+            "batch_number": "15",
+            "start_date": "2026-08-17",
+            "end_date": "2026-08-28",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 8000000,
+            "promo_price": 5500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7x9jx3f7n62nentev42n",
+            "slug": "ahli-k3-kimia-batch-16",
+            "batch_number": "16",
+            "start_date": "2026-09-21",
+            "end_date": "2026-10-02",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 8000000,
+            "promo_price": 5500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7xbrdg3knj62scvhcg2f",
+            "slug": "ahli-k3-kimia-batch-17",
+            "batch_number": "17",
+            "start_date": "2026-10-19",
+            "end_date": "2026-10-30",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 8000000,
+            "promo_price": 5500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7xe47q9w89vqqxfd04dq",
+            "slug": "ahli-k3-kimia-batch-18",
+            "batch_number": "18",
+            "start_date": "2026-11-16",
+            "end_date": "2026-11-27",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 8000000,
+            "promo_price": 5500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7xghm7kdcx9398rf8hp1",
+            "slug": "ahli-k3-kimia-batch-19",
+            "batch_number": "19",
+            "start_date": "2026-12-07",
+            "end_date": "2026-12-18",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 8000000,
+            "promo_price": 5500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7xjgmnxhq9f6jkar88tj",
+            "slug": "ahli-k3-kimia-batch-20",
+            "batch_number": "20",
+            "start_date": "2027-01-18",
+            "end_date": "2027-01-29",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 8000000,
+            "promo_price": 5500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}

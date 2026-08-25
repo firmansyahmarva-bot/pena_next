@@ -1,0 +1,76 @@
+{
+    "id": "01kyw9kyznkpadrr68akx7k227",
+    "title": "Apa Itu Juru Las (Welder) Kelas 1 Kemnaker?",
+    "slug": "apa-itu-operator-welder-kelas-1",
+    "path": "/panduan/sertifikasi-k3/apa-itu-operator-welder-kelas-1",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Panduan lengkap Juru Las (Welder) Kelas 1 Kemnaker RI: kualifikasi pengelasan pipa posisi 6G, bejana tekan, pengujian NDT radiografi & tekuk, dan regulasi Permenaker 02/1982.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Juru Las Kelas 1 (Welder Class 1) adalah pemegang kualifikasi tertinggi dalam regulasi pengelasan Indonesia sesuai Permenaker No. 02/MEN/1982. Pemegang lisensi ini memiliki kewenangan legal untuk melakukan pengelasan pada bejana uap, bejana tekan tinggi, jaringan pipa migas, dan struktur kritis pada semua posisi pengelasan (1G s.d. 6G dan 1F s.d. 4F)."
+        },
+        {
+            "type": "citation",
+            "text": "Kualifikasi Juru Las di Tempat Kerja.",
+            "source": "Permenaker No. 02/MEN/1982"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kewenangan Posisi dan Proses Pengelasan Welder Kelas 1"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Posisi Pengelasan",
+                "Jenis Sambungan",
+                "Standar Uji Kualifikasi (WQT)"
+            ],
+            "rows": [
+                [
+                    "Posisi 6G (Pipa Miring 45° Fixed)",
+                    "Pipa schedule 80 / 160 all positions",
+                    "100% Radiographic Testing (RT) & Face/Root Bend Test"
+                ],
+                [
+                    "Posisi 5G (Pipa Horisontal Fixed)",
+                    "Pipa circumferential weld",
+                    "Visual Inspection, Side Bend Test, & Macroetch Test"
+                ],
+                [
+                    "Posisi 1G – 4G (Pelat Datar, Horisontal, Vertikal, Overhead)",
+                    "Pelat tebal tidak terbatas dengan backing / tanpa backing",
+                    "Uji tarik (Tensile Test) & uji tekuk sesuai ASME IX / AWS D1.1"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Proses Pengelasan yang Diujikan"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Shielded Metal Arc Welding (SMAW / Las Busur Listrik Elektroda Terbungkus).",
+                "Gas Tungsten Arc Welding (GTAW / Las Argon TIG) untuk root pass pipa bertekanan tinggi.",
+                "Flux Cored Arc Welding (FCAW) dan Gas Metal Arc Welding (GMAW / MIG-MAG)."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Lisensi K3 Juru Las Kelas 1 diterbitkan langsung oleh Ditjen Binwasnaker Kemnaker RI dan wajib dimiliki untuk proyek kilang migas, PLTU, dan petrokimia."
+        }
+    ],
+    "related_offering_slug": "operator-welder-kelas-1",
+    "meta_title": "Apa itu Operator Welder Kelas 1? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Operator Welder Kelas 1? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi",
+    "published_at": "2026-07-31"
+}

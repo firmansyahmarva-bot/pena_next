@@ -1,0 +1,90 @@
+{
+    "id": "01kyw9kah2pj4m4jfzn2kx6tar",
+    "title": "Syarat Mengikuti Sertifikasi Ahli K3 Umum BNSP",
+    "slug": "syarat-ahli-k3-umum-2",
+    "path": "/panduan/sertifikasi-k3/syarat-ahli-k3-umum-2",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Persyaratan lengkap uji kompetensi sertifikasi Ahli K3 Umum BNSP berbasis SKKNI Kepmenaker No. 38/MEN/2019, portofolio kerja APL-01 dan APL-02.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi Ahli K3 Umum BNSP (Badan Nasional Sertifikasi Profesi) dilaksanakan melalui asesmen uji kompetensi oleh Lembaga Sertifikasi Profesi (LSP) berlisensi. Asesmen ini menguji bukti kerja nyata (portofolio) bahwa asesi telah menguasai unit-unit kompetensi kerja standar nasional."
+        },
+        {
+            "type": "citation",
+            "text": "Standar Kompetensi Kerja Nasional Indonesia Kategori Jasa Profesional Sektor K3.",
+            "source": "Kepmenaker No. 38 Tahun 2019"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Unit Kompetensi SKKNI yang Diujikan"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Kode Unit",
+                "Judul Unit Kompetensi SKKNI"
+            ],
+            "rows": [
+                [
+                    "M.71KKK01.001.1",
+                    "Mengembangkan Kebijakan K3 di Tempat Kerja"
+                ],
+                [
+                    "M.71KKK01.002.1",
+                    "Mengelola Program K3 di Perusahaan"
+                ],
+                [
+                    "M.71KKK01.003.1",
+                    "Membentuk dan Mengembangkan Tim Tanggap Darurat"
+                ],
+                [
+                    "M.71KKK01.004.1",
+                    "Mengidentifikasi Bahaya dan Menilai Risiko K3 (HIRADC / JSA)"
+                ],
+                [
+                    "M.71KKK01.005.1",
+                    "Melakukan Investigasi Insiden dan Kecelakaan Kerja"
+                ],
+                [
+                    "M.71KKK01.006.1",
+                    "Mengembangkan dan Menerapkan Sistem Pengendalian Bahaya"
+                ],
+                [
+                    "M.71KKK01.007.1",
+                    "Mengevaluasi Kepatuhan Peraturan Perundangan K3"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dokumen Portofolio yang Wajib Dilampirkan (APL-02)"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Dokumen HIRADC / IBPR dan Job Safety Analysis (JSA) yang pernah disusun oleh asesi.",
+                "Laporan hasil inspeksi keselamatan kerja berkala di tempat kerja.",
+                "Laporan hasil investigasi kecelakaan kerja atau penanganan near-miss.",
+                "Prosedur Tanggap Darurat (Emergency Response Plan) dan rekaman simulasi evakuasi.",
+                "Bukti pelaksanaan safety induction, safety talk, atau Tool Box Meeting (TBM)."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "PENA Consultant menyediakan bimbingan pra-asesmen (pre-assessment clinic) untuk memastikan kelengkapan dokumen portofolio Anda sebelum diuji asesor."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-umum-2",
+    "meta_title": "Syarat Mengikuti Ahli K3 Umum — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Ahli K3 Umum resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

@@ -1,0 +1,150 @@
+{
+    "id": "01kyfffj6j9z0e2fzb7w6ymn43",
+    "type": "training",
+    "name": "Lead Auditor ISO 45001:2018",
+    "slug": "lead-auditor-iso-45001-2018",
+    "path": "/pelatihan/lead-auditor-iso-45001-2018",
+    "title": "Lead Auditor ISO 45001:2018",
+    "meta_title": "Lead Auditor ISO 45001:2018",
+    "meta_description": "Sertifikasi Lead Auditor ISO 45001:2018 terakreditasi IRCA/CQI. Memimpin audit eksternal sistem K3 korporasi & manajemen risiko.",
+    "summary": "Tersedia online.",
+    "certification_body": "none",
+    "base_price": 7500000,
+    "duration": "-",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "ISO 45001:2018 adalah standar internasional untuk Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3/OHSMS — Occupational Health and Safety Management System). Pelatihan Lead Auditor ISO 45001:2018 membekali peserta dengan kompetensi untuk merencanakan, memimpin, melaksanakan, dan melaporkan audit sistem manajemen K3 sesuai persyaratan standar tersebut — baik sebagai audit internal (first-party), audit terhadap pemasok/mitra (second-party), maupun audit sertifikasi oleh lembaga sertifikasi independen (third-party)."
+        },
+        {
+            "type": "paragraph",
+            "text": "Berbeda dari sertifikasi kompetensi berbasis BNSP/SKKNI, pelatihan Lead Auditor ISO 45001 umumnya mengikuti kerangka audit sistem manajemen internasional yang mengacu pada ISO 19011 (Guidelines for Auditing Management Systems) dan ISO/IEC 17021 (persyaratan lembaga sertifikasi sistem manajemen). Di tingkat global, banyak penyedia pelatihan Lead Auditor ISO 45001 mendapatkan akreditasi dari CQI-IRCA (Chartered Quality Institute – International Register of Certificated Auditors), yang memungkinkan lulusannya mendaftar sebagai auditor teregistrasi internasional."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "[VERIFIKASI PENA] Status akreditasi spesifik untuk program yang diselenggarakan PENA Consultant — apakah bersertifikat CQI-IRCA, sertifikat kompetensi internal, atau skema lain — perlu dikonfirmasi tim PENA agar informasi di halaman ini akurat."
+        },
+        {
+            "type": "paragraph",
+            "text": "Perusahaan yang menerapkan ISO 45001:2018 di Indonesia melakukannya secara sukarela sebagai bagian dari sistem manajemen mutu dan keselamatan kerja, seringkali untuk memenuhi persyaratan klien, tender, atau ekspansi pasar internasional. Penerapan ISO 45001 dapat berjalan berdampingan dengan kewajiban SMK3 nasional berdasarkan Peraturan Pemerintah No. 50 Tahun 2012 — keduanya saling melengkapi meski memiliki kerangka dan badan pengawas yang berbeda: SMK3 diawasi oleh Kementerian Ketenagakerjaan RI, sementara ISO 45001 disertifikasi oleh lembaga sertifikasi sistem manajemen yang independen."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Siapa yang perlu mengikuti program ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Auditor internal yang ingin naik level menjadi lead auditor sistem manajemen K3",
+                "HSE Manager, SHE Manager, atau QHSE Manager yang bertanggung jawab atas program audit K3 perusahaan",
+                "Konsultan sistem manajemen yang mendampingi perusahaan dalam implementasi dan sertifikasi ISO 45001",
+                "Personel yang bertanggung jawab menilai kepatuhan pemasok/kontraktor terhadap persyaratan K3 (second-party audit)",
+                "Profesional yang ingin berkarier sebagai auditor sertifikasi ISO 45001 di lembaga sertifikasi"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Seorang Lead Auditor ISO 45001 bertanggung jawab untuk:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Merencanakan program dan jadwal audit sistem manajemen K3 berdasarkan tingkat risiko dan ruang lingkup organisasi",
+                "Menyusun audit plan, termasuk tujuan, kriteria, dan ruang lingkup audit",
+                "Memimpin tim audit (bila audit dilakukan lebih dari satu orang) dan membagi tugas sesuai kompetensi anggota tim",
+                "Mengumpulkan bukti audit melalui observasi lapangan, wawancara, dan tinjauan dokumen",
+                "Menilai kesesuaian penerapan sistem manajemen K3 terhadap klausul ISO 45001:2018 — mulai dari konteks organisasi, kepemimpinan, perencanaan, dukungan, operasi, evaluasi kinerja, hingga peningkatan berkelanjutan",
+                "Mengidentifikasi temuan ketidaksesuaian (non-conformity) dan peluang perbaikan (opportunity for improvement)",
+                "Menyusun laporan audit yang objektif dan dapat ditindaklanjuti",
+                "Memverifikasi tindakan perbaikan (corrective action) atas temuan audit sebelumnya"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Kompetensi lead auditor ISO 45001 sangat relevan bagi perusahaan yang telah atau berencana menerapkan sertifikasi sistem manajemen K3 internasional, terutama yang bermitra dengan klien multinasional atau mengikuti tender yang mensyaratkan sertifikasi ISO. Bagi individu, kompetensi ini membuka peluang karier sebagai auditor internal senior, konsultan implementasi ISO 45001, hingga auditor di lembaga sertifikasi."
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kompetensi yang dipelajari:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Struktur dan persyaratan klausul ISO 45001:2018 (pendekatan High Level Structure/Annex SL)",
+                "Prinsip-prinsip audit sistem manajemen menurut ISO 19011",
+                "Perencanaan audit: audit plan, checklist, penentuan kriteria dan ruang lingkup",
+                "Teknik pengumpulan bukti audit: observasi, wawancara, tinjauan dokumen",
+                "Identifikasi dan klasifikasi bahaya serta penilaian risiko K3 dalam konteks audit",
+                "Teknik menulis temuan audit (non-conformity) secara objektif dan berbasis bukti",
+                "Penyusunan laporan audit dan komunikasi hasil audit kepada manajemen",
+                "Proses tindak lanjut dan verifikasi tindakan perbaikan (corrective action)",
+                "Etika dan perilaku auditor (imparsialitas, kerahasiaan, profesionalisme)"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan disampaikan secara interaktif melalui pemaparan materi, diskusi kelompok, studi kasus, dan simulasi audit (role play) — peserta berlatih menyusun audit plan, melakukan simulasi wawancara auditee, mengidentifikasi temuan dari skenario kasus, hingga menyusun laporan audit. Pendekatan berbasis latihan ini penting karena kompetensi lead auditor sangat bergantung pada kemampuan praktis, bukan hanya hafalan klausul standar."
+        },
+        {
+            "type": "paragraph",
+            "text": "Penilaian kompetensi peserta umumnya dilakukan melalui kombinasi penilaian berkelanjutan (continuous assessment) selama pelatihan berlangsung dan ujian akhir tertulis di akhir program. Pada skema pelatihan yang terakreditasi CQI-IRCA secara internasional, peserta yang lulus memperoleh sertifikat yang memenuhi persyaratan pelatihan formal untuk pendaftaran sebagai auditor teregistrasi IRCA. Untuk skema pelatihan non-IRCA, peserta memperoleh sertifikat kompetensi/sertifikat pelatihan dari penyelenggara sesuai standar penilaian yang diterapkan."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "[VERIFIKASI PENA] Mohon konfirmasikan ke tim PENA Consultant skema sertifikasi mana yang berlaku pada program ini, agar informasi yang disajikan ke calon peserta akurat."
+        }
+    ],
+    "requirements": [
+        {
+            "type": "paragraph",
+            "text": "Peserta idealnya sudah memiliki pemahaman dasar tentang prinsip dan konsep manajemen K3 serta persyaratan ISO 45001:2018 — baik melalui pengalaman kerja di bidang HSE/QHSE maupun melalui pelatihan dasar (foundation) ISO 45001 sebelumnya. Latar belakang pekerjaan di bidang keselamatan kerja, quality management, atau audit sistem manajemen akan sangat membantu pemahaman selama pelatihan."
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Dokumen yang diperlukan (umumnya):"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan pas foto",
+                "Fotokopi ijazah pendidikan terakhir",
+                "CV yang mencantumkan pengalaman kerja di bidang HSE/QHSE/audit (bila ada)",
+                "Sertifikat pelatihan ISO 45001 Awareness/Foundation sebelumnya (bila dipersyaratkan skema)"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyediakan modul pelatihan, studi kasus audit lintas sektor industri, instruktur/praktisi berpengalaman di bidang audit sistem manajemen K3, serta simulasi audit untuk memperkuat kesiapan praktik peserta. Kelas tersedia secara daring maupun tatap muka."
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Konsultasikan kebutuhan dan latar belakang Anda dengan tim PENA Consultant.",
+                "Kirim dokumen pendaftaran yang diminta.",
+                "Lakukan pembayaran sesuai informasi biaya yang diberikan.",
+                "Ikuti sesi pelatihan dan simulasi audit.",
+                "Ikuti penilaian/ujian akhir sesuai skema program.",
+                "Terima sertifikat sesuai skema yang berlaku (informasi detail dari tim PENA)."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

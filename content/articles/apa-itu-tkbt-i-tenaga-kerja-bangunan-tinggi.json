@@ -1,0 +1,92 @@
+{
+    "id": "01kyw9mbmqfbed8txwgsb26jde",
+    "title": "Apa Itu TKBT Tingkat I?",
+    "slug": "apa-itu-tkbt-i-tenaga-kerja-bangunan-tinggi",
+    "path": "/panduan/k3-teknis/apa-itu-tkbt-i-tenaga-kerja-bangunan-tinggi",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "TKBT Tingkat I adalah jenjang dasar tenaga kerja bangunan tinggi sesuai Permenaker No. 9 Tahun 2016 — kompetensi awal sebelum Tingkat II untuk pekerjaan ketinggian yang lebih kompleks.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Bekerja pada ketinggian — panjat struktur, gondola, akses tali — punya risiko jatuh yang fatal jika tidak ditangani personel bersertifikat. TKBT (Tenaga Kerja Bangunan Tinggi) Tingkat I adalah jenjang dasar kompetensi ini."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja dalam Pekerjaan pada Ketinggian.",
+            "source": "Permenaker No. 9 Tahun 2016"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kompetensi Dasar TKBT Tingkat I"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Menggunakan alat pelindung jatuh perorangan (full body harness, lanyard) dengan benar",
+                "Memasang dan memeriksa titik angkur sebelum bekerja pada ketinggian",
+                "Menerapkan teknik akses dan posisi kerja dasar pada struktur",
+                "Mengenali bahaya jatuh dan melakukan langkah pengendalian awal"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tingkat I sebagai Jenjang Dasar"
+        },
+        {
+            "type": "paragraph",
+            "text": "TKBT Tingkat I mencakup teknik dasar bekerja pada ketinggian untuk pekerjaan dengan kompleksitas standar. Pekerjaan yang lebih kompleks — akses tali multi-titik, penyelamatan mandiri, atau area kerja dengan konfigurasi sulit — memerlukan TKBT Tingkat II sebagai jenjang lanjutannya."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "TKBT I, TKPK, dan Operator Scaffolding Tidak Sama"
+        },
+        {
+            "type": "paragraph",
+            "text": "Istilah bekerja pada ketinggian sering dipakai terlalu umum. TKBT berkaitan dengan tenaga kerja bangunan tinggi, sedangkan pekerjaan dengan akses tali, platform tertentu, atau pemasangan perancah dapat memiliki kebutuhan kompetensi berbeda. Operator Scaffolding menangani struktur perancah; memiliki sertifikat TKBT I tidak otomatis memberi kewenangan memasang perancah. Matriks proyek harus menjadi rujukan utama."
+        },
+        {
+            "type": "paragraph",
+            "text": "Program cocok bagi pekerja konstruksi, instalasi, maintenance, telekomunikasi, dan industri yang melakukan pekerjaan ketinggian sesuai lingkup Tingkat I. Pelatihan tidak menggantikan perencanaan kerja, pemeriksaan anchor, fall arrest system, rescue plan, inspeksi alat, pengawasan, dan izin kerja. Kondisi kesehatan serta kesiapan fisik calon juga perlu diperiksa."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data Pekerjaan untuk Memilih Tingkat dan Harga"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sampaikan jenis struktur, metode akses, ketinggian, posisi kerja, sistem anchor, tugas calon, pengalaman, persyaratan klien, jumlah peserta, lokasi, dan target mobilisasi. Foto atau metode kerja sangat membantu. Tim PENA akan menilai apakah TKBT Tingkat I cukup, perlu Tingkat II atau program lain, kemudian memberikan syarat, jadwal, durasi, dan penawaran resmi."
+        },
+        {
+            "type": "paragraph",
+            "text": "Perusahaan dengan beberapa jenis pekerjaan sebaiknya mengelompokkan peserta menurut aktivitas, bukan departemen. Pekerja yang memakai tangga, bekerja di platform, memasang scaffolding, atau menggunakan akses tali dapat memerlukan pengendalian dan kompetensi berbeda. Pemetaan ini membuat anggaran pelatihan lebih tepat dan membantu memastikan setiap shift memiliki personel yang sesuai."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Tidak yakin pekerjaan ketinggian di proyek Anda cukup dengan Tingkat I? Tim kami dapat membantu menilai kompleksitas pekerjaan Anda."
+        }
+    ],
+    "related_offering_slug": "tkbt-i-tenaga-kerja-bangunan-tinggi",
+    "meta_title": "Apa itu TKBT I (Tenaga Kerja Bangunan Tinggi)? — Guide 2",
+    "meta_description": "Panduan teknis keselamatan Apa itu TKBT I (Tenaga Kerja Bangunan Tinggi)? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, d",
+    "published_at": "2026-07-31"
+}

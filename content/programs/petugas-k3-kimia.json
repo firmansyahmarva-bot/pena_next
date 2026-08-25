@@ -1,0 +1,120 @@
+{
+    "id": "01kyfffhkp2hhq5xhzyaavtpxg",
+    "type": "training",
+    "name": "Petugas K3 Kimia",
+    "slug": "petugas-k3-kimia",
+    "path": "/pelatihan/petugas-k3-kimia",
+    "title": "Petugas K3 Kimia",
+    "meta_title": "Sertifikasi Petugas K3 Kimia Kemnaker — PENA Consultant",
+    "meta_description": "Pelatihan & sertifikasi Petugas K3 Kimia Kemnaker RI 2026. Pembinaan B3, MSDS, NAB kimia, lisensi SKP resmi. Biaya transparan & pendaftaran cepat!",
+    "summary": "Program Pembinaan & Sertifikasi Petugas K3 Kimia resmi Kemnaker RI berdasarkan Kepmenaker No. 187/MEN/1999 & Permenaker No. 05/2018. Pembinaan mencakup Lembar Data Keselamatan (MSDS), NAB kimia, APD respirator, dan tanggap darurat B3.",
+    "certification_body": "kemnaker",
+    "base_price": 9000000,
+    "duration": "6 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Petugas K3 Kimia menjalankan tugas pengendalian bahan kimia berbahaya sehari-hari di lapangan — berbeda dari Ahli K3 Kimia yang bertanggung jawab menyusun dan menjaga keseluruhan sistem pengendaliannya. Kepmenaker No. 187/MEN/1999 mengenal kedua jenjang ini sekaligus: Ahli K3 Kimia di tingkat penanggung jawab, dan Petugas K3 Kimia di tingkat pelaksana operasional pada instalasi yang menyimpan/menggunakan bahan kimia berbahaya."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Pengendalian Bahan Kimia Berbahaya di Tempat Kerja — termasuk kewajiban penunjukan Petugas dan Ahli K3 Kimia.",
+            "source": "Kepmenaker No. 187/MEN/1999"
+        },
+        {
+            "type": "paragraph",
+            "text": "Perusahaan dengan instalasi berpotensi bahaya menengah/besar umumnya wajib memiliki kedua jenjang ini secara bersamaan — Petugas K3 Kimia menjalankan pengawasan harian di lapangan (penyimpanan, penanganan, penggunaan LDKB), sementara Ahli K3 Kimia mengevaluasi dan melaporkan status pengendalian secara keseluruhan."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini menyasar operator gudang bahan kimia, staf produksi, atau teknisi laboratorium yang tugas hariannya bersentuhan langsung dengan bahan kimia berbahaya — jenjang pelaksana, bukan penanggung jawab teknik seperti Ahli K3 Kimia."
+        },
+        {
+            "type": "paragraph",
+            "text": "Karena berhadapan langsung dengan bahan kimia setiap hari, kompetensi Petugas K3 Kimia menjadi lapisan pertahanan pertama sebelum kesalahan penanganan berubah menjadi insiden — kebocoran kecil yang ditangani dengan benar oleh petugas kompeten jarang berkembang menjadi kejadian besar, sedangkan penanganan yang salah pada insiden kecil sering menjadi pemicu kejadian yang lebih serius. Setelah menyelesaikan program, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memahami dasar regulasi pengendalian bahan kimia berbahaya dan tugasnya sebagai petugas pelaksana",
+                "Membaca dan menerapkan Lembar Data Keselamatan Bahan (LDKB/MSDS) serta label GHS pada pekerjaan sehari-hari",
+                "Menangani penyimpanan dan penanganan bahan kimia sesuai prinsip kompatibilitas dan segregasi",
+                "Merespons kebocoran/tumpahan kecil sesuai prosedur tanggap darurat tingkat pelaksana",
+                "Menggunakan alat pelindung diri yang sesuai untuk setiap kategori bahaya kimia",
+                "Melaporkan kondisi tidak aman terkait bahan kimia kepada Ahli K3 Kimia/atasan"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pengenalan regulasi pengendalian bahan kimia berbahaya di tempat kerja",
+                "Klasifikasi dan bahaya bahan kimia yang umum ditemui di lapangan",
+                "Membaca LDKB/MSDS dan label GHS untuk pekerjaan operasional harian",
+                "Prinsip penyimpanan dan penanganan bahan kimia yang aman",
+                "Alat pelindung diri untuk penanganan bahan kimia",
+                "Respons awal terhadap kebocoran/tumpahan dan pelaporan insiden"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal SMA/SMK sederajat, diutamakan jurusan kimia/sains atau pengalaman kerja terkait bahan kimia",
+                "Ditugaskan oleh perusahaan sebagai calon Petugas K3 Kimia pada instalasi yang menyimpan/menggunakan bahan kimia berbahaya",
+                "Sehat jasmani dan rohani"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat tugas dari perusahaan",
+                "Surat keterangan sehat dari dokter"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul pengendalian bahan kimia tingkat pelaksana sesuai Kepmenaker No. 187/MEN/1999",
+                "Instruktur praktisi berpengalaman industri kimia/manufaktur",
+                "Praktik membaca LDKB/MSDS dan simulasi respons tumpahan bahan kimia",
+                "Sertifikat Petugas K3 Kimia"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir di halaman ini.",
+                "Terima penawaran resmi: jadwal dan biaya.",
+                "Lengkapi berkas administrasi dan surat tugas perusahaan.",
+                "Ikuti pelatihan teori dan praktik penanganan bahan kimia.",
+                "Terima sertifikat Petugas K3 Kimia."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

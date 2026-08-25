@@ -1,0 +1,91 @@
+{
+    "id": "01kyw9kh8qtv4q9qk3rs40rzm8",
+    "title": "Biaya Pelatihan HAZOPS Study 2026",
+    "slug": "biaya-hazops-hazard-operability-studies-2026",
+    "path": "/panduan/smk3/biaya-hazops-hazard-operability-studies-2026",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Panduan lengkap rincian biaya pelatihan dan workshop HAZOPS Study tahun 2026: tarif kelas publik, paket in-house facilitation proyek, software template worksheet P&ID, dan sertifikasi fasilitator.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Pelatihan Hazard and Operability Study (HAZOPS) adalah investasi krusial dalam manajemen keselamatan proses (Process Safety Management) bagi industri kimia, petrokimia, minyak dan gas bumi, farmasi, serta rekayasa konstruksi (EPC). Biaya pelatihan HAZOPS tahun 2026 bervariasi tergantung pada metode pelaksanaan, cakupan modul studi kasus, dan output sertifikasi yang ditargetkan."
+        },
+        {
+            "type": "citation",
+            "text": "Standar Internasional Analisis Bahaya Proses.",
+            "source": "IEC 61882: Hazard and operability studies (HAZOP studies) — Application guide"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tabel Struktur Biaya Pelatihan HAZOPS Study 2026"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Paket Pelatihan",
+                "Estimasi Biaya 2026",
+                "Durasi & Metode",
+                "Fasilitas & Deliverables"
+            ],
+            "rows": [
+                [
+                    "Public Webinar Online",
+                    "Rp 3.500.000 - Rp 4.500.000 /peserta",
+                    "3 Hari (Zoom Interactive)",
+                    "Modul digital, template spreadsheet HAZOPS Worksheet, studi kasus P&ID simulasi, e-Certificate"
+                ],
+                [
+                    "Public Workshop Tatap Muka",
+                    "Rp 5.500.000 - Rp 6.800.000 /peserta",
+                    "3 Hari (Hotel Bintang 4)",
+                    "Konsumsi lengkap, hardcopy modul, workshop simulasi tim interaktif dengan software HAZOPS, sertifikat fisik"
+                ],
+                [
+                    "In-House Facilitation Korporasi",
+                    "Rp 25.000.000 - Rp 45.000.000 /tim",
+                    "3–5 Hari (On-site Pabrik/Plant)",
+                    "Fasilitasi langsung dokumen P&ID proyek riil klien oleh Senior HAZOPS Leader / Chairman tersertifikasi"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Komponen yang Termasuk dalam Biaya Pelatihan"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Materi komprehensif metodologi Kata Pandu (Guide Words: NO, MORE, LESS, AS WELL AS, PART OF, REVERSE, OTHER THAN).",
+                "Toolkit Excel & Software Template HAZOPS Worksheet berstandar industri internasional.",
+                "Studi kasus riil analisis Node P&ID pada sistem perpipaan, tangki reaktor, distilasi, dan kompresor gas.",
+                "Bimbingan langsung dari praktisi Process Safety Specialist dan HAZOPS Chairman bersertifikasi internasional.",
+                "Sertifikat Kompetensi Pelatihan HAZOPS Study resmi dari PENA Consultant untuk portofolio engineering."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Mengapa In-House HAZOPS Facilitation Sangat Bernilai Finansial?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bagi perusahaan yang sedang membangun fasilitas baru atau memodifikasi sistem proses (Management of Change / MOC), menyelenggarakan in-house HAZOPS study dapat mencegah potensi kerugian ratusan juta hingga miliaran rupiah akibat shutdown mendadak, pelepasan bahan kimia beracun, atau kegagalan desain instrumen keselamatan (SIS/SIL)."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "PENA Consultant melayani pendampingan HAZOPS Study langsung di fasilitas pabrik klien dengan jaminan laporan komprehensif siap diaudit."
+        }
+    ],
+    "related_offering_slug": "hazops-hazard-operability-studies",
+    "meta_title": "Biaya HAZOPS (Hazard & Operability Studies) 2026 — Guide",
+    "meta_description": "Panduan teknis keselamatan Biaya HAZOPS (Hazard & Operability Studies) 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI,",
+    "published_at": "2026-07-31"
+}

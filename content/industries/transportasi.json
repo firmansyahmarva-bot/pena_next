@@ -1,0 +1,19 @@
+{
+    "id": "01kyw9nkdsa3szfefth1cmt0z0",
+    "name": "Transportasi dan Logistik",
+    "slug": "transportasi",
+    "path": "/industri/transportasi",
+    "description": "K3 untuk sektor Transportasi dan Logistik. Penerapan K3 pada sektor Transportasi dan Logistik sangat krusial untuk mencegah kecelakaan kerja akibat pengoperasian mesin produksi berat, bahan kimia pestisida, dan potensi kecelakaan lalu lintas operasional. PT PENA Consultant menyediakan layanan pembinaan K3 terpadu, pendampingan SMK3 PP No. 50 Tahun 2012, dan sertifikasi resmi Kemnaker RI untuk memastikan perlindungan keselamatan kerja yang komprehensif bagi seluruh staf perusahaan Anda.",
+    "regulatory_context": [
+        {
+            "type": "paragraph",
+            "text": "Operator pesawat angkat dan pesawat angkut (forklift, mobile crane, dan sejenisnya) di sektor transportasi dan logistik wajib memiliki lisensi K3 sesuai Permenaker No. 8 Tahun 2020."
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Pesawat Angkat dan Pesawat Angkut.",
+            "source": "Permenaker No. 8 Tahun 2020"
+        }
+    ],
+    "relevant_offering_slugs": []
+}

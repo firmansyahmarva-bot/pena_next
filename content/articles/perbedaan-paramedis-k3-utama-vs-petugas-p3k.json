@@ -1,0 +1,133 @@
+{
+    "id": "01kyw9n1dg7bx3qfbbvvwfj17g",
+    "title": "Perbedaan Paramedis K3 Utama dan Petugas P3K",
+    "slug": "perbedaan-paramedis-k3-utama-vs-petugas-p3k",
+    "path": "/panduan/sertifikasi-k3/perbedaan-paramedis-k3-utama-vs-petugas-p3k",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Petugas P3K dan Paramedis K3 Utama sama-sama menangani kesehatan di tempat kerja, tapi berbeda dasar hukum, skema sertifikasi, jenjang kompetensi, dan cakupan tugas. Berikut perbandingan lengkapnya agar perusahaan bisa memilih atau menempatkan keduanya dengan tepat.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Petugas P3K dan Paramedis K3 Utama sering dikira peran yang sama karena keduanya berurusan dengan kesehatan dan kedaruratan di tempat kerja. Padahal keduanya berada di jenjang tanggung jawab yang berbeda: satu adalah kewajiban dasar hampir setiap tempat kerja, satu lagi adalah kompetensi tenaga kesehatan kerja profesional jenjang tertinggi skema BNSP. Artikel ini membedah keduanya secara rinci — dasar hukum, cakupan tugas, jenjang sertifikasi, dan kapan perusahaan membutuhkan yang mana."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Petugas P3K: Kewajiban Dasar Setiap Tempat Kerja"
+        },
+        {
+            "type": "paragraph",
+            "text": "Petugas P3K (Pertolongan Pertama Pada Kecelakaan) adalah pekerja yang ditunjuk perusahaan dan dilatih untuk memberikan pertolongan pertama saat terjadi kecelakaan atau kondisi gawat darurat di tempat kerja, sebelum korban mendapat penanganan medis lanjutan."
+        },
+        {
+            "type": "citation",
+            "text": "Pertolongan Pertama Pada Kecelakaan di Tempat Kerja — setiap tempat kerja wajib memiliki petugas P3K sesuai rasio jumlah pekerja dan tingkat risiko/potensi bahaya di tempat kerja tersebut.",
+            "source": "Permenaker No. 15/MEN/VIII/2008"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Melakukan penilaian awal korban dan bantuan hidup dasar (BHD/CPR)",
+                "Menangani perdarahan, luka bakar, patah tulang, dan keracunan di tempat kerja",
+                "Mengelola kotak P3K dan fasilitas P3K sesuai regulasi",
+                "Melakukan evakuasi dan rujukan korban secara aman"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Karena sifatnya wajib berdasarkan rasio pekerja, sertifikasi Petugas P3K diterbitkan sebagai lisensi Kemnaker RI (untuk skema petugas-p3k) atau tersedia pula dalam skema BNSP (First Aid). Pelatihannya relatif singkat dan berfokus pada penanganan kedaruratan tahap awal — bukan diagnosis atau penanganan medis lanjutan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Paramedis K3 Utama: Tenaga Kesehatan Kerja Profesional Jenjang Tertinggi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Paramedis K3 adalah sertifikasi kompetensi BNSP untuk tenaga kesehatan yang bekerja di lingkungan industri, berjenjang dari Muda, Madya, hingga Utama. Jenjang Utama adalah level kompetensi tertinggi, ditujukan bagi tenaga kesehatan kerja yang mengelola pelayanan kesehatan kerja secara menyeluruh di perusahaan, bukan sekadar menangani kedaruratan."
+        },
+        {
+            "type": "citation",
+            "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI, termasuk skema Paramedis K3.",
+            "source": "PP No. 23 Tahun 2004"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Melaksanakan pelayanan kesehatan kerja di perusahaan",
+                "Melakukan tindakan pertolongan dan kegawatdaruratan medis di tempat kerja",
+                "Mendukung program pencegahan penyakit akibat kerja (PAK)",
+                "Mengelola data kesehatan kerja dan pelaporannya",
+                "Lulus asesmen kompetensi paramedis K3 jenjang Utama sesuai unit SKKNI"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi ini mengacu pada UU No. 13 Tahun 2003 tentang sertifikasi kompetensi kerja nasional, dan menuntut asesmen kompetensi formal — bukan hanya pelatihan singkat. Tenaga bersertifikat Paramedis K3 Utama umumnya menjadi penanggung jawab klinik/poliklinik perusahaan atau koordinator program kesehatan kerja."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Perbandingan Ringkas"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Aspek",
+                "Petugas P3K",
+                "Paramedis K3 Utama"
+            ],
+            "rows": [
+                [
+                    "Dasar hukum utama",
+                    "Permenaker No. 15/MEN/VIII/2008",
+                    "UU No. 13/2003 + skema BNSP (PP No. 23/2004)"
+                ],
+                [
+                    "Sifat",
+                    "Kewajiban dasar sesuai rasio pekerja",
+                    "Kompetensi profesional jenjang tertinggi"
+                ],
+                [
+                    "Skema sertifikasi",
+                    "Lisensi Kemnaker RI (atau BNSP untuk skema First Aid)",
+                    "Kompetensi BNSP, jenjang Muda → Madya → Utama"
+                ],
+                [
+                    "Cakupan tugas",
+                    "Pertolongan pertama & kedaruratan tahap awal",
+                    "Pelayanan kesehatan kerja menyeluruh + kedaruratan medis"
+                ],
+                [
+                    "Cocok untuk",
+                    "Pekerja yang ditunjuk sebagai petugas P3K di unit kerja",
+                    "Tenaga kesehatan kerja / penanggung jawab klinik perusahaan"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Apakah Perusahaan Perlu Keduanya?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk banyak perusahaan berisiko tinggi, jawabannya ya — keduanya melayani kebutuhan berbeda. Petugas P3K wajib dimiliki hampir setiap tempat kerja sesuai rasio pekerja dan tingkat risiko (Permenaker No. 15/MEN/VIII/2008), sehingga ini adalah kebutuhan kepatuhan dasar. Paramedis K3 Utama baru relevan ketika perusahaan mengoperasikan klinik/poliklinik sendiri atau membutuhkan penanggung jawab program kesehatan kerja yang lebih kompleks — biasanya perusahaan skala besar atau berisiko tinggi (migas, tambang, manufaktur berat)."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Tidak yakin kebutuhan sertifikasi mana yang sesuai untuk tim Anda? Tim kami dapat membantu menilai rasio pekerja, tingkat risiko, dan struktur kesehatan kerja perusahaan Anda sebelum menentukan program yang tepat."
+        }
+    ],
+    "related_offering_slug": "paramedis-k3-utama",
+    "meta_title": "Perbedaan Paramedis K3 Utama dan Petugas P3K — Guide 202",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Paramedis K3 Utama dan Petugas P3K resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan",
+    "published_at": "2026-07-31"
+}

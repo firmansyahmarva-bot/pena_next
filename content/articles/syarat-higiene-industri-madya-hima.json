@@ -1,0 +1,41 @@
+{
+    "id": "01kyw9kj2ggq510m3597c6hz8a",
+    "title": "Syarat Uji Kompetensi HIMA BNSP (12 Unit SKKNI)",
+    "slug": "syarat-higiene-industri-madya-hima",
+    "path": "/panduan/sertifikasi-k3/syarat-higiene-industri-madya-hima",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Persyaratan uji kompetensi 12 unit SKKNI skema HIMA BNSP.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Asesi HIMA BNSP wajib menunjukkan portofolio perancangan sistem ventilasi industri, evaluasi data statistik pajanan pekerja, dan penyusunan program proteksi kesehatan kerja."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Persyaratan Berkas Portofolio"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Laporan evaluasi pajanan lingkungan kerja dan rekomendasi perbaikan rekayasa teknis.",
+                "Bukti perhitungan laju alir (flow rate) dan rancangan Local Exhaust Ventilation (LEV).",
+                "Bukti pengalaman kerja minimal 2 tahun di bidang higiene industri."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Asesmen dilakukan oleh Asesor LSP Higiene Industri terakreditasi BNSP."
+        }
+    ],
+    "related_offering_slug": "higiene-industri-madya-hima",
+    "meta_title": "Syarat Mengikuti Higiene Industri Madya (HIMA) — Guide 2",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Higiene Industri Madya (HIMA) resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, d",
+    "published_at": "2026-07-31"
+}

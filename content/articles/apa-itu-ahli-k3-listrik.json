@@ -1,0 +1,120 @@
+{
+    "id": "01kyw9k7mat3q0pbk4a4pgrm83",
+    "title": "Apa Itu Ahli K3 Listrik BNSP?",
+    "slug": "apa-itu-ahli-k3-listrik",
+    "path": "/panduan/k3-teknis/apa-itu-ahli-k3-listrik",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Ahli K3 Listrik (skema BNSP) adalah kompetensi wajib bagi personel yang merencanakan, memasang, memeriksa, atau memelihara instalasi listrik di tempat kerja, sesuai Permenaker No. 12 Tahun 2015. Berikut dasar hukum dan ruang lingkup materinya.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Ahli K3 Listrik adalah program sertifikasi kompetensi bidang kelistrikan skema BNSP, ditujukan bagi personel yang merencanakan, memasang, memeriksa, atau memelihara instalasi listrik di tempat kerja — pekerjaan dengan risiko sengatan listrik, busur api, dan kebakaran listrik."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Listrik di Tempat Kerja.",
+            "source": "Permenaker No. 12 Tahun 2015"
+        },
+        {
+            "type": "citation",
+            "text": "Perubahan atas Permenaker No. 12 Tahun 2015.",
+            "source": "Permenaker No. 33 Tahun 2015"
+        },
+        {
+            "type": "citation",
+            "text": "Persyaratan Umum Instalasi Listrik (PUIL 2011).",
+            "source": "SNI 0225:2011"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tujuan dan Kompetensi Setelah Pelatihan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Setelah menyelesaikan program, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memahami regulasi K3 listrik dan standar PUIL yang berlaku",
+                "Mengidentifikasi bahaya listrik: sentuh langsung/tidak langsung, busur api, kebakaran listrik",
+                "Menerapkan prosedur kerja aman pada instalasi listrik (termasuk LOTO)",
+                "Melakukan pemeriksaan dan pengujian instalasi sesuai kewenangannya",
+                "Memenuhi persyaratan kompetensi personel K3 listrik sesuai skema BNSP"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Ruang Lingkup Materi"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Dasar hukum dan pengawasan K3 listrik",
+                "Sistem instalasi listrik dan proteksi bahaya listrik",
+                "Sistem proteksi petir dan pembumian",
+                "Prosedur kerja aman dan alat pelindung diri kelistrikan",
+                "Pemeriksaan, pengujian, dan pelaporan instalasi",
+                "Praktik/asesmen sesuai skema"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Skema BNSP vs Penunjukan Kemnaker RI"
+        },
+        {
+            "type": "paragraph",
+            "text": "Program ini adalah skema kompetensi BNSP. PENA Consultant juga menyelenggarakan Ahli K3 Listrik jalur penunjukan Kemnaker RI — keduanya sama-sama mengacu pada Permenaker No. 12 Tahun 2015, namun berbeda lembaga penerbit dan mekanisme pengakuan. Pilih sesuai persyaratan yang diminta oleh proyek/klien Anda."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kapan Jalur BNSP Menjadi Pilihan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Halaman ini secara khusus membahas jalur kompetensi BNSP. Jalur ini layak dipertimbangkan ketika perusahaan, proyek, atau calon pemberi kerja meminta bukti kompetensi berdasarkan skema BNSP, atau ketika peserta ingin menunjukkan penguasaan unit kompetensi melalui proses asesmen. Keputusan tetap harus mengikuti dokumen kebutuhan pengguna sertifikat; istilah “Ahli K3 Listrik” saja belum cukup untuk menentukan lembaga penerbit yang diminta."
+        },
+        {
+            "type": "paragraph",
+            "text": "Peserta idealnya telah memiliki dasar pendidikan atau pengalaman kelistrikan karena pembahasan mencakup bahaya sentuh, busur api, pembumian, proteksi petir, prosedur LOTO, pemeriksaan, dan pelaporan instalasi. Pendaftar tanpa latar belakang relevan perlu diverifikasi lebih dahulu agar pilihan program realistis dan dokumen asesmennya dapat disiapkan dengan benar."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dari Pencarian Informasi ke Pendaftaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sebelum meminta invoice, kirimkan nama program yang tertulis pada kebutuhan proyek, latar belakang peserta, jumlah peserta, kota, dan target kelulusan. Tim PENA akan membedakan jalur BNSP dari jalur penunjukan Kemnaker RI, memeriksa dokumen awal, serta menyampaikan jadwal dan biaya yang tersedia. Untuk perusahaan, konsultasi awal juga dapat membahas kelas reguler atau pelaksanaan khusus bagi satu tim maintenance, engineering, atau HSE."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Tidak yakin skema mana yang sesuai — BNSP atau penunjukan Kemnaker RI? Tim kami dapat membantu menjelaskan perbedaannya sesuai kebutuhan perusahaan Anda."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-listrik",
+    "meta_title": "Apa itu Ahli K3 Listrik? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Ahli K3 Listrik? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

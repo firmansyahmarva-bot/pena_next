@@ -1,0 +1,32 @@
+{
+    "id": "01kyw9mrcy7x6c48p9cs8xer0b",
+    "title": "Apa Itu Welding Specialist / Welding Supervisor?",
+    "slug": "apa-itu-welding-specialist-supervisor",
+    "path": "/panduan/sertifikasi-k3/apa-itu-welding-specialist-supervisor",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Welding Specialist / Welding Supervisor adalah koordinator teknis pengelasan yang bertanggung jawab mengawasi mutu sambungan las dan pemenuhan standar ISO 3834.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Welding Specialist bertindak sebagai Welding Coordinator sesuai ISO 14731 tingkat spesifik untuk memastikan fasilitas fabrikasi memenuhi standar sistem mutu pengelasan ISO 3834."
+        },
+        {
+            "type": "citation",
+            "text": "Welding coordination — Tasks and responsibilities.",
+            "source": "ISO 14731 / IIW Guideline"
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Otoritas teknis supervisi pada industri manufaktur bejana tekan dan struktur lepas pantai."
+        }
+    ],
+    "related_offering_slug": "welding-specialist-supervisor",
+    "meta_title": "Apa itu Welding Specialist/Supervisor? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Welding Specialist/Supervisor? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan serti",
+    "published_at": "2026-07-31"
+}

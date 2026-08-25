@@ -1,0 +1,56 @@
+{
+    "id": "01kyhbn3apsd2qqe9ck3e3b32y",
+    "name": "Manufaktur",
+    "slug": "manufaktur",
+    "path": "/industri/manufaktur",
+    "description": "Pabrik dan fasilitas produksi mengoperasikan mesin, pesawat angkat, dan sistem tenaga yang menuntut pengawasan K3 berkelanjutan agar operasional tetap aman dan produktif.",
+    "regulatory_context": [
+        {
+            "type": "paragraph",
+            "text": "Kewajiban K3 di lingkungan manufaktur mencakup:"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) — wajib bagi perusahaan dengan ≥100 pekerja atau tingkat bahaya tinggi.",
+            "source": "PP No. 50 Tahun 2012"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Pesawat Tenaga dan Produksi.",
+            "source": "Permenaker No. 38 Tahun 2016"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Pesawat Angkat dan Pesawat Angkut.",
+            "source": "Permenaker No. 8 Tahun 2020"
+        },
+        {
+            "type": "paragraph",
+            "text": "Perusahaan manufaktur dengan ≥100 pekerja atau tingkat bahaya tinggi wajib menerapkan SMK3 secara penuh, termasuk pembentukan P2K3 dan audit berkala."
+        }
+    ],
+    "relevant_offering_slugs": [
+        "ahli-k3-umum",
+        "ahli-k3-listrik",
+        "ahli-k3-listrik-2",
+        "teknisi-k3-listrik",
+        "k3-teknisi-listrik",
+        "auditor-sistem-manajemen-k3",
+        "ahli-k3-penanggulangan-kebakaran-kelas-a",
+        "regu-penanggulangan-kebakaran-kelas-c",
+        "petugas-peran-kebakaran-kelas-d",
+        "koordinator-unit-p-keb-kelas-b",
+        "unit-p-keb-kelas-c",
+        "damkar-paralel-kelas-dcba",
+        "petugas-p3k",
+        "operator-boiler-kelas-2",
+        "operator-pesawat-tenaga-produksi-ptp",
+        "operator-forklift-kelas-2",
+        "operator-crane-kelas-3"
+    ]
+}

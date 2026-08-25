@@ -1,0 +1,20 @@
+{
+    "id": "01kyw9p1r03rb1g6f0jd8trwms",
+    "name": "Tangerang",
+    "slug": "tangerang",
+    "path": "/cabang/tangerang",
+    "is_physical": false,
+    "address": null,
+    "intro": [
+        {
+            "type": "paragraph",
+            "text": "Tangerang, sebagai kota penyangga utama Jakarta di Provinsi Banten, adalah salah satu basis manufaktur terpadat di kawasan Jabodetabek — didukung Kawasan Industri Jatake, salah satu pusat penggerak ekonomi terbesar Tangerang sejak era industrialisasi 1980-1990, serta Kawasan Industri Millennium yang menjadi sentra manufaktur alas kaki (sepatu, sandal), elektronik, dan peralatan listrik. Sektor manufaktur menyumbang lebih dari 35% pendapatan daerah Tangerang, menyerap jutaan pekerja aktif di berbagai sektor industri."
+        },
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyelenggarakan pelatihan dan sertifikasi K3 yang relevan untuk kebutuhan industri manufaktur, alas kaki, dan elektronik di Tangerang dan sekitarnya — skema Kemnaker RI maupun BNSP, tersedia online maupun in-house."
+        }
+    ],
+    "service_areas": [],
+    "phone": null
+}

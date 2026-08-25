@@ -1,0 +1,48 @@
+{
+    "id": "01kyw9m4fhvmem01q2904h7zks",
+    "title": "Apa Itu Pengawas K3 Rumah Sakit (K3RS)?",
+    "slug": "apa-itu-pengawas-k3-rumah-sakit",
+    "path": "/panduan/sertifikasi-k3/apa-itu-pengawas-k3-rumah-sakit",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Panduan komprehensif Pengawas K3 Rumah Sakit (K3RS): pengelolaan limbah B3 medis, pencegahan infeksi nosokomial, proteksi radiasi, keselamatan gas medis, dan standar Permenkes 66/2016.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Pengawas K3 Rumah Sakit (K3RS) adalah tenaga profesional yang bertanggung jawab mengelola program keselamatan bagi pasien, tenaga medis, staf pendukung, dan pengunjung rumah sakit sesuai standar Permenkes No. 66 Tahun 2016."
+        },
+        {
+            "type": "citation",
+            "text": "Standar Keselamatan dan Kesehatan Kerja Rumah Sakit.",
+            "source": "Permenkes No. 66 Tahun 2016"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Ruang Lingkup Pengawasan K3 Rumah Sakit"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Keselamatan Bangunan & Fasilitas: Jalur evakuasi pasien ranjang, sistem proteksi kebakaran hidran/sprinkler, dan penangkal petir.",
+                "Keselamatan Gas Medis & Vakum: Pemeriksaan manifold oksigen sentral, tabung gas bertekanan tinggi, dan instalasi pipa gas medis.",
+                "Pengelolaan Limbah Medis B3: Pewadahan kantong kuning infeksius, safety box jarum suntik, penyimpanan TPS B3, dan manifes insinerator / autoclave.",
+                "Proteksi Bahaya Radiasi: Pemantauan dosimeter saku (TLD badge) bagi staf radiologi, ruang isolasi radioterapi, dan sertifikasi BAPETEN.",
+                "Pencegahan Kecelakaan Jarum Suntik (Needle Stick Injury / NSI) dan ergonomi pemindahan pasien (patient handling)."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Pengawas K3RS adalah figur kunci dalam pemenuhan elemen standar Akreditasi Rumah Sakit (KARS / STARKES / JCI)."
+        }
+    ],
+    "related_offering_slug": "pengawas-k3-rumah-sakit",
+    "meta_title": "Apa itu Pengawas K3 Rumah Sakit? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Pengawas K3 Rumah Sakit? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi",
+    "published_at": "2026-07-31"
+}

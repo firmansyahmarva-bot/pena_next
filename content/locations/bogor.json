@@ -1,0 +1,20 @@
+{
+    "id": "01kyw9p217hwszsg91bd8rj2tv",
+    "name": "Bogor",
+    "slug": "bogor",
+    "path": "/cabang/bogor",
+    "is_physical": false,
+    "address": null,
+    "intro": [
+        {
+            "type": "paragraph",
+            "text": "Bogor, mencakup Kota dan Kabupaten Bogor di jalur selatan Jabodetabek, adalah rumah bagi Kawasan Industri Sentul — berdiri sejak 1994 dengan luas 100 hektare di Kecamatan Babakan Madang — serta sejumlah pabrik manufaktur kimia dan karet skala nasional seperti PT Goodyear Indonesia (produsen ban kendaraan) dan PT Nipress Tbk di Cileungsi (produsen aki/baterai). Kombinasi industri pengolahan karet, kimia, dan komponen otomotif ini menjadikan Bogor salah satu basis manufaktur berisiko kimia yang signifikan di Jawa Barat."
+        },
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyelenggarakan pelatihan dan sertifikasi K3 yang relevan untuk kebutuhan industri karet, kimia, dan komponen otomotif di Bogor dan sekitarnya — skema Kemnaker RI maupun BNSP, tersedia online maupun in-house."
+        }
+    ],
+    "service_areas": [],
+    "phone": null
+}

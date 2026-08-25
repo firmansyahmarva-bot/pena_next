@@ -1,0 +1,95 @@
+{
+    "id": "01kyw9mkpq93d8pkgd2wjnyepv",
+    "title": "Jadwal Unit Penanggulangan Kebakaran Kelas C 2026",
+    "slug": "jadwal-unit-p-keb-kelas-c-2026",
+    "path": "/panduan/k3-teknis/jadwal-unit-p-keb-kelas-c-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Panduan jadwal Paket Unit Penanggulangan Kebakaran Kelas C 2026 untuk menyusun struktur regu, pembinaan Kemnaker, shift, praktik, dan quotation.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Jadwal Unit Penanggulangan Kebakaran Kelas C 2026 ditujukan pada kebutuhan pembentukan unit, bukan sekadar kursi satu peserta. Data program mencatat jalur Kemnaker dan durasi sekitar tujuh hari. Tanggal aktif belum terverifikasi; perusahaan perlu membedakan paket unit dari pembinaan individual Regu Kelas C."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Jadwal Aktif, Bukan Tanggal Rekaan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Tujuh hari adalah durasi tercatat, bukan janji seluruh personel mengikuti pola sama atau dokumen terbit bersamaan. Konfirmasikan desain angkatan, tanggal, shift, praktik, fasilitas, kuota, minimum peserta, evaluasi, administrasi, dan status confirmed."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Checklist Verifikasi Batch 2026"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Tanggal dan urutan kegiatan, peserta per shift, lokasi, praktik, alat/bahan, dan status",
+                "Struktur D-C-B-A, jumlah regu, sertifikat lama, gap personel, risiko, dan target audit",
+                "CV, surat tugas, kesehatan, identitas, pengalaman, serta dokumen peserta per jenjang",
+                "Harga paket/per peserta, pajak, fasilitas, bahan, perjalanan, reschedule, dan dokumen"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pre-check Peserta dan Bukti Kerja"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mulai dengan gap analysis: berapa petugas D, anggota regu C, koordinator B, dan ahli A yang tersedia pada setiap shift. Jangan membeli paket penuh jika kebutuhan hanya beberapa anggota, dan jangan membeli kelas individual bila masalahnya adalah desain unit serta distribusi shift."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Batch Publik atau Pelatihan In-house?"
+        },
+        {
+            "type": "paragraph",
+            "text": "In-house sering lebih tepat untuk pembentukan unit karena peserta dan skenario banyak, sedangkan batch publik dapat mengisi gap kecil. Selama pelatihan, perusahaan tetap harus menjaga kesiapan darurat. Area praktik, alat, bahan, instruktur, PIC, dan calon cadangan perlu ditetapkan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan Harga, Syarat, dan Sertifikat"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah paket Unit Kelas C sama dengan Regu Kelas C? Cakupan perlu dibandingkan. Apakah tujuh hari termasuk dokumen? Tidak. Apakah semua shift ikut bersamaan? Sebaiknya dirancang. Apakah paket lebih murah? Bergantung gap. Apakah praktik termasuk? Harus tertulis."
+        },
+        {
+            "type": "paragraph",
+            "text": "Rencanakan mundur dari target audit, tender, shutdown, atau mobilisasi. Sisihkan waktu untuk pemeriksaan syarat, koreksi dokumen, persetujuan anggaran, pendaftaran, pelaksanaan, evaluasi atau asesmen, perbaikan bila diperlukan, dan proses dokumen hasil. Tanggal selesai kelas bukan janji sertifikat, lisensi, atau keputusan kompeten langsung terbit. Simpan satu opsi tanggal cadangan dan jangan membeli tiket sebelum status batch, lokasi, serta minimum peserta dikonfirmasi tertulis."
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk permintaan perusahaan, tunjuk satu PIC yang mengendalikan daftar peserta, dokumen, PO, fasilitas praktik, komunikasi jadwal, dan reschedule. Quotation perlu menjelaskan harga per peserta atau paket, pajak, minimum peserta, alat dan bahan praktik, perjalanan, konsumsi, evaluasi, retake, penggantian nama, pembatalan, serta estimasi dokumen. Perbandingan seperti ini lebih berguna daripada memilih angka headline termurah."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Jadwal Aktif dan Quotation"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim struktur D-C-B-A, peserta per shift, sertifikat, risiko, fasilitas praktik, lokasi, target audit, dan anggaran. Tim PENA akan menyusun opsi jadwal Unit Kebakaran Kelas C dan quotation."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kalender batch 2026 belum terverifikasi dalam data program. Tim PENA akan memeriksa jadwal aktif, jalur, dan kesiapan peserta sebelum memberikan rekomendasi."
+        }
+    ],
+    "related_offering_slug": "unit-p-keb-kelas-c",
+    "meta_title": "Jadwal Unit P. Keb Kelas C 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Jadwal Unit P. Keb Kelas C 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

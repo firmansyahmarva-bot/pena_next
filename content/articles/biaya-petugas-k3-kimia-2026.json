@@ -1,0 +1,92 @@
+{
+    "id": "01kyw9m7e4xhbt150bsg8znpda",
+    "title": "Biaya Petugas K3 Kimia Kemnaker 2026",
+    "slug": "biaya-petugas-k3-kimia-2026",
+    "path": "/panduan/k3-teknis/biaya-petugas-k3-kimia-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Biaya Petugas K3 Kimia Kemnaker 2026 perlu dihitung dari kelayakan operator area kimia/B3, durasi pembinaan, lokasi, dokumen, dan kebutuhan perusahaan.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Tidak ada harga publik terverifikasi untuk Petugas K3 Kimia dalam dataset program. Informasi yang tersedia menunjukkan jalur Kemnaker, durasi sekitar enam hari, dan sasaran operator atau petugas area kimia/B3. Harga 2026 harus dikonfirmasi pada batch aktif dan tidak boleh disamakan dengan Ahli K3 Kimia atau pelatihan handling bahan kimia singkat."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Apa Saja yang Membentuk Biaya 2026?"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pembinaan bahaya kimia, pengendalian, praktik, dan evaluasi",
+                "Administrasi Kemnaker serta dokumen hasil",
+                "Materi, fasilitas, APD, konsumsi, instruktur, dan pajak",
+                "Perjalanan, akomodasi, atau penyesuaian kasus untuk in-house"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Total biaya dipengaruhi jumlah peserta, lokasi, mode, jadwal, bahan kimia proses, fasilitas praktik, serta kesiapan dokumen. Perusahaan perlu menghitung kesehatan, waktu kerja, pengganti shift, dan pengumpulan SDS/inventaris. Petugas dan Ahli memiliki ruang lingkup berbeda; memilih berdasarkan harga saja dapat meninggalkan kebutuhan struktur K3 Kimia."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data yang Dibutuhkan untuk Quotation Akurat"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah, CV, surat tugas, pengalaman, dan kesehatan",
+                "Inventaris bahan kimia/B3, SDS, proses, area, dan pola shift",
+                "Struktur Petugas/Ahli K3 Kimia serta sertifikat yang tersedia",
+                "Jumlah peserta, lokasi, mode, target audit, dan tenggat"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Cara Membandingkan Penawaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Samakan nama program, jenjang, Kemnaker, durasi, praktik, dokumen, pajak, dan penerbitan. Jangan membandingkan Petugas K3 Kimia dengan Ahli K3 Kimia atau awareness B3 sebagai paket identik. Sertifikat tidak menggantikan SDS, label, penyimpanan, ventilasi, spill response, pemantauan paparan, dan APD."
+        },
+        {
+            "type": "paragraph",
+            "text": "Jangan berhenti pada harga per kursi. Hitung biaya efektif peserta yang lolos pemeriksaan awal dan dapat hadir penuh, lalu tambahkan waktu kerja, perjalanan, akomodasi, pengganti shift, pemeriksaan kesehatan, fasilitas praktik, dan potensi penjadwalan ulang. Minta penawaran menuliskan masa berlaku harga, minimum peserta, pajak, termin pembayaran, pembatalan, penggantian nama, komponen yang tidak termasuk, proses evaluasi, serta estimasi penerbitan dokumen. Dengan dasar yang sama, tim pengadaan dapat membedakan harga murah dari total biaya yang benar-benar terkendali."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan yang Sering Diajukan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah Petugas sama dengan Ahli K3 Kimia? Tidak. Apakah harga termasuk praktik? Harus dirinci. Apakah in-house tersedia? Bergantung peserta dan fasilitas. Apakah inventaris kimia diperlukan? Membantu pemetaan. Apakah peserta dijamin lulus? Tidak."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Pemeriksaan dan Penawaran Resmi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim data calon, inventaris bahan, proses, shift, struktur K3 Kimia, lokasi, dan target. Tim PENA akan memeriksa kebutuhan lalu memberikan quotation resmi."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim kebutuhan perusahaan dan dokumen calon sebelum meminta invoice. Tim PENA akan memeriksa kecocokan program, kelayakan awal, ruang lingkup, dan komponen quotation tanpa mengarang harga publik."
+        }
+    ],
+    "related_offering_slug": "petugas-k3-kimia",
+    "meta_title": "Biaya Petugas K3 Kimia 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Biaya Petugas K3 Kimia 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

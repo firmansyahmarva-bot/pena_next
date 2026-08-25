@@ -1,0 +1,142 @@
+{
+    "id": "01kyfffj4xq4jevjk07c7jbdx8",
+    "type": "training",
+    "name": "Welding Inspector Comprehensive",
+    "slug": "welding-inspector-comprehensive",
+    "path": "/pelatihan/welding-inspector-comprehensive",
+    "title": "Welding Inspector Comprehensive",
+    "meta_title": "Sertifikasi Welding Inspector Comprehensive: Kode ASME IX",
+    "meta_description": "Pelatihan Inspektur Las Komprehensif BNSP. Kuasai standar ASME IX, AWS D1.1, pembacaan film radiografi RT/UT, endorsement PQR, dan audit QC.",
+    "summary": "Sertifikasi Welding Inspector Comprehensive (Inspektur Las Komprehensif) BNSP — jenjang tertinggi inspeksi pengelasan untuk verifikasi kode ASME IX/AWS D1.1, pembacaan film radiografi (RT/UT), dan pengesahan PQR.",
+    "certification_body": "bnsp",
+    "base_price": 8500000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Welding Inspector Comprehensive adalah sertifikasi inspeksi pengelasan tingkat tertinggi yang diakui BNSP berbasis SKKNI Inspeksi Pengelasan Senior. Inspektur level komprehensif memiliki wewenang mengevaluasi seluruh aspek kualitas pengelasan pada proyek manufaktur dan konstruksi berat."
+        },
+        {
+            "type": "paragraph",
+            "text": "Skema ini menyelaraskan pemahaman inspektur terhadap kode standar rekayasa internasional ternama: ASME Section IX (Boiler & Pressure Vessel Code), AWS D1.1 (Structural Welding Code), dan API 1104 (Welding of Pipelines)."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+            "source": "UU No. 13 Tahun 2003"
+        },
+        {
+            "type": "citation",
+            "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+            "source": "PP No. 23 Tahun 2004"
+        },
+        {
+            "type": "citation",
+            "text": "Welding, Brazing, and Fusing Qualifications.",
+            "source": "ASME Section IX"
+        },
+        {
+            "type": "citation",
+            "text": "Structural Welding Code — Steel.",
+            "source": "AWS D1.1"
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini mendidik personel QC senior menjadi inspektur pengelasan independen berstandar internasional. Setelah lulus asesmen, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Menganalisis dan menerapkan persyaratan kode ASME IX, AWS D1.1, dan API 1104 pada spesifikasi kontrak proyek",
+                "Meninjau dan mengesahkan dokumen PQR (Procedure Qualification Record) dan WPS (Welding Procedure Specification)",
+                "Mengevaluasi hasil uji merusak (Destructive Testing: Tensile, Guided Bend, Charpy V-Notch Impact, Hardness Test)",
+                "Mengevaluasi laporan & menginterpretasi film radiografi (RT Film Interpretation) serta hasil UT, MT, dan PT sesuai acceptance criteria",
+                "Menyusun Inspection & Test Plan (ITP) serta memimpin audit Quality Control (QC Audit) pada manufaktur bejana tekan & struktur berat",
+                "Memperoleh Sertifikat Kompetensi BNSP skema Welding Inspector Comprehensive"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Modul pelatihan komprehensif dan uji asesmen BNSP:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul 1: Penafsiran Kode Rekayasa Internasional (ASME IX, AWS D1.1, API 1104)",
+                "Modul 2: Metalurgi Las Advanced, Evaluasi Uji Merusak (DT), & Kualifikasi PQR/WPS",
+                "Modul 3: Interpretasi Film Radiografi (RT Film Reading) & Acceptance Criteria NDT (UT/MT/PT)",
+                "Modul 4: Penyusunan ITP (Inspection Test Plan) & Manajemen Audit Quality Assurance",
+                "Pelaksanaan Asesmen: Uji tertulis komprehensif, analisis studi kasus kode ASME/AWS, & wawancara lisan asesor BNSP"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Minimal S1 Teknik (Mesin/Metalurgi/Perkapalan/Sipil) dengan pengalaman inspeksi las minimal 2 tahun, ATAU D3/SMK Teknik dengan pengalaman inspeksi las minimal 4-5 tahun",
+                "Memiliki sertifikat Basic Welding Inspector atau portofolio kerja QC pengelasan terverifikasi",
+                "Surat rekomendasi / keterangan kerja dari perusahaan",
+                "Pasfoto latar belakang merah (3x4 & 4x6), KTP, & ijazah"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Kelengkapan administrasi yang umum dipersyaratkan untuk mengikuti program ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter",
+                "Surat rekomendasi/penugasan dari perusahaan (untuk peserta utusan perusahaan)",
+                "Curriculum vitae (untuk skema sertifikasi BNSP)"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan pendidikan minimum dan pengalaman kerja mengikuti ketentuan skema/penunjukan yang berlaku — tim kami akan memverifikasi kelengkapan Anda sebelum pendaftaran diproses."
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul dan materi pelatihan",
+                "Instruktur praktisi tersertifikasi di bidangnya",
+                "Ujian/asesmen sertifikasi",
+                "Sertifikat sesuai skema (Kemnaker RI atau BNSP)",
+                "Konsultasi pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir pendaftaran di halaman ini.",
+                "Terima penawaran resmi: jadwal, biaya, dan persyaratan program.",
+                "Lengkapi berkas administrasi dan lakukan konfirmasi pendaftaran.",
+                "Ikuti pelatihan dan ujian/asesmen sertifikasi.",
+                "Terima sertifikat dan lisensi/kartu kompetensi sesuai skema."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

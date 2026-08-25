@@ -1,0 +1,20 @@
+{
+    "id": "01kyjp518zxqfz744nrn9afy2d",
+    "name": "Semarang",
+    "slug": "semarang",
+    "path": "/cabang/semarang",
+    "is_physical": false,
+    "address": null,
+    "intro": [
+        {
+            "type": "paragraph",
+            "text": "Semarang, ibu kota Provinsi Jawa Tengah, adalah pusat industri manufaktur dan logistik pelabuhan terpadu — menaungi empat kawasan industri utama (Terboyo, LIK Kaligawe, Tanjung Emas, dan Wijayakusuma) yang mengelilingi Pelabuhan Tanjung Emas, salah satu pelabuhan tersibuk di pesisir utara Jawa. Sektor garmen, tekstil, makanan-minuman, furnitur, elektronik, dan otomotif semuanya beroperasi berdampingan di kota ini, menjadikannya salah satu basis industri paling beragam di Jawa Tengah."
+        },
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyelenggarakan pelatihan dan sertifikasi K3 yang relevan untuk kebutuhan industri manufaktur, garmen, dan kepelabuhanan di Semarang dan sekitarnya — skema Kemnaker RI maupun BNSP, tersedia online maupun in-house."
+        }
+    ],
+    "service_areas": [],
+    "phone": null
+}

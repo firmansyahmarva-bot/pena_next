@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9kr5g8rmcp9g1q6q7djjm",
+    "title": "Biaya Sertifikasi Operator Alat Berat 2026",
+    "slug": "biaya-operator-alat-berat-2026",
+    "path": "/panduan/sertifikasi-k3/biaya-operator-alat-berat-2026",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Rincian biaya pelatihan dan sertifikasi SIO Operator Alat Berat tahun 2026: biaya kelas publik, sewa unit alat praktik, buku kerja SIO, dan lisensi resmi Kemnaker RI.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Investasi biaya sertifikasi Operator Alat Berat tahun 2026 berkisar antara Rp 4.800.000 hingga Rp 7.500.000 per operator untuk kelas publik 4 hari. Biaya sudah termasuk modul keselamatan, sewa unit alat berat untuk ujian praktik, sertifikat pembinaan, Lisensi K3, dan Buku Kerja Operator resmi Kemnaker RI."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "PENA Consultant melayani program sertifikasi corporate in-house di area konsesi tambang atau workshop proyek klien."
+        }
+    ],
+    "related_offering_slug": "operator-alat-berat",
+    "meta_title": "Biaya Operator Alat Berat 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Biaya Operator Alat Berat 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

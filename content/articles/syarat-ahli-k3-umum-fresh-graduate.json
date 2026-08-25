@@ -1,0 +1,76 @@
+{
+    "id": "01kyw9kbcde790qgwme6x6mqx9",
+    "title": "Syarat Pelatihan Ahli K3 Umum Khusus Fresh Graduate",
+    "slug": "syarat-ahli-k3-umum-fresh-graduate",
+    "path": "/panduan/sertifikasi-k3/syarat-ahli-k3-umum-fresh-graduate",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Syarat dan panduan lengkap pelatihan Ahli K3 Umum Kemnaker RI khusus Fresh Graduate D3/S1 tanpa pengalaman kerja: dokumen, alur pendaftaran, dan peluang karier.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Bagi lulusan baru (Fresh Graduate) D3, D4, maupun S1 dari semua jurusan, memiliki sertifikat Ahli K3 Umum Kemnaker RI adalah keunggulan kompetitif terbesar untuk menembus seleksi kerja di sektor BUMN, multinasional, pertambangan, perbankan, dan manufaktur."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Syarat Dokumen Khusus Fresh Graduate"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "No",
+                "Dokumen Wajib",
+                "Keterangan Khusus Bagi Lulusan Baru"
+            ],
+            "rows": [
+                [
+                    "1",
+                    "Ijazah Asli atau Surat Keterangan Lulus (SKL)",
+                    "SKL resmi bertanda tangan dekan/rektor berlaku sah jika ijazah belum terbit"
+                ],
+                [
+                    "2",
+                    "Transkrip Nilai Akademik",
+                    "Scan asli berwarna"
+                ],
+                [
+                    "3",
+                    "Kartu Tanda Penduduk (KTP)",
+                    "Scan e-KTP jelas"
+                ],
+                [
+                    "4",
+                    "Surat Keterangan Sehat",
+                    "Dari dokter / puskesmas / klinik (menyatakan sehat jasmani)"
+                ],
+                [
+                    "5",
+                    "Pasfoto Berwarna Formal",
+                    "Latar belakang merah, berpakaian rapi kemeja berkerah"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Status Sertifikat yang Diterima Fresh Graduate"
+        },
+        {
+            "type": "paragraph",
+            "text": "Fresh graduate yang belum bekerja berhak menerima Sertifikat Pembinaan Calon Ahli K3 Umum resmi Kemnaker RI. Sertifikat ini berlaku seumur hidup dan menjadi bukti otentik bahwa Anda telah lulus 120 JP pembinaan resmi kementerian."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Setelah Anda diterima bekerja di perusahaan, perusahaan cukup melampirkan surat tugas untuk memproses penerbitan SKP & Lisensi K3 tanpa perlu mengulang pelatihan."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-umum-fresh-graduate",
+    "meta_title": "Syarat Mengikuti Ahli K3 Umum Fresh Graduate — Guide 202",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Ahli K3 Umum Fresh Graduate resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan",
+    "published_at": "2026-07-31"
+}

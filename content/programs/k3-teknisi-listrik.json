@@ -1,0 +1,131 @@
+{
+    "id": "01kyfffhjwan4w1hjr53fx2kz3",
+    "type": "training",
+    "name": "K3 Teknisi Listrik",
+    "slug": "k3-teknisi-listrik",
+    "path": "/pelatihan/k3-teknisi-listrik",
+    "title": "K3 Teknisi Listrik",
+    "meta_title": "K3 Teknisi Listrik",
+    "meta_description": "Pembinaan K3 Teknisi Listrik industri Kemnaker RI. Prosedur LOTO listrik, grounding, pengujian tahanan isolasi, & lisensi resmi.",
+    "summary": "Teknisi K3 Listrik sertifikasi Kemnaker RI adalah program pelatihan dan sertifikasi K3 bidang kelistrikan (lisensi Kemnaker RI) sesuai Permenaker No. 12 Tahun 2015 — kompetensi wajib bagi personel yang merencanakan, memasang, memeriksa, atau memelihara instalasi listrik di tempat kerja. Tersedia online & offline.",
+    "certification_body": "kemnaker",
+    "base_price": 9500000,
+    "duration": "7 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi Teknisi K3 Listrik Kemnaker RI adalah proses pembinaan dan sertifikasi personel K3 bidang kelistrikan yang diselenggarakan mengacu pada ketentuan Kementerian Ketenagakerjaan Republik Indonesia. Program ini ditujukan untuk mempersiapkan teknisi agar memenuhi kualifikasi keselamatan kerja kelistrikan sesuai peraturan ketenagakerjaan, sehingga personel yang bersangkutan dapat ditugaskan menangani instalasi listrik di tempat kerja secara sah dan sesuai prosedur pengawasan K3."
+        },
+        {
+            "type": "paragraph",
+            "text": "Penting untuk dipahami: jalur Kemnaker berbeda dari sertifikasi kompetensi BNSP. Sertifikasi Kemnaker terkait dengan pemenuhan ketentuan pengawasan ketenagakerjaan di bidang K3 listrik, sedangkan BNSP menguji dan mengesahkan kompetensi kerja individu berdasarkan skema SKKNI melalui LSP. Persyaratan, proses, dan lembaga penerbit sertifikat pada kedua jalur ini tidak sama, sehingga tidak dapat saling menggantikan begitu saja — perusahaan dan individu perlu memastikan jalur mana yang sesuai dengan kebutuhan kepatuhan mereka."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ketentuan keselamatan kerja kelistrikan mengacu pada UU No. 1 Tahun 1970 tentang Keselamatan Kerja dan Peraturan Menteri Ketenagakerjaan No. 12 Tahun 2015 tentang Keselamatan dan Kesehatan Kerja Listrik di Tempat Kerja. Proses sertifikasi/penunjukan personel K3 di bidang ini berada dalam kerangka pembinaan dan pengawasan ketenagakerjaan yang dijalankan oleh Kemnaker RI dan instansi ketenagakerjaan terkait."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi ini menyasar:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Teknisi listrik yang bekerja di perusahaan yang diawasi langsung oleh Dinas Ketenagakerjaan setempat",
+                "Perusahaan yang membutuhkan personel K3 listrik bersertifikat sesuai ketentuan pengawasan ketenagakerjaan",
+                "Teknisi yang bertanggung jawab langsung atas instalasi listrik di lingkungan kerja berisiko tinggi",
+                "Perusahaan yang tengah menyiapkan dokumen kepatuhan K3 untuk audit ketenagakerjaan"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Teknisi K3 Listrik yang telah mengikuti proses ini bertanggung jawab atas:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pemasangan, pemeliharaan, dan perbaikan instalasi listrik sesuai prosedur keselamatan",
+                "Pemeriksaan rutin kondisi kelistrikan di lingkungan kerja",
+                "Penerapan prosedur kerja aman kelistrikan, termasuk isolasi sumber energi",
+                "Pelaporan temuan bahaya kelistrikan kepada Ahli K3 atau penanggung jawab unit kerja",
+                "Mendukung penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) di area kelistrikan"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Bagi perusahaan, memiliki teknisi listrik yang telah melalui jalur sertifikasi Kemnaker membantu memenuhi aspek kepatuhan pengawasan ketenagakerjaan terkait K3 listrik. Bagi teknisi, ini menjadi bukti bahwa mereka telah dibina sesuai kerangka ketenagakerjaan nasional dan siap ditugaskan menangani pekerjaan kelistrikan dengan tanggung jawab keselamatan yang lebih jelas."
+        }
+    ],
+    "scope": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Dasar-dasar keselamatan kerja kelistrikan dan potensi bahayanya",
+                "Peraturan perundangan K3 bidang kelistrikan",
+                "Prosedur kerja aman pada instalasi tegangan rendah dan menengah",
+                "Prosedur isolasi energi dan penguncian (Lock Out Tag Out)",
+                "Inspeksi dan pemeliharaan instalasi listrik",
+                "Penanganan kondisi darurat akibat kegagalan sistem kelistrikan",
+                "Dokumentasi dan pelaporan sesuai prosedur pengawasan K3"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan dilaksanakan melalui pemaparan materi regulasi dan teknis, diskusi studi kasus, serta sesi praktik terkait penerapan prosedur kerja aman kelistrikan di tempat kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Peserta yang telah menyelesaikan pembinaan akan mengikuti evaluasi sesuai ketentuan yang berlaku untuk memperoleh pengakuan sebagai Teknisi K3 Listrik pada jalur Kemnaker RI. Proses ini terpisah dari mekanisme uji kompetensi BNSP dan mengikuti alur administrasi ketenagakerjaan yang berlaku."
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Bekerja atau ditugaskan pada bidang kelistrikan di perusahaan",
+                "Sehat jasmani dan rohani, mampu mengikuti kegiatan pelatihan penuh",
+                "Memiliki latar belakang pendidikan atau pengalaman kerja terkait kelistrikan"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP",
+                "Pas foto terbaru",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Surat pengantar/penugasan dari perusahaan (jika didaftarkan oleh perusahaan)",
+                "Surat keterangan sehat (sesuai ketentuan penyelenggara)"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul dan materi pelatihan",
+                "Instruktur praktisi tersertifikasi di bidangnya",
+                "Ujian/asesmen sertifikasi",
+                "Sertifikat sesuai skema (Kemnaker RI atau BNSP)",
+                "Konsultasi pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant memfasilitasi penyelenggaraan pelatihan Teknisi K3 Listrik jalur Kemnaker RI, baik untuk individu maupun rombongan dari perusahaan. Hubungi tim PENA Consultant untuk mengetahui jadwal pelatihan terdekat, kelengkapan dokumen, dan tahapan pendaftaran."
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

@@ -1,0 +1,20 @@
+{
+    "id": "01kyjp519cns875757dzyz8f9d",
+    "name": "Jakarta",
+    "slug": "jakarta",
+    "path": "/cabang/jakarta",
+    "is_physical": false,
+    "address": null,
+    "intro": [
+        {
+            "type": "paragraph",
+            "text": "Jakarta, sebagai ibu kota dan pusat ekonomi nasional, memiliki profil risiko K3 yang unik: memadukan kawasan industri manufaktur tua seperti Pulogadung dan kawasan berikat Cakung di wilayah Jakarta Timur dan Utara, dengan gelombang pembangunan konstruksi gedung tinggi dan infrastruktur transportasi massal yang terus berlangsung di seluruh kota. Kombinasi ini membuat kebutuhan K3 di Jakarta mencakup baik sektor manufaktur padat pekerja maupun sektor konstruksi vertikal berisiko tinggi."
+        },
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyelenggarakan pelatihan dan sertifikasi K3 — skema Kemnaker RI maupun BNSP — yang relevan untuk kebutuhan industri manufaktur, kawasan berikat, dan konstruksi gedung tinggi di Jakarta, tersedia secara online maupun in-house di lokasi perusahaan Anda."
+        }
+    ],
+    "service_areas": [],
+    "phone": null
+}

@@ -1,0 +1,92 @@
+{
+    "id": "01kyw9m2f71czq9dpzjfr05g00",
+    "title": "Biaya Pelatihan Penanganan Bahaya Gas H2S 2026",
+    "slug": "biaya-penanganan-bahaya-gas-h2s-2026",
+    "path": "/panduan/k3-teknis/biaya-penanganan-bahaya-gas-h2s-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Biaya pelatihan dan sertifikasi Penanganan Bahaya Gas H2S 2026 perlu dibedakan berdasarkan skema BNSP, asesmen, praktik alat, peserta, dan risiko lokasi.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Dataset mencatat Penanganan Bahaya Gas H2S sebagai program BNSP berdurasi sekitar tiga hari bagi pekerja migas dan industri kimia, tetapi tidak mencantumkan harga publik terverifikasi. Quotation 2026 harus menjelaskan apakah yang ditawarkan awareness, pelatihan dengan evaluasi, atau asesmen kompetensi BNSP karena ketiganya tidak otomatis setara."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Apa Saja yang Membentuk Biaya 2026?"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Persiapan materi bahaya H2S, kontrol, respons, dan praktik",
+                "Asesmen kompetensi serta administrasi LSP",
+                "Detector/alat bantu praktik, APD, dokumen hasil, dan pajak",
+                "Perjalanan, akomodasi, simulasi, atau pelaksanaan in-house"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Biaya dipengaruhi bentuk program, jumlah peserta, lokasi, potensi paparan, fasilitas simulasi, serta kesiapan bukti. Perusahaan juga perlu menghitung waktu kerja, pengganti shift, fit test atau pemeriksaan kesehatan bila dibutuhkan, dan perjalanan. Sertifikasi H2S tidak otomatis menjadikan peserta Authorized Gas Tester atau petugas rescue."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data yang Dibutuhkan untuk Quotation Akurat"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "CV, tugas, pengalaman, dan bukti kerja calon",
+                "Jenis operasi, potensi H2S, area, shift, dan prosedur darurat",
+                "Kutipan persyaratan klien yang menyebut awareness atau BNSP",
+                "Jumlah peserta, lokasi, mode, alat tersedia, dan tenggat"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Cara Membandingkan Penawaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bandingkan skema, unit kompetensi, LSP, asesmen, praktik, dokumen, retake, pajak, dan penerbitan. Hindari membandingkan kelas awareness singkat dengan sertifikasi BNSP hanya dari harga. Pelatihan tidak menggantikan detector terkalibrasi, monitoring, respirator, muster, escape set, dan emergency response plan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Jangan berhenti pada harga per kursi. Hitung biaya efektif peserta yang lolos pemeriksaan awal dan dapat hadir penuh, lalu tambahkan waktu kerja, perjalanan, akomodasi, pengganti shift, pemeriksaan kesehatan, fasilitas praktik, dan potensi penjadwalan ulang. Minta penawaran menuliskan masa berlaku harga, minimum peserta, pajak, termin pembayaran, pembatalan, penggantian nama, komponen yang tidak termasuk, proses evaluasi, serta estimasi penerbitan dokumen. Dengan dasar yang sama, tim pengadaan dapat membedakan harga murah dari total biaya yang benar-benar terkendali."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan yang Sering Diajukan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah H2S awareness sama dengan BNSP? Tidak otomatis. Apakah detector disediakan? Tanyakan. Apakah sertifikat berlaku untuk semua klien? Konfirmasikan. Apakah retake termasuk? Harus tertulis. Apakah AGT ikut tercakup? Tidak."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Pemeriksaan dan Penawaran Resmi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim persyaratan klien, profil risiko H2S, dokumen calon, jumlah peserta, lokasi, dan tenggat. Tim PENA akan memastikan bentuk program dan quotation sesuai tujuan."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim kebutuhan perusahaan dan dokumen calon sebelum meminta invoice. Tim PENA akan memeriksa kecocokan program, kelayakan awal, ruang lingkup, dan komponen quotation tanpa mengarang harga publik."
+        }
+    ],
+    "related_offering_slug": "penanganan-bahaya-gas-h2s",
+    "meta_title": "Biaya Penanganan Bahaya Gas H2S 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Biaya Penanganan Bahaya Gas H2S 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifi",
+    "published_at": "2026-07-31"
+}

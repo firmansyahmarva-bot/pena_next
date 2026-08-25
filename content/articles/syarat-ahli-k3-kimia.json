@@ -1,0 +1,92 @@
+{
+    "id": "01kyw9k6vxyfzhbs2zvw3skj3f",
+    "title": "Syarat Ahli K3 Kimia Kemnaker dan Dokumen Pendaftaran",
+    "slug": "syarat-ahli-k3-kimia",
+    "path": "/panduan/k3-teknis/syarat-ahli-k3-kimia",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat mengikuti Ahli K3 Kimia: penunjukan Kemnaker RI bagi personel yang bertanggung jawab atas pengendalian bahan kimia berbahaya di perusahaan sesuai Kepmenaker No. 187/MEN/1999.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Ahli K3 Kimia adalah program penunjukan Kemnaker RI bagi personel yang bertanggung jawab pengendalian bahan kimia berbahaya di perusahaan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Persyaratan Umum Peserta"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Ditugaskan/direkomendasikan secara tertulis oleh perusahaan tempat bekerja — sesuai sifat penunjukan Kemnaker RI",
+                "Bekerja atau ditempatkan pada unit yang menangani penyimpanan/penggunaan bahan kimia berbahaya",
+                "Sehat jasmani dan rohani, dibuktikan surat keterangan dokter",
+                "Bersedia mengikuti pembinaan penuh dan lulus ujian di akhir program"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan pendidikan dan pengalaman kerja spesifik mengikuti ketentuan penunjukan yang berlaku pada Kepmenaker No. 187/MEN/1999 — tim kami akan memverifikasi kelayakan Anda sebelum pendaftaran diproses."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kelengkapan Berkas"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter",
+                "Surat tugas/rekomendasi dari perusahaan"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pendidikan dan Pengalaman Harus Diverifikasi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Daftar umum di atas belum cukup untuk menyatakan seseorang pasti diterima. Kelayakan Ahli K3 Kimia bergantung pada pendidikan, pengalaman, penugasan, dan ketentuan pembinaan yang berlaku. Kandidat perlu menunjukkan hubungan pekerjaannya dengan inventaris, penyimpanan, penggunaan, pemantauan, atau pengendalian bahan kimia berbahaya. PENA memeriksa dokumen sebelum peserta membayar atau dijadwalkan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bagi perusahaan, siapkan inventaris bahan dan SDS/LDKB, jumlah area dan shift, jabatan calon, status Petugas atau Ahli yang sudah dimiliki, serta hasil audit. Informasi tersebut membantu menentukan apakah kebutuhan sebenarnya Ahli K3 Kimia, Petugas K3 Kimia, pelatihan tanggap tumpahan, atau kombinasi. Sertifikasi personel tidak menggantikan label, segregasi, ventilasi, inspeksi, dan emergency plan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Alur Pendaftaran dan Penawaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim pindaian identitas, ijazah, CV, surat tugas, bukti pengalaman, pas foto, surat sehat, jumlah peserta, lokasi, dan target waktu. Tim akan melakukan pre-check, mengonfirmasi kekurangan, lalu menyampaikan jadwal, durasi, metode, dan biaya resmi. Jangan mengubah atau membuat dokumen pengalaman hanya untuk memenuhi syarat; bila belum layak, tim seharusnya mengarahkan ke jenjang yang sesuai."
+        },
+        {
+            "type": "paragraph",
+            "text": "Saat mengirim dokumen perusahaan, tutup informasi rahasia yang tidak dibutuhkan tetapi biarkan nama, jabatan, masa kerja, dan ruang lingkup tugas tetap terbaca. Pastikan ejaan nama konsisten antara KTP, ijazah, surat tugas, dan formulir. Perbedaan data dapat memperlambat verifikasi serta penerbitan dokumen hasil pembinaan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Tanyakan pula sejak awal bentuk dokumen kelulusan, tahapan proses, serta estimasi penerbitan. Informasi tersebut penting bila perusahaan sedang mengejar tenggat audit atau mobilisasi proyek."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Ingin memastikan kelengkapan berkas sebelum mendaftar Ahli K3 Kimia? Tim kami akan membantu verifikasi sebelum pendaftaran diproses."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-kimia",
+    "meta_title": "Syarat Mengikuti Ahli K3 Kimia — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Ahli K3 Kimia resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

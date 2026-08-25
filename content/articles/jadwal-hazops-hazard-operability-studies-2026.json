@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9khhpxdsqt0g79540ddxg",
+    "title": "Jadwal Pelatihan HAZOPS Study 2026",
+    "slug": "jadwal-hazops-hazard-operability-studies-2026",
+    "path": "/panduan/smk3/jadwal-hazops-hazard-operability-studies-2026",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Jadwal workshop dan pelatihan HAZOPS Study tahun 2026 untuk tim engineering dan HSE.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Workshop HAZOPS Study diselenggarakan rutin setiap bulan dengan durasi 3 hari interaktif. Untuk kebutuhan perusahaan, jadwal in-house facilitation dapat disesuaikan dengan timeline proyek FEED / EPC klien."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Hubungi tim kami untuk penyesuaian jadwal in-house facilitation di fasilitas plant Anda."
+        }
+    ],
+    "related_offering_slug": "hazops-hazard-operability-studies",
+    "meta_title": "Jadwal HAZOPS (Hazard & Operability Studies) 2026 — Guid",
+    "meta_description": "Panduan teknis keselamatan Jadwal HAZOPS (Hazard & Operability Studies) 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI",
+    "published_at": "2026-07-31"
+}

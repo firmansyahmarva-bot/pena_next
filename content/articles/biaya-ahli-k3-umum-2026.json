@@ -1,0 +1,78 @@
+{
+    "id": "01kyw9ka5jzfe8s7p3a497npdx",
+    "title": "Biaya Pelatihan Ahli K3 Umum Kemnaker 2026",
+    "slug": "biaya-ahli-k3-umum-2026",
+    "path": "/panduan/sertifikasi-k3/biaya-ahli-k3-umum-2026",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Rincian transparan biaya pelatihan Ahli K3 Umum Kemnaker RI tahun 2026, fasilitas yang didapat, biaya ujian, serta skema pembayaran corporate dan perorangan.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Investasi biaya pembinaan Ahli K3 Umum Kemnaker RI tahun 2026 dirancang dengan struktur transparan tanpa biaya tersembunyi. Biaya ini mencakup 120 Jam Pelajaran (JP) materi intensif, praktik kerja lapangan (PKL), seminar laporan, hingga biaya administrasi ujian negara dari pengawas ketenagakerjaan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Struktur Biaya Pelatihan AK3U Berdasarkan Metode Pelaksanaan"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Paket Pelatihan",
+                "Investasi Normal 2026",
+                "Investasi Early Bird / Promo",
+                "Fasilitas Utama"
+            ],
+            "rows": [
+                [
+                    "Online Blended Learning",
+                    "Rp 5.500.000",
+                    "Rp 4.500.000 - Rp 4.800.000",
+                    "12 hari Zoom intensif, modul e-book, PKL virtual/studi kasus, sertifikat Kemnaker, pin K3, SKP (bagi utusan pt)"
+                ],
+                [
+                    "Tatap Muka (Hotel Bintang 4)",
+                    "Rp 8.500.000",
+                    "Rp 7.500.000 - Rp 7.900.000",
+                    "12 hari kelas tatap muka, coffee break & lunch buffet, tas ransel eksklusif, kunjungan PKL pabrik riil, sertifikat fisik"
+                ],
+                [
+                    "In-House Training Perusahaan",
+                    "Sesuai Quotation",
+                    "Paket Khusus Tim (Min. 10 org)",
+                    "Diselenggarakan langsung di lokasi perusahaan klien, penyesuaian studi kasus bahaya spesifik industri klien"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Rincian Fasilitas dan Komponen yang Termasuk dalam Biaya"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Sertifikat Pembinaan Ahli K3 Umum resmi diterbitkan oleh Kementerian Ketenagakerjaan RI.",
+                "Surat Keputusan Penunjukan (SKP) Ahli K3 dan Lisensi Kewenangan (khusus peserta utusan perusahaan dengan surat tugas).",
+                "Surat Keterangan Lulus Pembinaan resmi dari PJK3 PENA Consultant untuk keperluan melamar kerja sebelum sertifikat fisik terbit.",
+                "Modul pembelajaran lengkap, himpunan peraturan perundangan K3 terbaru, dan akses bank soal tryout CBT.",
+                "Pin Lencana K3 Logam Kemnaker RI dan Buku Kerja Ahli K3.",
+                "Bimbingan penyusunan Laporan Praktik Kerja Lapangan (PKL) dan presentasi seminar bersama instruktur praktisi."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "PENA Consultant menyediakan fasilitas cicilan 0% hingga 3x pembayaran dan garansi pendampingan ujian ulang jika peserta mengalami kendala kelulusan."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-umum",
+    "meta_title": "Biaya Ahli K3 Umum 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Biaya Ahli K3 Umum 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

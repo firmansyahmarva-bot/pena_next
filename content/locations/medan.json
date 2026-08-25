@@ -1,0 +1,20 @@
+{
+    "id": "01kyw9p0x72tt4pszvqv0t7dtx",
+    "name": "Medan",
+    "slug": "medan",
+    "path": "/cabang/medan",
+    "is_physical": false,
+    "address": null,
+    "intro": [
+        {
+            "type": "paragraph",
+            "text": "Medan, ibu kota Provinsi Sumatera Utara, adalah pusat industri dan logistik terbesar di Pulau Sumatera — didukung Pelabuhan Belawan dan Pelabuhan Kuala Tanjung yang membuka akses ekspor-impor langsung, serta dua kawasan industri utama: Kawasan Industri Medan (KIM Belawan) dan KIM Star di Tanjung Morawa. Sektor agroindustri (pengolahan makanan-minuman, tekstil, produk kayu), elektronik, otomotif, dan kimia semuanya beroperasi di kota ini, menjadikan Medan gerbang manufaktur dan perdagangan utama kawasan barat Indonesia."
+        },
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyelenggarakan pelatihan dan sertifikasi K3 yang relevan untuk kebutuhan industri agroindustri, manufaktur, dan kepelabuhanan di Medan dan sekitarnya — skema Kemnaker RI maupun BNSP, tersedia online maupun in-house."
+        }
+    ],
+    "service_areas": [],
+    "phone": null
+}

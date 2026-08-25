@@ -1,0 +1,49 @@
+{
+    "id": "01kyhbn3c27fmqjhjq97m7j4w9",
+    "name": "Pertambangan",
+    "slug": "pertambangan",
+    "path": "/industri/pertambangan",
+    "description": "Operasi tambang menggabungkan risiko ruang terbatas, alat berat, bahan peledak, dan lingkungan kerja ekstrem — menjadikan K3 pertambangan salah satu bidang paling terspesialisasi.",
+    "regulatory_context": [
+        {
+            "type": "paragraph",
+            "text": "Kewajiban K3 sektor pertambangan mencakup regulasi umum K3 dan regulasi teknis operasional:"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) — wajib bagi perusahaan dengan ≥100 pekerja atau tingkat bahaya tinggi.",
+            "source": "PP No. 50 Tahun 2012"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Lingkungan Kerja.",
+            "source": "Permenaker No. 5 Tahun 2018"
+        },
+        {
+            "type": "paragraph",
+            "text": "Operasional tambang mempersyaratkan operator alat berat berlisensi, ahli K3 umum, dan sering kali kompetensi ruang terbatas serta deteksi gas untuk area bawah tanah."
+        }
+    ],
+    "relevant_offering_slugs": [
+        "ahli-k3-umum",
+        "petugas-k3",
+        "petugas-k3-kimia",
+        "pengawas-k3-industri-migas",
+        "petugas-k3-rumah-sakit",
+        "investigasi-kecelakaan",
+        "petugas-peran-kebakaran-kelas-d",
+        "petugas-p3k-first-aid",
+        "petugas-p3k",
+        "ahli-higiene-industri-muda",
+        "teknisi-ruang-terbatas",
+        "teknisi-confined-space",
+        "authorized-gas-tester",
+        "penanganan-bahaya-gas-h2s",
+        "operator-alat-berat"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "01kyw9kn00dzj1gxtpz5xkfy5x",
+    "title": "Syarat Mengikuti Training Internal Auditor ISO 45001",
+    "slug": "syarat-internal-auditor-iso-45001-2018",
+    "path": "/panduan/smk3/syarat-internal-auditor-iso-45001-2018",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Persyaratan pelatihan Internal Auditor ISO 45001:2018 untuk tim audit internal K3 organisasi.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Program pelatihan Internal Auditor ISO 45001:2018 dirancang untuk membekali tim lintas departemen agar mampu menyusun audit plan, menyusun checklist audit, melakukan wawancara verifikasi bukti, dan menerbitkan laporan temuan ketidaksesuaian (Non-Conformity Report / NCR)."
+        },
+        {
+            "type": "citation",
+            "text": "Pedoman Audit Sistem Manajemen.",
+            "source": "ISO 19011:2018"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kriteria Peserta Pelatihan"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal SLTA/SMK dengan pengalaman kerja atau D3/S1 dari semua latar belakang jurusan.",
+                "Memiliki pemahaman dasar klausul ISO 45001:2018 (klausul 4 hingga klausul 10).",
+                "Mendapatkan tugas dari manajemen puncak untuk melaksanakan audit internal berkala."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Sertifikat Internal Auditor membuktikan kesiapan organisasi menghadapi audit sertifikasi dan surveillance audit tahunan."
+        }
+    ],
+    "related_offering_slug": "internal-auditor-iso-45001-2018",
+    "meta_title": "Syarat Mengikuti Internal Auditor ISO 45001:2018 — Guide",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Internal Auditor ISO 45001:2018 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI,",
+    "published_at": "2026-07-31"
+}

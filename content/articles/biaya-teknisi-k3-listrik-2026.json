@@ -1,0 +1,96 @@
+{
+    "id": "01kyw9mf8gwc7mqjdz935bkz4d",
+    "title": "Biaya Teknisi K3 Listrik BNSP 2026",
+    "slug": "biaya-teknisi-k3-listrik-2026",
+    "path": "/panduan/k3-teknis/biaya-teknisi-k3-listrik-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Biaya Teknisi K3 Listrik BNSP 2026 ditentukan oleh kesiapan portofolio, asesmen, LSP, peserta, lokasi, dan kebutuhan industri atau tender.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Dataset mengonfirmasi skema BNSP sekitar tiga hari bagi teknisi kelistrikan pabrik dan gedung, tetapi tidak memuat harga publik terverifikasi. Nominal 2026 harus diminta resmi. Halaman ini membahas Teknisi K3 Listrik BNSP, bukan Teknisi K3 Listrik Kemnaker atau Ahli K3 Listrik."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Faktor yang Menentukan Biaya 2026"
+        },
+        {
+            "type": "paragraph",
+            "text": "Total biaya meliputi persiapan, asesmen, administrasi LSP, review bukti, waktu kerja, perjalanan, dan potensi perbaikan bukti. Calon harus menunjukkan pengalaman teknis yang nyata; pembayaran bukan pembelian keputusan kompeten."
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Persiapan dan asesmen unit kompetensi",
+                "Administrasi LSP serta dokumen hasil",
+                "Review portofolio, fasilitas praktik, materi, dan pajak",
+                "Perjalanan, akomodasi, retake/perbaikan bukti, atau in-house"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data untuk Meminta Quotation"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "CV, ijazah, sertifikat, uraian tugas, dan pengalaman listrik",
+                "Portofolio inspeksi, pengujian, LOTO, atau pekerjaan yang disamarkan",
+                "Jenis instalasi, tegangan, tugas, dan persyaratan klien",
+                "Peserta, lokasi, mode, LSP/skema target, dan tenggat"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Bandingkan Penawaran dengan Ruang Lingkup Sama"
+        },
+        {
+            "type": "paragraph",
+            "text": "Samakan skema, LSP, unit, asesmen, dokumen, retake, pajak, dan waktu penerbitan. Jangan membandingkan dengan Kemnaker atau jenjang Ahli. Sertifikat tidak menggantikan SOP, LOTO, inspeksi instalasi, APD, pengawasan, atau kewenangan perusahaan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk pengadaan kelompok, minta simulasi dua skenario: kelas publik per peserta dan kelas perusahaan dengan seluruh biaya lokasi. Nilai juga apakah semua calon memenuhi syarat, apakah operasional dapat melepas mereka pada tanggal yang sama, dan apakah fasilitas praktik perusahaan memenuhi kebutuhan. Keputusan terbaik adalah opsi yang menghasilkan personel tepat guna pada saat dibutuhkan, bukan sekadar total invoice terendah."
+        },
+        {
+            "type": "paragraph",
+            "text": "Hitung biaya efektif, bukan hanya harga per kursi. Tambahkan pemeriksaan dokumen dan kesehatan, waktu kerja peserta, perjalanan, akomodasi, pengganti shift, fasilitas praktik, serta risiko jadwal ulang. Minta penawaran mencantumkan minimum peserta, pajak, termin, pembatalan, penggantian nama, retake atau evaluasi ulang, komponen yang dikecualikan, dan estimasi dokumen. Perbandingan ini mencegah harga awal yang murah berubah menjadi biaya tambahan setelah purchase order terbit. Pembayaran juga bukan jaminan kelulusan atau penerbitan instan; calon tetap harus memenuhi proses yang berlaku."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "FAQ Biaya dan Pendaftaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah retake termasuk? Tanyakan tertulis. Apakah portofolio wajib? Kesiapan bukti perlu dinilai. Apakah sama dengan Kemnaker? Tidak. Apakah kelulusan dijamin? Tidak. Apakah dokumen langsung terbit? Konfirmasikan proses."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dapatkan Penawaran yang Dapat Dipertanggungjawabkan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim CV, portofolio, jenis instalasi, persyaratan proyek, peserta, lokasi, dan target. Tim PENA akan melakukan pre-assessment dan memberikan quotation."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Belum ada harga publik terverifikasi pada data program. Kirim kebutuhan dan dokumen calon agar tim PENA dapat memeriksa program, penerbit, kesiapan, dan komponen biaya sebelum invoice."
+        }
+    ],
+    "related_offering_slug": "teknisi-k3-listrik",
+    "meta_title": "Biaya Teknisi K3 Listrik 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Biaya Teknisi K3 Listrik 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

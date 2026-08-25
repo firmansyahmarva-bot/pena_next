@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9m1sh49e78gb8fssq458k",
+    "title": "Syarat Mengikuti Sertifikasi Paramedis K3 Utama",
+    "slug": "syarat-paramedis-k3-utama",
+    "path": "/panduan/sertifikasi-k3/syarat-paramedis-k3-utama",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Persyaratan kualifikasi Paramedis K3 Utama BNSP.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Peserta disyaratkan memiliki pengalaman kepemimpinan kesehatan kerja minimal 5 tahun, pendidikan minimal S1/S2 Keperawatan / Kesehatan Kerja, dan portofolio perumusan kebijakan kesehatan industri skala korporasi."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Asesmen dilakukan oleh panel Master Asesor BNSP."
+        }
+    ],
+    "related_offering_slug": "paramedis-k3-utama",
+    "meta_title": "Syarat Mengikuti Paramedis K3 Utama — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Paramedis K3 Utama resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifik",
+    "published_at": "2026-07-31"
+}

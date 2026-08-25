@@ -1,0 +1,123 @@
+{
+    "id": "01kyfffhvd11vnjyz34emthttn",
+    "type": "training",
+    "name": "Paramedis K3 Madya",
+    "slug": "paramedis-k3-madya",
+    "path": "/pelatihan/paramedis-k3-madya",
+    "title": "Paramedis K3 Madya",
+    "meta_title": "Paramedis K3 Madya",
+    "meta_description": "Pelatihan Paramedis K3 Madya Kemnaker RI. Surveilans kesehatan kerja, diagnosa awal Penyakit Akibat Kerja, & manajemen klinik.",
+    "summary": "Tersedia online.",
+    "certification_body": "bnsp",
+    "base_price": 4500000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Kesehatan pekerja merupakan aset paling bernilai dalam keberlangsungan operasi industri. Ancaman Penyakit Akibat Kerja (PAK), kecelakaan kerja, hingga kondisi darurat medis di area kerja berisiko tinggi (pertambangan, minyak & gas, manufaktur berat) membutuhkan penanganan kesehatan kerja yang terstruktur dan profesional."
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan Kerja (Pasal 8 tentang Pemeriksaan Kesehatan Pekerja).",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Kewajiban Latihan Higiene Perusahaan, Keselamatan dan Kesehatan Kerja Bagi Tenaga Medis Perusahaan.",
+            "source": "Permenaker No. PER.01/MEN/1979"
+        },
+        {
+            "type": "citation",
+            "text": "Pelayanan Kesehatan Kerja.",
+            "source": "Permenaker No. PER.03/MEN/1982"
+        },
+        {
+            "type": "citation",
+            "text": "Penetapan SKKNI Sektor Ketenagakerjaan Bidang K3 Sub Bidang Paramedis K3.",
+            "source": "Kepmenakertrans No. KEP.324/MEN/X/2011"
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini dihadirkan khusus bagi tenaga keperawatan/paramedis yang ingin meningkatkan peran strategisnya dari sekadar pemberi pertolongan pertama menjadi pengelola program kesehatan kerja komprehensif di industri. Berdasarkan standar SKKNI K3 Paramedis dan lisensi BNSP, Paramedis K3 Madya dibekali kemampuan mengelola fasilitas kesehatan kerja, surveilans kesehatan, tindakan promotif-preventif, hingga respons kegawatdaruratan medis."
+        },
+        {
+            "type": "paragraph",
+            "text": "Dalam skema sertifikasi BNSP berbasis SKKNI K3 Paramedis, jenjang Madya berbeda dari Muda dan Utama: Paramedis K3 Muda berfokus pada pelaksana tindakan P3K & layanan medis rutin di bawah pengawasan; Paramedis K3 Madya adalah pengelola program kesehatan kerja & analisis risiko yang bekerja mandiri dengan mengawasi tim medis/klinik, mencakup manajemen PAK, MCU, ergonomi, higiene makanan, dan tanggap darurat medis; sedangkan Paramedis K3 Utama berperan sebagai perencana strategis & auditor kesehatan kerja perusahaan di tingkat manajerial."
+        },
+        {
+            "type": "paragraph",
+            "text": "Unit kompetensi SKKNI Paramedis K3 Madya (Kepmenaker No. 324/2011) mencakup: melaksanakan pelayanan kesehatan kerja; melaksanakan upaya kesehatan promotif dan preventif; melaksanakan upaya kesehatan kuratif dan rehabilitatif; melaksanakan manajemen kesehatan kerja di tempat kerja; melaksanakan perawatan Penyakit Akibat Kerja (PAK); mengelola program ergonomi & higiene makanan (penilaian ergonomi stasiun kerja dan pengawasan sanitasi katering pekerja); melaksanakan penanggulangan kedaruratan medik (protokol advanced first aid, triase darurat, dan evakuasi medis/medevac); serta melaksanakan program alat pelindung diri (APD) & pengendalian bahaya (rekomendasi APD kesehatan dan evaluasi paparan bahaya biologi/kimia)."
+        },
+        {
+            "type": "paragraph",
+            "text": "Dengan sertifikat BNSP Paramedis K3 Madya, perawat profesional diakui secara sah sebagai Occupational Health Nurse (OHN) di perusahaan tambang, migas, konstruksi, dan manufaktur multinasional, mampu memimpin dan mengelola operasional klinik kesehatan kerja secara mandiri dan patuh hukum, serta meningkatkan nilai tawar dan jenjang karier dalam struktur organisasi HSE/K3 perusahaan."
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Pelatihan diselenggarakan secara interaktif menggunakan pendekatan kombinasi:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pembekalan teori (online/classroom): pendalaman regulasi kesehatan kerja, surveilans medis, penanganan PAK, dan sistem rujukan darurat",
+                "Studi kasus & penugasan: penyusunan program kesehatan kerja tahunan, simulasi investigasi PAK, dan analisis ergonomi tempat kerja",
+                "Uji kompetensi (asesmen BNSP): dilakukan oleh asesor lisensi BNSP melalui verifikasi portofolio, tes tertulis, dan wawancara pendalaman unit kompetensi"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal D3 Keperawatan/Kebidanan/Kesehatan Masyarakat",
+                "Pengalaman kerja minimal 1-2 tahun bekerja di fasilitas kesehatan, klinik perusahaan, atau tim medis K3"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Bagi fresh graduate D3 Keperawatan, disarankan mengambil jenjang Paramedis K3 Muda terlebih dahulu — kecuali sudah memiliki pengalaman magang medis atau pelatihan dasar K3 yang relevan."
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Scan KTP asli",
+                "Scan ijazah terakhir & STR (Surat Tanda Registrasi) Perawat yang masih berlaku",
+                "Surat keterangan kerja/pengalaman di bidang kesehatan/K3",
+                "Pasfoto formal background merah",
+                "Curriculum vitae (CV) & portofolio pekerjaan/pelatihan kesehatan kerja yang pernah diikuti"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Sertifikat Kompetensi Paramedis K3 Madya dari BNSP (berlaku 3 tahun)",
+                "Sertifikat pelatihan dari PENA Consultant",
+                "Modul pelatihan lengkap & template dokumen kesehatan kerja",
+                "Training kit dan souvenir",
+                "Grup alumni & bimbingan karir Occupational Health Nurse (OHN)"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Sertifikat Hiperkes Kemnaker fokus pada pemenuhan Permenaker 01/1979, sedangkan Sertifikat BNSP Paramedis K3 Madya menekankan pengakuan kompetensi kerja berbasis SKKNI yang diuji secara praktis melalui portofolio — keduanya saling melengkapi keahlian profesional medis."
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

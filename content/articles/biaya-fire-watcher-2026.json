@@ -1,0 +1,97 @@
+{
+    "id": "01kyw9kgfp6n9fs1c4zsg3nt1w",
+    "title": "Biaya Fire Watcher 2026 dan Komponen Pelatihan",
+    "slug": "biaya-fire-watcher-2026",
+    "path": "/panduan/k3-teknis/biaya-fire-watcher-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Biaya Fire Watcher 2026 perlu dikonfirmasi dari bentuk pelatihan atau bukti yang diminta proyek, peserta, lokasi, dan skenario hot work; penerbit belum terverifikasi pada data program.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Data program Fire Watcher mencatat durasi sekitar tiga hari tetapi lembaga penerbitnya belum dikonfirmasi dan harga publik tidak tersedia. Karena itu PENA tidak boleh menyebut nominal atau menjanjikan BNSP/Kemnaker. Quotation harus dimulai dari persyaratan klien: apakah yang diminta pelatihan internal, sertifikat penyelenggara, asesmen tertentu, atau bukti kompetensi lain."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Komponen yang Perlu Ada dalam Penawaran"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Materi dan praktik pengawasan hot work",
+                "Bentuk evaluasi serta dokumen hasil yang benar-benar diterbitkan",
+                "APAR, area praktik, materi, fasilitas, dan pajak",
+                "Perjalanan, akomodasi, serta penyesuaian skenario in-house"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Harga dipengaruhi bentuk program, jumlah peserta, lokasi, shift, jenis hot work, potensi gas, dan fasilitas praktik. Perusahaan perlu menghitung waktu kerja, pengganti shift, serta kebutuhan AGT atau pelatihan H2S terpisah. Fire Watcher tidak menggantikan permit-to-work atau regu damkar."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data untuk Menghitung Biaya yang Benar"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Kutipan persyaratan klien lengkap",
+                "Jenis hot work, area, potensi gas, dan prosedur",
+                "Jumlah peserta, shift, lokasi, dan target",
+                "Bentuk dokumen/penerbit yang akan diterima proyek"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Hindari Biaya Ulang dan Penawaran yang Tidak Setara"
+        },
+        {
+            "type": "paragraph",
+            "text": "Jangan membandingkan penawaran sebelum bentuk dokumen dan skema sama. Hindari vendor yang menjanjikan lembaga penerbit tanpa bukti. Tanyakan durasi, praktik, evaluasi, dokumen, pajak, pergantian peserta, pembatalan, dan masa berlaku quotation. Sertifikat tidak menggantikan APAR, housekeeping, isolasi, gas testing, dan fire-watch period."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan Biaya yang Sering Diajukan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Berapa biaya 2026? Minta quotation karena harga belum terverifikasi. Apakah BNSP? Belum dapat dipastikan dari data program. Apakah AGT termasuk? Tidak otomatis. Apakah in-house tersedia? Dapat dinilai dari peserta dan lokasi. Apakah dokumen diterima klien? Kirim persyaratan untuk diverifikasi sebelum pembayaran."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Hitung Biaya Efektif, Bukan Hanya Harga Paket"
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk keputusan pengadaan, bagi total penawaran dengan jumlah peserta yang benar-benar memenuhi syarat dan dapat mengikuti seluruh proses. Catat pula biaya pemeriksaan dokumen, waktu kerja, perjalanan, penginapan, pengganti shift, fasilitas praktik, asesmen ulang, serta risiko jadwal mundur. Minta vendor menuliskan masa berlaku harga, jumlah minimum peserta, syarat pelunasan, kebijakan pembatalan atau penggantian nama, komponen yang dikecualikan, estimasi dokumen, dan tindakan bila jadwal penerbit berubah. Perbandingan ini menghasilkan biaya efektif per peserta yang lebih jujur dan mencegah penawaran murah berubah menjadi biaya tambahan setelah purchase order diterbitkan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Cara Meminta Quotation Resmi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim halaman tender, jenis hot work, area, potensi gas, peserta, lokasi, dan jadwal. Tim PENA akan mengonfirmasi bentuk program yang tersedia dan menyusun quotation tanpa klaim penerbit yang belum terbukti."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim data peserta dan kebutuhan perusahaan agar tim PENA dapat melakukan pre-check serta menyusun penawaran resmi tanpa angka rekaan."
+        }
+    ],
+    "related_offering_slug": "fire-watcher",
+    "meta_title": "Biaya Fire Watcher 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Biaya Fire Watcher 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

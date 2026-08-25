@@ -1,0 +1,228 @@
+{
+    "id": "01kyfffj2dc9te458jzxx0ypnf",
+    "type": "training",
+    "name": "Operator Scaffolding",
+    "slug": "operator-scaffolding",
+    "path": "/pelatihan/operator-scaffolding",
+    "title": "Operator Scaffolding",
+    "meta_title": "Operator Scaffolding",
+    "meta_description": "Sertifikasi Operator Scaffolding / Teknisi Perancah Kemnaker RI. Pemasangan perancah aman, pengujian beban, & Permenaker 01/1980.",
+    "summary": "Operator Scaffolding (Perancah) adalah program pelatihan dan sertifikasi kompetensi pemasangan dan pembongkaran perancah yang aman (skema BNSP) — dirancang agar peserta kompeten dan tersertifikasi secara nasional pada bidang tersebut. Tersedia online & offline.",
+    "certification_body": "kemnaker",
+    "base_price": 5500000,
+    "duration": "5 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Sebagian besar kecelakaan kerja di ketinggian bukan disebabkan oleh peralatan yang buruk, melainkan oleh perancah yang dipasang tanpa mengikuti prosedur K3 yang benar: base plate tidak rata, ikatan ke struktur (tie-in) terlewat, atau papan platform yang tidak dikunci dengan baik."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "K3 pada Konstruksi Bangunan.",
+            "source": "Permenaker No. PER.01/MEN/1980"
+        },
+        {
+            "type": "citation",
+            "text": "K3 dalam Pekerjaan pada Ketinggian.",
+            "source": "Permenaker No. 9 Tahun 2016"
+        },
+        {
+            "type": "citation",
+            "text": "K3 pada Tempat Kegiatan Konstruksi.",
+            "source": "SKB Menaker–MenPU No. 174/MEN/1986–104/KPTS/1986"
+        },
+        {
+            "type": "citation",
+            "text": "Sertifikasi Kompetensi K3 Bidang Konstruksi Bangunan.",
+            "source": "Kepdirjen Binwasnaker No. 20 Tahun 2004"
+        },
+        {
+            "type": "paragraph",
+            "text": "Perusahaan yang mempekerjakan teknisi perancah tanpa lisensi resmi berisiko menghadapi sanksi pengawasan ketenagakerjaan sekaligus menanggung risiko hukum bila terjadi kecelakaan kerja."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Operator Scaffolding — dalam istilah regulasi resmi disebut Teknisi K3 Perancah — adalah tenaga kerja yang dilatih dan disertifikasi khusus untuk mencegah kegagalan perancah, mulai dari perencanaan, pemasangan, pemeriksaan, hingga pembongkaran perancah secara aman. Istilah \"Operator Scaffolding\" adalah sebutan umum di lapangan, sedangkan sebutan resmi dalam peraturan ketenagakerjaan adalah Teknisi K3 Perancah (Scaffolder) — keduanya merujuk pada profesi yang sama, berbeda dari Supervisor Perancah yang memiliki lisensi terpisah untuk mengawasi beberapa tim teknisi sekaligus dan menyetujui desain perancah yang kompleks."
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan ini relevan bagi pekerja proyek konstruksi gedung dan infrastruktur, kontraktor dan subkontraktor jasa perancah, perusahaan EPC dan fabrikasi baja, industri migas dan petrokimia yang rutin melakukan shutdown/turnaround, galangan kapal, pembangkit listrik, perusahaan maintenance gedung bertingkat dan fasad, kontraktor menara telekomunikasi, hingga penyedia jasa event dan panggung. HSE Officer dan supervisor lapangan juga perlu memahami materi ini untuk mengawasi subkontraktor perancah, sementara pemilik perusahaan jasa konstruksi membutuhkan tim bersertifikat untuk memenuhi syarat tender proyek EPC dan migas."
+        },
+        {
+            "type": "paragraph",
+            "text": "Dalam pekerjaan sehari-hari, seorang Teknisi K3 Perancah bertanggung jawab merencanakan tata letak perancah sesuai kebutuhan dan kapasitas beban (ringan, sedang, atau berat); memilih komponen yang tepat seperti base plate, jack base, standard, ledger, transom, bracing, papan platform, toe board, dan guard rail; memasang perancah secara sistematis dari bawah ke atas dengan pengikatan (tie-in) ke struktur bangunan secara berkala; memasang titik jangkar untuk alat pelindung jatuh; melakukan pemeriksaan sebelum digunakan dan memberi tagging (hijau aman digunakan, kuning penggunaan terbatas, merah dilarang digunakan); melaksanakan inspeksi berkala sesuai Permenaker No. 9/2016 — sebelum digunakan, setiap 7 hari, setelah modifikasi, dan setelah cuaca buruk; mengisi register/log inspeksi; serta membongkar perancah dari atas ke bawah secara terkendali."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bagi individu, sertifikasi ini membuka akses ke posisi teknisi perancah bersertifikat dengan daya tawar lebih tinggi, serta menjadi batu loncatan menuju jenjang Supervisor Perancah. Bagi perusahaan, memiliki tim bersertifikat berarti memenuhi syarat wajib banyak tender EPC dan migas, mengurangi risiko kecelakaan kerja dan klaim asuransi, serta memperkuat reputasi keselamatan di mata klien dan mitra bisnis."
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Peserta akan menguasai identifikasi jenis dan material perancah, perhitungan dasar kapasitas beban, urutan pemasangan dan pembongkaran yang aman, penerapan sistem tagging, penyusunan checklist inspeksi, penggunaan APD untuk bekerja di ketinggian (full body harness, lanyard, helm dengan tali dagu), serta pemahaman dasar mengenai kondisi kesehatan yang melarang seseorang bekerja di ketinggian — seperti hipertensi tak terkontrol, epilepsi, vertigo, dan gangguan keseimbangan — sebagaimana diatur dalam Permenaker No. 9/2016."
+        },
+        {
+            "type": "paragraph",
+            "text": "Kurikulum disusun dalam tiga kelompok materi selama sekitar 4–5 hari efektif:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Kelompok dasar: peraturan perundang-undangan K3 umum, K3 konstruksi bangunan, dan K3 pekerjaan pada ketinggian",
+                "Kelompok inti: jenis dan komponen perancah, perhitungan pembebanan, prosedur pemasangan yang aman, prosedur pemeriksaan dan tagging, prosedur pembongkaran, K3 bekerja di ketinggian dan penggunaan APD, serta dasar penanganan keadaan darurat",
+                "Kelompok penunjang: praktik lapangan langsung memasang dan membongkar unit perancah, simulasi inspeksi, serta evaluasi akhir berupa ujian tertulis dan uji praktik"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Penilaian kelulusan terdiri atas ujian tertulis mengenai regulasi dan pengetahuan teknis, serta uji praktik berupa demonstrasi pemasangan, inspeksi, dan pembongkaran perancah yang dinilai langsung oleh penguji."
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal SMA/SMK sederajat",
+                "Usia produktif, sehat jasmani dan rohani dengan surat keterangan sehat dari dokter",
+                "Tidak memiliki kondisi yang membahayakan bekerja di ketinggian"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP",
+                "Fotokopi ijazah terakhir",
+                "Pas foto dengan latar belakang merah",
+                "Surat pengantar atau surat keterangan kerja dari perusahaan bagi peserta yang diutus"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyediakan kelas dengan format publik, in-house untuk perusahaan, maupun blended (teori daring dan praktik tatap muka):"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul dan training kit",
+                "Unit perancah untuk praktik langsung",
+                "Instruktur berpengalaman di bidang K3 konstruksi dan ketinggian",
+                "Pendampingan hingga peserta dinyatakan kompeten"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "paragraph",
+            "text": "Peserta yang dinyatakan kompeten memperoleh Sertifikat dan Lisensi K3 dari Kemnaker RI, disertai Surat Izin Operator (SIO) yang umumnya berlaku 3 tahun dan dapat diperpanjang tanpa mengulang seluruh pelatihan selama masih aktif."
+        },
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim PENA Consultant melalui formulir atau kontak yang tersedia.",
+                "Lengkapi dokumen persyaratan.",
+                "Konfirmasi jadwal pelatihan terdekat (kelas publik atau in-house).",
+                "Ikuti sesi teori dan praktik.",
+                "Ikuti ujian akhir.",
+                "Sertifikat dan lisensi diterbitkan setelah seluruh proses administrasi Kemnaker RI selesai."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": [
+        {
+            "id": "01kywb7weev3zfbdgpm50c66gg",
+            "slug": "operator-scaffolding-batch-61",
+            "batch_number": "61",
+            "start_date": "2026-08-10",
+            "end_date": "2026-08-14",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 5500000,
+            "promo_price": 3370000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7wgaq0a4a44a8bg0xack",
+            "slug": "operator-scaffolding-batch-62",
+            "batch_number": "62",
+            "start_date": "2026-09-14",
+            "end_date": "2026-09-18",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 5500000,
+            "promo_price": 3370000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7wj7m2mc6tzv4qbcqdkw",
+            "slug": "operator-scaffolding-batch-63",
+            "batch_number": "63",
+            "start_date": "2026-10-12",
+            "end_date": "2026-10-16",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 5500000,
+            "promo_price": 3370000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7x1anx2bxefy18p75vtq",
+            "slug": "operator-scaffolding-batch-64",
+            "batch_number": "64",
+            "start_date": "2026-11-09",
+            "end_date": "2026-11-13",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 5500000,
+            "promo_price": 3370000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7x34wq8wkwbc5zs22xxa",
+            "slug": "operator-scaffolding-batch-65",
+            "batch_number": "65",
+            "start_date": "2026-12-14",
+            "end_date": "2026-12-18",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 5500000,
+            "promo_price": 3370000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7x5076w576663m3618a9",
+            "slug": "operator-scaffolding-batch-66",
+            "batch_number": "66",
+            "start_date": "2027-01-11",
+            "end_date": "2027-01-15",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 5500000,
+            "promo_price": 3370000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}

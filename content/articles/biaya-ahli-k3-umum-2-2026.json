@@ -1,0 +1,76 @@
+{
+    "id": "01kyw9kamm3md654qd0pss2t6r",
+    "title": "Biaya Sertifikasi Ahli K3 Umum BNSP 2026",
+    "slug": "biaya-ahli-k3-umum-2-2026",
+    "path": "/panduan/sertifikasi-k3/biaya-ahli-k3-umum-2-2026",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Rincian biaya sertifikasi dan uji kompetensi Ahli K3 Umum BNSP tahun 2026: biaya pra-asesmen, bimbingan portofolio, dan penerbitan sertifikat Garuda Emas.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi Ahli K3 Umum BNSP tahun 2026 menawarkan investasi kompetensi profesi yang sangat efisien bagi praktisi berpengalaman dan pencari kerja yang membutuhkan kredensial resmi berstandar SKKNI."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Paket Investasi Sertifikasi AK3U BNSP 2026"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Skema Sertifikasi",
+                "Biaya Asesmen 2026",
+                "Durasi Asesmen",
+                "Fasilitas yang Didapat"
+            ],
+            "rows": [
+                [
+                    "Uji Kompetensi Langsung (Fast Track)",
+                    "Rp 3.500.000 /asesi",
+                    "1 Hari (Asesmen Online/Offline)",
+                    "Pra-asesmen APL-01/02, wawancara asesor, sertifikat BNSP Garuda Emas"
+                ],
+                [
+                    "Bimbingan Teknis + Asesmen (Reguler)",
+                    "Rp 4.800.000 /peserta",
+                    "3 Hari (2 hari Bimtek + 1 hari Uji)",
+                    "Modul SKKNI lengkap, bimbingan penyusunan portofolio, simulasi wawancara, sertifikat BNSP"
+                ],
+                [
+                    "Corporate Assessment (In-House)",
+                    "Sesuai Penawaran",
+                    "Sesuai Jadwal Klien",
+                    "Pelaksanaan asesmen langsung di lokasi kerja klien untuk tim HSE perusahaan"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Fasilitas dan Keunggulan Sertifikasi BNSP di PENA Consultant"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Sertifikat Resmi Kompetensi Kerja Nasional diterbitkan langsung oleh Badan Nasional Sertifikasi Profesi (BNSP).",
+                "Masa berlaku sertifikat 3 tahun dan diakui secara nasional di seluruh wilayah Republik Indonesia.",
+                "Diakui dalam kerangka kualifikasi kerja regional ASEAN (Mutual Recognition Arrangement).",
+                "Didampingi oleh Master Asesor K3 bersertifikat BNSP berpengalaman."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Investasi sertifikat BNSP adalah bukti nyata standar kompetensi profesi yang meningkatkan daya saing karier HSE di pasar global."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-umum-2",
+    "meta_title": "Biaya Ahli K3 Umum 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Biaya Ahli K3 Umum 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

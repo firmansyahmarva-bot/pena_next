@@ -1,0 +1,76 @@
+{
+    "id": "01kyhqmdx88zadehtvzxfjhzek",
+    "title": "K3 Bekerja di Ketinggian: Aturan dan Sertifikasi Wajib",
+    "slug": "k3-bekerja-di-ketinggian-aturan-dan-sertifikasi-wajib",
+    "path": "/panduan/k3-teknis/k3-bekerja-di-ketinggian-aturan-dan-sertifikasi-wajib",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Regulasi bekerja pada ketinggian di Indonesia sesuai Permenaker No. 9 Tahun 2016, sistem proteksi jatuh (fall protection), dan jenjang sertifikasi TKBT serta TKPK.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Bekerja pada ketinggian didefinisikan sebagai kegiatan atau aktivitas pekerjaan yang dilakukan oleh tenaga kerja pada tempat kerja di permukaan tanah atau perairan yang terdapat perbedaan ketinggian dan memiliki potensi jatuh yang dapat menyebabkan cedera atau kematian."
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja dalam Pekerjaan pada Ketinggian.",
+            "source": "Permenaker No. 9 Tahun 2016"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Hierarki Pengendalian Bekerja di Ketinggian"
+        },
+        {
+            "type": "paragraph",
+            "text": "Pengendalian bahaya jatuh harus mengikuti urutan prioritas:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "1. Eliminasi: Menghindari bekerja di ketinggian dengan merakit komponen di permukaan tanah sebelum diangkat",
+                "2. Pencegahan Jatuh Pasif: Pemasangan pagar pengaman (handrail), jaring keselamatan (safety net), dan platform kerja tertutup",
+                "3. Pencegahan Jatuh Aktif: Penggunaan sistem penahan jatuh perorangan (Full Body Harness, shock-absorbing lanyard, fall arrester, dan lifeline)",
+                "4. Rencana Tanggap Darurat (Rescue Plan): Prosedur penyelamatan korban tergantung dalam waktu di bawah 10 menit untuk mencegah suspension trauma"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Peta Sertifikasi K3 Ketinggian di Indonesia"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Skema Sertifikasi",
+                "Metode Kerja",
+                "Tingkat Kualifikasi"
+            ],
+            "rows": [
+                [
+                    "TKBT Tingkat I & II",
+                    "Bekerja pada struktur bangunan, scaffolding, tower, dan tangga",
+                    "Tenaga Kerja Bangunan Tinggi (akses tangga & platform)"
+                ],
+                [
+                    "TKPK Tingkat 1, 2, & 3",
+                    "Akses tali (Rope Access) pada tebing, fasad gedung bertingkat, atau ruang terbatas",
+                    "Tenaga Kerja Pada Ketinggian (rope access & rescue specialist)"
+                ]
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Sertifikasi ketinggian resmi menjamin pekerja memahami inspeksi alat pelindung jatuh dan teknik penyelamatan mandiri saat insiden."
+        }
+    ],
+    "related_offering_slug": "tkbt-i-tenaga-kerja-bangunan-tinggi",
+    "meta_title": "K3 Bekerja di Ketinggian: Aturan dan Sertifikasi Wajib —",
+    "meta_description": "Panduan teknis keselamatan K3 Bekerja di Ketinggian: Aturan dan Sertifikasi Wajib resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermograp",
+    "published_at": "2026-07-27"
+}

@@ -1,0 +1,95 @@
+{
+    "id": "01kyw9k8p1ygy650m74qmjrc67",
+    "title": "Jadwal Ahli K3 Listrik Kemnaker 2026",
+    "slug": "jadwal-ahli-k3-listrik-2-2026",
+    "path": "/panduan/k3-teknis/jadwal-ahli-k3-listrik-2-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Panduan jadwal Ahli K3 Listrik Kemnaker 2026 untuk memeriksa batch, durasi, mode, kelayakan, dan tenggat dokumen sebelum pendaftaran.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Program ini adalah jalur Kemnaker bagi Ahli K3 listrik jenjang lanjut, termasuk konteks instalasi tegangan tinggi. Data program belum menyimpan tanggal batch 2026 terverifikasi, sehingga halaman ini tidak menampilkan kalender rekaan atau mengambil tanggal lama sebagai jadwal aktif."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Durasi Terverifikasi, Tanggal Masih Harus Dikonfirmasi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Durasi yang tercatat sekitar 17 hari. Angka ini menjelaskan lama program, bukan tanggal mulai, pola hari berturut-turut, atau estimasi dokumen terbit. Calon perlu menyiapkan waktu kerja yang cukup dan memastikan jadwal tidak berbenturan dengan shutdown atau tugas kelistrikan kritis."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Checklist Sebelum Mengunci Jadwal"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Tanggal mulai/selesai, hari belajar, jam, zona waktu, lokasi, dan mode",
+                "Status batch, kuota, minimum peserta, batas pendaftaran, dan kebijakan reschedule",
+                "Kelayakan pendidikan/pengalaman, instalasi tegangan tinggi, surat tugas, kesehatan, dan dokumen",
+                "Biaya, evaluasi, administrasi Kemnaker, serta estimasi dokumen hasil"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Siapkan Peserta Sebelum Batch Penuh"
+        },
+        {
+            "type": "paragraph",
+            "text": "Lakukan pre-check CV, ijazah, pengalaman, surat tugas, kesehatan, dan profil instalasi sebelum memesan kursi. Jalur Kemnaker ini berbeda dari Ahli K3 Listrik BNSP; memilih batch yang cepat tetapi salah penerbit dapat menyebabkan penolakan proyek."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Batch Publik atau Pelaksanaan Perusahaan?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Batch publik cocok untuk peserta sedikit. In-house dapat dipertimbangkan untuk kelompok dan kasus instalasi perusahaan, namun tergantung peserta, fasilitas, instruktur, serta proses resmi. Hitung juga pengganti personel selama program 17 hari."
+        },
+        {
+            "type": "paragraph",
+            "text": "Siapkan satu calon cadangan yang juga telah lolos pre-check, terutama untuk kelas dengan kuota atau jadwal proyek ketat. Selaraskan persetujuan atasan, procurement, perjalanan, penginapan, pelepasan shift, dan akses platform sebelum batas daftar. Simpan opsi tanggal kedua bila minimum peserta belum terpenuhi atau operasional berubah. Untuk kelas perusahaan, tetapkan PIC yang mengendalikan daftar peserta, dokumen, fasilitas, komunikasi jadwal, dan keputusan reschedule agar perubahan tidak tersebar melalui pesan yang berbeda-beda."
+        },
+        {
+            "type": "paragraph",
+            "text": "Rencanakan mundur dari tanggal personel harus siap. Sisihkan waktu untuk pre-check, koreksi dokumen, persetujuan anggaran, pendaftaran, pelaksanaan, evaluasi, dan proses penerbitan. Jangan menyamakan tanggal selesai kelas dengan tanggal sertifikat atau lisensi diterima. Minta konfirmasi tertulis mengenai tanggal mulai/selesai, jam dan zona waktu, lokasi atau platform, status confirmed, minimum peserta, batas pendaftaran, kehadiran, reschedule, biaya, evaluasi, retake, serta estimasi dokumen. Jika kebutuhan berasal dari tender, lampirkan klausul aslinya agar penerbit dan jenjang tidak salah."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "FAQ Jadwal 2026"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah 17 hari termasuk penerbitan? Tidak. Apakah sama dengan BNSP? Tidak. Apakah tersedia online? Konfirmasikan batch. Apakah tanggal pasti? Hanya setelah ada konfirmasi aktif. Kapan mendaftar? Mulai pre-check jauh sebelum target audit."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Jadwal Aktif dan Pre-check"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim CV, instalasi, persyaratan klien, jumlah peserta, lokasi, mode, dan tenggat. Tim PENA akan memeriksa jalur Kemnaker serta mengirim opsi jadwal aktif."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kalender batch 2026 belum terverifikasi dalam data program. Tim PENA akan mengonfirmasi jadwal yang masih aktif; durasi program bukan janji tanggal mulai, kelas pasti berjalan, atau dokumen langsung terbit."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-listrik-2",
+    "meta_title": "Jadwal Ahli K3 Listrik 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Jadwal Ahli K3 Listrik 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

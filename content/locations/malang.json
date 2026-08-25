@@ -1,0 +1,20 @@
+{
+    "id": "01kyw9p1hxcgk7vmc8mz5nw1wp",
+    "name": "Malang",
+    "slug": "malang",
+    "path": "/cabang/malang",
+    "is_physical": false,
+    "address": null,
+    "intro": [
+        {
+            "type": "paragraph",
+            "text": "Malang adalah salah satu pusat industri pengolahan tembakau dan agroindustri terbesar di Jawa Timur — provinsi penghasil tembakau nomor satu nasional dengan produksi 85 ribu ton pada 2020, menyumbang 63,42% dari total penerimaan cukai hasil tembakau nasional. PT Bentoel Internasional Investama, salah satu produsen rokok terbesar di Indonesia, didirikan di Malang pada 10 September 1930 dan hingga kini menjalankan sebagian besar operasinya di kota ini, didukung ekosistem industri pendukung seperti pengemasan, percetakan, dan logistik."
+        },
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyelenggarakan pelatihan dan sertifikasi K3 yang relevan untuk kebutuhan industri pengolahan tembakau, agroindustri, dan manufaktur pendukung di Malang dan sekitarnya — skema Kemnaker RI maupun BNSP, tersedia online maupun in-house."
+        }
+    ],
+    "service_areas": [],
+    "phone": null
+}

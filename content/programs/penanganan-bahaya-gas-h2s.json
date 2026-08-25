@@ -1,0 +1,142 @@
+{
+    "id": "01kyfffj08fy5ewwcee7dzqyjz",
+    "type": "training",
+    "name": "Penanganan Bahaya Gas H2S",
+    "slug": "penanganan-bahaya-gas-h2s",
+    "path": "/pelatihan/penanganan-bahaya-gas-h2s",
+    "title": "Penanganan Bahaya Gas H2S",
+    "meta_title": "Pelatihan Penanganan Bahaya Gas H2S BNSP: SCBA & Sensor",
+    "meta_description": "Sertifikasi K3 Penanganan Bahaya Gas H2S (Hidrogen Sulfida). Penggunaan SCBA positive pressure, EEBD, bump test sensor H2S, dan alur evakuasi migas.",
+    "summary": "Pelatihan dan sertifikasi K3 Penanganan Bahaya Gas H2S (Hidrogen Sulfida) BNSP — kompetensi vital bagi pekerja industri migas, pemboran (drilling), pengolahan limbah, dan ruang terbatas untuk menguasai deteksi gas H2S, penggunaan SCBA 45 detik, EEBD, dan evakuasi keadaan darurat.",
+    "certification_body": "bnsp",
+    "base_price": 3200000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi K3 Penanganan Bahaya Gas H2S diselenggarakan berdasarkan SKKNI Bidang K3 Sub-Bidang Penanganan Gas Beracun & Berbahaya. Gas H2S (Hidrogen Sulfida) adalah gas sangat beracun dan mematikan yang sering ditemukan pada kegiatan eksplorasi/produksi migas, pengolahan minyak bumi, dan sistem perpipaan limbah."
+        },
+        {
+            "type": "paragraph",
+            "text": "Pengendalian bahaya H2S mengacu pada standar keselamatan migas nasional dan standar internasional ANSI/ASSP Z390.1 (Accepted Practices for Hydrogen Sulfide Training Programs) yang mewajibkan pelatihan khusus bagi seluruh personel yang beroperasi di wilayah potensi H2S."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+            "source": "UU No. 13 Tahun 2003"
+        },
+        {
+            "type": "citation",
+            "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+            "source": "PP No. 23 Tahun 2004"
+        },
+        {
+            "type": "citation",
+            "text": "Accepted Practices for Hydrogen Sulfide Training Programs.",
+            "source": "ANSI/ASSP Z390.1"
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini membekali pekerja industri migas dengan keterampilan keselamatan H2S vital. Setelah lulus asesmen, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memahami sifat fisik & kimia gas H2S (lebihi berat udara/density 1.19, tidak berwarna, berbau telur busuk pada konsentrasi rendah, kelumpuhan saraf penciuman >100 ppm, IDLH 100 ppm, STEL 15 ppm, TWA 10 ppm)",
+                "Menguasai kalibrasi dan pengujian lapangan (Bump Testing) sensor gas H2S elektrokimia pada alat Personal Gas Monitor",
+                "Menguasai teknik pemakaian cepat SCBA (Self-Contained Breathing Apparatus) positive pressure 300 bar dalam waktu kurang dari 45 detik",
+                "Menguasai pengoperasian EEBD (Emergency Escape Breathing Device) 10-15 menit untuk melarikan diri dari paparan gas H2S mendadak",
+                "Melaksanakan alur evakuasi darurat (Emergency Evacuation Flow): membaca arah angin melalui Windsock, bergerak menyilang arah angin (crosswind), dan berkumpul di Safe Briefing Area / Muster Point",
+                "Meraih Sertifikat Kompetensi BNSP bersimbol Garuda skema Penanganan Bahaya Gas H2S terlisensi"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Materi pelatihan keselamatan H2S & asesmen BNSP:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul 1: Sifat Fisik Kimia Gas H2S, Nilai Ambang Batas (TWA/STEL/IDLH), & Dampak Kesehatan Paparan",
+                "Modul 2: Instrumen Deteksi H2S (Personal Monitor, Fixed Sensor Network, Kalibrasi Bump Test)",
+                "Modul 3: Alat Pelindung Pernapasan Khusus (SCBA Positive Pressure 300 Bar, Donning SCBA <45 detik, EEBD 15 Menit)",
+                "Modul 4: Prosedur Keselamatan Pekerjaan Panas & Ruang Terbatas di Area Berpotensi H2S (Rig Pemboran, Tanki Crude Oil, Sewerage)",
+                "Modul 5: Prosedur Evakuasi, Pembacaan Windsock, Pertolongan Pertama Korban Paparan H2S, & Reanimasi CPR",
+                "Pelaksanaan Asesmen: Uji tertulis, uji praktik donning SCBA <45s & bump test detector di TUK, & wawancara lisan asesor BNSP"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Minimal SMA/SMK sederajat",
+                "Sehat jasmani dan rohani, dibuktikan dengan Surat Keterangan Sehat dari dokter (tidak memiliki riwayat penyakit pernapasan/asma parah)",
+                "Pasfoto formal latar belakang merah (3x4 & 4x6), KTP, & ijazah"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Kelengkapan administrasi yang umum dipersyaratkan untuk mengikuti program ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter",
+                "Surat rekomendasi/penugasan dari perusahaan (untuk peserta utusan perusahaan)",
+                "Curriculum vitae (untuk skema sertifikasi BNSP)"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan pendidikan minimum dan pengalaman kerja mengikuti ketentuan skema/penunjukan yang berlaku — tim kami akan memverifikasi kelengkapan Anda sebelum pendaftaran diproses."
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul dan materi pelatihan",
+                "Instruktur praktisi tersertifikasi di bidangnya",
+                "Ujian/asesmen sertifikasi",
+                "Sertifikat sesuai skema (Kemnaker RI atau BNSP)",
+                "Konsultasi pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir pendaftaran di halaman ini.",
+                "Terima penawaran resmi: jadwal, biaya, dan persyaratan program.",
+                "Lengkapi berkas administrasi dan lakukan konfirmasi pendaftaran.",
+                "Ikuti pelatihan dan ujian/asesmen sertifikasi.",
+                "Terima sertifikat dan lisensi/kartu kompetensi sesuai skema."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

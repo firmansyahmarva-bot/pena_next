@@ -1,0 +1,86 @@
+{
+    "id": "01kyhqmdyxkerg0k0h0r9s6wtx",
+    "title": "Ahli K3 Umum vs Ahli K3 Spesialis: Apa Bedanya?",
+    "slug": "ahli-k3-umum-vs-ahli-k3-spesialis-apa-bedanya",
+    "path": "/panduan/karier-k3/ahli-k3-umum-vs-ahli-k3-spesialis-apa-bedanya",
+    "role": "article",
+    "cluster": {
+        "name": "Karier K3",
+        "slug": "karier-k3"
+    },
+    "summary": "Perbandingan menyeluruh antara Ahli K3 Umum dan Ahli K3 Spesialis (Listrik, Kimia, Kebakaran, Konstruksi, Pesawat Angkat-Angkut) mengenai ruang lingkup, wewenang hukum, dan kebutuhan industri.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Dalam dunia industri, sering timbul pertanyaan apakah perusahaan cukup memiliki Ahli K3 Umum saja atau wajib menambah Ahli K3 Spesialis. Keduanya memiliki fungsi yang saling melengkapi: Ahli K3 Umum mengelola sistem keselamatan secara makro, sedangkan Ahli K3 Spesialis memegang otoritas teknis pada bidang risiko tinggi spesifik."
+        },
+        {
+            "type": "citation",
+            "text": "Tata Cara Penunjukan Ahli Keselamatan dan Kesehatan Kerja Bidang Tertentu.",
+            "source": "Permenaker No. 02/MEN/1992"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Matriks Perbandingan Peran dan Kewenangan"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Parameter",
+                "Ahli K3 Umum",
+                "Ahli K3 Spesialis (Teknis)"
+            ],
+            "rows": [
+                [
+                    "Fokus Utama",
+                    "Sistem manajemen K3, P2K3, regulasi umum, pelaporan triwulan, dan koordinasi SMK3",
+                    "Pengawasan teknis spesifik (Instalasi Listrik, Proteksi Kebakaran, Bahan Kimia, Konstruksi, Pesawat Uap)"
+                ],
+                [
+                    "Dasar Penunjukan",
+                    "Wajib bagi perusahaan ≥100 pekerja atau risiko tinggi secara umum",
+                    "Wajib bagi perusahaan yang memiliki peralatan/instalasi berisiko spesifik tertentu"
+                ],
+                [
+                    "Kewenangan Audit",
+                    "Memimpin audit internal SMK3 menyeluruh 12 elemen",
+                    "Melakukan inspeksi berkala, pengujian teknis, dan sertifikasi kelaikan instalasi bidangnya"
+                ],
+                [
+                    "Latar Belakang",
+                    "Terbuka bagi D3/S1 semua jurusan teknik dan non-teknis",
+                    "Umumnya mensyaratkan latar belakang teknik atau pengalaman kerja relevan di bidangnya"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Contoh Kebutuhan Ahli K3 Spesialis di Industri"
+        },
+        {
+            "type": "paragraph",
+            "text": "Berikut regulasi yang mewajibkan Ahli K3 Spesialis di samping Ahli K3 Umum:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Ahli K3 Listrik (Permenaker 12/2015): Wajib bagi perusahaan yang membangkitkan, mentransmisikan, atau menggunakan daya listrik >200 kVA",
+                "Ahli K3 Kebakaran Kelas A (Kepmenaker 186/1999): Wajib bagi tempat kerja dengan tingkat potensi bahaya kebakaran sedang III dan berat",
+                "Ahli K3 Kimia (Kepmenaker 187/1999): Wajib bagi industri yang menyimpan atau menggunakan bahan kimia melebihi Nilai Ambang Kuantitas (NAK)",
+                "Ahli K3 Konstruksi (Permenaker 01/1980): Wajib pada proyek pekerjaan konstruksi bangunan dengan tenaga kerja atau durasi tertentu"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kombinasi Ahli K3 Umum dan Ahli K3 Spesialis menciptakan benteng keselamatan kerja yang komprehensif, dari tata kelola sistem hingga integritas teknis alat."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-umum",
+    "meta_title": "Ahli K3 Umum vs Ahli K3 Spesialis: Apa Bedanya? — Guide ",
+    "meta_description": "Panduan teknis keselamatan Ahli K3 Umum vs Ahli K3 Spesialis: Apa Bedanya? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, ",
+    "published_at": "2026-07-27"
+}

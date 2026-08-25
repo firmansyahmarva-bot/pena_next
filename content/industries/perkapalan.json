@@ -1,0 +1,21 @@
+{
+    "id": "01kyw9nk9q669y55drsp9nx937",
+    "name": "Perkapalan",
+    "slug": "perkapalan",
+    "path": "/industri/perkapalan",
+    "description": "K3 untuk sektor Perkapalan.",
+    "regulatory_context": [
+        {
+            "type": "paragraph",
+            "text": "Operasi bongkar-muat dan pekerjaan di area pelabuhan/kapal melibatkan pesawat angkat-angkut dan sering kali ruang terbatas, sehingga tunduk pada kewajiban K3 umum di bawah UU No. 1 Tahun 1970."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        }
+    ],
+    "relevant_offering_slugs": [
+        "teknisi-confined-space"
+    ]
+}

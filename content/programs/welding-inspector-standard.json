@@ -1,0 +1,145 @@
+{
+    "id": "01kyfffj4dvs56njw384xv99vw",
+    "type": "training",
+    "name": "Welding Inspector Standard",
+    "slug": "welding-inspector-standard",
+    "path": "/pelatihan/welding-inspector-standard",
+    "title": "Welding Inspector Standard",
+    "meta_title": "Welding Inspector Standard",
+    "meta_description": "Sertifikasi Welding Inspector Standard BNSP. Inspeksi visual las, pengujian NDT dye penetrant, & kriteria penerimaan AWS D1.1.",
+    "summary": "Tersedia online.",
+    "certification_body": "bnsp",
+    "base_price": 6000000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Welding Inspector Standard adalah skema sertifikasi kompetensi bagi tenaga inspeksi las yang diselenggarakan melalui uji kompetensi Badan Nasional Sertifikasi Profesi (BNSP). Sertifikasi ini membuktikan bahwa seseorang memiliki kemampuan teknis untuk mengawasi, memeriksa, dan memastikan pekerjaan pengelasan (welding) dilakukan sesuai standar mutu dan keselamatan yang berlaku — bukan sekadar mampu mengelas, tetapi mampu menilai apakah hasil dan proses pengelasan pihak lain sudah memenuhi spesifikasi teknis."
+        },
+        {
+            "type": "paragraph",
+            "text": "Di Indonesia, pertumbuhan industri manufaktur, konstruksi baja, perkapalan, dan minyak-gas mendorong kebutuhan akan Welding Inspector yang kompetensinya diakui secara resmi dan seragam. Sertifikasi ini mengacu pada Standar Kompetensi Kerja Nasional Indonesia (SKKNI) bidang inspeksi pengelasan yang ditetapkan oleh Kementerian Ketenagakerjaan RI, dan diselenggarakan oleh Lembaga Sertifikasi Profesi (LSP) yang telah mendapatkan lisensi resmi dari BNSP."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "[VERIFIKASI PENA] Nomor SK SKKNI yang menjadi acuan bisa berbeda tergantung LSP penyelenggara — mohon konfirmasi skema dan LSP mitra yang digunakan PENA Consultant sebelum publikasi."
+        },
+        {
+            "type": "paragraph",
+            "text": "Penting dipahami: sertifikasi Welding Inspector BNSP ini berbeda dengan sertifikasi inspektur las internasional seperti CSWIP atau IWE/IWI dari IIW/WIN Indonesia. Keduanya bisa saling melengkapi, tetapi mengikuti jalur pengakuan dan badan sertifikasi yang berbeda."
+        },
+        {
+            "type": "paragraph",
+            "text": "Kompetensi ini berada dalam kerangka Sistem Sertifikasi Kompetensi Kerja Nasional yang diatur melalui Peraturan Pemerintah No. 23 Tahun 2004 tentang Badan Nasional Sertifikasi Profesi (BNSP), serta mengacu pada SKKNI bidang pengelasan/inspeksi las yang diterbitkan Kementerian Ketenagakerjaan RI. Selain itu, kualitas dan keselamatan pekerjaan pengelasan juga terkait erat dengan UU No. 1 Tahun 1970 tentang Keselamatan Kerja, khususnya untuk pekerjaan las yang berisiko tinggi (hot work, ruang terbatas, ketinggian)."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Siapa yang perlu mengikuti program ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Welder senior atau juru las berpengalaman yang ingin naik jenjang menjadi pengawas mutu las",
+                "QA/QC Inspector di perusahaan fabrikasi, konstruksi baja, perkapalan, dan migas",
+                "Engineer atau supervisor produksi yang membawahi proses pengelasan",
+                "Tenaga kerja yang akan ditempatkan di proyek yang mensyaratkan sertifikat welding inspector sebagai bagian dari kualifikasi personel proyek",
+                "Pencari kerja yang ingin masuk ke industri fabrikasi, oil & gas, atau konstruksi berat dengan kompetensi yang terverifikasi"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Seorang Welding Inspector bertanggung jawab pada tiga fase pekerjaan pengelasan. Sebelum pengelasan (pre-welding): memeriksa kesesuaian Welding Procedure Specification (WPS), memastikan welder yang bertugas memiliki kualifikasi (Welder Performance Qualification) yang sesuai, memeriksa material dasar, konsumabel las (elektroda, filler wire), dan kondisi peralatan las. Selama pengelasan (in-process): mengawasi penerapan parameter las (arus, tegangan, kecepatan pengelasan), urutan pengelasan, kontrol suhu antar-lapisan (interpass temperature), serta kepatuhan terhadap WPS di lapangan. Setelah pengelasan (post-welding): melakukan inspeksi visual hasil las, mengoordinasikan uji tak merusak (NDT) seperti radiography, ultrasonic testing, atau dye penetrant test bila diperlukan, mendokumentasikan hasil inspeksi, dan menerbitkan laporan ketidaksesuaian (Non-Conformance Report) bila hasil las tidak memenuhi standar."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikat ini memberi bukti kompetensi yang diakui secara nasional, memudahkan penempatan pada proyek yang mensyaratkan personel bersertifikat (terutama proyek migas dan konstruksi baja berskala besar), serta menjadi dasar jenjang karier dari welder menuju posisi QA/QC Inspector atau Welding Supervisor. Bagi perusahaan, mempekerjakan Welding Inspector bersertifikat membantu mengurangi risiko kegagalan hasil las yang dapat berdampak pada keselamatan struktur dan biaya rework."
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kompetensi yang dipelajari:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Membaca dan menerjemahkan gambar teknik serta simbol pengelasan (welding symbol)",
+                "Memahami dan memverifikasi Welding Procedure Specification (WPS) dan Procedure Qualification Record (PQR)",
+                "Melakukan inspeksi visual las (Visual Testing) sesuai standar acuan",
+                "Memahami jenis-jenis cacat las (welding defect) dan penyebabnya",
+                "Dasar-dasar metode Non-Destructive Testing (NDT) dan kapan metode tersebut diperlukan",
+                "Menyusun laporan inspeksi dan dokumentasi hasil pekerjaan las",
+                "Menerapkan aspek keselamatan kerja pada aktivitas pengelasan (K3 hot work)",
+                "Sistem manajemen mutu pada pekerjaan pengelasan"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan disampaikan melalui kombinasi teori di kelas (klasikal atau daring), diskusi kasus, serta latihan penyusunan portofolio bukti kerja — seperti laporan inspeksi harian/mingguan, SOP pekerjaan pengelasan, dan dokumentasi foto hasil las yang pernah ditangani peserta. Portofolio ini penting karena skema sertifikasi berbasis kompetensi (Competency Based Training) menilai bukti pengalaman nyata di lapangan, bukan hanya pemahaman teori."
+        },
+        {
+            "type": "paragraph",
+            "text": "Uji kompetensi dilakukan oleh asesor kompetensi yang ditunjuk LSP, dengan tahapan umum: pra-asesmen (verifikasi portofolio dan kelengkapan bukti kerja peserta), ujian tertulis (menguji pemahaman teori inspeksi las dan SKKNI terkait), wawancara/uji lisan (asesor mengonfirmasi pemahaman peserta atas bukti portofolio yang diajukan), dan uji praktik/observasi bila dipersyaratkan skema (menilai kemampuan aplikatif peserta). Peserta yang dinyatakan kompeten pada seluruh unit kompetensi akan menerima Sertifikat Kompetensi Welding Inspector yang diterbitkan oleh BNSP melalui LSP terkait, dan berlaku secara nasional."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "[VERIFIKASI PENA] Masa berlaku sertifikat umumnya mengikuti ketentuan LSP penerbit — konfirmasikan periode berlaku yang berlaku untuk skema PENA Consultant."
+        }
+    ],
+    "requirements": [
+        {
+            "type": "paragraph",
+            "text": "Persyaratan peserta pada skema sertifikasi berbasis pengalaman umumnya mempertimbangkan kombinasi pendidikan dan pengalaman kerja di bidang pengelasan, misalnya pendidikan menengah dengan pengalaman kerja las beberapa tahun, atau pengalaman kerja panjang tanpa syarat ijazah tertentu."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "[VERIFIKASI PENA] Ketentuan detail (jumlah tahun, jenjang pendidikan) bergantung pada skema sertifikasi yang digunakan LSP mitra — calon peserta disarankan berkonsultasi dengan tim PENA Consultant untuk memastikan kesesuaian sebelum mendaftar."
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Dokumen yang diperlukan (umumnya):"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan pas foto sesuai ketentuan",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Surat keterangan pengalaman kerja di bidang pengelasan/inspeksi dari perusahaan/atasan",
+                "Portofolio bukti kerja: laporan inspeksi, SOP pengelasan, dokumentasi foto hasil las",
+                "CV/daftar riwayat hidup"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyediakan modul pelatihan, pendampingan penyusunan portofolio, instruktur/praktisi berpengalaman di bidang inspeksi pengelasan, serta pendampingan menghadapi uji kompetensi BNSP. Kelas dapat diikuti secara tatap muka maupun daring, tergantung jadwal yang tersedia."
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim PENA Consultant melalui website atau WhatsApp untuk konsultasi gratis dan pengecekan kesesuaian syarat.",
+                "Kirimkan dokumen persyaratan (ijazah, surat pengalaman kerja, KTP, foto).",
+                "Lakukan pembayaran biaya pelatihan sesuai informasi yang diberikan tim PENA.",
+                "Ikuti sesi pelatihan dan pendampingan portofolio.",
+                "Ikuti uji kompetensi BNSP (ujian tertulis, wawancara, dan/atau praktik).",
+                "Terima Sertifikat Kompetensi Welding Inspector dari BNSP setelah dinyatakan kompeten."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

@@ -1,0 +1,54 @@
+{
+    "id": "01kyw9kmfxq4gs83zv5gp7zyjb",
+    "title": "Apa Itu Internal Auditor ISO 45001:2018?",
+    "slug": "apa-itu-internal-auditor-iso-45001-2018",
+    "path": "/panduan/smk3/apa-itu-internal-auditor-iso-45001-2018",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Internal Auditor ISO 45001:2018 adalah personel terlatih yang bertugas mengaudit sistem manajemen kesehatan & keselamatan kerja berstandar internasional di internal organisasi.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "ISO 45001:2018 adalah standar internasional pertama di dunia untuk Sistem Manajemen Keselamatan dan Kesehatan Kerja (Occupational Health and Safety Management Systems). Internal Auditor ISO 45001 adalah personel kunci yang memastikan bahwa klausul-klausul standar ISO 45001 diterapkan secara efektif dan selaras dengan proses bisnis perusahaan."
+        },
+        {
+            "type": "citation",
+            "text": "Occupational health and safety management systems — Requirements with guidance for use.",
+            "source": "ISO 45001:2018 Clause 9.2"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Klausul Utama ISO 45001:2018 yang Diaudit"
+        },
+        {
+            "type": "paragraph",
+            "text": "Internal Auditor melakukan evaluasi terhadap struktur High-Level Structure (HLS) 10 klausul ISO:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Klausul 4: Konteks Organisasi — isu internal/eksternal serta kebutuhan dan harapan pekerja/pihak berkepentingan",
+                "Klausul 5: Kepemimpinan dan Partisipasi Pekerja — komitmen manajemen puncak dan konsultasi aktif serikat/pekerja",
+                "Klausul 6: Perencanaan — penilaian risiko K3, peluang perbaikan, dan penetapan sasaran K3 terukur",
+                "Klausul 7: Dukungan — sumber daya, kompetensi, kesadaran K3, komunikasi, dan informasi terdokumentasi",
+                "Klausul 8: Operasional — perencanaan pengendalian operasional, manajemen perubahan (Management of Change), dan kesiapsiagaan darurat",
+                "Klausul 9: Evaluasi Kinerja — pemantauan, pengukuran, audit internal, dan tinjauan manajemen",
+                "Klausul 10: Peningkatan — investigasi insiden, ketidaksesuaian, dan tindakan perbaikan berkelanjutan"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Audit internal ISO 45001:2018 yang rutin dan objektif adalah syarat mutlak mempertahankan sertifikasi surveillance dari badan sertifikasi internasional."
+        }
+    ],
+    "related_offering_slug": "internal-auditor-iso-45001-2018",
+    "meta_title": "Apa itu Internal Auditor ISO 45001:2018? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Internal Auditor ISO 45001:2018? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan ser",
+    "published_at": "2026-07-31"
+}

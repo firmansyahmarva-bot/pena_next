@@ -1,0 +1,20 @@
+{
+    "id": "01kyw9p1mskftj2nrzwb9h1twj",
+    "name": "Solo",
+    "slug": "solo",
+    "path": "/cabang/solo",
+    "is_physical": false,
+    "address": null,
+    "intro": [
+        {
+            "type": "paragraph",
+            "text": "Solo (Surakarta) dan wilayah Solo Raya (termasuk Sukoharjo dan Wonogiri) adalah salah satu pusat industri tekstil dan batik tertua di Indonesia, dengan sejarah panjang melahirkan merek batik nasional seperti Batik Keris (1920), Batik Semar (1947), dan Batik Danar Hadi (1967). Kekuatan industri kawasan ini tidak hanya pada produksi pakaian jadi (garment), tetapi juga kuat di sektor hulu tekstil — pemintalan benang (spinning), penenunan (weaving), dan pencelupan (dyeing) — dilengkapi reputasi kuat sebagai pusat industri mebel/furniture di Jawa Tengah."
+        },
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyelenggarakan pelatihan dan sertifikasi K3 yang relevan untuk kebutuhan industri tekstil, batik, garmen, dan furniture di Solo dan sekitarnya — skema Kemnaker RI maupun BNSP, tersedia online maupun in-house."
+        }
+    ],
+    "service_areas": [],
+    "phone": null
+}

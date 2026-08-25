@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9nkmm19mh2a7vj83m7e8v",
+    "name": "Perhotelan",
+    "slug": "perhotelan",
+    "path": "/industri/perhotelan",
+    "description": "K3 untuk sektor Perhotelan.",
+    "regulatory_context": [
+        {
+            "type": "paragraph",
+            "text": "Hotel dan fasilitas MICE wajib memiliki petugas P3K dan unit penanggulangan kebakaran internal sesuai kewajiban umum K3 di tempat kerja (UU No. 1 Tahun 1970)."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        }
+    ],
+    "relevant_offering_slugs": [
+        "pengkaji-teknis-proteksi-kebakaran",
+        "ahli-k3-penanggulangan-kebakaran-kelas-a",
+        "regu-penanggulangan-kebakaran-kelas-c",
+        "petugas-peran-kebakaran-kelas-d",
+        "damkar-paralel-kelas-dcba",
+        "petugas-p3k-first-aid",
+        "petugas-p3k"
+    ]
+}

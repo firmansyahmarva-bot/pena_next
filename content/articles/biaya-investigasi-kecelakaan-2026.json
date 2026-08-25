@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9kp7z2g3g1195a3471p9h",
+    "title": "Biaya Pelatihan Investigasi Kecelakaan Kerja 2026",
+    "slug": "biaya-investigasi-kecelakaan-2026",
+    "path": "/panduan/smk3/biaya-investigasi-kecelakaan-2026",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Rincian biaya pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) tahun 2026.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Investasi pelatihan Investigasi Kecelakaan Kerja tahun 2026 berkisar antara Rp 2.200.000 hingga Rp 3.800.000 per peserta untuk kelas 2 hari intensif. Fasilitas mencakup software template Root Cause Analysis (Fishbone & SCAT), formulir standar investigasi, dan sertifikat kompetensi."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Mencegah biaya kerugian kecelakaan kerja berulang yang bernilai ratusan kali lipat dari biaya pelatihan."
+        }
+    ],
+    "related_offering_slug": "investigasi-kecelakaan",
+    "meta_title": "Biaya Investigasi Kecelakaan 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Biaya Investigasi Kecelakaan 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikas",
+    "published_at": "2026-07-31"
+}

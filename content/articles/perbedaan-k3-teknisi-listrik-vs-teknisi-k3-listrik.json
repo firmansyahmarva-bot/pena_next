@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9mw8sp4p4g4efmzz7v61k",
+    "title": "Perbedaan K3 Teknisi Listrik Kemnaker vs Teknisi K3 Listrik BNSP",
+    "slug": "perbedaan-k3-teknisi-listrik-vs-teknisi-k3-listrik",
+    "path": "/panduan/k3-teknis/perbedaan-k3-teknisi-listrik-vs-teknisi-k3-listrik",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Klarifikasi perbedaan nomenklatur dan penugasan antara skema pembinaan teknisi listrik Kemnaker RI dan sertifikasi kompetensi BNSP.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Keduanya merujuk pada kompetensi teknisi dalam melakukan pemasangan, pemeliharaan, dan inspeksi instalasi listrik secara aman. Skema Kemnaker memberikan lisensi K3 teknisi resmi, sedangkan skema BNSP mengesahkan standar kompetensi unit SKKNI ketenagalistrikan."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kedua kredensial menjamin teknisi listrik memiliki keahlian LOTO, pengukuran tahanan isolasi, dan keselamatan panel distribusi."
+        }
+    ],
+    "related_offering_slug": "k3-teknisi-listrik",
+    "meta_title": "Perbedaan K3 Teknisi Listrik dan Teknisi K3 Listrik — Gu",
+    "meta_description": "Panduan teknis keselamatan Perbedaan K3 Teknisi Listrik dan Teknisi K3 Listrik resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography ",
+    "published_at": "2026-07-31"
+}

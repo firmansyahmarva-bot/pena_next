@@ -1,0 +1,142 @@
+{
+    "id": "01kyfffhxze88xtz76ktv328bd",
+    "type": "training",
+    "name": "Higiene Industri Madya (HIMA)",
+    "slug": "higiene-industri-madya-hima",
+    "path": "/pelatihan/higiene-industri-madya-hima",
+    "title": "Higiene Industri Madya (HIMA)",
+    "meta_title": "Sertifikasi Higiene Industri Madya HIMA: Evaluasi NAB & LEV",
+    "meta_description": "Pelatihan Higiene Industri Madya (HIMA) BNSP. Evaluasi paparan lingkungan kerja, perhitungan NAB Permenaker 05/2018, dan desain Local Exhaust Ventilation.",
+    "summary": "Sertifikasi kompetensi Higiene Industri Madya (HIMA) BNSP untuk evaluator dan spesialis lingkungan kerja — menguasai analisis statistik data sampling, perbandingan Nilai Ambang Batas (NAB/NAV), dan perancangan sistem pengendalian rekayasa (Local Exhaust Ventilation / LEV).",
+    "certification_body": "bnsp",
+    "base_price": 8750000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Higiene Industri Madya (HIMA) adalah skema sertifikasi tingkat evaluator teknis BNSP berbasis SKKNI Sub-Bidang Evaluasi & Pengendalian Lingkungan Kerja. Personel HIMA bertangggung jawab mengevaluasi tingkat paparan bahaya dan merancang solusi rekayasa teknis."
+        },
+        {
+            "type": "paragraph",
+            "text": "Evaluasi paparan mengacu pada Lampiran Permenaker No. 5 Tahun 2018 tentang K3 Lingkungan Kerja yang mengatur baku mutu Nilai Ambang Batas (NAB/NAV) zat kimia dan faktor fisika, serta panduan internasional ACGIH (American Conference of Governmental Industrial Hygienists) TLVs & BEIs."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+            "source": "UU No. 13 Tahun 2003"
+        },
+        {
+            "type": "citation",
+            "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+            "source": "PP No. 23 Tahun 2004"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Lingkungan Kerja.",
+            "source": "Permenaker No. 5 Tahun 2018"
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini mendidik spesialis K3 untuk menguasai evaluasi paparan dan desain kontrol. Setelah lulus asesmen, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Mengevaluasi dan menafsirkan data hasil pengujian laboratorium fisik & kimia terhadap threshold limit value (NAB Permenaker 05/2018 & ACGIH TLV) menggunakan statistik paparan (TWA 8 jam, STEL 15 menit, dan Nilai Tertinggi/Ceiling)",
+                "Merancang sistem pengendalian rekayasa teknik (Engineering Controls): desain Local Exhaust Ventilation (LEV), perhitungan hood capture velocity, duct velocity, dan pressure drop pada sistem ventilasi industri",
+                "Mendesain sistem pengungkungan bahaya (enclosure) kebisingan dan isolasi getaran mesin industri berdasarkan frekuensi dominan",
+                "Menetapkan Hierarchy of Controls yang efektif (Eliminasi, Substitusi, Engineering Controls, Pengendalian Administratif, dan APD Khusus Respirator/Earplug)",
+                "Menyusun dokumen laporan evaluasi higiene industri komprehensif dan rekomendasi perbaikan teknis bagi manajemen pabrik",
+                "Memperoleh Sertifikat Kompetensi BNSP bersimbol Garuda skema Higiene Industri Madya (HIMA) terlisensi"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Materi pelatihan evaluasi paparan & desain kontrol HIMA BNSP:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul 1: Evaluasi Paparan Lingkungan Kerja & Analisis Statistik Data Sampling (TWA, STEL, Ceiling)",
+                "Modul 2: Penafsiran Standar NAB Permenaker 05/2018, ACGIH TLVs, & Biological Exposure Indices (BEI)",
+                "Modul 3: Rekayasa Pengendalian Ventilasi Industri (Local Exhaust Ventilation / LEV Design, Hood, Ductwork, Air Cleaner)",
+                "Modul 4: Pengendalian Kebisingan & Getaran Industri (Acoustic Enclosure, Silencer, Vibration Dampener)",
+                "Modul 5: Pemilihan & Manajemen APD Perlindungan Pernapasan (Respirator Fit Testing & Cartridge Selection)",
+                "Pelaksanaan Asesmen: Evaluasi portofolio desain LEV/evaluasi NAB, uji tertulis perhitungan teknis, studi kasus pengendalian bahaya, & wawancara lisan asesor BNSP"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Minimal S1 Teknik/Kesehatan Masyarakat (K3)/MIPA dengan pengalaman kerja bidang higiene industri minimal 2 tahun, ATAU D3 dengan pengalaman minimal 4 tahun",
+                "Memiliki sertifikat HIMU atau portofolio analisis evaluasi paparan / desain ventilasi terverifikasi",
+                "Pasfoto formal latar belakang merah (3x4 & 4x6), KTP, & ijazah"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Kelengkapan administrasi yang umum dipersyaratkan untuk mengikuti program ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter",
+                "Surat rekomendasi/penugasan dari perusahaan (untuk peserta utusan perusahaan)",
+                "Curriculum vitae (untuk skema sertifikasi BNSP)"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan pendidikan minimum dan pengalaman kerja mengikuti ketentuan skema/penunjukan yang berlaku — tim kami akan memverifikasi kelengkapan Anda sebelum pendaftaran diproses."
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul dan materi pelatihan",
+                "Instruktur praktisi tersertifikasi di bidangnya",
+                "Ujian/asesmen sertifikasi",
+                "Sertifikat sesuai skema (Kemnaker RI atau BNSP)",
+                "Konsultasi pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir pendaftaran di halaman ini.",
+                "Terima penawaran resmi: jadwal, biaya, dan persyaratan program.",
+                "Lengkapi berkas administrasi dan lakukan konfirmasi pendaftaran.",
+                "Ikuti pelatihan dan ujian/asesmen sertifikasi.",
+                "Terima sertifikat dan lisensi/kartu kompetensi sesuai skema."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

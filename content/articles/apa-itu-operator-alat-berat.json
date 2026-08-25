@@ -1,0 +1,87 @@
+{
+    "id": "01kyw9kqy1gcx95chfge31mez9",
+    "title": "Apa Itu Operator Alat Berat?",
+    "slug": "apa-itu-operator-alat-berat",
+    "path": "/panduan/sertifikasi-k3/apa-itu-operator-alat-berat",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Panduan lengkap kualifikasi Operator Alat Berat: jenis unit (Excavator, Bulldozer, Wheel Loader, Dump Truck), lisensi K3 & SIO Kemnaker RI, dan regulasi Permenaker 08/2020.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Operator Alat Berat (Heavy Equipment Operator) adalah tenaga kerja terampil yang memiliki kewenangan legal dan lisensi resmi untuk mengoperasikan pesawat angkut dan mesin-mesin konstruksi/pertambangan bertenaga besar guna pemindahan tanah, batuan, dan material industri."
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Pesawat Angkat dan Pesawat Angkut.",
+            "source": "Permenaker No. 08 Tahun 2020"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Klasifikasi Unit Alat Berat yang Wajib SIO Kemnaker RI"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Kategori Alat",
+                "Jenis Unit Mesin",
+                "Tingkat Risiko Utama"
+            ],
+            "rows": [
+                [
+                    "Excavator (Backhoe / Shovel)",
+                    "Hydraulic Excavator Kelas 20T - 100T+",
+                    "Bahaya kontak kabel listrik atas, galian longsor, swing radius"
+                ],
+                [
+                    "Bulldozer & Dozer Shovel",
+                    "Crawler Tractor D65 / D85 / D375",
+                    "Bahaya terguling (rollover) pada lereng curam, blind spot belakang"
+                ],
+                [
+                    "Wheel Loader & Skid Steer",
+                    "Front End Loader WA350 / WA500",
+                    "Kehilangan stabilitas saat muatan penuh, bahaya tabrakan di stockpile"
+                ],
+                [
+                    "Articulated & Rigid Dump Truck",
+                    "Off-Highway Haul Truck 40T - 100T+",
+                    "Kegagalan rem di turunan, titik buta pandangan, bahaya saat tipping"
+                ],
+                [
+                    "Motor Grader & Compactor",
+                    "Road Grader 140H & Vibro Roller",
+                    "Bahaya area perataan jalan aktif dan pekerja pejalan kaki"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kewajiban Pemeriksaan Harian Pra-Operasi (P2H)"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pemeriksaan level oli mesin, oli hidrolik, air radiator, dan kebocoran selang fluida bertekanan.",
+                "Pengujian fungsi sistem pengereman utama, rem parkir darurat, dan steering control.",
+                "Pemeriksaan kondisi fisik ban / track link, pin attachment bucket, dan ROPS/FOPS cabin protector.",
+                "Uji fungsi klakson mundur (reverse alarm), lampu kerja LED, dan indikator alarm kabin dashboard."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Memegang Surat Izin Operator (SIO) dan Lisensi K3 resmi Kemnaker RI adalah syarat legal mutlak untuk mengoperasikan unit di seluruh proyek tambang, migas, dan infrastruktur nasional."
+        }
+    ],
+    "related_offering_slug": "operator-alat-berat",
+    "meta_title": "Apa itu Operator Alat Berat? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Operator Alat Berat? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

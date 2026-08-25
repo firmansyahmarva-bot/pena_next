@@ -1,0 +1,46 @@
+{
+    "id": "01kyw9k4znfhesqbneqs0akb5b",
+    "title": "Syarat Mengikuti Sertifikasi Ahli Higiene Industri Madya (HIMA)",
+    "slug": "syarat-ahli-higiene-industri-madya",
+    "path": "/panduan/sertifikasi-k3/syarat-ahli-higiene-industri-madya",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Persyaratan sertifikasi Ahli Higiene Industri Madya (HIMA) untuk analisis pajanan lingkungan kerja lanjutan, evaluasi data statistik, dan perancangan sistem ventilasi industri.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Ahli Higiene Industri Madya (HIMA) memegang peran sebagai analis dan desainer sistem kendali lingkungan kerja (rekayasa ventilasi LEV, isolasi, substitusi bahan kimia berbahaya, dan kalkulasi dosis pajanan kumulatif TWA/STEL)."
+        },
+        {
+            "type": "citation",
+            "text": "Evaluasi dan Pengendalian Bahaya Lingkungan Kerja.",
+            "source": "Permenaker No. 05 Tahun 2018 & SKKNI HIMA"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Persyaratan Kualifikasi Calon HIMA"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal Sarjana (S1) bidang Teknik Mesin, Teknik Kimia, Teknik Lingkungan, Kesehatan Masyarakat, atau memegang sertifikat HIMU.",
+                "Memiliki pengalaman kerja minimal 2 tahun dalam evaluasi dan monitoring lingkungan kerja industri.",
+                "Mampu menyusun rekomendasi teknis rekayasa ventilasi industri (Local Exhaust Ventilation / LEV)."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "HIMA menjembatani data sampling teknisi dengan perancangan solusi rekayasa perlindungan tenaga kerja."
+        }
+    ],
+    "related_offering_slug": "ahli-higiene-industri-madya",
+    "meta_title": "Syarat Mengikuti Ahli Higiene Industri Madya — Guide 202",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Ahli Higiene Industri Madya resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan",
+    "published_at": "2026-07-31"
+}

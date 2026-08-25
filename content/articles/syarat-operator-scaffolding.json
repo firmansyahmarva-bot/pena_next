@@ -1,0 +1,101 @@
+{
+    "id": "01kyw9ky0wrcxjmw6jvwgmfgmc",
+    "title": "Syarat Operator Scaffolding dan Dokumen Proyek",
+    "slug": "syarat-operator-scaffolding",
+    "path": "/panduan/k3-teknis/syarat-operator-scaffolding",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat Operator Scaffolding perlu dicocokkan dengan tugas erection/dismantling, jenis perancah, pengalaman, kesehatan, perlindungan jatuh, dan persyaratan proyek.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Orang yang bekerja di atas perancah tidak otomatis memenuhi fungsi Operator Scaffolding. Program ini ditujukan bagi personel yang memasang, mengubah, memeriksa dalam lingkup tugasnya, atau membongkar struktur sementara. Verifikasi harus melihat jenis perancah, konfigurasi, ketinggian, lingkungan proyek, metode akses, dan tanggung jawab calon. Pengguna perancah, pengawas, TKBT, dan operator memiliki batas peran berbeda."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kesiapan Calon Peserta"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Ditugaskan menangani erection atau dismantling scaffolding",
+                "Memiliki pengalaman konstruksi atau perancah yang dapat diverifikasi",
+                "Sehat, siap bekerja di ketinggian, dan menggunakan perlindungan jatuh",
+                "Memenuhi pendidikan serta ketentuan lain pada jalur sertifikasi yang diminta"
+            ]
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja dalam Pekerjaan pada Ketinggian.",
+            "source": "Permenaker No. 9 Tahun 2016"
+        },
+        {
+            "type": "paragraph",
+            "text": "Pemeriksaan kesehatan dan pengalaman penting karena praktik melibatkan aktivitas fisik serta risiko jatuh. Namun artikel tidak boleh menjamin minimal pendidikan atau masa kerja tanpa memeriksa skema aktif. Tender dapat meminta Kemnaker, BNSP, atau bukti internal tertentu. Salin persyaratan secara lengkap agar nama program dan penerbit tidak tertukar."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dokumen dan Konteks Proyek"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah, CV, pas foto, surat sehat, dan surat tugas",
+                "Bukti pengalaman atau uraian pekerjaan scaffolding",
+                "Jenis perancah, tinggi, konfigurasi, lokasi, dan metode kerja",
+                "Matriks kompetensi atau persyaratan pemilik proyek"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Foto perancah dan metode kerja membantu pre-check. Informasi proyek dapat disamarkan selama jenis struktur serta peran calon masih jelas. Untuk kelompok perusahaan, petakan peserta per tim dan shift. Jangan mendaftarkan pekerja yang hanya menggunakan platform sebagai operator bila mereka tidak melakukan pemasangan atau pembongkaran."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kompetensi Personel Tidak Berdiri Sendiri"
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan tidak menggantikan desain atau perhitungan bila diperlukan, material layak, base support, bracing, tie, guardrail, tagging, inspeksi, exclusion zone, fall protection, izin kerja, supervisi, dan rescue plan. Operator Scaffolding juga tidak otomatis menggantikan TKBT atau kompetensi akses tali. Perusahaan harus mengendalikan struktur dan keselamatan orang secara bersamaan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Jadwal, Biaya, dan Kelas In-House"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim dokumen calon, jenis serta foto perancah, jumlah tim, shift, lokasi, persyaratan klien, dan tenggat mobilisasi. Tim PENA akan memeriksa jalur yang benar, kelengkapan, jadwal, durasi, dan biaya. Untuk in-house, konteks proyek dapat digunakan dalam diskusi praktik tanpa mengurangi kewajiban perusahaan menyediakan alat dan area yang aman."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan yang Sering Diajukan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah pengguna perancah harus menjadi Operator Scaffolding? Tidak otomatis. Pengguna, pemasang/pembongkar, pengawas, dan pekerja ketinggian memiliki tugas berbeda. Tentukan program dari aktivitas nyata dan persyaratan proyek, bukan hanya karena seseorang bekerja di atas scaffold."
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah sertifikat TKBT cukup untuk memasang scaffolding? Tidak dapat diasumsikan. TKBT membahas kompetensi bekerja pada ketinggian, sedangkan Operator Scaffolding menangani struktur perancah. Proyek dapat meminta keduanya untuk orang dengan dua fungsi."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim metode kerja dan matriks kompetensi proyek agar persyaratan Operator Scaffolding dapat diverifikasi."
+        }
+    ],
+    "related_offering_slug": "operator-scaffolding",
+    "meta_title": "Syarat Mengikuti Operator Scaffolding — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Operator Scaffolding resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertif",
+    "published_at": "2026-07-31"
+}

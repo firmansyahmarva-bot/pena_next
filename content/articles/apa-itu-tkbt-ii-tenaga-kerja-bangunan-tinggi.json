@@ -1,0 +1,92 @@
+{
+    "id": "01kyw9mcdkj4nemgdb1cqk2z63",
+    "title": "Apa Itu TKBT Tingkat II?",
+    "slug": "apa-itu-tkbt-ii-tenaga-kerja-bangunan-tinggi",
+    "path": "/panduan/k3-teknis/apa-itu-tkbt-ii-tenaga-kerja-bangunan-tinggi",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "TKBT Tingkat II menangani pekerjaan ketinggian yang lebih kompleks — akses tali multi-titik dan teknik penyelamatan mandiri — sebagai jenjang lanjutan dari TKBT Tingkat I.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Setelah menguasai teknik dasar di Tingkat I, tenaga kerja bangunan tinggi yang menangani konfigurasi kerja lebih kompleks memerlukan TKBT Tingkat II — jenjang yang mencakup teknik akses dan penyelamatan yang tidak diajarkan di tingkat dasar."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja dalam Pekerjaan pada Ketinggian.",
+            "source": "Permenaker No. 9 Tahun 2016"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kompetensi Tambahan di Tingkat II"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Teknik akses tali (rope access) pada struktur dengan multi-titik angkur",
+                "Perpindahan posisi kerja pada konfigurasi struktur yang lebih rumit",
+                "Teknik penyelamatan mandiri (self-rescue) saat terjadi insiden gantung pada tali",
+                "Menilai kondisi struktur dan titik angkur sebelum memulai pekerjaan kompleks"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tingkat I vs Tingkat II: Kapan Perusahaan Perlu Keduanya"
+        },
+        {
+            "type": "paragraph",
+            "text": "Proyek dengan konfigurasi kerja ketinggian sederhana — satu titik angkur, akses langsung — umumnya cukup terlayani TKBT Tingkat I. Pekerjaan dengan akses tali kompleks, ketinggian ekstrem, atau risiko yang mengharuskan kemampuan penyelamatan mandiri memerlukan personel Tingkat II. Tim proyek besar sering membutuhkan kombinasi keduanya sesuai peran masing-masing pekerja."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "TKBT II Bukan Sekadar Perpanjangan TKBT I"
+        },
+        {
+            "type": "paragraph",
+            "text": "Jenjang Tingkat II harus dipilih berdasarkan metode kerja dan tanggung jawab, bukan karena peserta ingin memiliki sertifikat yang lebih tinggi. Teknisi yang menghadapi perpindahan kompleks, konfigurasi anchor yang berubah, atau kebutuhan penyelamatan memerlukan kemampuan berbeda dari pekerja pada akses standar. Persyaratan klien juga dapat membedakan TKBT, TKPK, rope access, dan kompetensi operator scaffolding."
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan tidak menggantikan work-at-height plan, pemeriksaan alat, engineered anchor, izin kerja, pengawasan, exclusion zone, maupun rescue plan. Peserta harus sehat, siap secara fisik, dan benar-benar ditugaskan pada pekerjaan yang relevan. Perusahaan perlu memastikan hasil pelatihan diterapkan melalui prosedur dan latihan tim, bukan hanya disimpan sebagai dokumen tender."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data untuk Verifikasi Syarat, Jadwal, dan Biaya"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim sertifikat atau pengalaman Tingkat I, jenis struktur, metode akses, ketinggian, sistem anchor, tugas peserta, matriks kompetensi klien, jumlah peserta, lokasi, dan tenggat mobilisasi. Tim PENA akan memeriksa apakah Tingkat II sesuai, dokumen yang diperlukan, pilihan kelas, jadwal, durasi, dan biaya resmi. Foto pekerjaan atau metode kerja membantu mencegah salah jalur sertifikasi."
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk penawaran perusahaan, kelompokkan calon berdasarkan pekerjaan dan shift. Cara ini membantu menentukan peserta Tingkat I dan Tingkat II secara proporsional serta menjaga personel kompeten tetap tersedia selama operasi berjalan."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Proyek Anda melibatkan akses tali atau konfigurasi ketinggian kompleks? Tim kami dapat membantu menentukan berapa personel Tingkat II yang dibutuhkan."
+        }
+    ],
+    "related_offering_slug": "tkbt-ii-tenaga-kerja-bangunan-tinggi",
+    "meta_title": "Apa itu TKBT II (Tenaga Kerja Bangunan Tinggi)? — Guide ",
+    "meta_description": "Panduan teknis keselamatan Apa itu TKBT II (Tenaga Kerja Bangunan Tinggi)? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, ",
+    "published_at": "2026-07-31"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "01kyw9nm053yp5m8htmrwsvwt5",
+    "name": "Perkayuan dan Kehutanan",
+    "slug": "perkayuan",
+    "path": "/industri/perkayuan",
+    "description": "K3 untuk sektor Perkayuan dan Kehutanan. Penerapan K3 pada sektor Perkayuan dan Kehutanan sangat krusial untuk mencegah kecelakaan kerja akibat pengoperasian mesin produksi berat, bahan kimia pestisida, dan potensi kecelakaan lalu lintas operasional. PT PENA Consultant menyediakan layanan pembinaan K3 terpadu, pendampingan SMK3 PP No. 50 Tahun 2012, dan sertifikasi resmi Kemnaker RI untuk memastikan perlindungan keselamatan kerja yang komprehensif bagi seluruh staf perusahaan Anda.",
+    "regulatory_context": [
+        {
+            "type": "paragraph",
+            "text": "Industri perkayuan dan kehutanan tunduk pada kewajiban umum K3 sesuai UU No. 1 Tahun 1970, dengan perhatian khusus pada pengoperasian alat berat dan pesawat angkat-angkut di area kerja."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        }
+    ],
+    "relevant_offering_slugs": []
+}

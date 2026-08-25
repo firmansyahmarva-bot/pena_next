@@ -1,0 +1,17 @@
+{
+    "id": "01kywb7wgaq0a4a44a8bg0xack",
+    "slug": "operator-scaffolding-batch-62",
+    "path": "/jadwal/operator-scaffolding-batch-62",
+    "batch_number": "62",
+    "start_date": "2026-09-14",
+    "end_date": "2026-09-18",
+    "is_online": false,
+    "mode": "offline",
+    "normal_price": 5500000,
+    "promo_price": 3370000,
+    "offering_name": "Operator Scaffolding",
+    "offering_slug": "operator-scaffolding",
+    "certification_body": "kemnaker",
+    "location_name": "TUK Onsite",
+    "availability": "available"
+}

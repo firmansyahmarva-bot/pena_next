@@ -1,0 +1,42 @@
+{
+    "id": "01kyw9kzcrfmfhsm81a7ap6dtw",
+    "title": "Syarat Mengikuti Sertifikasi Juru Las Kelas 1",
+    "slug": "syarat-operator-welder-kelas-1",
+    "path": "/panduan/sertifikasi-k3/syarat-operator-welder-kelas-1",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Persyaratan sertifikasi Juru Las Kelas 1 Kemnaker RI: berkas pendaftaran, uji kualifikasi 6G SMAW/GTAW, dan pengujian laboratorium.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Calon Juru Las Kelas 1 disyaratkan memiliki keterampilan pengelasan pipa tingkat mahir dan siap menempuh uji kualifikasi (Welder Qualification Test / WQT)."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Persyaratan Peserta Welder Kelas 1"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal SLTP / SLTA / SMK Teknik Mesin / Pengelasan.",
+                "Memiliki pengalaman mengelas pipa minimal 2 tahun atau memegang sertifikat Juru Las Kelas 2 / Kelas 3.",
+                "Lolos uji visual, uji Radiografi (RT), dan uji tekuk mekanik (Bend Test) terhadap kupon las pipa 6G.",
+                "Scan ijazah, KTP, surat keterangan sehat mata (tidak buta warna), dan pasfoto latar belakang merah."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Diterbitkan Lisensi K3 dan Buku Kerja Juru Las Kelas 1 resmi Kemnaker RI."
+        }
+    ],
+    "related_offering_slug": "operator-welder-kelas-1",
+    "meta_title": "Syarat Mengikuti Operator Welder Kelas 1 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Operator Welder Kelas 1 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan ser",
+    "published_at": "2026-07-31"
+}

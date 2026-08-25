@@ -1,0 +1,130 @@
+{
+    "id": "01kyfffj6cedvt04nbmwh6zmxh",
+    "type": "training",
+    "name": "Internal Auditor ISO 45001:2018",
+    "slug": "internal-auditor-iso-45001-2018",
+    "path": "/pelatihan/internal-auditor-iso-45001-2018",
+    "title": "Internal Auditor ISO 45001:2018",
+    "meta_title": "Internal Auditor ISO 45001:2018",
+    "meta_description": "Pelatihan Internal Auditor ISO 45001:2018. Teknik audit sistem manajemen K3 internasional, penyusunan audit trail, & laporan.",
+    "summary": "Tersedia online.",
+    "certification_body": "none",
+    "base_price": 5000000,
+    "duration": "-",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "ISO 45001:2018 adalah standar internasional pertama untuk sistem manajemen keselamatan dan kesehatan kerja, menggantikan OHSAS 18001 sebagai rujukan global. Perusahaan yang mengekspor, memiliki klien multinasional, atau ingin diakui secara internasional biasanya menerapkan ISO 45001 berdampingan dengan SMK3 wajib nasional — bukan sebagai pengganti, melainkan lapisan pengakuan tambahan yang diakui lintas negara."
+        },
+        {
+            "type": "citation",
+            "text": "Occupational health and safety management systems — Requirements with guidance for use.",
+            "source": "ISO 45001:2018"
+        },
+        {
+            "type": "citation",
+            "text": "Guidelines for auditing management systems.",
+            "source": "ISO 19011:2018"
+        },
+        {
+            "type": "citation",
+            "text": "Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) — wajib bagi perusahaan dengan ≥100 pekerja atau tingkat bahaya tinggi.",
+            "source": "PP No. 50 Tahun 2012"
+        },
+        {
+            "type": "paragraph",
+            "text": "Internal Auditor ISO 45001:2018 menjalankan audit pihak pertama (first-party audit) — audit yang dilakukan organisasi terhadap sistem manajemennya sendiri, berbeda dari sertifikasi pihak ketiga oleh badan sertifikasi. Kompetensi ini tetap krusial karena audit internal yang baik adalah syarat sebelum perusahaan siap menghadapi audit sertifikasi eksternal."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini cocok bagi staf HSE, quality, atau manajemen yang bertanggung jawab menjaga kepatuhan sistem ISO 45001 perusahaan dari dalam — baik perusahaan yang baru menerapkan standar ini maupun yang sudah tersertifikasi dan perlu menjaga sistem auditnya tetap berjalan setiap siklus."
+        },
+        {
+            "type": "paragraph",
+            "text": "Berbeda dari Auditor SMK3 Kemnaker RI yang menilai kepatuhan hukum nasional, Internal Auditor ISO 45001 berfokus pada kesehatan sistem manajemen itu sendiri — apakah proses berjalan konsisten, apakah risiko benar-benar dikendalikan, dan apakah organisasi terus meningkat dari waktu ke waktu (klausul 10, continual improvement). Kompetensi audit internal yang kredibel adalah fondasi yang membuat perusahaan mampu mempertahankan sertifikasi ISO-nya tahun demi tahun, bukan hanya lulus sekali saat audit awal. Setelah menyelesaikan program, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memahami struktur dan persyaratan klausul ISO 45001:2018 secara menyeluruh, klausul 4 hingga 10",
+                "Merencanakan program audit internal dan menyusun audit checklist berbasis risiko",
+                "Melaksanakan audit: opening meeting, pengumpulan bukti objektif, wawancara, dan closing meeting sesuai metodologi ISO 19011",
+                "Menilai kesesuaian, menuliskan temuan ketidaksesuaian (nonconformity) secara jelas dan dapat ditindaklanjuti",
+                "Memverifikasi efektivitas tindakan perbaikan (corrective action) dari audit sebelumnya",
+                "Memahami titik integrasi ISO 45001 dengan SMK3 PP No. 50 Tahun 2012, sehingga kedua sistem berjalan selaras tanpa duplikasi dokumen"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kurikulum mengikuti struktur klausul ISO 45001:2018 secara berurutan, dipadukan dengan metodologi audit ISO 19011:2018 dan latihan menulis temuan:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Konteks organisasi, kepemimpinan, dan perencanaan (Klausul 4–6): memahami isu internal/eksternal, kepatuhan legal, dan penetapan tujuan K3",
+                "Dukungan dan operasi (Klausul 7–8): kompetensi, komunikasi, pengendalian operasional, dan kesiapsiagaan darurat",
+                "Evaluasi kinerja dan peningkatan (Klausul 9–10): pemantauan, audit internal, tinjauan manajemen, dan peningkatan berkelanjutan",
+                "Prinsip, program, dan pelaksanaan audit sesuai ISO 19011:2018",
+                "Teknik menulis temuan audit yang objektif dan dapat diverifikasi",
+                "Studi kasus audit penuh dan evaluasi hasil audit peserta"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal D3/S1, dengan pemahaman dasar tentang sistem manajemen K3 di organisasinya",
+                "Diutamakan staf yang terlibat langsung dalam implementasi atau pengawasan sistem K3 perusahaan",
+                "Tidak disyaratkan sertifikasi K3 sebelumnya — program ini membekali dari dasar klausul ISO 45001 hingga teknik audit",
+                "Sehat jasmani dan rohani"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat penugasan dari perusahaan (jika peserta utusan perusahaan)"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul pelatihan mengikuti struktur klausul ISO 45001:2018 dan metodologi ISO 19011:2018",
+                "Instruktur praktisi berpengalaman sebagai auditor sistem manajemen",
+                "Studi kasus dan latihan menulis temuan audit",
+                "Sertifikat pelatihan dan konsultasi pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir di halaman ini.",
+                "Terima penawaran resmi: jadwal dan biaya.",
+                "Lengkapi berkas administrasi.",
+                "Ikuti pelatihan klausul ISO 45001:2018 dan metodologi audit ISO 19011:2018.",
+                "Ikuti studi kasus audit penuh dan latihan menulis temuan.",
+                "Terima sertifikat Internal Auditor ISO 45001:2018."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

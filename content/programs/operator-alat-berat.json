@@ -1,0 +1,127 @@
+{
+    "id": "01kyfffj2p966gd2d94ebz79nc",
+    "type": "training",
+    "name": "Operator Alat Berat",
+    "slug": "operator-alat-berat",
+    "path": "/pelatihan/operator-alat-berat",
+    "title": "Operator Alat Berat",
+    "meta_title": "Operator Alat Berat",
+    "meta_description": "Lisensi K3 Operator Alat Berat Kemnaker RI (Excavator/Loader). Pengoperasian aman, inspeksi harian, & Permenaker No. 8 Tahun 2020.",
+    "summary": "Operator Alat Berat adalah program pembinaan dan sertifikasi (lisensi K3) operator alat berat sesuai Permenaker No. 8 Tahun 2020 tentang K3 Pesawat Angkat dan Pesawat Angkut — operator wajib memiliki lisensi K3 sesuai jenis dan kapasitas alat. Tersedia online & offline.",
+    "certification_body": "kemnaker",
+    "base_price": 6000000,
+    "duration": "5 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Alat berat seperti excavator, bulldozer, wheel loader, motor grader, dan berbagai unit sejenis memegang peran penting dalam proyek konstruksi, pertambangan, dan perkebunan. Namun, pengoperasian alat berat yang tidak sesuai prosedur berisiko tinggi menimbulkan kecelakaan kerja fatal — baik bagi operator sendiri, pekerja lain di sekitar area kerja, maupun kerusakan aset perusahaan."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "[VERIFIKASI PENA] Ketentuan kompetensi, lisensi, atau surat izin operasi untuk alat berat di Indonesia tidak seragam untuk semua jenis unit — persyaratan dapat berbeda tergantung pada jenis, kapasitas, dan kategori alat, serta skema pembinaan/sertifikasi yang berlaku untuk kategori tersebut. Sebagian kategori alat angkat dan angkut memiliki ketentuan surat izin operasi (SIO) tersendiri, sementara kategori alat lain mengikuti skema kompetensi yang berbeda. Tim PENA Consultant akan membantu mengidentifikasi skema pelatihan dan sertifikasi yang paling sesuai dengan jenis alat berat dan kebutuhan perusahaan Anda."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Siapa yang perlu mengikuti pelatihan ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Calon operator yang akan mengoperasikan alat berat di proyek konstruksi, pertambangan, atau perkebunan",
+                "Operator berpengalaman yang ingin memperkuat pemahaman prosedur keselamatan dan praktik operasi standar",
+                "Perusahaan yang ingin memastikan operatornya memahami prosedur pemeriksaan, pengoperasian, dan pengendalian risiko sebelum menugaskan alat berat di lapangan",
+                "Supervisor lapangan yang perlu memahami standar kompetensi operator untuk keperluan pengawasan"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Operator alat berat memiliki tanggung jawab yang melampaui sekadar mengendalikan unit, di antaranya:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Melakukan pemeriksaan sebelum pengoperasian (pre-operation inspection) untuk memastikan kondisi unit layak dioperasikan",
+                "Mengoperasikan alat berat sesuai kapasitas, batas beban, dan kondisi medan kerja yang aman",
+                "Mengenali dan menghindari area berbahaya, seperti jalur kabel listrik, area galian, atau zona kerja pekerja lain",
+                "Berkomunikasi secara efektif dengan pemandu (signalman/spotter), pekerja di sekitar, dan operator alat lain di area kerja yang sama",
+                "Melaporkan kerusakan, keausan, atau kondisi tidak normal pada unit kepada pihak yang bertanggung jawab atas perawatan",
+                "Mematuhi prosedur kerja aman dan rencana kerja (job safety plan) yang ditetapkan di lokasi proyek",
+                "Menghentikan operasi dan melaporkan segera apabila menemukan kondisi yang membahayakan keselamatan"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Operator yang kompeten mengurangi risiko kecelakaan kerja, memperpanjang usia pakai alat melalui kebiasaan pemeriksaan yang baik, serta mendukung produktivitas proyek karena unit lebih jarang mengalami downtime akibat kerusakan yang tidak terdeteksi dini. Bagi individu, kompetensi operasi yang terverifikasi menjadi nilai tambah penting saat melamar posisi operator di proyek konstruksi, pertambangan, maupun perkebunan."
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Peserta akan mempelajari cara melakukan pemeriksaan harian sebelum unit dioperasikan, mencakup pemeriksaan sistem hidrolik, rem, kemudi, ban/track, cairan operasional (oli, bahan bakar, coolant), sistem peringatan (alarm mundur, lampu, klakson), serta kelengkapan alat keselamatan seperti sabuk pengaman (seatbelt) dan struktur pelindung (ROPS/FOPS jika tersedia pada unit)."
+        },
+        {
+            "type": "paragraph",
+            "text": "Materi mencakup identifikasi bahaya umum saat mengoperasikan alat berat, seperti:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Risiko terguling (rollover) akibat medan miring, tidak rata, atau tidak stabil",
+                "Tabrakan dengan pekerja, kendaraan, atau alat lain di area kerja akibat blind spot operator",
+                "Bahaya kontak dengan instalasi bawah tanah atau jaringan listrik di atas area kerja",
+                "Risiko akibat kelebihan beban (overload) yang melampaui kapasitas unit",
+                "Bahaya akibat kegagalan komponen mekanis atau hidrolik yang tidak terdeteksi karena minimnya pemeriksaan rutin",
+                "Risiko kelelahan operator (fatigue) yang menurunkan kewaspadaan selama pengoperasian"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Peserta mempelajari pengendalian risiko praktis, termasuk pengaturan zona kerja dan jarak aman (exclusion zone), penggunaan sistem komunikasi dan sinyal tangan yang baku dengan pemandu di lapangan, penerapan prosedur kerja aman untuk pekerjaan di dekat instalasi bawah tanah atau jaringan listrik, serta disiplin dalam mematuhi batas kapasitas dan kondisi medan kerja. Meskipun operator bukan teknisi perawatan, pelatihan ini membekali peserta dengan kesadaran dasar mengenai pentingnya perawatan preventif, cara mengenali tanda-tanda kerusakan dini (kebocoran, suara tidak normal, getaran berlebih), dan pentingnya melaporkan temuan tersebut secara tepat waktu kepada tim maintenance agar kerusakan tidak berkembang menjadi kegagalan komponen yang membahayakan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan disampaikan melalui kombinasi teori (regulasi K3 umum, prinsip keselamatan alat berat, identifikasi bahaya) dan praktik langsung pengoperasian di lapangan, mencakup latihan pemeriksaan pra-operasi, teknik pengoperasian dasar hingga lanjutan, latihan komunikasi dengan pemandu, serta evaluasi kompetensi operator sesuai standar praktik kerja yang diajarkan."
+        }
+    ],
+    "requirements": [
+        {
+            "type": "paragraph",
+            "text": "Persyaratan umum meliputi kondisi kesehatan yang memadai untuk mengoperasikan alat berat, kemampuan membaca dan memahami instruksi kerja, serta kelengkapan dokumen administratif seperti KTP, pas foto, dan surat keterangan sehat."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan tambahan dapat berlaku sesuai kategori alat dan skema pembinaan yang dipilih."
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP dan pas foto",
+                "Surat keterangan sehat"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "paragraph",
+            "text": "Peserta mendapatkan materi pelatihan, instruktur berpengalaman di bidang operasi alat berat, sesi praktik lapangan menggunakan unit sesuai kategori pelatihan, serta pendampingan hingga penilaian kompetensi."
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "paragraph",
+            "text": "Untuk informasi jadwal pelatihan, kategori alat yang tersedia, dan proses pendaftaran, hubungi tim PENA Consultant melalui kontak resmi di penaconsultant.com. Tim kami akan membantu menyesuaikan program dengan jenis alat berat dan kebutuhan perusahaan Anda."
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

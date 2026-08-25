@@ -1,0 +1,87 @@
+{
+    "id": "01kyw9k7vf14tpgcm8eeyv84ea",
+    "title": "Syarat Ahli K3 Listrik BNSP dan Dokumen Asesmen",
+    "slug": "syarat-ahli-k3-listrik",
+    "path": "/panduan/k3-teknis/syarat-ahli-k3-listrik",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat mengikuti Ahli K3 Listrik sertifikasi BNSP: pendidikan teknik elektro atau pengalaman kelistrikan, sehat jasmani termasuk tidak buta warna, sesuai Permenaker No. 12 Tahun 2015.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Calon peserta program Ahli K3 Listrik sertifikasi BNSP:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal D3 Teknik Elektro/Listrik, atau SMK jurusan listrik dengan pengalaman kerja di bidang instalasi/kelistrikan",
+                "Memiliki pengalaman atau penugasan pada pekerjaan perencanaan, pemasangan, pemeriksaan, atau pemeliharaan instalasi listrik",
+                "Sehat jasmani dan rohani, tidak buta warna (relevan untuk identifikasi kode kabel/instalasi)",
+                "Bersedia mengikuti pelatihan teori dan praktik serta uji kompetensi BNSP"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Latar belakang pendidikan/pengalaman kelistrikan disyaratkan karena cakupan kerja Ahli K3 Listrik menyangkut pemeriksaan teknis instalasi sesuai Permenaker No. 12 Tahun 2015 — tim kami akan memverifikasi kesesuaian latar belakang Anda sebelum pendaftaran."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kelengkapan Berkas"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir",
+                "Curriculum vitae yang mencantumkan pengalaman kelistrikan",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter, termasuk hasil tes buta warna"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "BNSP Memerlukan Bukti, Bukan Hanya Formulir"
+        },
+        {
+            "type": "paragraph",
+            "text": "Asesmen kompetensi menilai kemampuan yang telah dimiliki. Karena itu CV, surat pengalaman, uraian tugas, laporan pemeriksaan, diagram, prosedur, atau portofolio kelistrikan dapat menjadi bagian penting sesuai arahan LSP. Ketentuan pendidikan dan pengalaman tidak boleh dipastikan dari satu artikel; tim perlu mencocokkannya dengan skema aktif dan bukti masing-masing calon."
+        },
+        {
+            "type": "paragraph",
+            "text": "Program cocok untuk personel yang merencanakan, menilai, memeriksa, atau mengawasi K3 kelistrikan sesuai ruang lingkup skema. Teknisi pelaksana mungkin memerlukan sertifikasi Teknisi K3 Listrik. Jika tender meminta lisensi atau penunjukan Kemnaker, jalur BNSP ini belum tentu diterima sebagai pengganti. Verifikasi bunyi persyaratan sebelum memilih."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data untuk Pre-Assessment dan Penawaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim ijazah, CV, masa kerja, jenis dan tegangan instalasi, jabatan, contoh bukti kerja, hasil tes buta warna, persyaratan klien, jumlah peserta, dan target. Tim PENA akan membantu pre-check, menjelaskan dokumen asesmen, serta memberikan jadwal dan biaya. Kekurangan bukti sebaiknya diketahui sebelum hari asesmen, bukan setelah peserta hadir."
+        },
+        {
+            "type": "paragraph",
+            "text": "Peserta juga sebaiknya memeriksa masa berlaku dokumen identitas, kualitas hasil pindai, dan konsistensi nama. Bukti kelistrikan dapat disamarkan untuk melindungi diagram atau data fasilitas, tetapi peran serta aktivitas calon harus tetap dapat dinilai. Tim dapat mengonfirmasi format bukti sebelum berkas diteruskan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Jika kebutuhan berasal dari tender, lampirkan halaman persyaratan tanpa memotong nama skema atau penerbit. Satu kata BNSP atau Kemnaker dapat mengubah program yang harus dipilih."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Latar belakang pendidikan Anda bukan teknik elektro tapi punya pengalaman kelistrikan langsung? Tim kami dapat membantu menilai kesetaraannya sebelum pendaftaran."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-listrik",
+    "meta_title": "Syarat Mengikuti Ahli K3 Listrik — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Ahli K3 Listrik resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi",
+    "published_at": "2026-07-31"
+}

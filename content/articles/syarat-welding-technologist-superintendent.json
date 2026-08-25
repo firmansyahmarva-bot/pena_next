@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9msm8wz0r0j7r0gjrhc09",
+    "title": "Syarat Mengikuti Sertifikasi Welding Technologist",
+    "slug": "syarat-welding-technologist-superintendent",
+    "path": "/panduan/sertifikasi-k3/syarat-welding-technologist-superintendent",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Persyaratan sertifikasi Welding Technologist.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Pendidikan minimal Sarjana (S1) Teknik Mesin/Metalurgi atau D3 dengan pengalaman koordinasi pengelasan minimal 3 tahun."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Uji evaluasi komprehensif metalurgi las, perhitungan heat input, dan PWHT."
+        }
+    ],
+    "related_offering_slug": "welding-technologist-superintendent",
+    "meta_title": "Syarat Mengikuti Welding Technologist/Superintendent — G",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Welding Technologist/Superintendent resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography",
+    "published_at": "2026-07-31"
+}

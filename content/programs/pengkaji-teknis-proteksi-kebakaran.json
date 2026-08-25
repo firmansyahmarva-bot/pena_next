@@ -1,0 +1,152 @@
+{
+    "id": "01kyfffhqd027k3xx03enskjw0",
+    "type": "training",
+    "name": "Pengkaji Teknis Proteksi Kebakaran",
+    "slug": "pengkaji-teknis-proteksi-kebakaran",
+    "path": "/pelatihan/pengkaji-teknis-proteksi-kebakaran",
+    "title": "Pengkaji Teknis Proteksi Kebakaran",
+    "meta_title": "Pengkaji Teknis Proteksi Kebakaran",
+    "meta_description": "Sertifikasi Pengkaji Teknis Proteksi Kebakaran BNSP. Audit sistem hidran, sprinkler, kompartemenisasi gedung, & Kepmenaker 186/1999.",
+    "summary": "Tersedia online.",
+    "certification_body": "bnsp",
+    "base_price": 5000000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Sistem proteksi kebakaran pada bangunan gedung dan fasilitas industri merupakan benteng pertahanan utama dalam mencegah timbulnya korban jiwa dan kerugian material akibat bencana kebakaran. Namun, keberadaan sarana pemadam dan sistem proteksi saja tidak cukup — diperlukan evaluasi dan pengkajian secara berkala oleh personil yang memiliki kompetensi tersertifikasi untuk memastikan seluruh sistem proteksi aktif maupun pasif berfungsi optimal sesuai standar teknis nasional dan internasional."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Bangunan Gedung.",
+            "source": "UU No. 28 Tahun 2002"
+        },
+        {
+            "type": "citation",
+            "text": "Peraturan Pelaksanaan Undang-Undang Nomor 28 Tahun 2002 tentang Bangunan Gedung.",
+            "source": "PP No. 16 Tahun 2021"
+        },
+        {
+            "type": "citation",
+            "text": "Persyaratan Teknis Sistem Proteksi Kebakaran pada Bangunan Gedung dan Lingkungan.",
+            "source": "Permen PU No. 26/PRT/M/2008"
+        },
+        {
+            "type": "citation",
+            "text": "Unit Penanggulangan Kebakaran di Tempat Kerja.",
+            "source": "Kepmenaker No. KEP-186/MEN/1999"
+        },
+        {
+            "type": "paragraph",
+            "text": "Standar Nasional Indonesia (SNI) turut menjadi acuan teknis: SNI 03-3989 untuk sprinkler, SNI 03-1745 untuk pipa tegak dan slang, serta SNI 03-3985 untuk sistem deteksi dan alarm."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini dirancang khusus untuk membekali para profesional di bidang K3, rekayasa keandalan bangunan (building engineering), serta manajemen fasilitas dengan pengetahuan mendalam mengenai analisis keandalan proteksi kebakaran. Melalui skema berbasis SKKNI dan lisensi BNSP/SKK Konstruksi LPJK, peserta dipersiapkan menjadi ahli pengkaji teknis yang diakui secara legal dan profesional."
+        },
+        {
+            "type": "paragraph",
+            "text": "Pengkaji Teknis Proteksi Kebakaran bertanggung jawab melakukan audit kelayakan teknis, verifikasi kesesuaian instalasi dengan dokumen rencana teknis, hingga menerbitkan rekomendasi teknis untuk penerbitan Sertifikat Laik Fungsi (SLF) bangunan gedung. Kebutuhan industri akan profesi ini meningkat pesat seiring ketatnya pengawasan regulasi pemerintah daerah dan pusat terhadap keselamatan gedung umum dan kawasan industri."
+        },
+        {
+            "type": "paragraph",
+            "text": "Cakupan kerja seorang Pengkaji Teknis Proteksi Kebakaran yang tersertifikasi meliputi:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Evaluasi sistem proteksi pasif: ketahanan api struktur bangunan, kompartemenisasi ruangan, ketahanan dinding tahan api, fire stop, fire door, dan jalur evakuasi",
+                "Pengujian sistem proteksi aktif: alarm kebakaran otomatis, fire pump, jaringan hidran gedung dan luar gedung, sprinkler otomatis, serta sistem pemadam kimia (clean agent/CO2)",
+                "Analisis sarana penyelamatan jiwa: waktu evakuasi aman, kapasitas eksit, emergency lighting, exit sign, dan smoke control system",
+                "Pemeriksaan sarana akses pemadam: fire lane, hardstand, serta pasokan air pemadam kebakaran kawasan",
+                "Penyusunan laporan pengkajian teknis sebagai syarat utama permohonan atau perpanjangan SLF kepada dinas terkait"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Bagi profesional, sertifikasi ini meningkatkan kredibilitas resmi dan wewenang hukum dalam menandatangani dokumen kajian SLF, serta memperluas peluang karier sebagai Fire Safety Engineer, Konsultan K3, atau Building Manager. Bagi perusahaan/pengelola gedung, sertifikasi ini menjamin kepatuhan terhadap aturan SLF, mengurangi risiko kegagalan fungsi sistem proteksi saat darurat, dan menurunkan potensi premi asuransi kebakaran gedung."
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Materi pembinaan disusun secara sistematis mengacu pada standar kompetensi teruji yang mencakup teori, studi kasus rancangan gedung, dan simulasi inspeksi lapangan:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Regulasi & norma K3 kebakaran: peraturan perundang-undangan keselamatan bangunan gedung, norma K3 penanggulangan kebakaran, dan standar SNI/NFPA terkait",
+                "Pengkajian proteksi pasif: penilaian ketahanan struktur, pembagian kompartemen api, bahan bangunan tahan api, dan proteksi bukaan (fire stop & fire damper)",
+                "Pengkajian proteksi aktif: audit teknis sistem deteksi & alarm, kriteria desain & uji tekan jaringan hidran, kinerja pompa pemadam, dan sistem otomatis sprinkler",
+                "Sarana penyelamatan jiwa: perhitungan lebar eksit, means of egress, manajemen asap, serta sistem tata suara darurat (emergency PA system)",
+                "Manajemen tanggap darurat gedung: evaluasi Fire Emergency Plan (FEP), struktur organisasi tanggap darurat, dan prosedur gladi evakuasi",
+                "Penyusunan dokumen kajian: metodologi inspeksi, penyusunan checklist verifikasi, analisis potensi bahaya, dan pembuatan rekomendasi teknis SLF"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal D3/S1 Teknik (Teknik Sipil, Arsitektur, Teknik Mesin, Teknik Elektro, Teknik Industri, atau K3/Kesmas)",
+                "Pengalaman kerja minimal 2-3 tahun di bidang perencanaan, pengawasan, pengelolaan gedung, atau K3 konstruksi/fasilitas"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi/scan KTP yang masih berlaku",
+                "Scan ijazah terakhir",
+                "Pasfoto formal berlatar belakang merah",
+                "Surat keterangan pengalaman kerja dari perusahaan/instansi",
+                "Curriculum vitae (CV) terbaru yang mencantumkan portofolio proyek/kegiatan terkait proteksi kebakaran",
+                "Surat penugasan/rekomendasi dari instansi/perusahaan"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul pelatihan eksklusif (hardcopy & softcopy)",
+                "Sertifikat kompetensi dari BNSP (bagi yang dinyatakan kompeten)",
+                "Sertifikat kepesertaan dari PENA Consultant",
+                "Training kit (tas, buku catatan, pulpen)",
+                "Bimbingan pra-asesmen bersama instruktur ahli & praktisi fire safety",
+                "Makan siang dan 2x coffee break (untuk program tatap muka)"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "paragraph",
+            "text": "Proses evaluasi kompetensi dilakukan oleh Asesor Kompetensi yang ditunjuk oleh Lembaga Sertifikasi Profesi (LSP) berlisensi BNSP:"
+        },
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Pra-asesmen — verifikasi berkas administrasi dan kelengkapan portofolio pengalaman kerja.",
+                "Uji tulis — evaluasi pemahaman teoritis terkait regulasi, perhitungan teknis hidrolika pemadam, dan kriteria desain proteksi gedung.",
+                "Wawancara kompetensi — pendalaman portofolio dan studi kasus langsung dengan asesor untuk membuktikan penguasaan lapangan.",
+                "Penerbitan sertifikat — peserta yang dinyatakan Kompeten (K) menerima Sertifikat Kompetensi BNSP/SKK Konstruksi yang berlaku 3 tahun dan dapat diperpanjang."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

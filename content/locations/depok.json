@@ -1,0 +1,20 @@
+{
+    "id": "01kyw9p1xfdqa5exp3bm1j8f51",
+    "name": "Depok",
+    "slug": "depok",
+    "path": "/cabang/depok",
+    "is_physical": false,
+    "address": null,
+    "intro": [
+        {
+            "type": "paragraph",
+            "text": "Depok, kota penyangga selatan Jakarta di jalur Jakarta-Bogor, memiliki karakter ekonomi yang memadukan sektor UMKM padat dengan kehadiran pabrik farmasi multinasional berskala besar di koridor Cimanggis — di antaranya PT Abbott Indonesia dan PT GlaxoSmithKline (GSK) Indonesia, dua produsen farmasi global yang menjalankan fasilitas produksi berstandar Good Manufacturing Practice (GMP) internasional di kota ini."
+        },
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyelenggarakan pelatihan dan sertifikasi K3 yang relevan untuk kebutuhan industri farmasi dan manufaktur pendukung di Depok dan sekitarnya — skema Kemnaker RI maupun BNSP, tersedia online maupun in-house."
+        }
+    ],
+    "service_areas": [],
+    "phone": null
+}

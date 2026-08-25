@@ -1,0 +1,86 @@
+{
+    "id": "01kyw9k5k6y6tp1rqhm6n5tmj6",
+    "title": "Syarat Mengikuti Pelatihan Ahli Higiene Industri Muda (HIMU)",
+    "slug": "syarat-ahli-higiene-industri-muda",
+    "path": "/panduan/sertifikasi-k3/syarat-ahli-higiene-industri-muda",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Persyaratan pendaftaran pelatihan Ahli Higiene Industri Muda (HIMU) Kemnaker RI sesuai Permenaker No. 5 Tahun 2018 tentang K3 Lingkungan Kerja.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Ahli Higiene Industri Muda (HIMU) bertugas melakukan identifikasi potensi bahaya faktor fisika, kimia, biologi, ergonomi, dan psikologi, serta mengoperasikan peralatan pengukuran lingkungan kerja di tempat kerja."
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Lingkungan Kerja.",
+            "source": "Permenaker No. 05 Tahun 2018"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kriteria Persyaratan Peserta HIMU"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal Diploma 3 (D3) atau Sarjana (S1) bidang Sains, Teknik, Kesehatan Masyarakat, atau bidang terkait.",
+                "Pengalaman kerja minimal 1 tahun di bidang K3 atau pemantauan lingkungan kerja (fresh graduate dipersilakan mengikuti pembinaan).",
+                "Scan ijazah, transkrip nilai, KTP, surat keterangan sehat, dan surat tugas perusahaan (jika utusan pt)."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kompetensi Teknis Pengukuran Lingkungan Kerja"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Faktor Bahaya",
+                "Alat Ukur yang Digunakan",
+                "Standar Nilai Ambang Batas (NAB)"
+            ],
+            "rows": [
+                [
+                    "Faktor Fisika - Kebisingan",
+                    "Sound Level Meter (SLM) & Noise Dosimeter",
+                    "85 dBA (Pajanan maks. 8 jam per hari)"
+                ],
+                [
+                    "Faktor Fisika - Pencahayaan",
+                    "Lux Meter terkalibrasi",
+                    "Sesuai jenis pekerjaan (100 - 1000 Lux)"
+                ],
+                [
+                    "Faktor Fisika - Iklim Kerja Panas",
+                    "Heat Stress Monitor (ISBB / WBGT)",
+                    "Sesuai beban kerja (Ringan/Sedang/Berat)"
+                ],
+                [
+                    "Faktor Kimia - Debu & Partikulat",
+                    "Personal Dust Sampler / Low Volume Sampler",
+                    "Sesuai standar Permenaker 05/2018 Lampiran 1"
+                ],
+                [
+                    "Faktor Kimia - Gas Beracun",
+                    "Gas Detector 4-in-1 / Multi-Gas Analyzer",
+                    "O2, CO, H2S, LEL threshold limit"
+                ]
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "HIMU adalah personel kunci untuk pemenuhan kewajiban pengujian lingkungan kerja berkala wajib Permenaker 05/2018."
+        }
+    ],
+    "related_offering_slug": "ahli-higiene-industri-muda",
+    "meta_title": "Syarat Mengikuti Ahli Higiene Industri Muda — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Ahli Higiene Industri Muda resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan ",
+    "published_at": "2026-07-31"
+}

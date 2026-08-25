@@ -1,0 +1,98 @@
+{
+    "id": "01kyw9kpgt7fdbg6sgwq6k73qe",
+    "title": "Apa Itu Teknisi K3 Listrik Kemnaker RI?",
+    "slug": "apa-itu-k3-teknisi-listrik",
+    "path": "/panduan/k3-teknis/apa-itu-k3-teknisi-listrik",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Teknisi K3 Listrik lisensi Kemnaker RI adalah jenjang pelaksana lapangan kelistrikan, berbeda dari Ahli K3 Listrik yang berperan menilai risiko dan merencanakan — berikut cakupan dan dasar hukumnya.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Dalam struktur K3 kelistrikan, ada dua jenjang utama: ahli, yang menilai risiko dan merencanakan pekerjaan, dan teknisi, yang melaksanakan pekerjaan di lapangan. Teknisi K3 Listrik lisensi Kemnaker RI adalah jenjang pelaksana ini."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Listrik di Tempat Kerja.",
+            "source": "Permenaker No. 12 Tahun 2015"
+        },
+        {
+            "type": "citation",
+            "text": "Perubahan atas Permenaker No. 12 Tahun 2015.",
+            "source": "Permenaker No. 33 Tahun 2015"
+        },
+        {
+            "type": "citation",
+            "text": "Persyaratan Umum Instalasi Listrik (PUIL 2011).",
+            "source": "SNI 0225:2011"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Cakupan Kerja Teknisi K3 Listrik"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memasang, memeriksa, dan memelihara instalasi listrik sesuai prosedur kerja aman",
+                "Menerapkan lockout-tagout (LOTO) saat bekerja pada instalasi bertegangan",
+                "Melaporkan temuan kondisi instalasi yang tidak sesuai standar kepada Ahli K3 Listrik",
+                "Bekerja sesuai rencana dan prosedur yang sudah ditetapkan, bukan menyusunnya sendiri"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Lisensi Kemnaker RI: Satu dari Beberapa Jalur Sertifikasi Teknisi Listrik"
+        },
+        {
+            "type": "paragraph",
+            "text": "Program ini diterbitkan melalui lisensi Kemnaker RI. PENA Consultant juga menyelenggarakan jalur teknisi listrik skema kompetensi BNSP — pilih sesuai persyaratan yang diminta proyek atau klien Anda, karena keduanya sama-sama mengacu pada Permenaker No. 12 Tahun 2015 namun diterbitkan oleh lembaga berbeda."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Siapa yang Cocok dan Kapan Perusahaan Membutuhkannya"
+        },
+        {
+            "type": "paragraph",
+            "text": "Program Teknisi K3 Listrik cocok bagi teknisi maintenance, teknisi fasilitas, personel utility, dan pekerja yang secara nyata melakukan pemasangan, pemeriksaan, pengoperasian, atau pemeliharaan instalasi listrik. Program ini bukan pilihan tepat bagi peserta yang hanya memerlukan pengetahuan awareness, dan tidak otomatis menggantikan jenjang Ahli K3 Listrik untuk fungsi perencanaan, evaluasi, atau pengawasan yang lebih luas."
+        },
+        {
+            "type": "paragraph",
+            "text": "Perusahaan biasanya memetakan kebutuhan saat membuka fasilitas baru, menambah panel atau mesin, menutup temuan audit, mengganti personel berlisensi, atau memenuhi persyaratan vendor. Daftar jabatan saja tidak cukup. Tugas aktual, jenis instalasi, tegangan, kewenangan kerja, serta persyaratan klien perlu diperiksa agar jalur Kemnaker atau jalur kompetensi lain tidak tertukar."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Siapkan Data Ini untuk Konsultasi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirimkan pengalaman dan pendidikan calon peserta, uraian pekerjaan, jenis instalasi yang ditangani, jumlah peserta, lokasi, target waktu, dan bunyi persyaratan dari klien bila ada. Tim PENA akan memeriksa kecocokan program, persyaratan dokumen, jadwal, dan biaya resmi. Untuk perusahaan, data tersebut juga membantu menentukan apakah kebutuhan hanya teknisi atau perlu dipasangkan dengan Ahli K3 Listrik dan pembinaan prosedur kerja aman."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Perlu memastikan lisensi Kemnaker RI atau sertifikasi BNSP yang diminta proyek Anda? Tim kami dapat membantu mengecek persyaratan yang berlaku untuk pekerjaan Anda."
+        }
+    ],
+    "related_offering_slug": "k3-teknisi-listrik",
+    "meta_title": "Apa itu K3 Teknisi Listrik? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu K3 Teknisi Listrik? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

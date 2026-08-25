@@ -1,0 +1,92 @@
+{
+    "id": "01kyw9m9xbh5xg9tvqyzsmp9y9",
+    "title": "Biaya Petugas Peran Kebakaran Kelas D 2026",
+    "slug": "biaya-petugas-peran-kebakaran-kelas-d-2026",
+    "path": "/panduan/k3-teknis/biaya-petugas-peran-kebakaran-kelas-d-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Biaya Petugas Peran Kebakaran Kelas D Kemnaker 2026 perlu dihitung berdasarkan jumlah petugas per shift, praktik APAR, lokasi, dan gap struktur perusahaan.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Dataset tidak menyimpan harga publik terverifikasi untuk Petugas Peran Kebakaran Kelas D. Data program mengonfirmasi jalur Kemnaker, durasi sekitar tiga hari, dan sasaran karyawan yang ditunjuk sebagai petugas peran kebakaran. Nominal 2026 harus mengikuti quotation aktif. Kelas D adalah jenjang dasar fungsi kebakaran perusahaan, bukan pengganti Regu Kelas C, Koordinator B, atau Ahli Kelas A."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Apa Saja yang Membentuk Biaya 2026?"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pembinaan, praktik APAR, simulasi, dan evaluasi",
+                "Administrasi Kemnaker serta dokumen hasil",
+                "APAR/bahan praktik, instruktur, fasilitas, konsumsi, dan pajak",
+                "Perjalanan, akomodasi, mobilisasi, atau kelas in-house"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Biaya dipengaruhi jumlah peserta, shift, lokasi, fasilitas praktik, mode, dan jadwal operasi. Perusahaan perlu menghitung surat kesehatan, waktu kerja, pengganti shift, bahan praktik, dan personel cadangan. Mengirim satu kelompok tanpa memetakan seluruh shift dapat membuat sebagian operasi tetap tidak memiliki petugas yang tersedia."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data yang Dibutuhkan untuk Quotation Akurat"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Daftar calon, surat tugas, kesehatan, dan sertifikat lama",
+                "Jumlah pekerja, area, risiko kebakaran, regu, dan shift",
+                "Struktur D-C-B-A yang sudah tersedia serta gap audit",
+                "Jumlah peserta, lokasi, fasilitas praktik, mode, dan tenggat"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Cara Membandingkan Penawaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bandingkan penawaran Kelas D dengan ruang lingkup sama: durasi, praktik, bahan APAR, dokumen, pajak, ketidakhadiran, dan penerbitan. Jangan membandingkan dengan awareness APAR atau Kelas C hanya dari harga. Sertifikat tidak menggantikan alat proteksi, inspeksi, drill, komunikasi, dan emergency response plan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Jangan berhenti pada harga per kursi. Hitung biaya efektif peserta yang lolos pemeriksaan awal dan dapat hadir penuh, lalu tambahkan waktu kerja, perjalanan, akomodasi, pengganti shift, pemeriksaan kesehatan, fasilitas praktik, dan potensi penjadwalan ulang. Minta penawaran menuliskan masa berlaku harga, minimum peserta, pajak, termin pembayaran, pembatalan, penggantian nama, komponen yang tidak termasuk, proses evaluasi, serta estimasi penerbitan dokumen. Dengan dasar yang sama, tim pengadaan dapat membedakan harga murah dari total biaya yang benar-benar terkendali."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan yang Sering Diajukan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah Kelas D sama dengan pelatihan APAR? Tidak otomatis. Apakah semua shift perlu petugas? Kebutuhan harus dipetakan. Apakah praktik termasuk? Harus tertulis. Apakah paket DCBA lebih efisien? Bergantung gap struktur. Apakah in-house tersedia? Dapat dinilai."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Pemeriksaan dan Penawaran Resmi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim profil fasilitas, risiko, shift, struktur D-C-B-A, daftar calon, lokasi, dan target. Tim PENA akan memetakan kebutuhan serta memberikan jadwal dan quotation."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim kebutuhan perusahaan dan dokumen calon sebelum meminta invoice. Tim PENA akan memeriksa kecocokan program, kelayakan awal, ruang lingkup, dan komponen quotation tanpa mengarang harga publik."
+        }
+    ],
+    "related_offering_slug": "petugas-peran-kebakaran-kelas-d",
+    "meta_title": "Biaya Petugas Peran Kebakaran Kelas D 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Biaya Petugas Peran Kebakaran Kelas D 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan s",
+    "published_at": "2026-07-31"
+}

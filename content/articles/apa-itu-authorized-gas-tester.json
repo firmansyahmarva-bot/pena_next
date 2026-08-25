@@ -1,0 +1,107 @@
+{
+    "id": "01kyw9keaf1bvtrnmwm9enwzmf",
+    "title": "Apa Itu Authorized Gas Tester?",
+    "slug": "apa-itu-authorized-gas-tester",
+    "path": "/panduan/k3-teknis/apa-itu-authorized-gas-tester",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Authorized Gas Tester (AGT) adalah personel bersertifikat BNSP yang berwenang menguji atmosfer sebelum izin kerja aman diterbitkan — peran krusial pada pekerjaan ruang terbatas dan pekerjaan panas.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Sebelum pekerja diizinkan masuk ke ruang terbatas atau memulai pekerjaan panas (hot work) di area berpotensi gas berbahaya, atmosfer di lokasi tersebut harus diuji dan dinyatakan aman. Authorized Gas Tester (AGT) adalah personel bersertifikat yang berwenang melakukan pengujian ini."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Peran AGT dalam Sistem Izin Kerja Aman"
+        },
+        {
+            "type": "paragraph",
+            "text": "AGT bukan sekadar operator alat deteksi gas — perannya adalah otoritas teknis yang menentukan apakah suatu area aman untuk dimasuki atau dikerjakan, berdasarkan hasil pengujian atmosfer terhadap ambang batas gas mudah terbakar, beracun, dan kadar oksigen. Tanda tangan AGT umumnya menjadi syarat sebelum izin kerja (permit-to-work) diterbitkan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+            "source": "UU No. 13 Tahun 2003"
+        },
+        {
+            "type": "citation",
+            "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+            "source": "PP No. 23 Tahun 2004"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Lingkungan Kerja.",
+            "source": "Permenaker No. 5 Tahun 2018"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tanggung Jawab Teknis Authorized Gas Tester"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Mengoperasikan dan mengkalibrasi alat deteksi gas (gas detector) sesuai prosedur",
+                "Melakukan pengujian atmosfer sebelum izin kerja diterbitkan",
+                "Menginterpretasikan hasil pengujian terhadap ambang batas aman",
+                "Menandatangani/mengesahkan hasil pengujian gas sebagai syarat penerbitan izin kerja"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "AGT vs Pelatihan Penanganan Bahaya Gas H2S: Apa Bedanya"
+        },
+        {
+            "type": "paragraph",
+            "text": "Authorized Gas Tester adalah kompetensi pengujian atmosfer secara umum (multi-gas) untuk keperluan izin kerja di berbagai jenis pekerjaan. Penanganan Bahaya Gas H2S, sebaliknya, adalah pelatihan yang berfokus khusus pada satu jenis gas berbahaya — hidrogen sulfida — termasuk pengenalan bahaya, penggunaan APD, dan respons darurat spesifik terhadap paparan H2S. Banyak fasilitas migas dan industri kimia membutuhkan keduanya: AGT untuk mengesahkan izin kerja, dan pelatihan H2S untuk kesiapan personel yang berpotensi terpapar."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Siapa yang Membutuhkan Kompetensi AGT"
+        },
+        {
+            "type": "paragraph",
+            "text": "Program AGT relevan bagi personel yang terlibat dalam permit-to-work di kilang, migas, petrokimia, pengolahan limbah, tangki, silo, manhole, atau area pekerjaan panas. Tugasnya bukan hanya menyalakan gas detector. Personel harus memahami urutan pengujian, kondisi alat, titik sampling, interpretasi pembacaan, pencatatan, dan tindakan ketika atmosfer berubah. Kesalahan pada tahap ini dapat membuat izin kerja diterbitkan berdasarkan asumsi yang tidak aman."
+        },
+        {
+            "type": "paragraph",
+            "text": "Perusahaan perlu membedakan orang yang sekadar membawa alat dari orang yang diberi kewenangan menguji dan menyatakan hasil sebagai bagian proses izin kerja. Calon peserta sebaiknya telah memahami operasi lapangan, bahaya gas, dan prosedur kerja perusahaan. Untuk kebutuhan individu, pengalaman di HSE, operasi, maintenance, inspeksi, atau pekerjaan confined space menjadi konteks yang penting saat verifikasi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Jadwal dan Penawaran Berdasarkan Risiko Lokasi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ketika berkonsultasi dengan PENA, sampaikan industri, jenis pekerjaan, gas yang berpotensi muncul, peran calon peserta, jumlah peserta, lokasi, dan target sertifikasi. Informasi ini membantu tim memeriksa apakah kebutuhan utamanya AGT, pelatihan H2S, teknisi ruang terbatas, atau kombinasi beberapa program. Setelah kecocokan dipastikan, tim akan menyampaikan dokumen, jadwal, metode pelaksanaan, dan biaya resmi."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Fasilitas Anda membutuhkan AGT, pelatihan H2S, atau keduanya? Tim kami dapat membantu menilai berdasarkan jenis pekerjaan dan potensi bahaya gas di lokasi Anda."
+        }
+    ],
+    "related_offering_slug": "authorized-gas-tester",
+    "meta_title": "Apa itu Authorized Gas Tester? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Authorized Gas Tester? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

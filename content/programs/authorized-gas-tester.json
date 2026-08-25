@@ -1,0 +1,145 @@
+{
+    "id": "01kyfffhzz13trc66h08gtmvhq",
+    "type": "training",
+    "name": "Authorized Gas Tester",
+    "slug": "authorized-gas-tester",
+    "path": "/pelatihan/authorized-gas-tester",
+    "title": "Authorized Gas Tester",
+    "meta_title": "Authorized Gas Tester",
+    "meta_description": "Sertifikasi Authorized Gas Tester (AGT) BNSP. Pengukuran gas beracun & flammable H2S/LEL pada pekerjaan confined space & hot work.",
+    "summary": "Tersedia online.",
+    "certification_body": "bnsp",
+    "base_price": 3200000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Sebelum pekerjaan panas (hot work) atau memasuki ruang terbatas dapat diizinkan berlangsung, atmosfer kerja wajib diuji dan dinyatakan aman oleh personel yang berwenang — bukan diasumsikan aman berdasarkan pengamatan visual. Authorized Gas Tester adalah peran yang secara khusus diberi kewenangan menguji dan menyatakan atmosfer aman sebelum izin kerja (permit-to-work) diterbitkan."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+            "source": "UU No. 13 Tahun 2003"
+        },
+        {
+            "type": "citation",
+            "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+            "source": "PP No. 23 Tahun 2004"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Lingkungan Kerja.",
+            "source": "Permenaker No. 5 Tahun 2018"
+        },
+        {
+            "type": "paragraph",
+            "text": "Peran ini sangat kritis di industri migas, petrokimia, dan pekerjaan ruang terbatas — kesalahan pengujian gas (baik karena alat tidak dikalibrasi maupun kesalahan interpretasi hasil) adalah salah satu penyebab utama insiden fatal di sektor-sektor tersebut, menjadikan sertifikasi ini bukan formalitas melainkan gerbang keselamatan yang harus benar-benar dikuasai."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini menyasar personel yang bertanggung jawab menguji atmosfer kerja sebelum izin kerja diterbitkan — umumnya petugas HSE, teknisi ruang terbatas, atau personel sistem izin kerja panas (hot work permit) di industri migas dan petrokimia."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sistem izin kerja aman (permit-to-work) di industri berisiko tinggi sepenuhnya bergantung pada kualitas pengujian atmosfer di tahap awal — jika data yang dimasukkan ke dalam sistem PTW keliru, seluruh lapisan pengendalian berikutnya dibangun di atas asumsi yang salah. Authorized Gas Tester adalah titik kontrol pertama yang menentukan apakah sebuah pekerjaan berisiko tinggi benar-benar aman untuk dimulai."
+        },
+        {
+            "type": "paragraph",
+            "text": "Kompetensi ini menuntut lebih dari sekadar bisa menyalakan alat deteksi gas — pengujian yang keliru sering terjadi bukan karena alat rusak, melainkan karena kesalahan penempatan titik uji (tidak mewakili kondisi sebenarnya di area kerja), kalibrasi yang kedaluwarsa, atau interpretasi hasil yang terlalu longgar terhadap ambang batas aman. Program ini secara khusus melatih kedisiplinan prosedural yang mencegah kesalahan semacam ini, karena di sinilah sebagian besar insiden akibat pengujian gas yang tidak memadai sebenarnya berakar. Setelah menyelesaikan program, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memahami karakteristik dan bahaya gas di area kerja: mudah terbakar, beracun, dan asfiksia (kekurangan oksigen)",
+                "Mengoperasikan dan mengkalibrasi alat deteksi gas (gas detector) sesuai prosedur pabrikan",
+                "Melaksanakan pengujian atmosfer secara sistematis sebelum penerbitan izin kerja",
+                "Menginterpretasikan hasil pengujian dan menentukan kelayakan atmosfer untuk pekerjaan panas/ruang terbatas",
+                "Mengintegrasikan hasil pengujian gas dengan sistem izin kerja aman (permit-to-work) perusahaan",
+                "Menerapkan prosedur tanggap darurat apabila hasil pengujian menunjukkan kondisi berbahaya"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kurikulum berfokus pada ketelitian prosedural — setiap langkah pengujian gas dilatih berulang hingga menjadi kebiasaan yang konsisten, bukan sekadar dipahami secara teori:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Sifat dan bahaya gas: mudah terbakar (flammable), beracun (toxic), dan asfiksia (oxygen deficiency/enrichment)",
+                "Prinsip kerja, jenis, dan kalibrasi gas detector (single-gas dan multi-gas) sebelum digunakan",
+                "Prosedur pengujian atmosfer sebelum pekerjaan panas dan sebelum memasuki ruang terbatas, termasuk penentuan titik uji yang representatif",
+                "Interpretasi hasil pengujian dan penentuan batas aman (lower explosive limit, threshold limit value)",
+                "Integrasi hasil pengujian dengan sistem izin kerja aman (permit-to-work) perusahaan",
+                "Tanggap darurat dan praktik lapangan pengujian gas pada skenario nyata"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal SMA/SMK sederajat, diutamakan pengalaman kerja di industri migas/petrokimia",
+                "Ditugaskan oleh perusahaan sebagai calon petugas pengujian gas berwenang",
+                "Sehat jasmani dan rohani",
+                "Bersedia mengikuti pelatihan praktik penggunaan gas detector secara berulang hingga prosedurnya dikuasai secara konsisten"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat tugas dari perusahaan sebagai calon petugas pengujian gas berwenang"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "paragraph",
+            "text": "Fasilitas program menekankan pengulangan praktik hingga prosedur pengujian benar-benar melekat, bukan sekadar pemahaman satu kali:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul pengujian gas sesuai kebutuhan industri migas/petrokimia",
+                "Instruktur praktisi berpengalaman sistem izin kerja aman (permit-to-work)",
+                "Gas detector (single-gas dan multi-gas) untuk praktik pengujian atmosfer langsung",
+                "Simulasi skenario pengujian sebelum hot work dan sebelum masuk ruang terbatas",
+                "Uji kompetensi dan sertifikat Authorized Gas Tester"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir di halaman ini.",
+                "Terima penawaran resmi: jadwal dan biaya.",
+                "Lengkapi berkas administrasi.",
+                "Ikuti pelatihan teori sifat dan bahaya gas di area kerja.",
+                "Ikuti praktik penggunaan dan kalibrasi gas detector.",
+                "Ikuti uji kompetensi pengujian atmosfer pada skenario nyata.",
+                "Terima sertifikat Authorized Gas Tester."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

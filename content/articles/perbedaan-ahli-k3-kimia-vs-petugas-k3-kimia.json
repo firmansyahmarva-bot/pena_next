@@ -1,0 +1,67 @@
+{
+    "id": "01kyw9mvne0y07k0gnt7gf2jf6",
+    "title": "Perbedaan Ahli K3 Kimia vs Petugas K3 Kimia",
+    "slug": "perbedaan-ahli-k3-kimia-vs-petugas-k3-kimia",
+    "path": "/panduan/k3-teknis/perbedaan-ahli-k3-kimia-vs-petugas-k3-kimia",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Perbandingan wewenang, kualifikasi, dan penugasan antara Ahli K3 Kimia dan Petugas K3 Kimia berdasarkan Kepmenaker No. 187 Tahun 1999 tentang Pengendalian Bahan Kimia Berbahaya.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Kepmenaker No. 187/MEN/1999 mewajibkan perusahaan yang mengelola bahan kimia berbahaya (BKB) di atas Nilai Ambang Kuantitas (NAK) untuk menunjuk Petugas K3 Kimia dan Ahli K3 Kimia sesuai skala potensi bahaya."
+        },
+        {
+            "type": "citation",
+            "text": "Pengendalian Bahan Kimia Berbahaya di Tempat Kerja.",
+            "source": "Kepmenaker No. 187/MEN/1999"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Matriks Perbandingan Ahli vs Petugas K3 Kimia"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Parameter",
+                "Petugas K3 Kimia",
+                "Ahli K3 Kimia"
+            ],
+            "rows": [
+                [
+                    "Tingkat Tanggung Jawab",
+                    "Operasional lapangan, inventarisasi SDS, dan inspeksi penyimpanan B3 harian",
+                    "Strategis, penyusunan Dokumen Pengendalian Potensi Bahaya Besar/Menengah"
+                ],
+                [
+                    "Kriteria Penunjukan Perusahaan",
+                    "Wajib pada potensi bahaya besar (minimal 2 orang per shift) & menengah (minimal 1 orang per shift)",
+                    "Wajib pada potensi bahaya besar (minimal 1 orang)"
+                ],
+                [
+                    "Wewenang Teknis",
+                    "Mengawasi kepatuhan APD kimia dan penanganan tumpahan (spill kit)",
+                    "Menyusun analisis risiko proses kimia, rekomendasi substitusi bahan, dan audit kimia"
+                ],
+                [
+                    "Syarat Pendidikan",
+                    "Minimal SLTA / SMK sederajat",
+                    "Minimal Sarjana (S1) atau D3 Teknik Kimia/Sains dengan pengalaman kerja relevan"
+                ]
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Ahli K3 Kimia merancang sistem keselamatan kimia korporasi, sedangkan Petugas K3 Kimia memastikan prosedur penanganan ditaati di lantai produksi."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-kimia",
+    "meta_title": "Perbedaan Ahli K3 Kimia dan Petugas K3 Kimia — Guide 202",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Ahli K3 Kimia dan Petugas K3 Kimia resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan",
+    "published_at": "2026-07-31"
+}

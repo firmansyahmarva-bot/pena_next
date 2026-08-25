@@ -1,0 +1,92 @@
+{
+    "id": "01kyw9kxnnr3paaca3f5g9d0w8",
+    "title": "Apa Itu Operator Scaffolding?",
+    "slug": "apa-itu-operator-scaffolding",
+    "path": "/panduan/k3-teknis/apa-itu-operator-scaffolding",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Operator Scaffolding (perancah) menangani pemasangan, pemeriksaan, dan pembongkaran perancah — pekerjaan yang hampir selalu beririsan dengan aturan K3 bekerja pada ketinggian.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Perancah (scaffolding) adalah struktur sementara yang menopang pekerja dan material selama pekerjaan konstruksi, perawatan, atau instalasi di ketinggian. Karena strukturnya sementara dan sering dibongkar-pasang, kesalahan perakitan menjadi salah satu penyebab kecelakaan jatuh yang paling sering terjadi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja pada Konstruksi Bangunan.",
+            "source": "Permenaker No. 01/MEN/1980"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja dalam Pekerjaan pada Ketinggian.",
+            "source": "Permenaker No. 9 Tahun 2016"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tanggung Jawab Operator Scaffolding"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memasang perancah sesuai jenis, komponen, dan standar yang berlaku",
+                "Memeriksa kestabilan dan kelengkapan perancah sebelum digunakan pekerja lain",
+                "Menerapkan perlindungan jatuh selama proses pemasangan dan pembongkaran",
+                "Membongkar perancah dengan urutan yang aman setelah pekerjaan selesai"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Scaffolding dan Bekerja pada Ketinggian: Dua Regulasi yang Saling Melengkapi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Pekerjaan scaffolding hampir selalu melibatkan bekerja pada ketinggian, sehingga operatornya perlu memahami dua kerangka aturan sekaligus: Permenaker No. 01/MEN/1980 untuk aspek konstruksi perancahnya, dan Permenaker No. 9 Tahun 2016 untuk aspek perlindungan jatuh personelnya. Perusahaan dengan pekerjaan ketinggian intensif umumnya membutuhkan operator scaffolding sekaligus tenaga kerja bangunan tinggi (TKBT) bersertifikat."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Operator, Pengguna, dan Pengawas Bukan Peran yang Sama"
+        },
+        {
+            "type": "paragraph",
+            "text": "Orang yang naik dan bekerja di atas perancah tidak otomatis kompeten memasang atau membongkarnya. Operator berfokus pada struktur dan proses erection/dismantling, sementara pengguna harus mematuhi batas akses dan perlindungan jatuh. Proyek juga dapat menetapkan fungsi pemeriksaan atau pengawasan tersendiri. Pembagian peran ini penting agar satu sertifikat tidak dipakai untuk membenarkan seluruh aktivitas perancah."
+        },
+        {
+            "type": "paragraph",
+            "text": "Program cocok bagi pekerja konstruksi, maintenance, shutdown, dan proyek industri yang benar-benar ditugaskan menangani perancah. Program kurang tepat bila peserta hanya sesekali menggunakan platform kerja atau kebutuhan proyek sebenarnya adalah kompetensi bekerja pada ketinggian. Jenis perancah, ketinggian, kompleksitas, dan aturan pemberi kerja harus diperiksa terlebih dahulu."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data Proyek untuk Konsultasi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sampaikan jenis perancah, ketinggian dan konfigurasi umum, lokasi proyek, tugas calon peserta, pengalaman, jumlah peserta, persyaratan klien, serta tenggat mobilisasi. Tim PENA dapat memetakan Operator Scaffolding dengan program bekerja pada ketinggian yang relevan, lalu memeriksa dokumen, jadwal, dan biaya. Untuk kebutuhan perusahaan, penawaran dapat disusun berdasarkan jumlah tim dan pola proyek, bukan satu paket seragam."
+        },
+        {
+            "type": "paragraph",
+            "text": "Lampirkan juga prosedur atau matriks kompetensi dari pemilik proyek bila tersedia. Dokumen itu membantu memastikan nama program, bukti kelulusan, dan peran lapangan yang diminta benar-benar selaras sebelum peserta dijadwalkan."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Proyek Anda melibatkan pekerjaan perancah dan ketinggian sekaligus? Tim kami dapat membantu memetakan kombinasi sertifikasi yang dibutuhkan tim Anda."
+        }
+    ],
+    "related_offering_slug": "operator-scaffolding",
+    "meta_title": "Apa itu Operator Scaffolding? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Operator Scaffolding? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

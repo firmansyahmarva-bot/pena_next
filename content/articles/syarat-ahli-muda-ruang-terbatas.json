@@ -1,0 +1,96 @@
+{
+    "id": "01kyw9kcndsg004jn2m4nxych2",
+    "title": "Syarat Ahli Muda K3 Ruang Terbatas BNSP",
+    "slug": "syarat-ahli-muda-ruang-terbatas",
+    "path": "/panduan/k3-teknis/syarat-ahli-muda-ruang-terbatas",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat mengikuti Ahli Muda K3 Ruang Terbatas: jenjang awal skema BNSP untuk penilaian risiko ruang terbatas, terbuka bagi personel dengan pengalaman kerja terkait ruang terbatas.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Sebagai jenjang pertama di jalur ahli ruang terbatas, Ahli Muda lebih terbuka dibanding Ahli Madya atau Ahli Utama yang mensyaratkan pengalaman jenjang di bawahnya."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Persyaratan Umum Peserta"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Bekerja atau berpengalaman pada pekerjaan yang melibatkan ruang terbatas (confined space)",
+                "Memiliki pemahaman dasar tentang identifikasi bahaya di tempat kerja",
+                "Sehat jasmani dan rohani",
+                "Bersedia mengikuti seluruh sesi pelatihan dan uji kompetensi BNSP"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Tidak disyaratkan sertifikasi teknisi ruang terbatas sebelumnya, meski pengalaman lapangan akan membantu pemahaman materi — tim kami akan mengonfirmasi kesiapan Anda sebelum pendaftaran."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kelengkapan Berkas"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir",
+                "Curriculum vitae yang mencantumkan pengalaman kerja terkait",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pengalaman Lapangan Menentukan Kesiapan Asesmen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ahli Muda berfokus pada kemampuan menilai dan merencanakan, bukan hanya masuk ke ruang terbatas. Kandidat sebaiknya memahami permit, isolasi, ventilasi, pengujian atmosfer, pembagian entrant-attendant, dan respons darurat. Bukti kerja seperti risk assessment, entry plan, laporan, atau uraian tugas dapat diperlukan sesuai skema LSP."
+        },
+        {
+            "type": "paragraph",
+            "text": "Teknisi ruang terbatas yang berpengalaman dapat menjadi kandidat, tetapi perpindahan ke jenjang ahli tidak otomatis. Pendidikan, masa kerja, unit kompetensi, dan portofolio perlu diverifikasi. Sertifikat BNSP juga tidak selalu menggantikan jalur Kemnaker yang disebut dalam tender. Perusahaan harus membandingkan penerbit serta tingkat yang diminta."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Cara Meminta Pre-Check Tanpa Menebak"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim ijazah, CV, pengalaman confined space, sertifikat lama, contoh bukti kerja, jenis ruang dan operasi, persyaratan klien, jumlah peserta, lokasi, dan target mobilisasi. Tim PENA akan menilai kesiapan dokumen, menjelaskan proses asesmen, serta memberikan jadwal dan biaya. Jika bukti belum cukup, peserta dapat diarahkan memperkuat jenjang teknisi lebih dahulu."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bagi perusahaan, kelompokkan calon berdasarkan peran entrant, attendant, pengawas, penyusun permit, dan penanggung jawab program. Pemetaan ini membantu memilih jenjang yang benar serta menunjukkan fungsi yang belum memiliki personel kompeten. Jangan mendaftarkan seluruh tim ke jenjang ahli bila tugas aktual mereka berbeda."
+        },
+        {
+            "type": "paragraph",
+            "text": "Pastikan setiap calon tersedia untuk seluruh pelatihan dan asesmen, lalu tanyakan bentuk dokumen hasil serta estimasi penerbitannya. Kebutuhan mobilisasi yang mendesak harus disampaikan sebelum jadwal dikunci."
+        },
+        {
+            "type": "paragraph",
+            "text": "Jika calon belum memiliki cukup pengalaman untuk fungsi ahli, perusahaan dapat menyusun jalur pengembangan dari teknisi, penugasan lapangan terawasi, pengumpulan bukti kerja, kemudian asesmen Ahli Muda. Jalur bertahap lebih bernilai daripada memaksakan dokumen yang tidak mencerminkan kemampuan peserta."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Ingin tahu apakah latar belakang Anda sudah memenuhi syarat Ahli Muda K3 Ruang Terbatas? Tim kami dapat membantu menilai sebelum pendaftaran."
+        }
+    ],
+    "related_offering_slug": "ahli-muda-ruang-terbatas",
+    "meta_title": "Syarat Mengikuti Ahli Muda Ruang Terbatas — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Ahli Muda Ruang Terbatas resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan se",
+    "published_at": "2026-07-31"
+}

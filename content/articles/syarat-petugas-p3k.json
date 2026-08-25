@@ -1,0 +1,42 @@
+{
+    "id": "01kyw9m8eazrmkpqspp3d6wdmq",
+    "title": "Syarat Mengikuti Pelatihan Petugas P3K Kemnaker",
+    "slug": "syarat-petugas-p3k",
+    "path": "/panduan/sertifikasi-k3/syarat-petugas-p3k",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Persyaratan pendaftaran pelatihan Petugas P3K Kemnaker RI: berkas administrasi, kualifikasi pendidikan minimal SLTA, dan surat penunjukan perusahaan.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Pelatihan Petugas P3K terbuka bagi seluruh karyawan operasional yang ditunjuk oleh manajemen untuk menjadi penanggung jawab pertolongan pertama di area kerja masing-masing."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Syarat Pendaftaran Peserta"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal SLTA / SMK sederajat (semua jurusan).",
+                "Surat penunjukan atau rekomendasi resmi dari pimpinan perusahaan tempat bekerja.",
+                "Surat Keterangan Berbadan Sehat dari dokter (mampu melakukan aktivitas fisik RJP/CPR).",
+                "Scan KTP asli dan pasfoto formal berlatar belakang merah."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Pelatihan meliputi praktik langsung Resusitasi Jantung Paru (RJP), balut bidai fraktur, evakuasi tandu, dan henti pendarahan."
+        }
+    ],
+    "related_offering_slug": "petugas-p3k",
+    "meta_title": "Syarat Mengikuti Petugas P3K — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Petugas P3K resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

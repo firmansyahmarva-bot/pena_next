@@ -1,0 +1,97 @@
+{
+    "id": "01kyw9md3s1txjg0kr1pp49n8k",
+    "title": "Apa Itu Teknisi K3 Bejana Tekan dan Tangki Timbun?",
+    "slug": "apa-itu-teknisi-bejana-tekan",
+    "path": "/panduan/k3-teknis/apa-itu-teknisi-bejana-tekan",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Teknisi K3 Bejana Tekan menangani bejana tekanan statis dan tangki timbun sesuai Permenaker No. 37 Tahun 2016 — berbeda dari operator boiler yang menangani pesawat uap dengan proses termal aktif.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Bejana tekan dan tangki timbun menyimpan gas atau cairan bertekanan tanpa proses pemanasan aktif seperti boiler — tapi risikonya tetap serius: kegagalan dinding atau katup bisa melepaskan tekanan secara tiba-tiba. Teknisi K3 Bejana Tekan menangani pemeriksaan dan operasional peralatan jenis ini."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Peraturan Uap (Stoom Ordonnantie) — dasar pengawasan pesawat uap.",
+            "source": "Stoom Ordonnantie 1930"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Bejana Tekanan dan Tangki Timbun.",
+            "source": "Permenaker No. 37 Tahun 2016"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tanggung Jawab Teknisi Bejana Tekan"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memeriksa kondisi fisik bejana tekan dan tangki timbun secara berkala",
+                "Membaca instrumen tekanan dan merespons kondisi di luar batas aman",
+                "Melakukan perawatan dan pelaporan kondisi peralatan bertekanan",
+                "Menerapkan prosedur keselamatan saat pengisian, penyimpanan, atau pengosongan bejana"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Bejana Tekan vs Boiler: Statis vs Proses Termal Aktif"
+        },
+        {
+            "type": "paragraph",
+            "text": "Boiler menghasilkan uap melalui proses pembakaran dan pemanasan aktif, sehingga operatornya diatur tersendiri (Permenaker No. 01/MEN/1988). Bejana tekan dan tangki timbun umumnya menyimpan gas/cairan bertekanan secara statis tanpa proses termal berkelanjutan — karena itu diatur dalam Permenaker No. 37 Tahun 2016 yang terpisah, meski keduanya berakar dari Stoom Ordonnantie 1930 yang sama."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Peralatan yang Perlu Dipetakan Lebih Dulu"
+        },
+        {
+            "type": "paragraph",
+            "text": "Receiver tank, storage tank tertentu, tabung, instalasi gas, dan bejana proses dapat memiliki fungsi serta bahaya berbeda. Nama “tangki” di lapangan tidak otomatis menunjukkan kategori regulasinya. Perusahaan perlu mendata media yang disimpan, tekanan dan kapasitas, temperatur, bahan konstruksi, lokasi, serta perangkat pengaman sebelum memilih kompetensi teknisi."
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan teknisi tidak menggantikan pemeriksaan dan pengujian alat, sertifikat kelayakan, relief device, instrumentasi, prosedur isolasi, inspeksi korosi, atau pemeliharaan. Bila tugas peserta hanya mengoperasikan proses, atau justru melakukan pemeriksaan khusus, jalur kompetensinya perlu diverifikasi agar tidak salah membeli program."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Siapkan Nameplate untuk Meminta Penawaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim foto nameplate, jenis bejana atau tangki, media, kapasitas dan tekanan kerja, jumlah unit, tugas peserta, pendidikan dan pengalaman, lokasi, jumlah peserta, serta temuan audit bila ada. Tim PENA akan memeriksa kesesuaian program Teknisi Bejana Tekan, dokumen pembinaan, jadwal, dan biaya. Data alat juga membantu memisahkan kebutuhan boiler, tangki timbun, dan bejana tekanan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Verifikasi awal mencegah teknisi ditempatkan pada kelompok alat yang berbeda dari ruang lingkup kompetensi dan dokumen yang diterbitkan."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Fasilitas Anda punya bejana tekan, tangki timbun, atau keduanya sekaligus dengan boiler? Tim kami dapat membantu memetakan kebutuhan lisensi teknisi sesuai jenis peralatan Anda."
+        }
+    ],
+    "related_offering_slug": "teknisi-bejana-tekan",
+    "meta_title": "Apa itu Teknisi Bejana Tekan? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Teknisi Bejana Tekan? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

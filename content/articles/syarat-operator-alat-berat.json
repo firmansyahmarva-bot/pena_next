@@ -1,0 +1,72 @@
+{
+    "id": "01kyw9kr1kvcj122740cw7psv4",
+    "title": "Syarat Mengikuti Pelatihan Operator Alat Berat",
+    "slug": "syarat-operator-alat-berat",
+    "path": "/panduan/sertifikasi-k3/syarat-operator-alat-berat",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Persyaratan resmi sertifikasi dan penerbitan SIO Operator Alat Berat Kemnaker RI: kualifikasi usia, SIM pendukung, surat penunjukan, dan berkas pendaftaran.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Untuk mengikuti pembinaan dan uji lisensi Operator Alat Berat Kemnaker RI, calon peserta wajib memenuhi kualifikasi batas usia dan kesehatan fisik yang dipersyaratkan regulasi keselamatan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dokumen Persyaratan Peserta"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "No",
+                "Dokumen Persyaratan",
+                "Keterangan"
+            ],
+            "rows": [
+                [
+                    "1",
+                    "Usia Minimal Peserta",
+                    "Minimal 19 tahun pada saat pendaftaran"
+                ],
+                [
+                    "2",
+                    "Ijazah Pendidikan",
+                    "Scan ijazah minimal SLTP / SLTA / SMK sederajat"
+                ],
+                [
+                    "3",
+                    "Surat Izin Mengemudi (SIM)",
+                    "Scan SIM BII / SIM A (disesuaikan dengan kategori unit)"
+                ],
+                [
+                    "4",
+                    "Surat Keterangan Sehat",
+                    "Menyatakan sehat jasmani, tidak buta warna, dan pendengaran baik"
+                ],
+                [
+                    "5",
+                    "Surat Tugas Perusahaan",
+                    "Dari perusahaan kontraktor/tambang tempat bekerja (jika utusan pt)"
+                ],
+                [
+                    "6",
+                    "Pasfoto Berwarna",
+                    "Latar belakang merah format digital"
+                ]
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Pembinaan mencakup 4 hari intensif materi regulasi, prinsip hidrolik dasar, dan ujian praktik pengoperasian unit di workshop alat berat."
+        }
+    ],
+    "related_offering_slug": "operator-alat-berat",
+    "meta_title": "Syarat Mengikuti Operator Alat Berat — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Operator Alat Berat resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifi",
+    "published_at": "2026-07-31"
+}

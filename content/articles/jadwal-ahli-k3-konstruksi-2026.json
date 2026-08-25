@@ -1,0 +1,86 @@
+{
+    "id": "01kyw9k7fq1aegm4ckyg5n6pq9",
+    "title": "Jadwal Ahli K3 Konstruksi BNSP 2026",
+    "slug": "jadwal-ahli-k3-konstruksi-2026",
+    "path": "/panduan/k3-teknis/jadwal-ahli-k3-konstruksi-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Panduan jadwal Ahli K3 Konstruksi BNSP 2026 untuk memeriksa batch, asesmen, portofolio, mode, kuota, dan kesiapan sebelum mobilisasi proyek.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Data program mencatat Ahli K3 Konstruksi melalui BNSP dengan durasi sekitar tiga hari bagi ahli K3 proyek konstruksi, tetapi belum memuat tanggal batch 2026 terverifikasi. Halaman ini tidak mengarang kalender. Pastikan pula kebutuhan proyek benar-benar BNSP, bukan Ahli Muda K3 Konstruksi Kemnaker."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Status Jadwal dan Durasi Program"
+        },
+        {
+            "type": "paragraph",
+            "text": "Durasi tiga hari menggambarkan perkiraan pelaksanaan, bukan janji tanggal asesmen atau dokumen terbit. Kandidat perlu menyiapkan bukti pengalaman dan portofolio; jadwal terdekat tidak selalu menjadi pilihan terbaik bila bukti belum siap."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Yang Harus Dikonfirmasi Sebelum Memesan Kursi"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Tanggal persiapan dan asesmen, jam, mode, lokasi, serta zona waktu",
+                "Nama LSP/skema, unit kompetensi, asesor, kuota, dan status batch",
+                "CV, pendidikan, pengalaman, portofolio, serta persyaratan tender",
+                "Biaya, retake/perbaikan bukti, reschedule, dan estimasi dokumen"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pilih Batch Publik atau Kelas Perusahaan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Batch publik sesuai untuk peserta individual. Asesmen kelompok/in-house dapat dipertimbangkan bila peserta dan bukti cukup serta lokasi memungkinkan. Jadwal harus memperhitungkan review portofolio sebelum asesmen. Jangan memilih tanggal hanya karena cepat bila penerbit tidak sesuai klausul proyek."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bila kebutuhan berasal dari tender atau klien, lampirkan klausul aslinya saat meminta jadwal. Nama program yang terlihat mirip dapat memiliki penerbit, asesmen, dan hasil dokumen berbeda. Verifikasi ini mencegah tim memilih batch tercepat tetapi salah jalur, lalu harus mengulang proses ketika mobilisasi sudah dekat."
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk rencana mobilisasi, jangan memakai tanggal promosi lama sebagai komitmen. Buat garis waktu mundur dari kebutuhan personel: pemeriksaan kelayakan, pengumpulan dokumen, konfirmasi kuota, purchase order, pelaksanaan, evaluasi, dan estimasi penerbitan. Sisakan buffer untuk koreksi dokumen atau perubahan jadwal. Minta konfirmasi tertulis mengenai tanggal mulai dan selesai, jam belajar, lokasi atau platform, batas pendaftaran, minimum peserta, kebijakan reschedule, kehadiran, evaluasi, biaya, serta dokumen hasil. Dengan begitu jadwal pelatihan benar-benar terhubung ke kebutuhan audit atau proyek."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan Jadwal yang Sering Diajukan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah tiga hari termasuk penerbitan? Tidak. Apakah Kemnaker dan BNSP sama? Tidak. Apakah jadwal menjamin kompeten? Tidak. Apakah portofolio diperiksa sebelum kelas? Minta pre-assessment. Apakah batch dapat berubah? Ya; konfirmasikan status dan kebijakan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Jadwal Aktif dan Pre-check"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim CV, portofolio, klausul tender, peserta, lokasi, mode, dan tanggal mobilisasi. Tim PENA akan memeriksa jalur BNSP serta mengirim opsi jadwal aktif."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Tanggal batch 2026 belum terverifikasi dalam data program. Tim PENA akan mengonfirmasi jadwal aktif; durasi program bukan janji tanggal mulai atau tanggal dokumen terbit."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-konstruksi",
+    "meta_title": "Jadwal Ahli K3 Konstruksi 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Jadwal Ahli K3 Konstruksi 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

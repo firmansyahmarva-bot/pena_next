@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9m617vymzn14sq3955q3n",
+    "title": "Apa Itu Petugas K3 di Tempat Kerja?",
+    "slug": "apa-itu-petugas-k3",
+    "path": "/panduan/sertifikasi-k3/apa-itu-petugas-k3",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Petugas K3 adalah personel operasional pelaksana keselamatan kerja di tempat kerja untuk membantu pengawasan harian di lantai kerja.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Petugas K3 bertugas membantu Ahli K3 dalam inspeksi keselamatan harian, pengawasan pemakaian APD pekerja, pencatatan unsafe action dan unsafe condition, serta memfasilitasi Tool Box Meeting (TBM) sebelum pekerjaan operasional dimulai."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Jenjang kualifikasi teknis pelaksana yang sangat fleksibel untuk staf operasional dan mandor lapangan."
+        }
+    ],
+    "related_offering_slug": "petugas-k3",
+    "meta_title": "Apa itu Petugas K3? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Petugas K3? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

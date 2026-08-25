@@ -1,0 +1,147 @@
+{
+    "id": "01kyfffj54b0xvxk9g3cbrxfy9",
+    "type": "training",
+    "name": "Welding Technologist/Superintendent",
+    "slug": "welding-technologist-superintendent",
+    "path": "/pelatihan/welding-technologist-superintendent",
+    "title": "Welding Technologist/Superintendent",
+    "meta_title": "Sertifikasi Welding Superintendent BNSP: Otomasi SAW & Plant",
+    "meta_description": "Sertifikasi Senior Welding Technologist & Superintendent BNSP. Operasional fabrikasi pabrik, teknologi las otomatis SAW, dan arsitektur QA.",
+    "summary": "Sertifikasi kompetensi Senior Welding Technologist / Superintendent BNSP untuk manajer operasional plant, kepala divisi fabrikasi, dan pimpinan rekayasa pengelasan dalam memimpin teknologi otomasi las (SAW/Robotic), perhitungan biaya produksi, dan arsitektur sistem mutu pabrik ISO 3834.",
+    "certification_body": "bnsp",
+    "base_price": 10000000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Senior Welding Technologist / Superintendent adalah sertifikasi kualifikasi tingkat manajerial dan teknolog tertinggi yang diakui oleh Badan Nasional Sertifikasi Profesi (BNSP) berbasis SKKNI Sub-Bidang Teknologi Pengelasan Senior."
+        },
+        {
+            "type": "paragraph",
+            "text": "Skema ini mengadopsi standar internasional ISO 3834 (Quality requirements for fusion welding of metallic materials) yang menetapkan persyaratan manajemen mutu pengelasan bagi pabrik manufaktur dan bengkel konstruksi berat."
+        },
+        {
+            "type": "paragraph",
+            "text": "Pengawasan teknologis ini menyelaraskan kepatuhan terhadap UU No. 1 Tahun 1970 tentang Keselamatan Kerja dan UU No. 13 Tahun 2003 tentang Ketenagakerjaan untuk menjamin integritas struktur las skala besar."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+            "source": "UU No. 13 Tahun 2003"
+        },
+        {
+            "type": "citation",
+            "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+            "source": "PP No. 23 Tahun 2004"
+        },
+        {
+            "type": "citation",
+            "text": "Quality requirements for fusion welding of metallic materials.",
+            "source": "ISO 3834"
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini ditujukan untuk pimpinan operasional pabrik pengelasan. Setelah lulus asesmen, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Mengevaluasi dan menentukan kelayakan teknis serta ekonomis migrasi teknologi pengelasan pabrik dari proses manual (SMAW) ke otomatisasi tinggi (Submerged Arc Welding / SAW multi-wire, FCAW-G, atau Robotic Welding Arm)",
+                "Membangun, menerapkan, dan mengaudit arsitektur sistem manajemen mutu pengelasan pabrik (welding quality management system) berbasis kriteria audit ISO 3834 Part 2/3",
+                "Menganalisis dan mengendalikan efisiensi biaya pengelasan (welding cost estimation), menghitung kehematan deposition rate logam las, serta menekan rasio perbaikan las (weld repair rate <1%)",
+                "Memimpin dan mengoordinasikan jajaran tim teknis: Welding Engineer, Welding Inspector Comprehensive, Welding Supervisor, dan tim juru las di seluruh lini produksi plant",
+                "Menyusun strategi mitigasi tegangan sisa (residual stress) dan distorsi struktural pada proyek manufaktur kapal, bejana tekan, dan jembatan baja skala mega",
+                "Meraih Sertifikat Kompetensi BNSP bersimbol Garuda sebagai Senior Welding Technologist / Superintendent yang berlaku 3 tahun secara nasional"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kurikulum manajerial dan uji asesmen BNSP:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul 1: Manajemen Teknologi Pengelasan Pabrik & Penerapan ISO 3834 (Quality Requirements for Welding)",
+                "Modul 2: Teknologi Otomasi Pengelasan Industri (Submerged Arc Welding / SAW, Flux-Cored Arc Welding / FCAW, Mechanised Welding, & Lengan Robotik)",
+                "Modul 3: Estimasi Biaya Pengelasan & Analisa Produktivitas (Welding Cost Estimation, Deposition Efficiency, & Economic Calculation)",
+                "Modul 4: Arsitektur Quality Assurance (QA) & Audit Sistem Manajemen Fabrikasi Logam",
+                "Modul 5: Pengendalian Distorsi & Manajemen Kegagalan Struktur Las Skala Pabrik",
+                "Pelaksanaan Asesmen: Penilaian portofolio manajerial plant, uji tertulis rekayasa, presentasi strategi otomasi las, & wawancara lisan asesor BNSP"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Minimal S1 Teknik (Mesin/Metalurgi/Perkapalan/Sipil/Industri) dengan pengalaman kerja manajerial operasional pengelasan/fabrikasi minimal 4 tahun, ATAU D3 Teknik dengan pengalaman kerja minimal 7 tahun",
+                "Melengkapi dokumen portofolio manajerial (CV, surat keterangan jabatan superintendent/manager, bukti proyek otomasi/audit mutu)",
+                "Surat penugasan / rekomendasi resmi dari pimpinan perusahaan",
+                "Pasfoto formal latar belakang merah (3x4 & 4x6), KTP, & ijazah terakhir"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Kelengkapan administrasi yang umum dipersyaratkan untuk mengikuti program ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter",
+                "Surat rekomendasi/penugasan dari perusahaan (untuk peserta utusan perusahaan)",
+                "Curriculum vitae (untuk skema sertifikasi BNSP)"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan pendidikan minimum dan pengalaman kerja mengikuti ketentuan skema/penunjukan yang berlaku — tim kami akan memverifikasi kelengkapan Anda sebelum pendaftaran diproses."
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul dan materi pelatihan",
+                "Instruktur praktisi tersertifikasi di bidangnya",
+                "Ujian/asesmen sertifikasi",
+                "Sertifikat sesuai skema (Kemnaker RI atau BNSP)",
+                "Konsultasi pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir pendaftaran di halaman ini.",
+                "Terima penawaran resmi: jadwal, biaya, dan persyaratan program.",
+                "Lengkapi berkas administrasi dan lakukan konfirmasi pendaftaran.",
+                "Ikuti pelatihan dan ujian/asesmen sertifikasi.",
+                "Terima sertifikat dan lisensi/kartu kompetensi sesuai skema."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

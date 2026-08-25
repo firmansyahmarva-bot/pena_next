@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9mmekz74hbq1jahpmmztc",
+    "title": "Syarat Mengikuti Sertifikasi International Welding Engineer",
+    "slug": "syarat-welding-engineer",
+    "path": "/panduan/sertifikasi-k3/syarat-welding-engineer",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Persyaratan sertifikasi International / National Welding Engineer.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Pendidikan minimal Sarjana (S1) atau Magister (S2) Teknik Mesin, Metalurgi, Material, atau Perkapalan dengan pengalaman kerja rekayasa pengelasan."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Uji komprehensif perancangan struktur las, kalkulasi tegangan sisa, dan failure analysis."
+        }
+    ],
+    "related_offering_slug": "welding-engineer",
+    "meta_title": "Syarat Mengikuti Welding Engineer — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Welding Engineer resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikas",
+    "published_at": "2026-07-31"
+}

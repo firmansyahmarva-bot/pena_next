@@ -1,0 +1,101 @@
+{
+    "id": "01kyw9m7863tsspnfd5ds46meq",
+    "title": "Syarat Petugas K3 Kimia Kemnaker",
+    "slug": "syarat-petugas-k3-kimia",
+    "path": "/panduan/k3-teknis/syarat-petugas-k3-kimia",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat Petugas K3 Kimia Kemnaker perlu diverifikasi dari penugasan, bahan yang ditangani, pendidikan, pengalaman, kesehatan, dan struktur pengendalian kimia perusahaan.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Petugas K3 Kimia menjalankan pengendalian harian di area penyimpanan, produksi, laboratorium, utility, atau proses yang memakai bahan kimia berbahaya. Calon tidak cukup hanya berasal dari departemen HSE; perusahaan perlu menunjukkan hubungan tugasnya dengan inventaris, label, SDS/LDKB, penyimpanan, inspeksi, penggunaan, tumpahan, atau respons awal."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kriteria Calon dan Penugasan"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Ditugaskan perusahaan pada area yang menangani bahan kimia berbahaya",
+                "Memenuhi pendidikan dan pengalaman sesuai pembinaan yang berlaku",
+                "Memahami prosedur dasar, label, SDS, APD, dan pelaporan kondisi abnormal",
+                "Sehat serta bersedia mengikuti pembinaan dan evaluasi"
+            ]
+        },
+        {
+            "type": "citation",
+            "text": "Pengendalian Bahan Kimia Berbahaya di Tempat Kerja.",
+            "source": "Kepmenaker No. 187/MEN/1999"
+        },
+        {
+            "type": "paragraph",
+            "text": "Petugas berbeda dari Ahli K3 Kimia yang menyusun evaluasi serta strategi lebih luas. Kebutuhan jumlah dan jenjang bergantung pada inventaris, kuantitas, sifat bahaya, area, shift, dan organisasi perusahaan. Tim harus memeriksa peraturan serta data fasilitas; artikel ini tidak menjadi keputusan penunjukan atau jaminan kelayakan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Berkas Peserta dan Data Bahan"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah, CV, pas foto, surat sehat, dan surat tugas",
+                "Uraian pekerjaan atau surat pengalaman menangani bahan kimia",
+                "Inventaris bahan, SDS, area, jumlah shift, dan proses terkait",
+                "Status Petugas/Ahli yang sudah dimiliki serta hasil audit bila ada"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Perusahaan tidak perlu mengirim formulasi rahasia. Nama bahan, klasifikasi bahaya, kuantitas atau skala yang relevan, lokasi, serta peran calon biasanya cukup untuk pemetaan awal. Pastikan nama peserta konsisten dan surat tugas menjelaskan fungsi nyata. Satu surat generik untuk semua peserta dapat memperlambat verifikasi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pelatihan Tidak Menggantikan Pengendalian Kimia"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikat personel perlu didukung inventaris mutakhir, SDS berbahasa yang dipahami, label, segregasi, secondary containment, ventilasi, inspeksi, APD, spill kit, eyewash/shower bila diperlukan, prosedur limbah, dan emergency response. Jika temuan audit berada pada fasilitas atau sistem, pembinaan petugas hanyalah salah satu tindakan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pre-Check dan Penawaran Perusahaan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim dokumen calon, daftar bahan, area, shift, struktur K3 Kimia, lokasi, jumlah peserta, dan target audit. Tim PENA akan memeriksa jenjang, kelengkapan, jadwal, durasi, dan biaya. Pemetaan awal juga dapat menunjukkan apakah perusahaan membutuhkan Petugas, Ahli K3 Kimia, atau pelatihan tambahan untuk pekerja pengguna bahan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan yang Sering Diajukan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah semua pengguna bahan kimia harus menjadi Petugas K3 Kimia? Tidak otomatis. Perusahaan menentukan personel berdasarkan kewajiban, organisasi, jumlah area, shift, dan bahaya. Pekerja lain tetap memerlukan induksi serta prosedur sesuai tugas."
+        },
+        {
+            "type": "paragraph",
+            "text": "Apa beda Petugas dan Ahli K3 Kimia? Petugas menjalankan pengendalian harian, sedangkan Ahli menangani evaluasi dan strategi yang lebih luas. Inventaris serta struktur perusahaan diperlukan untuk menentukan kombinasi keduanya."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim inventaris ringkas bahan dan tugas calon agar kebutuhan Petugas K3 Kimia dapat dipetakan."
+        }
+    ],
+    "related_offering_slug": "petugas-k3-kimia",
+    "meta_title": "Syarat Mengikuti Petugas K3 Kimia — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Petugas K3 Kimia resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikas",
+    "published_at": "2026-07-31"
+}

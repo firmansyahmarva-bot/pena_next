@@ -1,0 +1,87 @@
+{
+    "id": "01kyw9krkdpaskb4qjfyt3ftme",
+    "title": "Syarat Operator Boiler Kelas 2 Kemnaker",
+    "slug": "syarat-operator-boiler-kelas-2",
+    "path": "/panduan/k3-teknis/syarat-operator-boiler-kelas-2",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat Operator Boiler Kelas 2 harus dicocokkan dengan spesifikasi pesawat uap, tugas operator, pendidikan, pengalaman, surat penugasan, kesehatan, dan dokumen pembinaan Kemnaker.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Persyaratan Operator Boiler Kelas 2 tidak dapat dipastikan hanya dari nama jabatan. Kelas operator harus sesuai dengan jenis, kapasitas, tekanan kerja, dan ketentuan pesawat uap yang benar-benar dioperasikan. Foto nameplate dan uraian tugas adalah titik awal verifikasi sebelum peserta memilih program."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kriteria Calon Peserta yang Diperiksa"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Bekerja atau ditugaskan mengoperasikan boiler/pesawat uap sesuai lingkup Kelas 2",
+                "Memiliki pendidikan dan pengalaman yang memenuhi ketentuan pembinaan berlaku",
+                "Memahami operasi start-up, pemantauan, shutdown, log, dan kondisi abnormal",
+                "Sehat jasmani dan rohani serta siap mengikuti teori, praktik, dan evaluasi"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Permenaker No. 01/MEN/1988 mengatur kualifikasi operator pesawat uap. Namun detail kelayakan calon tetap harus diverifikasi, termasuk hubungan pengalaman dengan alat. Operator utility, teknisi maintenance, dan pekerja produksi dapat memiliki tugas berbeda. Mengikuti pelatihan pada kelas yang tidak sesuai alat tidak menyelesaikan kebutuhan perusahaan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dokumen Peserta dan Data Boiler"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah, CV, pas foto, surat sehat, dan surat tugas perusahaan",
+                "Surat pengalaman atau uraian pekerjaan pengoperasian boiler",
+                "Foto nameplate, kapasitas, tekanan kerja, jenis boiler, dan lokasi unit",
+                "Sertifikat lama bila peserta mengikuti peningkatan atau pembaruan"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Gunakan hasil pindai yang terbaca dan nama yang konsisten. Informasi rahasia dapat ditutup, tetapi spesifikasi yang menentukan kelas harus tetap terlihat. Bila perusahaan memiliki beberapa boiler, kirim data setiap unit agar kelas tidak ditentukan dari unit terkecil sementara peserta juga mengoperasikan unit dengan lingkup berbeda."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pelatihan Bukan Pengganti Kelayakan Pesawat Uap"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kompetensi operator bekerja bersama pemeriksaan dan pengujian alat, safety valve, instrumentasi, water treatment, SOP, logbook, pemeliharaan, LOTO, proteksi kebakaran, dan pengawasan. Jika audit menemukan masalah teknis, mengirim peserta ke pelatihan saja tidak menutup temuan tersebut."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bagi individu yang belum memiliki penugasan pada boiler, manfaat serta kelayakan program perlu diperiksa secara jujur. Dokumen operator tidak otomatis menjamin penempatan kerja. Bagi perusahaan, jumlah operator harus dihitung berdasarkan shift, cuti, unit aktif, dan kebutuhan cadangan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Jadwal, Biaya, dan Pre-Check"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim dokumen calon, nameplate, jumlah unit dan shift, pengalaman, jumlah peserta, lokasi, serta target audit. Tim PENA akan memeriksa Kelas 2 atau alternatif kelas, kelengkapan pembinaan, jadwal, durasi, dan biaya resmi. Verifikasi alat sebelum quotation mengurangi risiko biaya ulang akibat salah memilih jenjang."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim foto nameplate boiler dan dokumen calon untuk memeriksa Kelas 2 sebelum jadwal dan penawaran disusun."
+        }
+    ],
+    "related_offering_slug": "operator-boiler-kelas-2",
+    "meta_title": "Syarat Mengikuti Operator Boiler Kelas 2 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Operator Boiler Kelas 2 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan ser",
+    "published_at": "2026-07-31"
+}

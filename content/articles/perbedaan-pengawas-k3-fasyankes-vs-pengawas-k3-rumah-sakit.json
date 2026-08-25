@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9n1pdd1yrf9mx8awgm8g3",
+    "title": "Perbedaan Pengawas K3 Fasyankes vs Rumah Sakit",
+    "slug": "perbedaan-pengawas-k3-fasyankes-vs-pengawas-k3-rumah-sakit",
+    "path": "/panduan/sertifikasi-k3/perbedaan-pengawas-k3-fasyankes-vs-pengawas-k3-rumah-sakit",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Perbandingan antara K3 Fasyankes (Puskesmas & Klinik Tingkat Pertama) dan K3RS (Rumah Sakit Rujukan Kompleks).",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "K3 Fasyankes berfokus pada layanan kesehatan primer, rawat jalan, imunisasi, dan sanitasi puskesmas; sedangkan K3RS mencakup instalasi ruang bedah (OK), instalasi gas medis sentral, radioterapi, ICU, dan Hospital Disaster Plan."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Disesuaikan dengan tingkat kompleksitas bahaya dan kapasitas fasilitas pelayanan kesehatan."
+        }
+    ],
+    "related_offering_slug": "pengawas-k3-fasyankes",
+    "meta_title": "Perbedaan Pengawas K3 & Fasyankes dan Pengawas K3 Rumah ",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Pengawas K3 & Fasyankes dan Pengawas K3 Rumah Sakit resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, the",
+    "published_at": "2026-07-31"
+}

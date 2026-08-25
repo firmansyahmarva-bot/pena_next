@@ -1,0 +1,49 @@
+{
+    "id": "01kyhbn39a7x34t22sfcsv0t4n",
+    "name": "Minyak & Gas (Migas)",
+    "slug": "migas",
+    "path": "/industri/migas",
+    "description": "Industri migas menghadapi bahaya khas: gas beracun/mudah terbakar, ruang terbatas, dan tekanan tinggi — sehingga menuntut kompetensi K3 yang paling ketat di antara semua sektor industri.",
+    "regulatory_context": [
+        {
+            "type": "paragraph",
+            "text": "Selain UU No. 1 Tahun 1970, operasi migas tunduk pada regulasi K3 lingkungan kerja dan ruang terbatas yang ketat:"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Lingkungan Kerja.",
+            "source": "Permenaker No. 5 Tahun 2018"
+        },
+        {
+            "type": "citation",
+            "text": "Pedoman Keselamatan dan Kesehatan Kerja di Ruang Terbatas (Confined Spaces).",
+            "source": "Kepdirjen PPK No. 113/DJPPK/IX/2006"
+        },
+        {
+            "type": "citation",
+            "text": "Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) — wajib bagi perusahaan dengan ≥100 pekerja atau tingkat bahaya tinggi.",
+            "source": "PP No. 50 Tahun 2012"
+        },
+        {
+            "type": "paragraph",
+            "text": "Personel yang bekerja di area migas umumnya memerlukan sertifikasi ruang terbatas, deteksi gas, dan penanganan bahaya H2S sebelum diizinkan memasuki area operasi."
+        }
+    ],
+    "relevant_offering_slugs": [
+        "petugas-k3",
+        "petugas-k3-kimia",
+        "pengawas-k3-industri-migas",
+        "petugas-k3-rumah-sakit",
+        "investigasi-kecelakaan",
+        "hazops-hazard-operability-studies",
+        "petugas-peran-kebakaran-kelas-d",
+        "petugas-p3k-first-aid",
+        "petugas-p3k",
+        "teknisi-ruang-terbatas",
+        "ahli-muda-ruang-terbatas",
+        "ahli-madya-ruang-terbatas",
+        "ahli-utama-ruang-terbatas",
+        "authorized-gas-tester",
+        "penanganan-bahaya-gas-h2s"
+    ]
+}

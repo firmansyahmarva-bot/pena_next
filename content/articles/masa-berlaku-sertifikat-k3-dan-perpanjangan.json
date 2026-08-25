@@ -1,0 +1,95 @@
+{
+    "id": "01kyhqmdqa3r5kp970kdx0gsv9",
+    "title": "Berapa Lama Masa Berlaku Sertifikat K3 dan Kapan Harus Diperpanjang",
+    "slug": "masa-berlaku-sertifikat-k3-dan-perpanjangan",
+    "path": "/panduan/sertifikasi-k3/masa-berlaku-sertifikat-k3-dan-perpanjangan",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Panduan lengkap masa berlaku dokumen K3 (Sertifikat Pembinaan, SKP, Lisensi K3, Sertifikat BNSP, SIO Operator), prosedur perpanjangan, dan sanksi jika kedaluwarsa.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Banyak pemegang sertifikasi K3 yang tidak menyadari perbedaan antara Sertifikat Pembinaan dengan Surat Keputusan Penunjukan (SKP) dan Lisensi Kewenangan. Ketidaktahuan ini kerap mengakibatkan SKP kedaluwarsa sehingga perusahaan dinyatakan tidak patuh saat audit SMK3 atau inspeksi pengawas ketenagakerjaan."
+        },
+        {
+            "type": "citation",
+            "text": "Tata Cara Penunjukan Ahli Keselamatan Kerja dan Perpanjangan Lisensi.",
+            "source": "Permenaker No. 02/MEN/1992"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tabel Masa Berlaku Seluruh Dokumen K3 di Indonesia"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Jenis Kredensial K3",
+                "Lembaga Penerbit",
+                "Masa Berlaku",
+                "Syarat & Alur Perpanjangan"
+            ],
+            "rows": [
+                [
+                    "Sertifikat Pembinaan AK3U / Spesialis",
+                    "Kemnaker RI",
+                    "Seumur Hidup",
+                    "Tidak perlu diperpanjang, berlaku permanen atas nama pemegang"
+                ],
+                [
+                    "SKP Ahli K3 & Lisensi Kewenangan",
+                    "Kemnaker RI",
+                    "3 Tahun",
+                    "Wajib diperpanjang per 3 tahun via PJK3 dengan melampirkan laporan kegiatan K3"
+                ],
+                [
+                    "Sertifikat Kompetensi Profesi (Garuda Emas)",
+                    "BNSP / LSP",
+                    "3 Tahun",
+                    "Uji resertifikasi / verifikasi portofolio kegiatan kerja terkini"
+                ],
+                [
+                    "Surat Izin Operator (SIO) / Lisensi Operator",
+                    "Kemnaker RI",
+                    "5 Tahun",
+                    "Pemeriksaan kesehatan kerja & permohonan perpanjangan via PJK3"
+                ],
+                [
+                    "Sertifikat Auditor Internal SMK3",
+                    "Kemnaker RI",
+                    "Seumur Hidup",
+                    "Sertifikat kompetensi pembinaan berlaku permanen"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Prosedur dan Syarat Perpanjangan SKP Ahli K3 Kemnaker RI"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Surat permohonan perpanjangan resmi dari pimpinan perusahaan tempat bekerja.",
+                "Scan SKP dan Lisensi Ahli K3 asli yang lama (sudah mendekati atau habis masa berlaku).",
+                "Scan Sertifikat Pembinaan Ahli K3 asli.",
+                "Laporan kegiatan / rekapitulasi pelaksanaan K3 di perusahaan selama masa penunjukan (minimal laporan triwulan P2K3).",
+                "Surat Keterangan Bekerja aktif dari manajemen perusahaan.",
+                "Pasfoto terbaru latar belakang merah."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "PENA Consultant melayani pengurusan perpanjangan SKP, mutasi perusahaan, dan perpanjangan SIO operator dengan proses cepat dan legal."
+        }
+    ],
+    "related_offering_slug": "auditor-sistem-manajemen-k3",
+    "meta_title": "Berapa Lama Masa Berlaku Sertifikat K3 dan Kapan Harus D",
+    "meta_description": "Panduan teknis keselamatan Berapa Lama Masa Berlaku Sertifikat K3 dan Kapan Harus Diperpanjang resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOT",
+    "published_at": "2026-07-27"
+}

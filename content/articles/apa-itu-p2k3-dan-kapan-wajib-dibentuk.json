@@ -1,0 +1,92 @@
+{
+    "id": "01kyhqmdvajv6gvcy5eje1rq17",
+    "title": "Apa Itu P2K3 dan Kapan Perusahaan Wajib Membentuknya?",
+    "slug": "apa-itu-p2k3-dan-kapan-wajib-dibentuk",
+    "path": "/panduan/regulasi-k3/apa-itu-p2k3-dan-kapan-wajib-dibentuk",
+    "role": "article",
+    "cluster": {
+        "name": "Regulasi K3",
+        "slug": "regulasi-k3"
+    },
+    "summary": "Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3) adalah badan pembantu di tempat kerja wadah kerja sama pengusaha dan pekerja untuk mengembangkan kerja sama K3.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3) adalah lembaga bipartit resmi di tingkat perusahaan yang menjadi motor penggerak seluruh program keselamatan dan kesehatan kerja. Pembentukan P2K3 diwajibkan secara tegas oleh Undang-Undang Keselamatan Kerja untuk menjamin terciptanya kerja sama yang harmonis antara manajemen dan pekerja dalam mencegah kecelakaan kerja dan penyakit akibat kerja."
+        },
+        {
+            "type": "citation",
+            "text": "Panitia Pembina Keselamatan dan Kesehatan Kerja Serta Tata Cara Penunjukan Ahli Keselamatan Kerja.",
+            "source": "Permenaker No. 04/MEN/1987"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kriteria Perusahaan yang Wajib Membentuk P2K3"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sesuai Permenaker 04/1987 Pasal 2, tempat kerja wajib membentuk P2K3 apabila:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Mempekerjakan 100 orang tenaga kerja atau lebih",
+                "Mempekerjakan kurang dari 100 orang tenaga kerja, tetapi menggunakan bahan, proses, pesawat, atau instalasi yang mempunyai risiko besar terjadinya peledakan, kebakaran, keracunan, dan penyinaran radioaktif"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Struktur Organisasi Resmi P2K3"
+        },
+        {
+            "type": "paragraph",
+            "text": "Regulasi mengatur komposisi kepengurusan P2K3 secara spesifik:"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Jabatan P2K3",
+                "Ketentuan Pemegang Posisi",
+                "Fungsi Pokok"
+            ],
+            "rows": [
+                [
+                    "Ketua P2K3",
+                    "Pimpinan Puncak / General Manager / Direktur Perusahaan",
+                    "Menetapkan kebijakan, memimpin rapat pleno, dan bertanggung jawab penuh atas komitmen K3"
+                ],
+                [
+                    "Sekretaris P2K3",
+                    "Ahli K3 Umum yang memiliki SKP resmi Kemnaker RI aktif",
+                    "Mengelola administrasi, menyusun program kerja, mencatat statistik, dan menyusun laporan triwulan"
+                ],
+                [
+                    "Anggota",
+                    "Perwakilan dari setiap departemen manajemen dan wakil serikat pekerja / buruh",
+                    "Menyampaikan aspirasi keselamatan, inspeksi area, dan sosialisasi program K3 di unit masing-masing"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kewajiban Pelaporan Triwulan ke Disnaker"
+        },
+        {
+            "type": "paragraph",
+            "text": "P2K3 wajib menyelenggarakan rapat koordinasi minimal satu kali sebulan dan mengirimkan Laporan Triwulan Kegiatan P2K3 secara tertulis kepada Menteri Ketenagakerjaan melalui Dinas Tenaga Kerja setempat setiap 3 bulan sekali."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Tanpa SK Pengesahan P2K3 dari Disnaker dan laporan triwulan aktif, perusahaan tidak dapat memenuhi kriteria audit SMK3 PP 50/2012."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-umum",
+    "meta_title": "Apa itu P2K3 dan Kapan Perusahaan Wajib Membentuknya — G",
+    "meta_description": "Panduan teknis keselamatan Apa itu P2K3 dan Kapan Perusahaan Wajib Membentuknya resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography",
+    "published_at": "2026-07-27"
+}

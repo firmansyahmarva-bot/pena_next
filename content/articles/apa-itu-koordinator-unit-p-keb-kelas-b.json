@@ -1,0 +1,93 @@
+{
+    "id": "01kyw9kpzvxdvjz5dgh10frzfz",
+    "title": "Apa Itu Koordinator Unit Penanggulangan Kebakaran Kelas B?",
+    "slug": "apa-itu-koordinator-unit-p-keb-kelas-b",
+    "path": "/panduan/k3-teknis/apa-itu-koordinator-unit-p-keb-kelas-b",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Koordinator Unit Penanggulangan Kebakaran Kelas B mengoordinasikan beberapa regu Kelas C di lapangan — posisi penghubung antara regu pemadam dan penanggung jawab teknik Kelas A.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Dalam struktur unit penanggulangan kebakaran, Kelas B adalah koordinator lapangan — posisi yang menjembatani regu pemadam Kelas C yang bekerja langsung dengan penanggung jawab teknik Kelas A yang mengawasi keseluruhan program."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Unit Penanggulangan Kebakaran di Tempat Kerja — klasifikasi personel Kelas D, C, B, dan A.",
+            "source": "Kepmenaker No. 186/MEN/1999"
+        },
+        {
+            "type": "citation",
+            "text": "Syarat-syarat Pemasangan dan Pemeliharaan Alat Pemadam Api Ringan (APAR).",
+            "source": "Permenaker No. 04/MEN/1980"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tugas Koordinator Kelas B di Lapangan"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Mengoordinasikan satu atau lebih regu penanggulangan kebakaran Kelas C saat kejadian",
+                "Memimpin pelaksanaan pemadaman di lokasi sebelum keputusan strategis diambil oleh Kelas A",
+                "Memastikan komunikasi lancar antara regu di lapangan dan penanggung jawab teknik",
+                "Melaporkan hasil penanganan dan kondisi pasca-kejadian"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kelas B di Antara Kelas C dan Kelas A"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kelas C adalah anggota regu yang bekerja langsung memadamkan api, sedangkan Kelas A adalah penanggung jawab teknik yang menyusun kebijakan dan strategi keseluruhan. Kelas B duduk di antara keduanya: memimpin regu di lapangan secara taktis, tanpa memegang tanggung jawab strategis penuh seperti Kelas A."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kapan Kelas B Menjadi Kebutuhan Nyata"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kelas B relevan ketika perusahaan sudah memiliki beberapa petugas atau regu, tetapi membutuhkan pengendali taktis yang mengoordinasikan tindakan di lapangan. Kebutuhannya semakin jelas pada fasilitas luas, operasi multi-shift, area dengan proses berbeda, atau lokasi yang memerlukan komunikasi antarregu. Mengirim peserta tanpa rencana penempatan dapat menghasilkan sertifikat yang tidak memperbaiki rantai komando."
+        },
+        {
+            "type": "paragraph",
+            "text": "Program ini tidak menggantikan Kelas A dan bukan jalur singkat bagi orang yang belum memenuhi prasyarat jenjang. Perusahaan sebaiknya memeriksa struktur yang ada, pengalaman calon, dan ketentuan pembinaan sebelum pendaftaran. Bila kekosongan ada di seluruh jenjang, paket DCBA mungkin lebih efisien; bila hanya koordinator yang kurang, kelas tunggal lebih tepat."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Bahan untuk Menghitung Kebutuhan dan Penawaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Siapkan jumlah regu dan shift, jumlah personel per kelas yang sudah tersedia, denah atau luas area, jenis bahaya kebakaran utama, lokasi pelaksanaan, serta tenggat audit. Tim PENA akan membantu memeriksa kelayakan peserta, komposisi kelas, dokumen, jadwal, dan biaya. Tujuannya adalah menempatkan Koordinator Kelas B pada fungsi yang benar, bukan sekadar menambah satu nama dalam daftar pelatihan."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Menyusun struktur unit damkar internal dan belum yakin berapa banyak Koordinator Kelas B yang dibutuhkan? Tim kami dapat membantu menghitung berdasarkan jumlah regu dan luas area fasilitas Anda."
+        }
+    ],
+    "related_offering_slug": "koordinator-unit-p-keb-kelas-b",
+    "meta_title": "Apa itu Koordinator Unit P. Keb Kelas B? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Koordinator Unit P. Keb Kelas B? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan ser",
+    "published_at": "2026-07-31"
+}

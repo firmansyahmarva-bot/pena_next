@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import Link from 'next/link';
 import { Shield, Calendar, BookOpen, Building2, MapPin, Phone, Menu, X, ArrowRight } from 'lucide-react';
-import { getWaLink } from '@/lib/data';
+import { getWaLink } from '@/lib/types';
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);

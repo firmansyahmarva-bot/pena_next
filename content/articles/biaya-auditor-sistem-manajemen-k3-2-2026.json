@@ -1,0 +1,66 @@
+{
+    "id": "01kyw9ke3e61yzm0x1k4pc785y",
+    "title": "Biaya Pelatihan Auditor SMK3 Kemnaker 2026",
+    "slug": "biaya-auditor-sistem-manajemen-k3-2-2026",
+    "path": "/panduan/smk3/biaya-auditor-sistem-manajemen-k3-2-2026",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Rincian biaya investasi pelatihan Auditor SMK3 Kemnaker RI 2026, fasilitas sertifikat resmi, modul, dan skema in-house corporate.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Investasi pelatihan Auditor SMK3 Kemnaker RI tahun 2026 dirancang transparan untuk memenuhi kebutuhan pembentukan tim audit internal perusahaan sesuai amanat PP No. 50 Tahun 2012."
+        },
+        {
+            "type": "citation",
+            "text": "Struktur Investasi Pembinaan Auditor K3 Kemnaker.",
+            "source": "PENA Consultant Price Schedule 2026"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Struktur Biaya Pelatihan Berdasarkan Paket"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Paket Pelatihan",
+                "Investasi Normal 2026",
+                "Durasi & Metode",
+                "Fasilitas & Output"
+            ],
+            "rows": [
+                [
+                    "Online Blended Learning",
+                    "Rp 4.500.000 - Rp 5.500.000",
+                    "4 Hari (Zoom Interaktif)",
+                    "Sertifikat resmi Kemnaker RI, e-book 166 kriteria, toolkit checklist audit Excel, SKP Auditor Internal"
+                ],
+                [
+                    "Tatap Muka Hotel Bintang 4",
+                    "Rp 7.500.000 - Rp 8.500.000",
+                    "4 Hari (Kelas Tatap Muka)",
+                    "Sertifikat fisik Kemnaker, lunch buffet & coffee break, seminar kit eksklusif, simulasi audit riil"
+                ],
+                [
+                    "In-House Training Tim Korporasi",
+                    "Sesuai Quotation Tim",
+                    "4 Hari (On-site Perusahaan)",
+                    "Pelatihan khusus tim internal perusahaan, review dokumen SMK3 eksisting langsung di plant"
+                ]
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Memiliki auditor internal menghemat puluhan juta rupiah biaya konsultasi pra-audit eksternal SMK3."
+        }
+    ],
+    "related_offering_slug": "auditor-sistem-manajemen-k3-2",
+    "meta_title": "Biaya Auditor Sistem Manajemen K3 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Biaya Auditor Sistem Manajemen K3 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan serti",
+    "published_at": "2026-07-31"
+}

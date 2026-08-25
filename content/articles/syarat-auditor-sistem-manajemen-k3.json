@@ -1,0 +1,47 @@
+{
+    "id": "01kyw9kdj6phc2am4d14vfs440",
+    "title": "Syarat Mengikuti Sertifikasi Auditor SMK3 BNSP",
+    "slug": "syarat-auditor-sistem-manajemen-k3",
+    "path": "/panduan/smk3/syarat-auditor-sistem-manajemen-k3",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Persyaratan uji kompetensi sertifikasi Auditor SMK3 BNSP berbasis SKKNI untuk pengakuan kompetensi profesional independen.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi Auditor SMK3 BNSP memberikan pengakuan kompetensi formal bagi praktisi yang berprofesi sebagai konsultan K3, auditor lepas, atau tenaga ahli independen yang melakukan audit kesesuaian sistem manajemen K3."
+        },
+        {
+            "type": "citation",
+            "text": "Standar Kompetensi Kerja Nasional Indonesia Bidang K3.",
+            "source": "Kepmenaker No. 38 Tahun 2019"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Persyaratan Portofolio Bukti Kerja (APL-02)"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Laporan audit K3 internal atau audit SMK3 yang pernah disusun dalam 2 tahun terakhir.",
+                "Checklist audit K3 dan rencana audit (Audit Plan) yang pernah diterapkan di tempat kerja.",
+                "Sertifikat pelatihan terkait SMK3 PP 50/2012, ISO 45001, atau ISO 19011.",
+                "CV profesional yang memuat riwayat pelaksanaan inspeksi dan audit keselamatan kerja."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Asesi yang dinyatakan kompeten berhak menyandang gelar profesi Auditor K3 bersertifikat BNSP Garuda Emas."
+        }
+    ],
+    "related_offering_slug": "auditor-sistem-manajemen-k3",
+    "meta_title": "Syarat Mengikuti Auditor Sistem Manajemen K3 — Guide 202",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Auditor Sistem Manajemen K3 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan",
+    "published_at": "2026-07-31"
+}

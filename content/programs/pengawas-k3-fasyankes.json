@@ -1,0 +1,142 @@
+{
+    "id": "01kyfffhn6qr8v39zm2kscwgzw",
+    "type": "training",
+    "name": "Pengawas K3 & Fasyankes",
+    "slug": "pengawas-k3-fasyankes",
+    "path": "/pelatihan/pengawas-k3-fasyankes",
+    "title": "Pengawas K3 & Fasyankes",
+    "meta_title": "Sertifikasi Pengawas K3 Fasyankes BNSP: RS & Puskesmas",
+    "meta_description": "Uji kompetensi BNSP Pengawas K3 Fasilitas Pelayanan Kesehatan (Fasyankes). Pengendalian limbah B3 medis, NSI, & regulasi Permenkes 52/2018.",
+    "summary": "Sertifikasi kompetensi Pengawas K3 Fasilitas Pelayanan Kesehatan (Fasyankes) BNSP untuk rumah sakit, puskesmas, dan klinik — menguasai manajemen K3 fasyankes, pencegahan tusukan jarum (Needle Stick Injury / NSI), pengelolaan limbah B3 medis, dan standar akreditasi KARS/STARKES sesuai Permenkes No. 52 Tahun 2018.",
+    "certification_body": "bnsp",
+    "base_price": 3200000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi Pengawas K3 Fasyankes diselenggarakan berdasarkan SKKNI Bidang K3 Sub-Bidang Fasilitas Pelayanan Kesehatan. Sertifikasi ini memberikan kualifikasi resmi bagi pengawas K3 di rumah sakit, puskesmas, dan klinik."
+        },
+        {
+            "type": "paragraph",
+            "text": "Penerapan K3 di fasilitas kesehatan diatur secara rinci dalam Permenkes No. 52 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja di Fasilitas Pelayanan Kesehatan. Regulasi ini mewajibkan pembentukan manajemen K3 RS, pencegahan bahaya biologi, proteksi kebakaran rumah sakit, dan pengelolaan limbah B3 medis."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Kesehatan (Ketentuan K3 Fasilitas Pelayanan Kesehatan).",
+            "source": "UU No. 17 Tahun 2023"
+        },
+        {
+            "type": "citation",
+            "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+            "source": "PP No. 23 Tahun 2004"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja di Fasilitas Pelayanan Kesehatan.",
+            "source": "Permenkes No. 52 Tahun 2018"
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini mendidik pengawas K3 profesional di fasilitas pelayanan kesehatan. Setelah lulus asesmen, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Merancang dan mengimplementasikan Sistem Manajemen K3 di Fasilitas Pelayanan Kesehatan (RS, Puskesmas, Klinik) sesuai Permenkes No. 52 Tahun 2018",
+                "Mengelola sistem pencegahan bahaya biologi (biohazard) dan cedera tusukan jarum/benda tajam (Needle Stick Injury / NSI)",
+                "Mengawasi pengelolaan limbah B3 medis (infeksius, tajam, sitotoksik, farmasi) dari pemilahan warna kantong hingga insinerator/autoklaf terlisensi",
+                "Menyusun prosedur tanggap darurat bencana dan kode darurat rumah sakit (Kode Merah untuk Kebakaran, Kode Biru untuk Henti Jantung, Kode Abu-abu untuk Ancaman)",
+                "Menyelaraskan standar K3 RS dengan instrumen Akreditasi Rumah Sakit (STARKES / KARS Bab Manajemen Fasilitas dan Keselamatan - MFK)",
+                "Meraih Sertifikat Kompetensi BNSP bersimbol Garuda skema Pengawas K3 Fasyankes"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Cakupan materi pelatihan & uji asesmen BNSP Pengawas K3 Fasyankes:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul 1: Standar Regulasi K3 Fasyankes & Pembaharuan Permenkes No. 52 Tahun 2018",
+                "Modul 2: Pengendalian Bahaya Biologi, Pencegahan NSI, & Integrasi Pencegahan dan Pengendalian Infeksi (PPI)",
+                "Modul 3: Manajemen Tata Kelola Limbah B3 Medis & Fasilitas Pengolahan Limbah Fasyankes",
+                "Modul 4: Keselamatan Sarana Prasarana RS (Genset, Tabung Oksigen Medis, Autoklaf, Evakuasi Pasien)",
+                "Modul 5: Penyusunan Dokumen MFK Akreditasi KARS/STARKES & Audit Internal K3 Fasyankes",
+                "Pelaksanaan Asesmen: Penilaian portofolio pengawasan Fasyankes, uji tertulis teknis, studi kasus RS di TUK, & wawancara lisan asesor BNSP"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Minimal D3/S1 Kesehatan Masyarakat (K3), Keperawatan, Kebidanan, atau Kesehatan Lingkungan dengan pengalaman kerja di Fasyankes minimal 1 tahun",
+                "Surat Keterangan Kerja dari Rumah Sakit / Puskesmas / Klinik",
+                "Pasfoto formal latar belakang merah (3x4 & 4x6), KTP, & ijazah"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Kelengkapan administrasi yang umum dipersyaratkan untuk mengikuti program ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter",
+                "Surat rekomendasi/penugasan dari perusahaan (untuk peserta utusan perusahaan)",
+                "Curriculum vitae (untuk skema sertifikasi BNSP)"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan pendidikan minimum dan pengalaman kerja mengikuti ketentuan skema/penunjukan yang berlaku — tim kami akan memverifikasi kelengkapan Anda sebelum pendaftaran diproses."
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul dan materi pelatihan",
+                "Instruktur praktisi tersertifikasi di bidangnya",
+                "Ujian/asesmen sertifikasi",
+                "Sertifikat sesuai skema (Kemnaker RI atau BNSP)",
+                "Konsultasi pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir pendaftaran di halaman ini.",
+                "Terima penawaran resmi: jadwal, biaya, dan persyaratan program.",
+                "Lengkapi berkas administrasi dan lakukan konfirmasi pendaftaran.",
+                "Ikuti pelatihan dan ujian/asesmen sertifikasi.",
+                "Terima sertifikat dan lisensi/kartu kompetensi sesuai skema."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

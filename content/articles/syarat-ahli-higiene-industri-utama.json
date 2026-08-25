@@ -1,0 +1,41 @@
+{
+    "id": "01kyw9k6asym04sbjdpyhzb2gt",
+    "title": "Syarat Mengikuti Sertifikasi Ahli Higiene Industri Utama (HIU)",
+    "slug": "syarat-ahli-higiene-industri-utama",
+    "path": "/panduan/sertifikasi-k3/syarat-ahli-higiene-industri-utama",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Persyaratan kualifikasi master level Ahli Higiene Industri Utama (HIU) untuk perumusan kebijakan strategis korporasi dan audit kesehatan kerja.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Ahli Higiene Industri Utama (HIU) adalah jenjang tertinggi dalam profesi industrial hygiene di Indonesia, bertindak sebagai Head of Occupational Health and Hygiene di tingkat korporasi multinasional."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kriteria Persyaratan Peserta HIU"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal Sarjana (S1) atau Magister (S2) dengan pengalaman kerja minimal 5 tahun di bidang manajemen higiene industri.",
+                "Memiliki portofolio perumusan kebijakan strategis perlindungan tenaga kerja dari penyakit akibat kerja (PAK).",
+                "Lulus asesmen portofolio komprehensif di hadapan panel Master Asesor BNSP."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kredensial eksekutif tertinggi yang diakui secara internasional untuk memimpin departemen Corporate Health & Hygiene."
+        }
+    ],
+    "related_offering_slug": "ahli-higiene-industri-utama",
+    "meta_title": "Syarat Mengikuti Ahli Higiene Industri Utama — Guide 202",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Ahli Higiene Industri Utama resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan",
+    "published_at": "2026-07-31"
+}

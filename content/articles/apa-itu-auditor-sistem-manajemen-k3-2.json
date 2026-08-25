@@ -1,0 +1,69 @@
+{
+    "id": "01kyw9kdwpnh4npzgz1jx6e871",
+    "title": "Apa Itu Auditor SMK3 Kemnaker RI?",
+    "slug": "apa-itu-auditor-sistem-manajemen-k3-2",
+    "path": "/panduan/smk3/apa-itu-auditor-sistem-manajemen-k3-2",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Auditor SMK3 Kemnaker RI adalah personel independen berkeahlian khusus yang memiliki SKP Menteri Ketenagakerjaan untuk melaksanakan audit sistem manajemen K3 PP 50/2012.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Auditor Sistem Manajemen Keselamatan dan Kesehatan Kerja (Auditor SMK3) Kemnaker RI adalah tenaga profesional yang memiliki kompetensi teknis dan legalitas resmi dari Kementerian Ketenagakerjaan RI untuk menguji, memverifikasi, dan menilai efektivitas implementasi 166 kriteria SMK3 di perusahaan."
+        },
+        {
+            "type": "citation",
+            "text": "Pedoman Penilaian Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja.",
+            "source": "PP No. 50 Tahun 2012"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Perbedaan Auditor Internal vs Auditor Eksternal SMK3"
+        },
+        {
+            "type": "paragraph",
+            "text": "Dalam ekosistem PP 50/2012, auditor terbagi menjadi dua fungsi penugasan:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Auditor Internal SMK3: Personel internal perusahaan yang ditunjuk untuk melaksanakan audit internal berkala (Elemen 11) minimal satu kali setahun guna memastikan kesiapan sistem sebelum audit resmi",
+                "Auditor Eksternal SMK3 (Lembaga Audit): Auditor senior yang tergabung dalam Lembaga Audit SMK3 independen terakreditasi Kemnaker RI, bertugas melakukan sertifikasi dan rekomendasi penerbitan Bendera Emas/Perak kepada Menteri Ketenagakerjaan"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tugas Utama Auditor SMK3 Selama Siklus Audit"
+        },
+        {
+            "type": "paragraph",
+            "text": "Auditor SMK3 menjalankan proses verifikasi yang ketat meliputi:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Menyusun Rencana Audit (Audit Plan) dan membagi lingkup kriteria audit berdasarkan area operasional",
+                "Melakukan Tinjauan Dokumen (Document Review) terhadap kebijakan K3, manual SMK3, SOP, HIRA, JSA, dan rekaman pemeliharaan",
+                "Melaksanakan Verifikasi Lapangan (On-Site Verification) untuk mencocokkan dokumen dengan kondisi fisik mesin, instalasi, APD, dan lingkungan kerja",
+                "Melakukan Wawancara Sampel dengan perwakilan manajemen, ketua P2K3, teknisi, dan pekerja lapangan",
+                "Menyusun Laporan Ketidaksesuaian (NCR — Non-Conformance Report) dengan klasifikasi Minor, Mayor, atau Kritikal"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Auditor SMK3 bersertifikat Kemnaker RI memegang kunci validitas kepatuhan hukum keselamatan kerja perusahaan di mata pengawas pemerintah."
+        }
+    ],
+    "related_offering_slug": "auditor-sistem-manajemen-k3-2",
+    "meta_title": "Apa itu Auditor Sistem Manajemen K3? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Auditor Sistem Manajemen K3? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifi",
+    "published_at": "2026-07-31"
+}

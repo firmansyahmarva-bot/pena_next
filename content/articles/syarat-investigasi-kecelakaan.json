@@ -1,0 +1,46 @@
+{
+    "id": "01kyw9kp3akf5emjfcbsp7kj76",
+    "title": "Syarat Mengikuti Pelatihan Investigasi Kecelakaan Kerja",
+    "slug": "syarat-investigasi-kecelakaan",
+    "path": "/panduan/smk3/syarat-investigasi-kecelakaan",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Persyaratan mengikuti pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (Root Cause Analysis).",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Program investigasi kecelakaan kerja membekali peserta dengan metodologi saintifik untuk mengungkap faktor penyebab langsung, penyebab tidak langsung, dan kelemahan sistem manajemen (root cause) tanpa berfokus pada mencari kesalahan individu (blame-free culture)."
+        },
+        {
+            "type": "citation",
+            "text": "Tata Cara Pelaporan dan Pemeriksaan Kecelakaan.",
+            "source": "Permenaker No. 03/MEN/1998"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kriteria Peserta yang Disarankan"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Safety Officer, HSE Coordinator, Field Supervisor, Manajer Operasi, dan Anggota P2K3.",
+                "Pendidikan minimal SLTA/SMK berpengalaman kerja atau D3/S1 semua jurusan.",
+                "Membawa riwayat kasus insiden atau near-miss di tempat kerja untuk latihan studi kasus Fishbone / SCAT / 5-Why Analysis."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Membekali praktisi menyusun Laporan Bentuk 3 KK 01 A resmi Kemnaker RI dan tindakan korektif pencegahan berulang (CAPA)."
+        }
+    ],
+    "related_offering_slug": "investigasi-kecelakaan",
+    "meta_title": "Syarat Mengikuti Investigasi Kecelakaan — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Investigasi Kecelakaan resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sert",
+    "published_at": "2026-07-31"
+}

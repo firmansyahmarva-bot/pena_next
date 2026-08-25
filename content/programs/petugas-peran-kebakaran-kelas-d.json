@@ -1,0 +1,136 @@
+{
+    "id": "01kyfffhrdv78anh3s4megdmjt",
+    "type": "training",
+    "name": "Petugas Peran Kebakaran Kelas D",
+    "slug": "petugas-peran-kebakaran-kelas-d",
+    "path": "/pelatihan/petugas-peran-kebakaran-kelas-d",
+    "title": "Petugas Peran Kebakaran Kelas D",
+    "meta_title": "Pelatihan Petugas Peran Kebakaran Kelas D: APAR & Evakuasi",
+    "meta_description": "Pembinaan K3 Petugas Peran Kebakaran Kelas D Kemnaker RI. Penggunaan APAR, pemadaman awal, prosedur evakuasi gedung, & Kepmenaker 186/1999.",
+    "summary": "Pembinaan dan sertifikasi Lisensi K3 Petugas Peran Kebakaran Kelas D Kemnaker RI untuk tingkatan pertama tanggap darurat di tempat kerja — menguasai pemadaman api awal menggunakan APAR, penyampaian sinyal bahaya, dan pemandu evakuasi gedung sesuai Kepmenaker No. 186/MEN/1999.",
+    "certification_body": "kemnaker",
+    "base_price": 5000000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Pembinaan Petugas Peran Kebakaran Kelas D diselenggarakan berdasarkan Kepmenaker No. KEP-186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja. Pasal 5 dan Pasal 6 mengamanatkan bahwa pengurus tempat kerja wajib menunjuk Petugas Peran Kebakaran Kelas D dengan rasio sekurang-kurangnya 2 orang untuk setiap 25 orang pekerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Standar pemadaman api awal mengacu pada Permenaker No. 04/MEN/1980 tentang Syarat-Syarat Pemasangan dan Pemeliharaan Alat Pemadam Api Ringan (APAR), serta kewajiban umum pencegahan kebakaran sesuai Pasal 3 UU No. 1 Tahun 1970 tentang Keselamatan Kerja."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Unit Penanggulangan Kebakaran di Tempat Kerja.",
+            "source": "Kepmenaker No. 186/MEN/1999"
+        },
+        {
+            "type": "citation",
+            "text": "Syarat-Syarat Pemasangan dan Pemeliharaan APAR.",
+            "source": "Permenaker No. 04/MEN/1980"
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini mendidik personel unit kerja menjadi pertolongan pertama tanggap darurat kebakaran. Setelah menyelesaikan pembinaan, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memahami teori segitiga api (bahan bakar, oksigen, panas) dan klasifikasi kelas kebakaran di Indonesia (Kelas A, B, C, D)",
+                "Menguasai teknik pemadaman api awal menggunakan APAR (Alat Pemadam Api Ringan) jenis Powder, CO2, Foam, dan APAR Clean Agent dengan teknik PASS (Pull, Aim, Squeeze, Sweep)",
+                "Menguasai penggunaan karung goni basah (fire blanket) untuk memadamkan kebakaran kompor atau dapur industri secara cepat dan aman",
+                "Melaksanakan prosedur pemberitahuan keadaan darurat (activating manual call point/alarm) dan pemanduan evakuasi darurat menuju tempat berhimpun (assembly point)",
+                "Memperoleh Buku Kerja dan Lisensi K3 Kemnaker RI resmi Petugas Peran Kebakaran Kelas D"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Cakupan materi pembinaan K3 & ujian Kemnaker RI Petugas Peran Kebakaran Kelas D:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul 1: Kebijakan K3 Penanggulangan Kebakaran & Kepmenaker No. 186/MEN/1999",
+                "Modul 2: Fenomena Kebakaran, Teori Segitiga Api, & Penyebab Kebakaran Tempat Kerja",
+                "Modul 3: Jenis, Pemilihan, Pemasangan, & Praktik Pemadaman APAR (Teknik PASS)",
+                "Modul 4: Pengenalan Sarana Proteksi Pasif, Jalur Evakuasi, & Rencana Tanggap Darurat Gedung",
+                "Modul Praktik: Praktik pemadaman api nyata dengan APAR & karung goni basah, simulasi evakuasi, dan ujian teori Kemnaker RI"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal SMP/SMA/SMK sederajat",
+                "Sehat jasmani dan rohani, dibuktikan dengan Surat Keterangan Sehat dari dokter",
+                "Surat penugasan dari perusahaan (peserta utusan perusahaan)",
+                "Pasfoto formal latar belakang merah (3x4 & 4x6), KTP, & ijazah"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Kelengkapan administrasi yang umum dipersyaratkan untuk mengikuti program ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter",
+                "Surat rekomendasi/penugasan dari perusahaan (untuk peserta utusan perusahaan)",
+                "Curriculum vitae (untuk skema sertifikasi BNSP)"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan pendidikan minimum dan pengalaman kerja mengikuti ketentuan skema/penunjukan yang berlaku — tim kami akan memverifikasi kelengkapan Anda sebelum pendaftaran diproses."
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul dan materi pelatihan",
+                "Instruktur praktisi tersertifikasi di bidangnya",
+                "Ujian/asesmen sertifikasi",
+                "Sertifikat sesuai skema (Kemnaker RI atau BNSP)",
+                "Konsultasi pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir pendaftaran di halaman ini.",
+                "Terima penawaran resmi: jadwal, biaya, dan persyaratan program.",
+                "Lengkapi berkas administrasi dan lakukan konfirmasi pendaftaran.",
+                "Ikuti pelatihan dan ujian/asesmen sertifikasi.",
+                "Terima sertifikat dan lisensi/kartu kompetensi sesuai skema."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

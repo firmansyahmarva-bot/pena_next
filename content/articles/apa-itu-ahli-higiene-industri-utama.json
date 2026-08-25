@@ -1,0 +1,61 @@
+{
+    "id": "01kyw9k66bk9mz9k8ek8yvtxgk",
+    "title": "Apa Itu Ahli Higiene Industri Utama (HIU)?",
+    "slug": "apa-itu-ahli-higiene-industri-utama",
+    "path": "/panduan/sertifikasi-k3/apa-itu-ahli-higiene-industri-utama",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Ahli Higiene Industri Utama (HIU) adalah tingkatan tertinggi profesional higiene industri yang memimpin perumusan kebijakan strategis K3 kesehatan kerja, manajemen risiko terintegrasi, dan audit korporasi.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Ahli Higiene Industri Utama (HIU) merupakan pemegang otoritas teknis tertinggi dalam domain higiene industri. Pada tingkat ini, fokus bukan lagi sekadar pengukuran atau pengendalian satu alat kerja, melainkan perancangan arsitektur program keselamatan dan kesehatan kerja preventif skala korporasi, kepatuhan regulasi lintas sektor, serta audit komprehensif sistem manajemen pajanan."
+        },
+        {
+            "type": "citation",
+            "text": "Penerapan Sistem Manajemen K3 — mewajibkan audit dan evaluasi berkala terhadap pengendalian bahaya kesehatan kerja pada perusahaan berisiko tinggi.",
+            "source": "PP No. 50 Tahun 2012"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kewenangan dan Tanggung Jawab Strategis HIU"
+        },
+        {
+            "type": "paragraph",
+            "text": "Profesional dengan sertifikasi HIU menjalankan fungsi kepemimpinan teknis yang luas:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Menetapkan baku mutu dan batas pajanan internal perusahaan yang lebih ketat dari regulasi wajib jika diperlukan oleh standar global",
+                "Menjadi penasihat utama direksi dalam studi kelayakan teknologi baru, penggantian bahan baku kimia berbahaya, dan perancangan fasilitas pabrik baru",
+                "Memimpin investigasi mendalam terhadap kasus Penyakit Akibat Kerja (PAK) kompleks atau klaster keluhan kesehatan pekerja",
+                "Menyelenggarakan audit higiene industri berkala untuk memastikan seluruh hierarki pengendalian berjalan efektif",
+                "Mewakili korporasi dalam komunikasi teknis dengan kementerian ketenagakerjaan, dinas pengawas, dan asosiasi industri internasional"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kualifikasi dan Profil Pemegang Sertifikat HIU"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi jenjang Utama ditujukan bagi praktisi senior HSE, Occupational Health Manager, konsultan senior K3, dan akademisi yang telah memiliki portofolio kepemimpinan higiene industri minimal 5–7 tahun serta telah menyelesaikan jenjang Madya."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Ahli Higiene Industri Utama memastikan perlindungan kesehatan pekerja terintegrasi langsung ke dalam strategi keberlanjutan bisnis jangka panjang perusahaan."
+        }
+    ],
+    "related_offering_slug": "ahli-higiene-industri-utama",
+    "meta_title": "Apa itu Ahli Higiene Industri Utama? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Ahli Higiene Industri Utama? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifi",
+    "published_at": "2026-07-31"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9ke6rdbm575y9yjpgm2r6",
+    "title": "Jadwal Pembinaan Auditor SMK3 Kemnaker 2026",
+    "slug": "jadwal-auditor-sistem-manajemen-k3-2-2026",
+    "path": "/panduan/smk3/jadwal-auditor-sistem-manajemen-k3-2-2026",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Jadwal pembinaan Auditor SMK3 Kemnaker RI tahun 2026, tanggal batch bulanan, dan opsi kelas in-house.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Pembinaan Auditor SMK3 Kemnaker RI dibuka setiap bulan sepanjang tahun 2026 dengan durasi 4 hari kerja efektif (3 hari materi & studi kasus 166 kriteria + 1 hari seminar laporan & evaluasi pengawas Kemnaker)."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Pendaftaran ditutup 7 hari sebelum pelaksanaan batch untuk registrasi data peserta di portal TemanK3 Kemnaker RI."
+        }
+    ],
+    "related_offering_slug": "auditor-sistem-manajemen-k3-2",
+    "meta_title": "Jadwal Auditor Sistem Manajemen K3 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Jadwal Auditor Sistem Manajemen K3 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sert",
+    "published_at": "2026-07-31"
+}

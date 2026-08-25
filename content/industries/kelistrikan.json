@@ -1,0 +1,24 @@
+{
+    "id": "01kyw9nk3kvmbj6bg9mdh8fqaj",
+    "name": "Kelistrikan",
+    "slug": "kelistrikan",
+    "path": "/industri/kelistrikan",
+    "description": "K3 untuk sektor Kelistrikan.",
+    "regulatory_context": [
+        {
+            "type": "paragraph",
+            "text": "Personel yang merencanakan, memasang, memeriksa, atau memelihara instalasi listrik di tempat kerja wajib memenuhi kompetensi K3 listrik sesuai Permenaker No. 12 Tahun 2015."
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Listrik di Tempat Kerja.",
+            "source": "Permenaker No. 12 Tahun 2015"
+        }
+    ],
+    "relevant_offering_slugs": [
+        "ahli-k3-listrik",
+        "ahli-k3-listrik-2",
+        "teknisi-k3-listrik",
+        "k3-teknisi-listrik"
+    ]
+}

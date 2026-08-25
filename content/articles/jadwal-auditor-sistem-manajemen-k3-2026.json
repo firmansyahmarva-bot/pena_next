@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9kdrx6pqdrxk78d3mhwsx",
+    "title": "Jadwal Sertifikasi Auditor SMK3 BNSP 2026",
+    "slug": "jadwal-auditor-sistem-manajemen-k3-2026",
+    "path": "/panduan/smk3/jadwal-auditor-sistem-manajemen-k3-2026",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Jadwal uji kompetensi asesmen Auditor SMK3 BNSP 2026 di Tempat Uji Kompetensi (TUK) resmi.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Asesmen uji kompetensi Auditor SMK3 BNSP dibuka 2 kali setiap bulan secara virtual assessment dan tatap muka di TUK Jakarta, Surabaya, Balikpapan, dan Medan."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Peserta dapat menjadwalkan sesi pra-asesmen fleksibel bersama konsultan PENA Consultant."
+        }
+    ],
+    "related_offering_slug": "auditor-sistem-manajemen-k3",
+    "meta_title": "Jadwal Auditor Sistem Manajemen K3 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Jadwal Auditor Sistem Manajemen K3 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sert",
+    "published_at": "2026-07-31"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9n0ja3fhpthd6pcszbr5h",
+    "title": "Perbedaan Operator PTP vs Teknisi Bejana Tekan",
+    "slug": "perbedaan-operator-pesawat-tenaga-produksi-ptp-vs-teknisi-bejana-tekan",
+    "path": "/panduan/k3-teknis/perbedaan-operator-pesawat-tenaga-produksi-ptp-vs-teknisi-bejana-tekan",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Perbandingan antara Operator Mesin Tenaga Produksi (PTP) dan Teknisi Bejana Tekan / Tangki Timbun sesuai Permenaker 38/2016 dan Permenaker 37/2016.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Operator PTP fokus pada pengoperasian mesin perkakas, penggerak mula, dan mesin produksi; Teknisi Bejana Tekan fokus pada inspeksi ketebalan dinding bejana, pengujian hydrotest, dan katup pengaman (safety relief valve) tangki bertekanan."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Teknisi bejana tekan memastikan integritas fisik tangki agar tidak meledak di bawah tekanan gas/cairan tinggi."
+        }
+    ],
+    "related_offering_slug": "operator-pesawat-tenaga-produksi-ptp",
+    "meta_title": "Perbedaan Operator Pesawat Tenaga Produksi (PTP) dan Tek",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Operator Pesawat Tenaga Produksi (PTP) dan Teknisi Bejana Tekan resmi Kemnaker RI dan BNSP. Persyaratan, prosed",
+    "published_at": "2026-07-31"
+}

@@ -1,0 +1,93 @@
+{
+    "id": "01kyw9krey3zdykjbe5cba2t8r",
+    "title": "Apa Itu Operator Boiler Kelas 2?",
+    "slug": "apa-itu-operator-boiler-kelas-2",
+    "path": "/panduan/k3-teknis/apa-itu-operator-boiler-kelas-2",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Operator Boiler Kelas 2 adalah lisensi K3 wajib untuk mengoperasikan pesawat uap sesuai Stoom Ordonnantie 1930 dan Permenaker No. 01/MEN/1988 — jenjang dasar sebelum Kelas 1 untuk kapasitas/tekanan lebih tinggi.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Pesawat uap (boiler) menyimpan energi tekanan dan panas tinggi — kegagalan operasional bisa berujung ledakan. Karena itu, siapa pun yang mengoperasikannya wajib memiliki lisensi K3, bukan sekadar terlatih secara internal."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Peraturan Uap (Stoom Ordonnantie) — dasar pengawasan pesawat uap.",
+            "source": "Stoom Ordonnantie 1930"
+        },
+        {
+            "type": "citation",
+            "text": "Kwalifikasi Operator Pesawat Uap.",
+            "source": "Permenaker No. 01/MEN/1988"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tanggung Jawab Operator Boiler Kelas 2"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Mengoperasikan boiler sesuai prosedur start-up, operasi normal, dan shutdown",
+                "Membaca dan merespons instrumen tekanan dan suhu secara berkala",
+                "Melakukan pemeriksaan rutin dan melaporkan kondisi abnormal",
+                "Merespons kondisi darurat sesuai prosedur untuk mencegah kegagalan tekanan"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kelas 2 vs Kelas 1: Jenjang Berdasarkan Kapasitas"
+        },
+        {
+            "type": "paragraph",
+            "text": "Lisensi operator pesawat uap berjenjang berdasarkan kapasitas dan tekanan kerja boiler yang dioperasikan. Kelas 2 adalah jenjang dasar untuk pesawat uap yang lebih umum dijumpai di industri; boiler berkapasitas atau bertekanan lebih tinggi mensyaratkan kualifikasi operator Kelas 1. Perusahaan sebaiknya mencocokkan jenjang lisensi operator dengan spesifikasi boiler yang sebenarnya dioperasikan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Jangan Menentukan Kelas Hanya dari Nama Jabatan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kata “operator boiler” pada kartu jabatan belum cukup untuk memilih kelas. Tim perlu melihat jenis pesawat uap, kapasitas, tekanan kerja, jumlah unit, pola shift, dan kewenangan peserta. Program Kelas 2 cocok bila spesifikasi alat dan persyaratan pembinaan memang berada pada lingkupnya; apabila alat atau tanggung jawab menuntut Kelas 1, mengambil kelas yang lebih rendah tidak menyelesaikan kebutuhan kepatuhan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan juga bukan pengganti pemeriksaan dan pengujian pesawat uap, SOP operasi, pencatatan log, pemeliharaan, maupun pengawasan perusahaan. Lisensi personel bekerja bersama pengendalian teknis tersebut. Bagi pencari kerja yang belum ditugaskan pada boiler tertentu, kelayakan dan manfaat program perlu diperiksa lebih dahulu agar ekspektasi penempatan tetap realistis."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data Minimum untuk Verifikasi dan Harga"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim nameplate atau spesifikasi boiler, kapasitas dan tekanan, lokasi alat, jumlah shift, pengalaman serta pendidikan peserta, jumlah peserta, dan target pelaksanaan. Tim PENA dapat membantu mengarahkan Kelas 2 atau Kelas 1, memeriksa dokumen, dan memberikan jadwal serta biaya resmi. Konsultasi berbasis alat ini lebih aman daripada membeli program hanya karena judulnya terdengar sesuai."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Tidak yakin boiler di fasilitas Anda memerlukan operator Kelas 2 atau Kelas 1? Tim kami dapat membantu mengecek berdasarkan spesifikasi teknis pesawat uap Anda."
+        }
+    ],
+    "related_offering_slug": "operator-boiler-kelas-2",
+    "meta_title": "Apa itu Operator Boiler Kelas 2? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Operator Boiler Kelas 2? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi",
+    "published_at": "2026-07-31"
+}

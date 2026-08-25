@@ -1,0 +1,20 @@
+{
+    "id": "01kyw9p194cwpvjv0ybdfj6v65",
+    "name": "Pekanbaru",
+    "slug": "pekanbaru",
+    "path": "/cabang/pekanbaru",
+    "is_physical": false,
+    "address": null,
+    "intro": [
+        {
+            "type": "paragraph",
+            "text": "Pekanbaru, ibu kota Provinsi Riau, adalah pintu gerbang utama industri sawit dan migas terbesar di Sumatera. Riau adalah provinsi penghasil kelapa sawit terluas di Indonesia sekaligus rumah bagi Blok Rokan — ladang minyak penghasil terbesar di Indonesia, menyumbang sekitar 24-27% produksi minyak nasional — dengan Kawasan Industri Tenayan di Pekanbaru berkembang menjadi pusat pengolahan CPO (crude palm oil) skala besar."
+        },
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyelenggarakan pelatihan dan sertifikasi K3 — skema Kemnaker RI maupun BNSP — yang relevan untuk kebutuhan industri migas dan pengolahan sawit di Pekanbaru dan sekitarnya, tersedia secara online maupun in-house di lokasi perusahaan Anda."
+        }
+    ],
+    "service_areas": [],
+    "phone": null
+}

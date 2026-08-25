@@ -1,0 +1,89 @@
+{
+    "id": "01kyw9krya11c1sm0k1tzcjve8",
+    "title": "Apa Itu Operator Crane Kelas 3?",
+    "slug": "apa-itu-operator-crane-kelas-3",
+    "path": "/panduan/k3-teknis/apa-itu-operator-crane-kelas-3",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Operator Crane Kelas 3 adalah lisensi K3 wajib untuk mengoperasikan keran angkat — risiko beban tergantung dan area ayun menjadikannya salah satu kompetensi pesawat angkat dengan konsekuensi kegagalan paling berat.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Dari seluruh kelompok pesawat angkat dan angkut — forklift, lift barang, alat berat — crane punya profil risiko yang berbeda: beban yang diangkat menggantung bebas di udara, bergerak dalam radius ayun yang luas, dan berpotensi menimpa area yang jauh dari posisi operator. Karena itu operator crane diatur dengan lisensi tersendiri."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Pesawat Angkat dan Pesawat Angkut — kewajiban lisensi operator per jenis dan kelas.",
+            "source": "Permenaker No. 8 Tahun 2020"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tanggung Jawab Operator Crane"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Menghitung stabilitas beban dan kapasitas angkat sebelum mengangkat",
+                "Memastikan area ayun (swing radius) bebas dari pekerja dan penghalang",
+                "Melakukan pemeriksaan harian (pre-use inspection) pada sling, hook, dan mekanisme pengaman",
+                "Berkomunikasi dengan sinyalman/rigger menggunakan aba-aba standar",
+                "Menghentikan operasi saat kondisi cuaca atau beban melebihi batas aman"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Mengapa Crane Berbeda dari Forklift atau Lift Barang"
+        },
+        {
+            "type": "paragraph",
+            "text": "Forklift dan alat berat memindahkan beban di permukaan tanah dengan jalur pergerakan yang relatif dapat diprediksi. Lift barang bergerak pada jalur vertikal tetap. Crane mengangkat beban secara bebas melayang di udara dengan radius ayun yang luas — sehingga kegagalan (jatuhnya beban, terguling) berpotensi mencederai pekerja yang bahkan tidak berada di jalur kerja langsung. Ini yang membuat lisensi operator crane diatur secara terpisah dari kelompok pesawat angkat lainnya."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kelas Lisensi Harus Mengikuti Alat dan Pekerjaan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kelas 3 bukan label umum untuk semua crane. Pemilihan kelas perlu dicocokkan dengan jenis serta kapasitas alat, tugas yang dilakukan, pengalaman operator, dan ketentuan pembinaan yang berlaku. Operator mobile crane, overhead crane, atau tower crane dapat menghadapi karakter operasi berbeda. Karena itu perusahaan sebaiknya tidak mendaftarkan peserta hanya dari nama jabatan pada kartu pegawai."
+        },
+        {
+            "type": "paragraph",
+            "text": "Lisensi operator juga tidak menggantikan kelayakan alat, pemeriksaan berkala, lift plan, rigger atau juru ikat, signalman, pengendalian area, dan supervisi. Bila masalah utama proyek adalah perencanaan pengangkatan atau kompetensi rigger, pelatihan operator saja tidak menutup celah tersebut. Artikel ini membantu mengenali jalurnya; keputusan akhir harus memakai data alat dan persyaratan proyek."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data untuk Meminta Pemeriksaan Program"
+        },
+        {
+            "type": "paragraph",
+            "text": "Siapkan jenis crane, merek atau model, kapasitas maksimum, lokasi operasi, bukti pengalaman, pendidikan peserta, jumlah peserta, serta persyaratan klien. Foto nameplate sangat membantu. Tim PENA akan memeriksa kecocokan Kelas 3, alternatif kelas bila diperlukan, dokumen, jadwal, dan biaya resmi sehingga penawaran berangkat dari crane yang benar-benar akan dioperasikan."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Menentukan kelas lisensi crane yang sesuai kapasitas alat di fasilitas Anda? Tim kami dapat membantu mengecek berdasarkan spesifikasi crane yang dioperasikan."
+        }
+    ],
+    "related_offering_slug": "operator-crane-kelas-3",
+    "meta_title": "Apa itu Operator Crane Kelas 3? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Operator Crane Kelas 3? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

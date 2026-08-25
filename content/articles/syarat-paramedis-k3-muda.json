@@ -1,0 +1,67 @@
+{
+    "id": "01kyw9m186z86wnbwjx7rm4dvm",
+    "title": "Syarat Mengikuti Pelatihan Paramedis K3 Muda",
+    "slug": "syarat-paramedis-k3-muda",
+    "path": "/panduan/sertifikasi-k3/syarat-paramedis-k3-muda",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Persyaratan pendaftaran pelatihan dan sertifikasi Paramedis K3 Muda (Hyperkes Kemnaker RI): kualifikasi pendidikan keperawatan/kebidanan, STR aktif, dan berkas pendaftaran.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Untuk mengikuti pelatihan sertifikasi Paramedis K3 Muda (Hyperkes), calon peserta wajib memenuhi kualifikasi tenaga kesehatan resmi yang diakui oleh Kementerian Kesehatan dan Kementerian Ketenagakerjaan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dokumen Persyaratan Wajib Peserta"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "No",
+                "Dokumen Persyaratan",
+                "Keterangan"
+            ],
+            "rows": [
+                [
+                    "1",
+                    "Ijazah Pendidikan Kesehatan",
+                    "D3, D4, atau S1 Keperawatan / Kebidanan (asli / legalisir)"
+                ],
+                [
+                    "2",
+                    "Surat Tanda Registrasi (STR)",
+                    "Scan STR Perawat / Bidan yang masih berlaku aktif"
+                ],
+                [
+                    "3",
+                    "Kartu Tanda Penduduk (KTP)",
+                    "Scan e-KTP jelas"
+                ],
+                [
+                    "4",
+                    "Surat Keterangan Bekerja / Tugas",
+                    "Dari klinik perusahaan / RS tempat bekerja (jika utusan instansi)"
+                ],
+                [
+                    "5",
+                    "Pasfoto Resmi",
+                    "Latar belakang merah (red background) format digital"
+                ]
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Fresh graduate jurusan keperawatan yang baru lulus dan telah memiliki STR tetap diperbolehkan mendaftar."
+        }
+    ],
+    "related_offering_slug": "paramedis-k3-muda",
+    "meta_title": "Syarat Mengikuti Paramedis K3 Muda — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Paramedis K3 Muda resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifika",
+    "published_at": "2026-07-31"
+}

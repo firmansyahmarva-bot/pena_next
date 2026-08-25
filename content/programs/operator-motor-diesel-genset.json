@@ -1,0 +1,135 @@
+{
+    "id": "01kyfffj146bkyrywjqzthym2d",
+    "type": "training",
+    "name": "Operator Motor Diesel / Genset",
+    "slug": "operator-motor-diesel-genset",
+    "path": "/pelatihan/operator-motor-diesel-genset",
+    "title": "Operator Motor Diesel / Genset",
+    "meta_title": "Pelatihan Operator Motor Diesel Genset Kemnaker: K3 PTP",
+    "meta_description": "Pembinaan & Lisensi K3 Operator Motor Diesel / Genset Kemnaker RI. Pengoperasian genset industri, pemeliharaan K3, & Permenaker No. 38 Tahun 2016.",
+    "summary": "Pembinaan dan sertifikasi Lisensi K3 Operator Motor Diesel (Genset) Kemnaker RI — menguasai pengoperasian generator set industri, pemeriksaan teknis motor bakar, sistem pelumasan & pendinginan, serta pemenuhan keselamatan Pesawat Tenaga dan Produksi (PTP) sesuai Permenaker No. 38 Tahun 2016.",
+    "certification_body": "kemnaker",
+    "base_price": 7500000,
+    "duration": "4 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Pembinaan Operator Motor Diesel (Genset) diselenggarakan berdasarkan Permenaker No. 38 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja Pesawat Tenaga dan Produksi. Pasal 4 dan Pasal 5 menetapkan kewajiban K3 pada penggerak mula motor diesel guna mencegah bahaya kebakaran, ledakan, bising, dan kecelakaan pengoperasian."
+        },
+        {
+            "type": "paragraph",
+            "text": "Pengoperasian motor diesel industri wajib dilakukan oleh operator yang memiliki Buku Kerja dan Lisensi K3 resmi Kemnaker RI."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+            "source": "UU No. 13 Tahun 2003"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Pesawat Tenaga dan Produksi.",
+            "source": "Permenaker No. 38 Tahun 2016"
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini mendidik operator genset industri yang kompeten dan handal. Setelah lulus pembinaan, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Menguasai prinsip kerja motor diesel 4-langkah (intake, kompresi, usaha, buang) dan pengoperasian panel genset (ATS/AMF sync panel)",
+                "Melaksanakan pemeriksaan harian (pre-operational inspection): pengecekan oli mesin, air radiator, bahan bakar solar, air aki (accumulator), dan kelayakan sistem knalpot/muffler",
+                "Mengendalikan potensi bahaya K3 genset: bising (pemasangan soundproof canopy), emisi gas buang CO/NOx, getaran mekanis, dan bahaya sengatan listrik",
+                "Menguasai prosedur tindakan darurat (Emergency Stop) saat terjadi overspeed, pressure drop oli, atau overheating pada mesin genset",
+                "Memperoleh Buku Kerja dan Lisensi K3 Kemnaker RI resmi Operator Motor Diesel / Genset"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Cakupan materi pembinaan & uji kompetensi Kemnaker RI Operator Genset:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul 1: Kebijakan K3 Pesawat Tenaga & Produksi (PTP) sesuai Permenaker No. 38 Tahun 2016",
+                "Modul 2: Komponen Utama Motor Diesel, Sistem Bahan Bakar, Sistem Pelumasan, & Sistem Pendinginan Radiator",
+                "Modul 3: Peralatan Pengaman (Safety Devices): Governor, Overspeed Trip, Water Temperature Switch, Oil Pressure Switch",
+                "Modul 4: Pemeliharaan Rutin (Preventive Maintenance), Pembersihan Air Filter, & Pengujian Beban (Load Test)",
+                "Modul Praktik: Praktik inspeksi pre-start, pengoperasian panel ATS/AMF, penanganan indikator alarm, & Ujian Teori Kemnaker RI"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Minimal SMP/SMA/SMK sederajat",
+                "Sehat jasmani dan rohani, dibuktikan dengan Surat Keterangan Sehat dari dokter",
+                "Pasfoto formal latar belakang merah (3x4 & 4x6), KTP, & ijazah"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Kelengkapan administrasi yang umum dipersyaratkan untuk mengikuti program ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter",
+                "Surat rekomendasi/penugasan dari perusahaan (untuk peserta utusan perusahaan)",
+                "Curriculum vitae (untuk skema sertifikasi BNSP)"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan pendidikan minimum dan pengalaman kerja mengikuti ketentuan skema/penunjukan yang berlaku — tim kami akan memverifikasi kelengkapan Anda sebelum pendaftaran diproses."
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul dan materi pelatihan",
+                "Instruktur praktisi tersertifikasi di bidangnya",
+                "Ujian/asesmen sertifikasi",
+                "Sertifikat sesuai skema (Kemnaker RI atau BNSP)",
+                "Konsultasi pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir pendaftaran di halaman ini.",
+                "Terima penawaran resmi: jadwal, biaya, dan persyaratan program.",
+                "Lengkapi berkas administrasi dan lakukan konfirmasi pendaftaran.",
+                "Ikuti pelatihan dan ujian/asesmen sertifikasi.",
+                "Terima sertifikat dan lisensi/kartu kompetensi sesuai skema."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

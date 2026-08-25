@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9ktr0b483ex9sgm34qjfc",
+    "title": "Syarat Mengikuti Pelatihan Operator Lift Barang",
+    "slug": "syarat-operator-lift-barang",
+    "path": "/panduan/sertifikasi-k3/syarat-operator-lift-barang",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Persyaratan sertifikasi Operator Lift Barang Kemnaker RI.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Syarat peserta: pendidikan minimal SLTP/SMK sederajat, usia minimal 18 tahun, sehat jasmani, dan surat penunjukan resmi dari pengelola gedung atau perusahaan."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Mencakup pemahaman sistem rem darurat (safety gear) dan prosedur evakuasi sangkar macet."
+        }
+    ],
+    "related_offering_slug": "operator-lift-barang",
+    "meta_title": "Syarat Mengikuti Operator Lift Barang — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Operator Lift Barang resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertif",
+    "published_at": "2026-07-31"
+}

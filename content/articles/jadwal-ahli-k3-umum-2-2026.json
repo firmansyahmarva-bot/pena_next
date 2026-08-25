@@ -1,0 +1,40 @@
+{
+    "id": "01kyw9kartts11xtfgee8bxzgd",
+    "title": "Jadwal Asesmen Ahli K3 Umum BNSP 2026",
+    "slug": "jadwal-ahli-k3-umum-2-2026",
+    "path": "/panduan/sertifikasi-k3/jadwal-ahli-k3-umum-2-2026",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Jadwal uji kompetensi dan asesmen portofolio Ahli K3 Umum BNSP tahun 2026 secara online dan tatap muka di Tempat Uji Kompetensi (TUK).",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Uji kompetensi Ahli K3 Umum BNSP diselenggarakan secara berkala setiap minggu sepanjang tahun 2026. Asesi dapat memilih metode asesmen jarak jauh (virtual assessment) atau asesmen tatap muka langsung di Tempat Uji Kompetensi (TUK) resmi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pilihan Metode dan Alur Pelaksanaan Uji Kompetensi"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Metode Virtual Assessment (Online Zoom): Asesi mengunggah portofolio digital dan mengikuti wawancara teknis verifikasi bukti bersama Asesor melalui video conference interaktif.",
+                "Metode Offline Assessment (TUK Jakarta / Surabaya / Balikpapan): Asesi membawa dokumen fisik portofolio dan melakukan verifikasi bukti langsung di hadapan Asesor LSP."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Pendaftaran ditutup 7 hari kerja sebelum jadwal asesmen untuk proses verifikasi berkas APL-01 dan APL-02 oleh tim verifikator LSP."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-umum-2",
+    "meta_title": "Jadwal Ahli K3 Umum 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Jadwal Ahli K3 Umum 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

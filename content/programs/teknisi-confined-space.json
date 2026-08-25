@@ -1,0 +1,133 @@
+{
+    "id": "01kyfffhzr5mkzty5bwadhwkkg",
+    "type": "training",
+    "name": "Teknisi Confined Space",
+    "slug": "teknisi-confined-space",
+    "path": "/pelatihan/teknisi-confined-space",
+    "title": "Teknisi Confined Space",
+    "meta_title": "Pelatihan K3 Confined Space Ruang Terbatas — PENA",
+    "meta_description": "Pelatihan & sertifikasi K3 Teknisi & Utama Confined Space (Ruang Terbatas) Kemnaker RI 2026. SCBA, gas detector, LOTO, SKP resmi. Daftar!",
+    "summary": "Program Pembinaan & Sertifikasi K3 Teknisi / Utama Confined Space (Ruang Terbatas) resmi Kemnaker RI berdasarkan Kepmen 113/2006 & SKKNI. Pembinaan mencakup deteksi gas beracun, SCBA, tripod recovery, dan izin kerja ruang terbatas.",
+    "certification_body": "kemnaker",
+    "base_price": 9000000,
+    "duration": "5 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Bekerja di dalam ruang terbatas (confined space) merupakan salah satu aktivitas pekerjaan berisiko tinggi yang paling mematikan di industri manufaktur, minyak & gas, petrokimia, pertambangan, dan pengolahan limbah. Bahaya beracun, kekurangan oksigen, ledakan, hingga bahaya mekanis dapat membunuh pekerja dalam hitungan menit tanpa adanya prosedur dan pengawasan ketat."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ruang Terbatas (Confined Space) adalah ruangan yang ukurannya cukup luas dan dikonfigurasi sedemikian rupa sehingga pekerja dapat masuk dan melakukan pekerjaan di dalamnya, mempunyai akses masuk dan keluar yang terbatas (seperti pada tangki, bejana transport, silo, bunker, kompartemen kapal, saluran pembuangan, atau gorong-gorong), dan tidak dirancang untuk tempat kerja secara berkesinambungan."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "K3 Dalam Pekerjaan pada Ketinggian & Ruang Terbatas.",
+            "source": "Permenaker No. 09 Tahun 2016"
+        },
+        {
+            "type": "citation",
+            "text": "Pengujian Lingkungan Kerja dan Penetapan Nilai Ambang Batas (NAB) Faktor Kimia di Udara Tempat Kerja.",
+            "source": "SE Menaker No. SE.01/MEN/1997"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ketentuan teknis lebih lanjut diatur melalui Keputusan Direktur Jenderal Pembinaan Pengawasan Ketenagakerjaan (Dirjen Binwasnaker) mengenai Petunjuk Teknis K3 di Ruang Terbatas."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini dirancang untuk membekali personel dengan keterampilan taktis, pemahaman regulasi, pengujian atmosfer, penggunaan APD khusus, dan prosedur penyelamatan (rescue) sesuai standar K3 nasional. Seorang Teknisi Confined Space terlatih wajib memahami secara menyeluruh potensi bahaya sebelum mengizinkan atau melakukan penyeberangan masuk (entry): bahaya atmosfer (defisiensi oksigen di bawah 19,5%, pengayaan oksigen di atas 23,5%, gas beracun seperti H2S/CO/NH3, dan gas/uap mudah terbakar melebihi Lower Explosive Limit); bahaya fisik & mekanis (pergerakan mesin/agitator internal yang belum di-LOTO, suhu ekstrem, sengatan listrik, permukaan licin); serta bahaya penimbunan & engulfment (tertimbun/tenggelam oleh material padat/cair seperti biji-bijian di silo, semen, atau air limbah)."
+        },
+        {
+            "type": "paragraph",
+            "text": "Berdasarkan ketentuan Kemnaker RI, Teknisi K3 Ruang Terbatas memiliki peran operasional vital di lapangan:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memeriksa kelayakan dan mengoperasikan peralatan K3 ruang terbatas (gas detector, blower, tripod rescue, SCBA, APD)",
+                "Melakukan pengujian dan pemantauan kualitas udara/gas secara berkala di lokasi ruang terbatas sebelum dan selama pekerjaan berlangsung",
+                "Memastikan isolasi energi (LOTO) dan sistem ventilasi telah terpasang dengan benar",
+                "Mendampingi serta mengawasi entry worker (petugas utama) yang bekerja di dalam ruang terbatas",
+                "Merespons kondisi darurat dan melakukan tindakan pertolongan pertama/penyelamatan awal (rescue) sesuai prosedur yang ditetapkan"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Kematian di ruang terbatas sering kali menimpa calon penyelamat (would-be rescuers) yang panik dan masuk tanpa perlengkapan pernapasan. Karena itu, program ini menekankan prinsip tanggap darurat: non-entry rescue (mengutamakan evakuasi korban dari luar ruangan menggunakan rescue tripod, winch, dan lifeline cable), entry rescue (hanya boleh dilakukan tim rescue terlatih dengan SCBA lengkap dan APD level tinggi), dan komunikasi darurat (petugas standby/attendant di luar pintu masuk selalu menjaga komunikasi konstan dan tidak pernah meninggalkan pos tugasnya)."
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Prosedur keselamatan dan sistem kerja aman yang dikuasai peserta mencakup izin kerja khusus (confined space entry permit yang ditandatangani pengawas/petugas K3 berwenang setelah seluruh potensi bahaya dikendalikan); pengujian atmosfer dengan urutan standar — kadar oksigen (rentang aman 19,5%–23,5%), gas/uap combustible/flammable (di bawah 10% LEL), dan kontaminan beracun (misalnya H2S di bawah 10 ppm, CO di bawah 25 ppm); isolasi energi & LOTO (mengisolasi seluruh sumber energi mekanis, elektrikal, hidrolik, pneumatik, serta memutus/memasang blind flange pada pipa fluida beracun/panas); ventilasi industri (purging & inerting menggunakan blower/forced air ventilation); serta APD khusus (full body harness dengan retractable lifeline, tripod system/winch, dan alat bantu pernapasan seperti SCBA atau air-line respirator)."
+        },
+        {
+            "type": "paragraph",
+            "text": "Kurikulum mencakup kelompok materi dasar (peraturan perundang-undangan K3 bekerja di ruang terbatas, kesehatan kerja dan pengawasan lingkungan kerja), kelompok materi inti (pengetahuan dasar ruang terbatas, identifikasi/penilaian/pengendalian bahaya, prosedur pengujian dan pengukuran gas atmosfer, prosedur izin kerja dan sistem isolasi LOTO, penggunaan & perawatan APD/respirator/SCBA, teknik ventilasi dan pembilasan gas, serta rencana tanggap darurat & prosedur evakuasi/rescue), dan kelompok praktik & evaluasi (simulasi pengujian gas & kalibrasi alat, praktik bekerja safe entry & pemakaian SCBA/tripod, simulasi evakuasi/emergency rescue, serta ujian teori & praktik evaluasi Kemnaker RI)."
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal SMA/SMK sederajat",
+                "Berbadan sehat (fisik dan mental), tidak memiliki riwayat claustrophobia (takut ruang sempit), dan tidak memiliki gangguan pernapasan/asma"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Scan ijazah terakhir (minimal SMA/SMK)",
+                "Scan KTP/kartu identitas yang masih berlaku",
+                "Surat keterangan sehat dari dokter (wajib mencantumkan keterangan fit to work in confined space/bebas claustrophobia)",
+                "Surat utusan perusahaan (jika dikirim oleh instansi/perusahaan)",
+                "Pas foto berwarna 3x4 dan 4x6 latar belakang merah, masing-masing 4 lembar"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fasilitas simulasi practice area: mock-up/manhole simulator ruang terbatas berstandar keamanan tinggi",
+                "Peralatan praktik lengkap: multi-gas detector, SCBA unit, forced air blower, tripod rescue system, full body harness, dan LOTO kit",
+                "Instruktur & penguji: ahli K3 spesialis confined space dan tim pengawas K3 Kemnaker RI",
+                "Modul pelatihan, peraturan perundangan, t-shirt pelatihan, dan stationary kit",
+                "Layanan konsumsi (coffee break & lunch) selama pelatihan tatap muka"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "paragraph",
+            "text": "Setelah menyelesaikan seluruh sesi teori, simulasi praktik, dan dinyatakan lulus evaluasi oleh Tim Pengawas K3 Kemnaker RI, peserta menerima Sertifikat K3 Bekerja di Ruang Terbatas yang diterbitkan resmi oleh Kemnaker RI, Lisensi K3/Kartu Tanda Kewenangan sebagai Teknisi K3 Ruang Terbatas, serta pencatatan data kompetensi personel pada database TemanK3 Kemnaker RI."
+        },
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim PENA Consultant — konfirmasikan jadwal gelombang terdekat dan ketersediaan kuota kelas.",
+                "Submit dokumen persyaratan — kirimkan scan KTP, ijazah, pas foto, dan surat sehat dokter.",
+                "Pembayaran biaya pelatihan — lakukan verifikasi pembayaran investasi sesuai skema pendaftaran.",
+                "Mengikuti kelas & praktik — hadir dalam sesi teori interaktif dan simulasi praktik lapangan.",
+                "Penerbitan sertifikat & lisensi — mengikuti proses rekapitulasi nilai evaluasi Kemnaker RI hingga penerbitan lisensi resmi."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

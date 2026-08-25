@@ -1,0 +1,62 @@
+{
+    "id": "01kyw9mv061vedkapsm8gqz0ch",
+    "title": "Perbedaan Ahli Higiene Industri Madya vs Muda",
+    "slug": "perbedaan-ahli-higiene-industri-madya-vs-ahli-higiene-industri-muda",
+    "path": "/panduan/sertifikasi-k3/perbedaan-ahli-higiene-industri-madya-vs-ahli-higiene-industri-muda",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Perbandingan komprehensif antara HIMU (teknisi sampling operasional) dan HIMA (analis pajanan & perancang sistem kendali rekayasa ventilasi).",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Meskipun sama-sama berada di rumpun industrial hygiene, HIMU dan HIMA memiliki pembagian tugas dan kewenangan yang sangat tegas dalam hierarki pengendalian bahaya lingkungan kerja."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tabel Perbandingan Tugas & Wewenang: HIMU vs HIMA"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Parameter Perbandingan",
+                "Ahli Higiene Industri Muda (HIMU)",
+                "Ahli Higiene Industri Madya (HIMA)"
+            ],
+            "rows": [
+                [
+                    "Peran Utama",
+                    "Teknisi Pengukuran & Sampling Lapangan",
+                    "Analis Risiko Pajanan & Perancang Kendali Rekayasa"
+                ],
+                [
+                    "Kewenangan Teknis",
+                    "Mengoperasikan & mengkalibrasi alat ukur (SLM, Lux Meter, ISBB, Dust Sampler)",
+                    "Menganalisis data pajanan kumulatif, tren statistik, & kalkulasi TWA/STEL"
+                ],
+                [
+                    "Fokus Pengendalian",
+                    "Deteksi awal, pemetaan bahaya (hazard mapping), & pelaporan data mentah",
+                    "Perancangan Local Exhaust Ventilation (LEV), isolasi kebisingan, & substitusi bahan"
+                ],
+                [
+                    "Kualifikasi Masuk",
+                    "D3/S1 pemula dengan pemahaman alat ukur K3",
+                    "S1 dengan pengalaman 2 thn / pemegang sertifikat HIMU berpengalaman"
+                ]
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "HIMU bertugas mengumpulkan data yang akurat di lapangan; HIMA bertugas merumuskan rekayasa teknis agar data tersebut berada di bawah Nilai Ambang Batas (NAB)."
+        }
+    ],
+    "related_offering_slug": "ahli-higiene-industri-madya",
+    "meta_title": "Perbedaan Ahli Higiene Industri Madya dan Ahli Higiene I",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Ahli Higiene Industri Madya dan Ahli Higiene Industri Muda resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LO",
+    "published_at": "2026-07-31"
+}

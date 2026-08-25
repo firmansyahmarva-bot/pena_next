@@ -1,0 +1,96 @@
+{
+    "id": "01kyw9mkb4e74bv8e6f08hr9hj",
+    "title": "Biaya Unit Penanggulangan Kebakaran Kelas C 2026",
+    "slug": "biaya-unit-p-keb-kelas-c-2026",
+    "path": "/panduan/k3-teknis/biaya-unit-p-keb-kelas-c-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Biaya Unit Penanggulangan Kebakaran Kelas C 2026 perlu dihitung dari kebutuhan anggota per shift, gap struktur, praktik, lokasi, dan model paket perusahaan.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Dataset mencatat program Kemnaker sekitar tujuh hari bagi anggota unit penanggulangan kebakaran Kelas C, tanpa harga publik terverifikasi. Nominal 2026 harus dikonfirmasi. Halaman ini tidak menganggap paket Unit Kelas C identik dengan pembinaan satu peserta Regu Kelas C; komposisi dan ruang lingkup harus diperiksa."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Faktor yang Menentukan Biaya 2026"
+        },
+        {
+            "type": "paragraph",
+            "text": "Biaya dipengaruhi jumlah anggota, angkatan, shift, area, risiko, fasilitas praktik, dan lokasi. Paket dapat efisien bila perusahaan membentuk unit, tetapi kelas tunggal mungkin lebih tepat bila gap hanya beberapa personel."
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pemetaan kebutuhan unit, pembinaan, praktik, dan evaluasi",
+                "Administrasi Kemnaker serta dokumen hasil per peserta",
+                "Instruktur, alat/bahan pemadaman, APD, konsumsi, dan pajak",
+                "Mobilisasi, perjalanan, akomodasi, atau fasilitas in-house"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data untuk Meminta Quotation"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Profil fasilitas, risiko, pekerja, area, dan shift",
+                "Struktur D-C-B-A serta sertifikat personel yang tersedia",
+                "Daftar calon per fungsi, surat tugas, dan kesehatan",
+                "Lokasi, fasilitas praktik, target audit, peserta, dan jadwal"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Bandingkan Penawaran dengan Ruang Lingkup Sama"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bandingkan paket Unit Kelas C dengan kelas Regu Kelas C pada komposisi yang sama. Tanyakan jumlah peserta, praktik, bahan, dokumen, pajak, dan penerbitan. Pelatihan tidak menggantikan alat proteksi, inspeksi, drill, komunikasi, dan struktur komando."
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk pengadaan kelompok, minta simulasi dua skenario: kelas publik per peserta dan kelas perusahaan dengan seluruh biaya lokasi. Nilai juga apakah semua calon memenuhi syarat, apakah operasional dapat melepas mereka pada tanggal yang sama, dan apakah fasilitas praktik perusahaan memenuhi kebutuhan. Keputusan terbaik adalah opsi yang menghasilkan personel tepat guna pada saat dibutuhkan, bukan sekadar total invoice terendah."
+        },
+        {
+            "type": "paragraph",
+            "text": "Hitung biaya efektif, bukan hanya harga per kursi. Tambahkan pemeriksaan dokumen dan kesehatan, waktu kerja peserta, perjalanan, akomodasi, pengganti shift, fasilitas praktik, serta risiko jadwal ulang. Minta penawaran mencantumkan minimum peserta, pajak, termin, pembatalan, penggantian nama, retake atau evaluasi ulang, komponen yang dikecualikan, dan estimasi dokumen. Perbandingan ini mencegah harga awal yang murah berubah menjadi biaya tambahan setelah purchase order terbit. Pembayaran juga bukan jaminan kelulusan atau penerbitan instan; calon tetap harus memenuhi proses yang berlaku."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "FAQ Biaya dan Pendaftaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah paket selalu lebih murah? Bergantung gap. Apakah seluruh shift tercakup? Harus dipetakan. Apakah Kelas D tetap diperlukan? Struktur harus diperiksa. Apakah praktik termasuk? Wajib dirinci. Apakah in-house tersedia? Dapat dinilai."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dapatkan Penawaran yang Dapat Dipertanggungjawabkan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim struktur, shift, profil risiko, sertifikat lama, calon, lokasi, dan tenggat. Tim PENA akan membandingkan paket dengan kelas tunggal dan memberikan quotation."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Belum ada harga publik terverifikasi pada data program. Kirim kebutuhan dan dokumen calon agar tim PENA dapat memeriksa program, penerbit, kesiapan, dan komponen biaya sebelum invoice."
+        }
+    ],
+    "related_offering_slug": "unit-p-keb-kelas-c",
+    "meta_title": "Biaya Unit P. Keb Kelas C 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Biaya Unit P. Keb Kelas C 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "01kywb7vn96nts7vtsaqwbg6pj",
+    "slug": "auditor-sistem-manajemen-k3-2-batch-108",
+    "path": "/jadwal/auditor-sistem-manajemen-k3-2-batch-108",
+    "batch_number": "108",
+    "start_date": "2026-08-17",
+    "end_date": "2026-08-23",
+    "is_online": false,
+    "mode": "offline",
+    "normal_price": 6000000,
+    "promo_price": 3270000,
+    "offering_name": "Auditor Sistem Manajemen K3",
+    "offering_slug": "auditor-sistem-manajemen-k3-2",
+    "certification_body": "kemnaker",
+    "location_name": "TUK Onsite",
+    "availability": "available"
+}

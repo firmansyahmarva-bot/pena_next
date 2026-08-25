@@ -1,0 +1,96 @@
+{
+    "id": "01kyw9m556dvgrkw9r3pn2x9g6",
+    "title": "Syarat Pengkaji Teknis Proteksi Kebakaran",
+    "slug": "syarat-pengkaji-teknis-proteksi-kebakaran",
+    "path": "/panduan/k3-teknis/syarat-pengkaji-teknis-proteksi-kebakaran",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat Pengkaji Teknis Proteksi Kebakaran harus dilihat dari latar teknik, pengalaman sistem bangunan, bukti pengkajian, tujuan sertifikasi, dan kebutuhan proyek.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Pengkaji Teknis Proteksi Kebakaran menilai sistem, bukan sekadar menggunakan APAR atau memimpin regu. Calon perlu memiliki konteks teknik pada proteksi aktif, proteksi pasif, jalur evakuasi, pengujian, dokumentasi, dan rekomendasi. Karena proses kajian dapat berkaitan dengan audit, desain, perubahan fungsi, atau perizinan, tujuan peserta dan bentuk pengakuan yang diminta harus dikonfirmasi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Profil Calon yang Relevan"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Engineer, konsultan, auditor teknis, atau facility/fire protection personnel",
+                "Memiliki pendidikan dan pengalaman sesuai skema sertifikasi",
+                "Mampu membaca data sistem dan menyusun temuan/rekomendasi",
+                "Sehat serta siap mengikuti pembelajaran dan asesmen"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Kombinasi pendidikan serta pengalaman harus diverifikasi terhadap skema LSP aktif. Pengalaman menjadi petugas damkar tidak otomatis sama dengan pengalaman mengkaji sistem. Sebaliknya, engineer desain perlu membuktikan kemampuan pada ruang lingkup unit kompetensi yang dinilai. PENA melakukan pre-check, bukan menjamin kelulusan atau kewenangan penandatanganan laporan tertentu."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Bukti dan Data yang Perlu Disiapkan"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah, CV, surat tugas, pas foto, dan dokumen kesehatan",
+                "Portofolio desain, inspeksi, pengujian, audit, atau kajian yang dapat dinilai",
+                "Tipe bangunan, sistem sprinkler, hidran, alarm, dan proteksi pasif",
+                "Tujuan sertifikasi, persyaratan klien, lokasi, dan jumlah peserta"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Data bangunan dapat disamarkan, tetapi peran dan analisis calon harus terbaca. Pastikan apakah kebutuhan sebenarnya adalah sertifikasi personel, pelatihan, atau jasa pengkajian gedung. Mengirim karyawan ke kelas tidak otomatis menghasilkan kajian fasilitas, dan memiliki sertifikat tidak menggantikan pengujian sistem serta pemeliharaan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Bedakan dari Struktur Damkar DCBA"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kelas D-C-B-A membentuk organisasi respons kebakaran, sedangkan pengkaji menilai kelayakan sistem sebelum kejadian. Perusahaan dapat membutuhkan keduanya. Kompetensi pengkaji tidak mengisi regu atau komando darurat; sertifikat damkar juga tidak otomatis memenuhi kebutuhan audit teknis sprinkler, hidran, alarm, compartmentation, atau jalur evakuasi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Jadwal dan Quotation Berbasis Tujuan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim profil calon, portofolio, tipe fasilitas, tujuan, bentuk dokumen yang diminta, jumlah peserta, lokasi, dan target. Tim PENA akan memeriksa skema, bukti, jadwal, serta biaya. Bila kebutuhan adalah jasa kajian, ruang lingkup gedung dan output harus dibahas terpisah agar penawaran tidak salah menganggapnya sebagai pelatihan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan yang Sering Diajukan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah sertifikasi peserta otomatis menghasilkan laporan kajian gedung? Tidak. Pelatihan atau asesmen kompetensi personel berbeda dari kontrak jasa pengkajian. Untuk kajian fasilitas, objek, metode, pengujian, output, dan kewenangan perlu didefinisikan terpisah."
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah Ahli K3 Kebakaran Kelas A sama dengan pengkaji teknis? Tidak. Kelas A berada dalam struktur respons tempat kerja, sedangkan pengkaji menilai sistem proteksi. Perusahaan dapat membutuhkan keduanya untuk risiko dan tujuan berbeda."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Jelaskan apakah Anda membutuhkan kompetensi personel atau pengkajian gedung agar tim mengarahkan layanan yang tepat."
+        }
+    ],
+    "related_offering_slug": "pengkaji-teknis-proteksi-kebakaran",
+    "meta_title": "Syarat Mengikuti Pengkaji Teknis Proteksi Kebakaran — Gu",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Pengkaji Teknis Proteksi Kebakaran resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography ",
+    "published_at": "2026-07-31"
+}

@@ -1,0 +1,46 @@
+{
+    "id": "01kyw9kqke0ybf6pz1nmznrj4t",
+    "title": "Syarat Mengikuti Kursus Lead Auditor ISO 45001:2018",
+    "slug": "syarat-lead-auditor-iso-45001-2018",
+    "path": "/panduan/smk3/syarat-lead-auditor-iso-45001-2018",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Prasyarat intensif kursus Lead Auditor ISO 45001:2018 berstandar IRCA / Exemplar Global 40 jam pelatihan.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Kursus Lead Auditor ISO 45001 adalah program sertifikasi tingkat master internasional berdurasi 40 jam (5 hari intensif) untuk mencetak auditor kepala yang memimpin tim audit pihak ketiga atas nama Badan Sertifikasi Internasional."
+        },
+        {
+            "type": "citation",
+            "text": "Requirements for bodies providing audit and certification of management systems.",
+            "source": "ISO/IEC 17021-1"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Prasyarat Masuk Peserta (Prior Knowledge)"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memahami secara mendalam konsep Plan-Do-Check-Act (PDCA) dan seluruh klausul ISO 45001:2018.",
+                "Memiliki pengalaman kerja minimal 2 tahun di bidang HSE atau manajemen operasional industri.",
+                "Wajib mengikuti 100% jam pelajaran (40 JP) dan lulus continuous assessment harian serta ujian tertulis resmi 2 jam pada hari kelima."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Lulusan kursus ini memenuhi kualifikasi internasional untuk terdaftar sebagai Lead Auditor di register auditor global."
+        }
+    ],
+    "related_offering_slug": "lead-auditor-iso-45001-2018",
+    "meta_title": "Syarat Mengikuti Lead Auditor ISO 45001:2018 — Guide 202",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Lead Auditor ISO 45001:2018 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan",
+    "published_at": "2026-07-31"
+}

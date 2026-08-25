@@ -1,0 +1,41 @@
+{
+    "id": "01kyw9kkdhtyvn0sx63qxsyckb",
+    "title": "Syarat Uji Kompetensi HIMU BNSP",
+    "slug": "syarat-higiene-industri-muda-himu",
+    "path": "/panduan/sertifikasi-k3/syarat-higiene-industri-muda-himu",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Persyaratan uji kompetensi HIMU BNSP berbasis SKKNI Kepmenaker No. 209 Tahun 2008, portofolio formulir APL-01 dan APL-02.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Uji kompetensi HIMU BNSP menguji keterampilan teknisi dalam melaksanakan pengukuran faktor fisik dan kimia di tempat kerja sesuai standar SKKNI."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Persyaratan Berkas Uji Kompetensi"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Logbook rekaman pengukuran lingkungan kerja (kebisingan, pencahayaan, debu, atau iklim kerja).",
+                "Sertifikat pelatihan pengoperasian alat ukur lingkungan kerja.",
+                "Ijazah minimal D3/S1, KTP, CV, dan pasfoto formal."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Mendapatkan sertifikat kompetensi berlogo Garuda Emas yang diakui secara nasional."
+        }
+    ],
+    "related_offering_slug": "higiene-industri-muda-himu",
+    "meta_title": "Syarat Mengikuti Higiene Industri Muda (HIMU) — Guide 20",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Higiene Industri Muda (HIMU) resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, da",
+    "published_at": "2026-07-31"
+}

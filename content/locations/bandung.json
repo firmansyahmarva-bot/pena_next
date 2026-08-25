@@ -1,0 +1,20 @@
+{
+    "id": "01kyw9p0dfd827wcyazc8s4pdj",
+    "name": "Bandung",
+    "slug": "bandung",
+    "path": "/cabang/bandung",
+    "is_physical": false,
+    "address": null,
+    "intro": [
+        {
+            "type": "paragraph",
+            "text": "Kabupaten dan Kota Bandung merupakan salah satu sentra industri tekstil dan garmen terbesar di Indonesia, dengan pabrik pencelupan, penenunan, dan konveksi tersebar di kecamatan-kecamatan seperti Rancaekek, Majalaya, dan Banjaran. Sektor industri pengolahan menyumbang lebih dari separuh Produk Domestik Regional Bruto (PDRB) Kabupaten Bandung, menyerap tenaga kerja dalam jumlah besar dan menjadikan wilayah ini salah satu basis manufaktur padat karya utama di Jawa Barat."
+        },
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyelenggarakan pelatihan dan sertifikasi K3 yang relevan untuk kebutuhan industri tekstil, garmen, dan manufaktur di Bandung dan sekitarnya — skema Kemnaker RI maupun BNSP, tersedia online maupun in-house."
+        }
+    ],
+    "service_areas": [],
+    "phone": null
+}

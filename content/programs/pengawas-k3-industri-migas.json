@@ -1,0 +1,151 @@
+{
+    "id": "01kyfffhm1qakeegrp4prsj663",
+    "type": "training",
+    "name": "Pengawas K3 Industri Migas",
+    "slug": "pengawas-k3-industri-migas",
+    "path": "/pelatihan/pengawas-k3-industri-migas",
+    "title": "Pengawas K3 Industri Migas",
+    "meta_title": "Pengawas K3 Industri Migas",
+    "meta_description": "Sertifikasi Pengawas K3 Industri Migas BNSP. Keselamatan rig pemboran, refinery, gas tester, & standar K3 minyak bumi dan gas.",
+    "summary": "Tersedia online.",
+    "certification_body": "bnsp",
+    "base_price": 5000000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Pengawas K3 Industri Migas adalah skema sertifikasi kompetensi BNSP yang ditujukan bagi tenaga kerja yang bertugas mengawasi penerapan Keselamatan dan Kesehatan Kerja (K3) pada kegiatan operasi minyak dan gas bumi — baik di sektor hulu (eksplorasi, pengeboran, produksi) maupun hilir (pengolahan, distribusi). Industri migas dikenal sebagai sektor dengan tingkat risiko tinggi karena melibatkan bahan mudah terbakar/meledak (flammable), tekanan tinggi, gas beracun seperti H2S, serta pekerjaan berisiko tinggi seperti hot work, bekerja di ketinggian, dan ruang terbatas (confined space)."
+        },
+        {
+            "type": "paragraph",
+            "text": "Penerapan K3 di sektor migas berada dalam kerangka regulasi berlapis: UU No. 1 Tahun 1970 tentang Keselamatan Kerja sebagai payung hukum K3 nasional, Peraturan Pemerintah No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3), serta ketentuan teknis dari Kementerian Energi dan Sumber Daya Mineral (ESDM) yang secara khusus mengatur keselamatan operasi minyak dan gas bumi. Sertifikasi kompetensi personel K3 Migas sendiri mengacu pada SKKNI Bidang K3 Migas yang ditetapkan Kementerian Ketenagakerjaan RI, dan diuji melalui Lembaga Sertifikasi Profesi (LSP) yang berlisensi BNSP."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "[VERIFIKASI PENA] Nomor peraturan teknis ESDM dan SKKNI spesifik yang menjadi acuan skema sebaiknya dikonfirmasi ke LSP mitra PENA Consultant, karena beberapa penyedia mengacu pada nomor regulasi yang berbeda-beda sesuai tahun penerbitan skema."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi ini membuktikan bahwa pemegangnya memiliki kompetensi pengawasan K3 yang sesuai dengan Standar Kompetensi Kerja Nasional Indonesia (SKKNI) bidang K3 Migas, serta memahami regulasi keselamatan yang berlaku di sektor migas. Perlu dipahami bahwa jenjang kompetensi pada bidang K3 migas umumnya berjenjang — mulai dari level Operator hingga Pengawas — sehingga penting memastikan skema dan level yang diambil sesuai dengan posisi dan tanggung jawab pekerjaan Anda saat ini."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Siapa yang perlu mengikuti program ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "HSE Officer dan HSE Supervisor di perusahaan migas, kontraktor, maupun subkontraktor migas",
+                "Pengawas lapangan (field supervisor) di area eksplorasi, pengeboran, produksi, atau fasilitas pengolahan migas",
+                "Personel yang bertugas mengawasi pekerjaan berisiko tinggi seperti hot work, pekerjaan di ruang terbatas, dan bekerja di ketinggian pada instalasi migas",
+                "Calon tenaga kerja yang ingin berkarier di sektor migas dan memerlukan sertifikat kompetensi sebagai syarat penempatan proyek",
+                "Personel PJK3 atau konsultan K3 yang menangani klien di sektor migas"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Pengawas K3 Migas bertanggung jawab untuk:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Melakukan pengawasan harian terhadap penerapan prosedur keselamatan kerja di area operasi migas",
+                "Mengelola sistem izin kerja (Permit to Work) untuk pekerjaan berisiko tinggi",
+                "Melakukan identifikasi bahaya dan penilaian risiko (Hazard Identification and Risk Assessment/HIRA) pada aktivitas operasional",
+                "Mengawasi kepatuhan terhadap prosedur kerja aman untuk hot work, confined space entry, dan bekerja di ketinggian",
+                "Memantau sistem deteksi gas dan kesiapan tanggap darurat (emergency response), termasuk kesiapan menghadapi paparan H2S",
+                "Melakukan inspeksi K3 rutin dan melaporkan temuan ketidaksesuaian",
+                "Berpartisipasi dalam audit keselamatan kerja dan program peningkatan budaya K3 di lokasi kerja",
+                "Menjadi penghubung antara pekerja lapangan dengan manajemen terkait isu keselamatan"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikat ini menjadi salah satu syarat penting untuk penempatan personel di banyak proyek migas, khususnya untuk kontraktor dan subkontraktor yang bekerja sama dengan perusahaan migas nasional maupun internasional. Bagi perusahaan, memiliki pengawas K3 bersertifikat membantu mendukung kepatuhan regulasi, mengurangi risiko insiden bernilai tinggi, dan memperkuat citra keselamatan operasional di mata klien dan regulator."
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kompetensi yang dipelajari:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Prinsip dasar K3 dan karakteristik bahaya spesifik industri migas",
+                "Identifikasi bahaya dan penilaian risiko di lingkungan kerja migas (proses produksi, fasilitas pengolahan, area pengeboran)",
+                "Sistem izin kerja aman (Permit to Work) dan prosedur lock-out tag-out (LOTO)",
+                "Keselamatan pekerjaan berisiko tinggi: hot work, confined space, working at height",
+                "Dasar keselamatan gas H2S dan sistem deteksi gas",
+                "Sistem tanggap darurat (emergency response) di fasilitas migas",
+                "Proses pelaporan dan investigasi insiden di sektor migas",
+                "Dasar audit dan inspeksi K3 untuk mengukur tingkat kepatuhan keselamatan kerja",
+                "Persyaratan dan kepatuhan terhadap peraturan perundangan K3 yang berlaku di industri migas"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan disampaikan melalui kombinasi teori (klasikal/daring), studi kasus insiden migas, diskusi kelompok, serta latihan penerapan prosedur seperti pengisian dokumen izin kerja dan simulasi identifikasi bahaya, agar peserta terbiasa dengan situasi kerja nyata di lapangan migas."
+        },
+        {
+            "type": "paragraph",
+            "text": "Uji kompetensi dilakukan oleh asesor BNSP sesuai skema sertifikasi yang berlaku, umumnya meliputi ujian tertulis, wawancara, dan bentuk penugasan lain sesuai kebutuhan asesor. Peserta yang dinyatakan kompeten pada seluruh unit kompetensi memperoleh Sertifikat Kompetensi Pengawas K3 Industri Migas dari BNSP yang diakui secara nasional."
+        }
+    ],
+    "requirements": [
+        {
+            "type": "paragraph",
+            "text": "Persyaratan umumnya mempertimbangkan latar belakang pendidikan dan pengalaman kerja di sektor migas — untuk level pengawas, latar belakang pendidikan D3/S1 (teknik atau bidang terkait) umumnya diutamakan, meskipun pengalaman kerja yang panjang di bidangnya juga dapat dipertimbangkan tergantung skema."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "[VERIFIKASI PENA] Persyaratan spesifik dapat berbeda tergantung level (Operator/Pengawas) dan LSP penyelenggara — calon peserta sebaiknya berkonsultasi lebih dulu dengan tim PENA Consultant."
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Dokumen yang diperlukan (umumnya):"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan pas foto sesuai ketentuan",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Surat keterangan pengalaman kerja di sektor migas (bila dipersyaratkan)",
+                "Surat keterangan sehat/hasil Medical Check-Up (umum dipersyaratkan pada program K3 migas mengingat sifat pekerjaan lapangan)",
+                "CV/daftar riwayat hidup"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyediakan modul pelatihan berbasis studi kasus industri migas, instruktur/praktisi berpengalaman di bidang HSE migas, serta pendampingan menghadapi uji kompetensi BNSP. Kelas tersedia secara daring maupun tatap muka, termasuk opsi in-house training untuk kebutuhan perusahaan."
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim PENA Consultant untuk konsultasi gratis dan pengecekan level/skema yang sesuai dengan posisi Anda.",
+                "Kirimkan dokumen persyaratan yang diminta.",
+                "Lakukan pembayaran sesuai informasi biaya yang diberikan tim PENA.",
+                "Ikuti sesi pelatihan sesuai jadwal.",
+                "Ikuti uji kompetensi BNSP.",
+                "Terima Sertifikat Kompetensi Pengawas K3 Industri Migas dari BNSP."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

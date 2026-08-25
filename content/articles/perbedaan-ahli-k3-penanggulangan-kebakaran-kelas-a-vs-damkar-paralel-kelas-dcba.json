@@ -1,0 +1,41 @@
+{
+    "id": "01kyw9mwe61e43g5dccbjwg8c6",
+    "title": "Perbedaan Ahli K3 Damkar Kelas A vs Damkar Paralel DCBA",
+    "slug": "perbedaan-ahli-k3-penanggulangan-kebakaran-kelas-a-vs-damkar-paralel-kelas-dcba",
+    "path": "/panduan/k3-teknis/perbedaan-ahli-k3-penanggulangan-kebakaran-kelas-a-vs-damkar-paralel-kelas-dcba",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Perbandingan antara mengambil sertifikasi Ahli K3 Kebakaran Kelas A tunggal versus paket komprehensif Damkar Paralel Kelas DCBA sesuai Kepmenaker 186/1999.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Kepmenaker No. 186/MEN/1999 mengatur struktur 4 jenjang penanggulangan kebakaran di tempat kerja: Kelas D (Petugas Peran), Kelas C (Regu), Kelas B (Koordinator), dan Kelas A (Ahli K3 Kebakaran)."
+        },
+        {
+            "type": "citation",
+            "text": "Unit Penanggulangan Kebakaran di Tempat Kerja.",
+            "source": "Kepmenaker No. 186/MEN/1999"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Keuntungan Mengambil Paket Damkar Paralel DCBA"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bagi perusahaan yang membangun sistem proteksi kebakaran dari nol atau profesional yang ingin menguasai seluruh hierarki damkar, paket paralel DCBA memberikan keuntungan efisiensi waktu dan kurikulum berjenjang terintegrasi dibanding mengambil satu kelas secara terpisah."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Paket DCBA membekali peserta dari taktik pemadaman awal (APAR/Hydrant) hingga perancangan arsitektur proteksi aktif dan pasif gedung bertingkat."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-penanggulangan-kebakaran-kelas-a",
+    "meta_title": "Perbedaan Ahli K3 Penanggulangan Kebakaran Kelas A dan D",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Ahli K3 Penanggulangan Kebakaran Kelas A dan Damkar Paralel Kelas DCBA resmi Kemnaker RI dan BNSP. Persyaratan,",
+    "published_at": "2026-07-31"
+}

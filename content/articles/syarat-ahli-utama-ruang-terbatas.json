@@ -1,0 +1,92 @@
+{
+    "id": "01kyw9kd447w0y2ywqabakk581",
+    "title": "Syarat Ahli Utama K3 Ruang Terbatas BNSP",
+    "slug": "syarat-ahli-utama-ruang-terbatas",
+    "path": "/panduan/k3-teknis/syarat-ahli-utama-ruang-terbatas",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat mengikuti Ahli Utama K3 Ruang Terbatas: jenjang supervisor tertinggi skema BNSP, umumnya mensyaratkan pengalaman pada jenjang Ahli Madya sebelumnya.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Sebagai jenjang tertinggi (supervisor) dalam struktur ruang terbatas BNSP, Ahli Utama umumnya diambil oleh personel yang sudah berpengalaman di jenjang Ahli Madya — sejalan dengan pola jenjang karier K3 yang mensyaratkan pengalaman jenjang sebelumnya."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Persyaratan Umum Peserta"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memiliki pengalaman kerja atau sertifikasi sebagai Ahli Madya K3 Ruang Terbatas",
+                "Ditugaskan atau dipertimbangkan sebagai penanggung jawab program ruang terbatas di fasilitas",
+                "Sehat jasmani dan rohani",
+                "Bersedia mengikuti seluruh sesi pelatihan dan uji kompetensi BNSP"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan pengalaman spesifik mengikuti ketentuan skema/unit kompetensi LSP penyelenggara — tim kami akan mengonfirmasi kelayakan Anda sebelum pendaftaran."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kelengkapan Berkas"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir",
+                "Bukti sertifikasi Ahli Madya K3 Ruang Terbatas (bila sudah dimiliki)",
+                "Curriculum vitae yang mencantumkan pengalaman ruang terbatas",
+                "Pas foto terbaru latar belakang merah"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Bukti Jenjang dan Tanggung Jawab Supervisor"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ahli Utama bukan sertifikasi awal. Calon perlu menunjukkan bahwa pengalaman dan tugasnya telah berkembang dari pelaksanaan atau penilaian menuju pengawasan sistem: menetapkan kriteria entry, mengevaluasi kajian risiko, memastikan koordinasi rescue, meninjau permit, serta memperbaiki program setelah audit atau insiden. Sertifikat Ahli Madya, CV, uraian tugas, dan portofolio perlu diperiksa terhadap skema LSP yang aktif."
+        },
+        {
+            "type": "paragraph",
+            "text": "Kesetaraan pengalaman tidak boleh dijanjikan hanya dari jabatan senior. Asesor menentukan kecukupan bukti kompetensi. Perusahaan sebaiknya memetakan teknisi, Ahli Muda, Madya, dan Utama berdasarkan fungsi nyata. Sertifikasi supervisor juga tidak menggantikan alat deteksi, ventilasi, isolasi, komunikasi, rescue plan, maupun latihan darurat."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pre-Assessment, Jadwal, dan Biaya"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim ijazah, sertifikat jenjang sebelumnya, CV, uraian tugas, bukti proyek, contoh kajian atau evaluasi yang telah disamarkan, persyaratan klien, jumlah peserta, lokasi, dan target mobilisasi. Tim PENA akan memeriksa kesiapan bukti, menjelaskan proses asesmen, lalu memberikan jadwal dan biaya resmi. Bila gap masih besar, jalur pengembangan yang sah lebih tepat daripada memaksakan pendaftaran."
+        },
+        {
+            "type": "paragraph",
+            "text": "Susun portofolio per peserta dengan nama file yang jelas, periode proyek, peran, dan hasil kerja. Informasi klien boleh disamarkan selama asesor masih dapat menilai kontribusi calon. Konfirmasikan juga bentuk dokumen kelulusan dan estimasi penerbitan sebelum menjanjikan tanggal mobilisasi kepada proyek."
+        },
+        {
+            "type": "paragraph",
+            "text": "Perusahaan perlu menyiapkan pengganti selama calon mengikuti seluruh tahapan agar fungsi supervisi ruang terbatas tetap berjalan pada setiap shift."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Belum punya sertifikasi Ahli Madya tapi punya pengalaman setara sebagai penanggung jawab ruang terbatas? Tim kami dapat membantu menilai kesetaraannya."
+        }
+    ],
+    "related_offering_slug": "ahli-utama-ruang-terbatas",
+    "meta_title": "Syarat Mengikuti Ahli Utama Ruang Terbatas — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Ahli Utama Ruang Terbatas resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan s",
+    "published_at": "2026-07-31"
+}

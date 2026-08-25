@@ -1,0 +1,92 @@
+{
+    "id": "01kyw9kg57mxcygh4n1bkqk7z1",
+    "title": "Apa Itu Fire Watcher untuk Pekerjaan Panas?",
+    "slug": "apa-itu-fire-watcher",
+    "path": "/panduan/k3-teknis/apa-itu-fire-watcher",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Fire Watcher adalah petugas pengawas api pada pekerjaan panas (hot work) seperti pengelasan dan pemotongan — perannya di luar struktur Kelas D/C/B/A dan sering bekerja berdampingan dengan Authorized Gas Tester.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Setiap kali ada pekerjaan panas (hot work) — pengelasan, pemotongan, gerinda — di area berisiko kebakaran, harus ada petugas yang mengawasi khusus selama dan setelah pekerjaan berlangsung. Peran itu dijalankan oleh Fire Watcher."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Fire Watcher Bukan Bagian dari Jenjang Kelas D/C/B/A"
+        },
+        {
+            "type": "paragraph",
+            "text": "Berbeda dari personel penanggulangan kebakaran Kelas D-C-B-A yang diatur Kepmenaker No. 186/MEN/1999, Fire Watcher adalah fungsi khusus dalam pengendalian pekerjaan panas. Nama program, bukti kompetensi, dan lembaga penerbit yang diterima dapat berbeda menurut sistem perusahaan, kontrak, atau persyaratan klien. Karena itu PENA tidak menyamakan pelatihan Fire Watcher dengan lisensi kelas damkar dan akan memeriksa kebutuhan proyek sebelum menawarkan jalur yang sesuai."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tugas Fire Watcher Selama Pekerjaan Panas"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Mengawasi area kerja dari percikan api dan material mudah terbakar di sekitarnya",
+                "Memastikan APAR tersedia dan siap digunakan selama pekerjaan berlangsung",
+                "Terus mengawasi area beberapa saat setelah pekerjaan panas selesai (fire watch period)",
+                "Menghentikan pekerjaan dan mengaktifkan tanggap darurat bila muncul tanda bahaya"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Fire Watcher dan Authorized Gas Tester: Dua Peran dalam Satu Izin Kerja Panas"
+        },
+        {
+            "type": "paragraph",
+            "text": "Pada pekerjaan panas di area berpotensi gas mudah terbakar, izin kerja biasanya mensyaratkan dua peran sekaligus: Authorized Gas Tester menguji atmosfer sebelum dan selama pekerjaan untuk memastikan tidak ada gas berbahaya, sementara Fire Watcher mengawasi sumber api itu sendiri. Keduanya saling melengkapi, bukan saling menggantikan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kapan Perusahaan Membutuhkan Fire Watcher"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kebutuhan biasanya muncul ketika kontraktor atau tim maintenance melakukan pengelasan, pemotongan, brazing, atau gerinda di area yang masih memiliki bahan mudah terbakar. Fire Watcher harus dapat fokus mengawasi, memahami batas area kerja, lokasi alarm dan APAR, jalur komunikasi, kondisi penghentian kerja, serta masa pengawasan setelah pekerjaan. Menunjuk pekerja yang sekaligus sibuk melakukan tugas lain membuat fungsi pengawasan kehilangan nilainya."
+        },
+        {
+            "type": "paragraph",
+            "text": "Program ini bukan pengganti prosedur hot-work permit, isolasi energi, pengujian gas, atau kesiapan tim tanggap darurat. Hasil terbaik diperoleh ketika kompetensi personel ditempatkan di dalam sistem izin kerja yang jelas. Untuk proyek yang hanya meminta orientasi internal, bentuk pelatihannya juga bisa berbeda dari proyek yang meminta bukti kompetensi tertentu."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data yang Perlu Dikirim Sebelum Meminta Penawaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sampaikan sektor industri, lokasi dan jenis hot work, jumlah peserta, pola shift, persyaratan dokumen dari pemberi kerja, serta apakah area memiliki potensi gas. Tim PENA dapat memeriksa apakah kebutuhan Anda hanya Fire Watcher atau perlu dipasangkan dengan Authorized Gas Tester, H2S, dan pelatihan pemadaman. Pemeriksaan ini mencegah perusahaan membeli nama pelatihan yang ternyata tidak diterima oleh klien."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Perusahaan Anda rutin melakukan pekerjaan panas di area berisiko? Tim kami dapat membantu menentukan kombinasi Fire Watcher dan AGT yang sesuai dengan sistem izin kerja Anda."
+        }
+    ],
+    "related_offering_slug": "fire-watcher",
+    "meta_title": "Apa itu Fire Watcher? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Fire Watcher? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

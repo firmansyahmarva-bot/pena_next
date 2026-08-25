@@ -1,0 +1,104 @@
+{
+    "id": "01kyw9kxfev27ahwetnk9nrgsc",
+    "title": "Jadwal Operator Pesawat Tenaga dan Produksi 2026",
+    "slug": "jadwal-operator-pesawat-tenaga-produksi-ptp-2026",
+    "path": "/panduan/k3-teknis/jadwal-operator-pesawat-tenaga-produksi-ptp-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Panduan jadwal Operator Pesawat Tenaga dan Produksi Kemnaker 2026 untuk memetakan jenis mesin, kelas operator, praktik, biaya, dan kebutuhan manufaktur.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Jadwal Operator Pesawat Tenaga dan Produksi atau Operator PTP 2026 perlu dikaitkan dengan mesin yang benar. Data program mencatat jalur Kemnaker, durasi sekitar lima hari, dan sasaran operator mesin produksi bertenaga. Tanggal aktif belum terverifikasi; daftar mesin, proses, risiko, dan tugas calon harus masuk pre-check."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Cara Memeriksa Jadwal 2026 yang Benar-Benar Aktif"
+        },
+        {
+            "type": "paragraph",
+            "text": "Lima hari adalah durasi program yang tersimpan, bukan tanggal pasti atau estimasi dokumen. Konfirmasikan hari teori/praktik, mesin yang digunakan, lokasi, jam, mode, kuota, evaluasi, dan status batch. Jangan menarik seluruh operator lini sekaligus tanpa rencana manpower dan pengendalian produksi."
+        },
+        {
+            "type": "paragraph",
+            "text": "Kueri jadwal pelatihan Operator PTP, sertifikasi operator mesin produksi, operator pesawat tenaga, biaya pembinaan PTP, dan training operator manufaktur dapat merujuk cakupan alat berbeda. Nama mesin, sumber tenaga, kapasitas, dan fungsi perlu dikirim agar penyelenggara tidak menebak."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data yang Wajib Ada Sebelum Memilih Batch"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Tanggal, jam, lokasi, mode, mesin praktik, kuota, minimum peserta, dan status confirmed",
+                "Daftar mesin/kapasitas, proses produksi, tugas operator, shift, risiko, serta persyaratan perusahaan",
+                "CV, pengalaman, kesehatan, identitas, surat tugas, dan dokumen pendaftaran Kemnaker",
+                "Harga, fasilitas, alat praktik, penghentian lini, perjalanan, reschedule, evaluasi, dan dokumen"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kesiapan Peserta dan Bukti Kerja"
+        },
+        {
+            "type": "paragraph",
+            "text": "Persiapkan matriks peserta terhadap mesin yang dioperasikan. Bukti pengalaman dapat berupa uraian tugas atau catatan yang aman dibagikan. Peserta tetap memerlukan SOP spesifik mesin, guarding, isolasi energi, inspeksi awal, komunikasi gangguan, dan otorisasi internal setelah pelatihan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Batch Publik, Online, Offline, atau In-house?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Batch publik cocok bila mesin praktik dan cakupannya relevan. In-house dapat mengurangi perbedaan dengan mesin aktual, tetapi perusahaan wajib memastikan kelaikan alat, guarding, area aman, jadwal produksi, pendamping teknis, dan izin penggunaan. Hindari praktik yang mendorong bypass pengaman."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Rencana Mundur dari Target Proyek"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mulai dari tanggal personel harus siap bekerja, lalu mundurkan waktu untuk pemeriksaan syarat, koreksi dokumen, persetujuan anggaran, pendaftaran, pembelajaran atau asesmen, evaluasi, perbaikan bila diperlukan, dan proses dokumen hasil. Tanggal selesai kelas bukan janji sertifikat, lisensi, atau keputusan kompeten langsung tersedia. Sisakan tanggal alternatif agar mobilisasi, audit, tender, shutdown, atau pergantian shift tidak bergantung pada satu batch yang belum confirmed."
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk permintaan perusahaan, tetapkan satu PIC yang mengendalikan daftar peserta, dokumen, PO, komunikasi jadwal, fasilitas praktik, dan keputusan reschedule. Minta quotation menjelaskan harga per peserta atau paket, pajak, minimum peserta, fasilitas, alat praktik, konsumsi/perjalanan, evaluasi, retake, penggantian nama, pembatalan, serta estimasi dokumen. Cara ini membuat perbandingan biaya jadwal pelatihan 2026 lebih akurat daripada membandingkan angka headline saja."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan yang Sering Diajukan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah PTP mencakup semua mesin pabrik? Tidak; kirim daftar alat. Apakah lima hari termasuk dokumen? Tidak. Apakah online cukup? Komponen praktik harus diperiksa. Apakah operator berpengalaman otomatis sesuai kelas? Tetap perlu pre-check. Apakah in-house dapat saat produksi berjalan? Harus dinilai aman."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Jadwal Aktif, Pre-check, dan Quotation"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim daftar mesin, kapasitas, proses, CV operator, shift, lokasi, peserta, dan target audit. Tim PENA akan memetakan cakupan lalu memberi jadwal Operator PTP Kemnaker yang aktif dan quotation."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Tanggal batch 2026 belum terverifikasi di data program. PENA akan memeriksa jadwal aktif dan kecocokan jalur; durasi program tidak sama dengan janji kelas pasti berjalan atau dokumen langsung terbit."
+        }
+    ],
+    "related_offering_slug": "operator-pesawat-tenaga-produksi-ptp",
+    "meta_title": "Jadwal Operator Pesawat Tenaga Produksi (PTP) 2026 — Gui",
+    "meta_description": "Panduan teknis keselamatan Jadwal Operator Pesawat Tenaga Produksi (PTP) 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography A",
+    "published_at": "2026-07-31"
+}

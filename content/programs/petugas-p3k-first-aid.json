@@ -1,0 +1,162 @@
+{
+    "id": "01kyfffht606qw7q6g3v2enj21",
+    "type": "training",
+    "name": "Petugas P3K / First Aid",
+    "slug": "petugas-p3k-first-aid",
+    "path": "/pelatihan/petugas-p3k-first-aid",
+    "title": "Petugas P3K / First Aid",
+    "meta_title": "Petugas P3K / First Aid",
+    "meta_description": "Pembinaan Petugas P3K (First Aid) Kemnaker RI. Pertolongan pertama kecelakaan kerja, resusitasi jantung paru CPR, & Lisensi P3K.",
+    "summary": "Tersedia online.",
+    "certification_body": "bnsp",
+    "base_price": 3200000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Petugas P3K (Pertolongan Pertama pada Kecelakaan) adalah personel yang dilatih dan diberi kewenangan untuk memberikan pertolongan pertama secara cepat dan tepat kepada pekerja atau siapa pun di tempat kerja yang mengalami sakit mendadak atau cedera akibat kecelakaan kerja, sebelum penanganan medis lanjutan tersedia. Keberadaan petugas P3K bukan sekadar praktik baik, melainkan kewajiban hukum bagi perusahaan di Indonesia sebagaimana diatur dalam Peraturan Menteri Tenaga Kerja dan Transmigrasi No. PER.15/MEN/VIII/2008 tentang Pertolongan Pertama pada Kecelakaan (P3K) di Tempat Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Permenaker No. 15/2008 secara spesifik mensyaratkan petugas P3K memiliki lisensi dan buku kegiatan P3K dari instansi yang bertanggung jawab di bidang ketenagakerjaan (Kemnaker/Disnaker), dengan pedoman pelatihan dan pemberian lisensi diatur lebih lanjut melalui Keputusan Direktur Jenderal Pembinaan Pengawasan Ketenagakerjaan No. Kep.53/DJPPK/VIII/2009. Selain jalur lisensi Kemnaker tersebut, tersedia pula jalur sertifikasi kompetensi BNSP yang mengacu pada SKKNI bidang K3, yang mengukur dan mengakui kompetensi petugas P3K secara nasional. Kedua jalur ini memiliki fungsi berbeda — sebaiknya diskusikan dengan tim PENA Consultant jalur mana (lisensi Kemnaker, sertifikasi BNSP, atau keduanya) yang sesuai dengan kebutuhan kepatuhan perusahaan Anda."
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "UU No. 1 Tahun 1970 tentang Keselamatan Kerja — dasar hukum umum K3 di Indonesia",
+                "Permenaker No. PER.15/MEN/VIII/2008 tentang Pertolongan Pertama pada Kecelakaan (P3K) di Tempat Kerja — mengatur kewajiban perusahaan, jumlah petugas P3K berdasarkan rasio pekerja, serta syarat lisensi petugas",
+                "Kepdirjen PPK No. Kep.53/DJPPK/VIII/2009 tentang Pedoman Pelatihan dan Pemberian Lisensi Petugas P3K di Tempat Kerja — mengatur teknis pelatihan dan penerbitan lisensi",
+                "Peraturan Pemerintah No. 50 Tahun 2012 tentang Penerapan SMK3 — mensyaratkan SDM K3 termasuk petugas P3K memiliki kompetensi yang dibuktikan dengan sertifikat/lisensi resmi"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Lisensi petugas P3K dari Kemnaker umumnya berlaku 3 (tiga) tahun sejak diterbitkan dan dapat diperpanjang dengan melengkapi dokumen persyaratan serta laporan kegiatan selama masa berlaku lisensi sebelumnya."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "[VERIFIKASI PENA] Masa berlaku sertifikat BNSP dapat berbeda ketentuan — konfirmasikan ke tim PENA Consultant."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Setiap perusahaan pada dasarnya wajib memiliki petugas P3K, dengan jumlah personel yang ditentukan berdasarkan jumlah pekerja dan potensi bahaya di tempat kerja sesuai lampiran Permenaker No. 15/2008. Ketentuan ini juga mengatur kebutuhan petugas P3K pada situasi khusus, seperti unit kerja yang berjarak 500 meter atau lebih dari pos P3K utama, gedung bertingkat dengan petugas di tiap lantai, serta tempat kerja dengan sistem shift."
+        },
+        {
+            "type": "paragraph",
+            "text": "Program ini relevan bagi:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "HRD/GA yang bertanggung jawab memenuhi kewajiban penyediaan petugas P3K sesuai regulasi",
+                "Karyawan yang ditunjuk perusahaan sebagai petugas P3K di lokasi kerja",
+                "Anggota tim tanggap darurat (emergency response team) perusahaan",
+                "Perusahaan yang sedang mempersiapkan diri menghadapi audit SMK3 atau pemeriksaan dari pengawas Disnaker",
+                "Personel keselamatan kerja di sektor manufaktur, konstruksi, perkantoran bertingkat, dan industri dengan risiko kecelakaan kerja"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Tugas dan tanggung jawab Petugas P3K di tempat kerja:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memberikan pertolongan pertama yang cepat dan tepat kepada korban kecelakaan atau sakit mendadak di tempat kerja",
+                "Mengelola dan memastikan ketersediaan fasilitas P3K (kotak P3K, peralatan, dan perlengkapan medis dasar) sesuai standar",
+                "Melakukan pencatatan setiap tindakan P3K yang diberikan dalam buku kegiatan P3K",
+                "Melaporkan kondisi korban kepada pihak medis/rumah sakit rujukan bila diperlukan penanganan lanjutan",
+                "Berperan aktif dalam sistem tanggap darurat perusahaan",
+                "Menjaga kondisi fasilitas P3K tetap layak pakai dan memenuhi standar kelengkapan"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Memiliki petugas P3K bersertifikat membantu perusahaan memenuhi kewajiban hukum sekaligus meningkatkan kesiapsiagaan menghadapi kondisi darurat — penanganan pertama yang cepat dan tepat dapat mengurangi keparahan cedera dan mempercepat proses pemulihan korban. Bagi individu, sertifikat ini menjadi bekal keterampilan yang bernilai baik di lingkungan kerja maupun kehidupan sehari-hari, serta memperkuat profil profesional di bidang K3/HSE."
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kompetensi yang dipelajari:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Dasar-dasar kesehatan kerja dan peraturan perundangan bidang P3K di tempat kerja",
+                "Prinsip dasar pertolongan pertama pada kecelakaan (P3K)",
+                "Penilaian kondisi korban dan penentuan prioritas tindakan",
+                "Bantuan hidup dasar: resusitasi jantung paru (RJP/CPR)",
+                "Penanganan luka, perdarahan, luka bakar, dan patah tulang (fraktur)",
+                "Penanganan gangguan akibat paparan panas, keracunan, paparan bahan kimia, dan kejang",
+                "Teknik evakuasi dan pemindahan korban yang aman",
+                "Pengelolaan dan kelengkapan fasilitas P3K di tempat kerja",
+                "Pencatatan dan pelaporan kegiatan P3K"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan disampaikan melalui teori di kelas serta praktik langsung (hands-on) menggunakan manekin/peralatan simulasi untuk melatih teknik RJP, pembalutan, dan penanganan cedera lain — mengingat kompetensi ini sangat bergantung pada keterampilan praktis, bukan hanya pemahaman teori."
+        },
+        {
+            "type": "paragraph",
+            "text": "Penilaian dilakukan melalui ujian teori dan ujian praktik yang menilai kemampuan peserta menangani skenario kecelakaan/kondisi darurat secara langsung. Bergantung pada jalur yang diambil: jalur lisensi Kemnaker/Disnaker — peserta yang dinyatakan lulus akan mendapatkan lisensi dan buku kegiatan P3K sesuai ketentuan Permenaker No. 15/2008; jalur sertifikasi BNSP — peserta yang dinyatakan kompeten mendapatkan Sertifikat Kompetensi dari BNSP melalui LSP terkait, berdasarkan SKKNI Bidang K3."
+        }
+    ],
+    "requirements": [
+        {
+            "type": "paragraph",
+            "text": "Umumnya calon peserta perlu memenuhi syarat administratif seperti kondisi sehat jasmani dan rohani serta ditunjuk/direkomendasikan oleh perusahaan tempat bekerja."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "[VERIFIKASI PENA] Persyaratan spesifik dapat berbeda antara jalur lisensi Kemnaker dan jalur sertifikasi BNSP — sebaiknya konfirmasikan ke tim PENA Consultant jalur mana yang paling sesuai dengan kebutuhan Anda."
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Dokumen yang diperlukan (umumnya):"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan pas foto sesuai ketentuan",
+                "Surat keterangan sehat dari dokter/fasilitas kesehatan",
+                "Surat penunjukan/rekomendasi dari perusahaan (bila diminta perusahaan sebagai bagian dari persyaratan pendaftaran)",
+                "Fotokopi ijazah pendidikan terakhir (bila dipersyaratkan skema)"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyediakan modul pelatihan, peralatan praktik P3K (manekin RJP, perlengkapan pembalutan, dan simulasi kondisi darurat), serta instruktur berpengalaman di bidang kesehatan dan keselamatan kerja. Kelas tersedia secara tatap muka untuk sesi praktik, dengan opsi kombinasi teori daring bila tersedia."
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim PENA Consultant untuk konsultasi gratis mengenai jalur pelatihan yang sesuai (lisensi Kemnaker dan/atau sertifikasi BNSP).",
+                "Kirim dokumen persyaratan yang diminta.",
+                "Lakukan pembayaran sesuai informasi biaya yang diberikan.",
+                "Ikuti sesi pelatihan teori dan praktik.",
+                "Ikuti ujian teori dan ujian praktik.",
+                "Terima lisensi/sertifikat sesuai jalur yang diikuti."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

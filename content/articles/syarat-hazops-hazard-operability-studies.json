@@ -1,0 +1,47 @@
+{
+    "id": "01kyw9kgvt7k1jaq6aeta4ca10",
+    "title": "Syarat Mengikuti Pelatihan HAZOPS Study",
+    "slug": "syarat-hazops-hazard-operability-studies",
+    "path": "/panduan/smk3/syarat-hazops-hazard-operability-studies",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Kriteria dan persyaratan teknis mengikuti pelatihan & workshop HAZOPS Study untuk Process Engineer, Operation Superintendent, dan HSE Specialist.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Kajian Hazard and Operability Study (HAZOPS) memerlukan pemahaman mendalam terhadap diagram alir proses (Process Flow Diagram / PFD) dan Piping & Instrumentation Diagram (P&ID) pada fasilitas proses berisiko tinggi."
+        },
+        {
+            "type": "citation",
+            "text": "Hazard and operability studies — Application guide.",
+            "source": "IEC 61882:2016"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Profil Peserta yang Memenuhi Kualifikasi"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Process Engineer, Chemical Engineer, Mechanical / Piping Engineer, Instrument & Control Specialist.",
+                "HSE Specialist, Process Safety Engineer, dan Operation Superintendent pabrik migas, petrokimia, pupuk, atau farmasi.",
+                "Latar belakang pendidikan minimal D3/S1 Teknik Kimia, Mesin, Elektro, Fisika Teknik, atau Ilmu Lingkungan/K3.",
+                "Mampu membaca dan memahami diagram P&ID, parameter operasi suhu, tekanan, laju alir, dan level cairan."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Pelatihan ini membekali peserta untuk memimpin kajian keselamatan proses pada tahapan FEED, Detailed Engineering, maupun Re-HAZOP fasilitas aktif."
+        }
+    ],
+    "related_offering_slug": "hazops-hazard-operability-studies",
+    "meta_title": "Syarat Mengikuti HAZOPS (Hazard & Operability Studies) —",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti HAZOPS (Hazard & Operability Studies) resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermograp",
+    "published_at": "2026-07-31"
+}

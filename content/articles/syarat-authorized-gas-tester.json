@@ -1,0 +1,92 @@
+{
+    "id": "01kyw9kee8hnz491vb2n2w28r0",
+    "title": "Syarat Authorized Gas Tester BNSP dan Dokumen Asesmen",
+    "slug": "syarat-authorized-gas-tester",
+    "path": "/panduan/k3-teknis/syarat-authorized-gas-tester",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat mengikuti Authorized Gas Tester: ditujukan bagi petugas uji gas di area tertutup atau operasi migas, dengan kesiapan fisik dan komitmen mengikuti asesmen kompetensi BNSP.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Authorized Gas Tester ditujukan bagi petugas yang menguji atmosfer di area tertutup atau operasi migas sebelum izin kerja diterbitkan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Persyaratan Umum Peserta"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Bekerja atau ditugaskan pada area yang memerlukan pengujian atmosfer sebelum izin kerja (ruang terbatas, pekerjaan panas, atau operasi migas)",
+                "Memiliki pemahaman dasar tentang prosedur izin kerja aman di tempat kerja",
+                "Sehat jasmani dan rohani",
+                "Bersedia mengikuti pelatihan penggunaan alat deteksi gas dan uji kompetensi BNSP"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan pendidikan dan pengalaman spesifik mengikuti ketentuan skema/unit kompetensi LSP penyelenggara — tim kami akan mengonfirmasi kelayakan Anda sebelum pendaftaran."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kelengkapan Berkas"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir",
+                "Surat tugas/rekomendasi dari perusahaan",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pengalaman Permit-to-Work dan Bukti Asesmen"
+        },
+        {
+            "type": "paragraph",
+            "text": "AGT bukan sekadar pengguna gas detector. Calon perlu memahami jenis sensor, pemeriksaan alat, titik sampling, urutan pengujian, interpretasi hasil, pencatatan, kondisi penghentian kerja, dan hubungan hasil uji dengan permit-to-work. Bukti pengalaman di migas, petrokimia, confined space, hot work, maintenance, atau operasi proses membantu menunjukkan konteks kompetensi."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi BNSP menilai bukti dan demonstrasi sesuai skema. Pendidikan, masa kerja, portofolio, dan bentuk surat tugas harus diverifikasi oleh penyelenggara/LSP. Pelatihan AGT tidak menggantikan kalibrasi alat, prosedur perusahaan, ventilasi, isolasi, standby rescue, atau pengawasan. Pelatihan H2S juga tidak otomatis menggantikan AGT karena fokusnya berbeda."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data untuk Memastikan Kelayakan dan Harga"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim CV, ijazah, surat tugas, pengalaman pengujian gas, jenis detector, contoh log atau permit yang disamarkan, industri, jenis pekerjaan, persyaratan klien, jumlah peserta, lokasi, dan tenggat. Tim PENA akan memeriksa skema, dokumen asesmen, jadwal, serta biaya. Untuk perusahaan, informasi gas potensial dan pola shift membantu menyusun peserta serta skenario pelatihan yang relevan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sebelum asesmen, pastikan peserta dapat menjelaskan bump test, status kalibrasi, keterbatasan sensor, pengaruh kondisi sampling, dan tindakan ketika pembacaan berubah. Ini bukan daftar jawaban ujian, melainkan pemeriksaan apakah calon memang menjalankan fungsi AGT. Bila pengalaman belum ada, perusahaan perlu memberi pembelajaran dan penugasan terawasi secara sah."
+        },
+        {
+            "type": "paragraph",
+            "text": "Pastikan nama skema dan lembaga penerbit pada persyaratan tender tidak terpotong. Sertifikat gas awareness atau H2S tidak otomatis memenuhi permintaan Authorized Gas Tester."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Tidak yakin apakah pekerjaan Anda memerlukan sertifikasi AGT? Tim kami dapat membantu menilai berdasarkan jenis izin kerja di tempat Anda."
+        }
+    ],
+    "related_offering_slug": "authorized-gas-tester",
+    "meta_title": "Syarat Mengikuti Authorized Gas Tester — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Authorized Gas Tester resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan serti",
+    "published_at": "2026-07-31"
+}

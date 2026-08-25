@@ -1,0 +1,17 @@
+{
+    "id": "01kywb7xe47q9w89vqqxfd04dq",
+    "slug": "ahli-k3-kimia-batch-18",
+    "path": "/jadwal/ahli-k3-kimia-batch-18",
+    "batch_number": "18",
+    "start_date": "2026-11-16",
+    "end_date": "2026-11-27",
+    "is_online": false,
+    "mode": "offline",
+    "normal_price": 8000000,
+    "promo_price": 5500000,
+    "offering_name": "Ahli K3 Kimia",
+    "offering_slug": "ahli-k3-kimia",
+    "certification_body": "kemnaker",
+    "location_name": "TUK Onsite",
+    "availability": "available"
+}

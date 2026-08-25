@@ -1,0 +1,91 @@
+{
+    "id": "01kyw9mh3b69cgn2gcn5thvnfh",
+    "title": "Syarat Teknisi K3 Ruang Terbatas BNSP",
+    "slug": "syarat-teknisi-ruang-terbatas",
+    "path": "/panduan/k3-teknis/syarat-teknisi-ruang-terbatas",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat Teknisi K3 Ruang Terbatas BNSP bergantung pada peran entrant/attendant, pengalaman, portofolio, kesehatan, dan bentuk sertifikasi yang diminta klien.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Teknisi K3 Ruang Terbatas BNSP menjalankan fungsi entrant atau attendant berdasarkan kompetensi yang dinilai melalui asesmen. Peserta harus memiliki konteks kerja yang dapat dibuktikan, bukan hanya minat bekerja di confined space. Jenis ruang, pekerjaan, bahaya atmosfer, alat, prosedur entry, pengalaman, dan permintaan proyek menentukan kesiapan serta bukti yang perlu disiapkan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kriteria Calon Asesmen"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memiliki pengalaman atau penugasan pada entry ruang terbatas",
+                "Memahami peran entrant dan attendant",
+                "Sehat serta siap mengikuti demonstrasi kompetensi",
+                "Memenuhi pendidikan/pengalaman pada skema LSP"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Bukti dapat mencakup CV, surat pengalaman, uraian tugas, permit atau checklist yang disamarkan, catatan penggunaan alat, dan dokumen lain yang diterima asesor. Sertifikat awareness tidak otomatis menjadi bukti teknisi. Pengalaman rescue juga merupakan fungsi berbeda. Tim perlu memeriksa skema aktif dan tidak dapat menjamin kelulusan sebelum asesmen."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dokumen dan Data Pekerjaan"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah, CV, pas foto, surat tugas, dan dokumen kesehatan",
+                "Portofolio entrant/attendant sesuai arahan LSP",
+                "Jenis ruang, pekerjaan, gas potensial, alat, dan shift",
+                "Kutipan persyaratan klien yang menyebut BNSP"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Jangan memotong nama penerbit dari dokumen tender. Teknisi BNSP dan Teknisi Confined Space Kemnaker dapat memiliki tugas lapangan mirip, tetapi penerimaan dokumennya belum tentu sama. Jika perusahaan memiliki beberapa lokasi, petakan peserta dan jenis entry per fasilitas agar asesmen serta pelatihan tetap relevan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Batas Kompetensi Teknisi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Teknisi menjalankan entry plan; ia tidak otomatis menjadi ahli yang menyusun seluruh kajian atau rescue team. Perusahaan tetap bertanggung jawab atas permit, isolasi, monitoring, ventilasi, komunikasi, attendant, rescue plan, alat, dan pengawasan. Jumlah personel perlu mengikuti entry simultan serta shift."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "FAQ dan Pre-Assessment"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah peserta harus memiliki sertifikat sebelumnya? Ikuti skema aktif; pengalaman serta bukti tetap penting. Apakah BNSP berlaku untuk semua proyek? Konfirmasikan kepada pemilik proyek. Kirim CV, portofolio, tugas, jenis ruang, jumlah peserta, lokasi, dan tenggat agar PENA memeriksa jalur, gap bukti, jadwal, dan biaya."
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah satu sertifikat mencakup entrant dan attendant? Ruang lingkup mengikuti skema serta unit yang dinilai. Jangan menyimpulkan dari nama program. Minta daftar unit kompetensi dan cocokkan dengan matriks tugas klien sebelum pendaftaran."
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk perusahaan, catat siapa yang bertugas sebagai entrant, attendant, supervisor, gas tester, dan rescue pada tiap shift. Matriks tersebut mengungkap kekosongan fungsi yang tidak terlihat dari daftar sertifikat saja."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim peran entrant/attendant dan bukti kerja untuk pre-assessment BNSP."
+        }
+    ],
+    "related_offering_slug": "teknisi-ruang-terbatas",
+    "meta_title": "Syarat Mengikuti Teknisi Ruang Terbatas — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Teknisi Ruang Terbatas resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sert",
+    "published_at": "2026-07-31"
+}

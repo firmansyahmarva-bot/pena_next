@@ -1,0 +1,213 @@
+{
+    "id": "01kyfffhh31cjgy8j3b8pz86me",
+    "type": "training",
+    "name": "Petugas K3",
+    "slug": "petugas-k3",
+    "path": "/pelatihan/petugas-k3",
+    "title": "Petugas K3",
+    "meta_title": "Petugas K3",
+    "meta_description": "Pembinaan Petugas K3 Kemnaker RI untuk pengawas keselamatan tempat kerja skala kecil & menengah. Sertifikasi & lisensi resmi Kemnaker.",
+    "summary": "Tersedia online.",
+    "certification_body": "bnsp",
+    "base_price": 3200000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Petugas K3 adalah jenjang kompetensi dasar dalam struktur K3 perusahaan — personel yang menjalankan tugas K3 harian di unit atau area kerjanya, melapor kepada Ahli K3 Umum atau P2K3. Program ini disertifikasi melalui skema BNSP berbasis SKKNI, memberi pengakuan formal atas kompetensi yang selama ini sering dijalankan tanpa sertifikasi resmi."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+            "source": "UU No. 13 Tahun 2003"
+        },
+        {
+            "type": "citation",
+            "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+            "source": "PP No. 23 Tahun 2004"
+        },
+        {
+            "type": "paragraph",
+            "text": "Meskipun UU No. 1/1970 tidak menyebut \"Petugas K3\" sebagai jabatan wajib bernama spesifik seperti Ahli K3 Umum, pasal-pasalnya mewajibkan setiap pekerja dan pengurus tempat kerja memahami dan menjalankan ketentuan K3 — sertifikasi Petugas K3 BNSP memformalkan kompetensi tersebut secara terukur dan diakui secara nasional, sekaligus menjadi bukti kepatuhan perusahaan saat diaudit atau ditinjau klien/mitra bisnis."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program tiga hari ini dirancang sebagai titik masuk (entry point) ke jenjang karier K3 — cocok bagi karyawan yang baru ditugaskan menangani K3 di unit kerjanya maupun fresh graduate yang ingin memulai karier di bidang HSE tanpa harus langsung mengambil skema Ahli K3."
+        },
+        {
+            "type": "paragraph",
+            "text": "Di banyak perusahaan, Petugas K3 adalah \"mata dan telinga\" program K3 di lapangan — merekalah yang paling sering berada di lokasi kerja sehari-hari, sehingga kualitas pengawasan K3 perusahaan secara praktik sangat bergantung pada seberapa kompeten petugas di level ini. Karena syarat masuknya ringan dan durasinya singkat, program ini juga sering menjadi pilihan perusahaan untuk mensertifikasi banyak karyawan sekaligus lintas unit kerja, sebagai fondasi budaya K3 sebelum menunjuk Ahli K3 Umum di level yang lebih tinggi. Setelah menyelesaikan program, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Menjalankan tugas K3 harian di unit/area kerja: inspeksi rutin, pemantauan kepatuhan penggunaan APD, dan pelaporan kondisi tidak aman (unsafe condition) kepada atasan",
+                "Melakukan identifikasi bahaya sederhana di lingkungan kerjanya sendiri dan mengeskalasikan temuan berisiko tinggi kepada Ahli K3 atau P2K3",
+                "Memahami dasar-dasar regulasi K3 yang relevan dengan pekerjaannya sehari-hari, tanpa perlu menguasai seluruh cakupan Ahli K3 Umum",
+                "Berperan aktif dalam kegiatan P2K3 di tingkat unit kerja: safety talk, toolbox meeting, dan program K3 lain yang dijalankan perusahaan",
+                "Lulus uji kompetensi (asesmen) BNSP pada unit-unit kompetensi dasar skema Petugas K3"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kurikulum berfokus pada kompetensi praktis tingkat unit kerja, bukan pengawasan lintas perusahaan seperti jenjang Ahli K3 — materi disusun agar peserta baru langsung bisa menjalankan tugasnya begitu kembali ke tempat kerja:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pengenalan dasar hukum dan kelembagaan K3 — cukup untuk memahami mengapa tugasnya penting, tanpa kedalaman analisis regulasi jenjang ahli",
+                "Identifikasi bahaya dan kondisi tidak aman di area kerja sehari-hari",
+                "Alat Pelindung Diri (APD): jenis, pemilihan, dan pengawasan kepatuhan penggunaannya",
+                "Prosedur kerja aman dasar dan cara melaporkan temuan/insiden kepada atasan",
+                "Peran Petugas K3 dalam struktur P2K3 dan kegiatan K3 rutin perusahaan",
+                "Persiapan dan pelaksanaan uji kompetensi (asesmen) BNSP jenjang Petugas K3"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "paragraph",
+            "text": "Sebagai jenjang entry-level, syarat masuk program ini sengaja dibuat lebih ringan dibanding skema Ahli K3:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal SMA/SMK sederajat",
+                "Ditugaskan oleh perusahaan sebagai petugas K3 di unit/area kerja tertentu, dibuktikan surat tugas dari perusahaan",
+                "Sehat jasmani dan rohani",
+                "Tidak disyaratkan pengalaman kerja K3 sebelumnya — program ini justru dirancang untuk membekali kompetensi dari nol"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat tugas dari perusahaan yang menunjuk sebagai petugas K3 di unit/area kerja tertentu"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul pelatihan ringkas, fokus pada kompetensi praktis tingkat unit kerja",
+                "Instruktur praktisi K3 berpengalaman di lapangan",
+                "Uji kompetensi (asesmen) BNSP jenjang Petugas K3",
+                "Sertifikat kompetensi BNSP",
+                "Pendampingan konsultasi ringan pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir di halaman ini.",
+                "Terima penawaran resmi: jadwal dan biaya.",
+                "Lengkapi berkas administrasi dan surat tugas dari perusahaan.",
+                "Ikuti pelatihan tiga hari (kelas dan praktik).",
+                "Ikuti uji kompetensi (asesmen) BNSP di hari terakhir.",
+                "Terima sertifikat kompetensi Petugas K3."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": [
+        {
+            "id": "01kywb7xmxnx28kkebqdkq1p0c",
+            "slug": "petugas-k3-batch-33",
+            "batch_number": "33",
+            "start_date": "2026-08-24",
+            "end_date": "2026-08-26",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 4500000,
+            "promo_price": 2500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7xpxwhcynndazkj620vp",
+            "slug": "petugas-k3-batch-34",
+            "batch_number": "34",
+            "start_date": "2026-09-28",
+            "end_date": "2026-09-30",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 4500000,
+            "promo_price": 2500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7xrqd41tg4qp8k6rnppd",
+            "slug": "petugas-k3-batch-35",
+            "batch_number": "35",
+            "start_date": "2026-10-26",
+            "end_date": "2026-10-28",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 4500000,
+            "promo_price": 2500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7xtm0cgy7859c9f6qcpe",
+            "slug": "petugas-k3-batch-36",
+            "batch_number": "36",
+            "start_date": "2026-11-23",
+            "end_date": "2026-11-25",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 4500000,
+            "promo_price": 2500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7xwgbd7v45qkvfvpx30v",
+            "slug": "petugas-k3-batch-37",
+            "batch_number": "37",
+            "start_date": "2026-12-21",
+            "end_date": "2026-12-23",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 4500000,
+            "promo_price": 2500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7xycpp6je5zxtde6s0da",
+            "slug": "petugas-k3-batch-38",
+            "batch_number": "38",
+            "start_date": "2027-01-25",
+            "end_date": "2027-01-27",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 4500000,
+            "promo_price": 2500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "id": "01kyhqmds843sv88r4bb7nb3z8",
+    "title": "Sanksi Tidak Menerapkan SMK3 Menurut Undang-Undang",
+    "slug": "sanksi-tidak-menerapkan-smk3",
+    "path": "/panduan/smk3/sanksi-tidak-menerapkan-smk3",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Tinjauan yuridis sanksi administratif, pidana kurungan, denda, dan kerugian komersial bagi perusahaan yang melanggar kewajiban penerapan SMK3 PP 50/2012 dan UU Ketenagakerjaan.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Banyak pengusaha beranggapan bahwa Sistem Manajemen K3 (SMK3) hanyalah program sukarela (voluntary). Secara hukum ketenagakerjaan Indonesia, penerapan SMK3 adalah kewajiban hukum mutlak (mandatory) bagi perusahaan yang mempekerjakan 100 orang buruh atau lebih, atau memiliki tempat kerja dengan potensi bahaya tinggi."
+        },
+        {
+            "type": "citation",
+            "text": "Kewajiban Penerapan SMK3 — Setiap perusahaan wajib menerapkan SMK3 yang terintegrasi dengan sistem manajemen perusahaan.",
+            "source": "UU No. 13 Tahun 2003 Pasal 87"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tiga Tingkat Sanksi Hukum atas Pelanggaran K3 dan SMK3"
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelanggaran terhadap norma K3 dan kewajiban SMK3 memicu sanksi berlapis dari otoritas ketenagakerjaan:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "1. Sanksi Administratif (Permenaker 05/2018 & PP 50/2012): Meliputi Nota Pemeriksaan Pengawas Ketenagakerjaan ke-1 dan ke-2, peringatan tertulis, pembatasan kegiatan usaha, pembekuan izin operasional alat produksi, hingga rekomendasi pencabutan izin usaha",
+                "2. Sanksi Pidana Pelanggaran K3 (UU No. 1 Tahun 1970 Pasal 15): Ancaman hukuman kurungan selama-lamanya 3 bulan atau denda pidana terhadap pengurus yang tidak memenuhi syarat keselamatan kerja",
+                "3. Tanggung Jawab Pidana Khusus Kecelakaan Kerja Fatal (KUHP Pasal 359): Jika kelalaian pengurus atau manajemen dalam menyediakan sistem K3 menyebabkan kematian tenaga kerja, dapat dipidana penjara hingga 5 tahun"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dampak Kerugian Komersial dan Operasional Non-Hukum"
+        },
+        {
+            "type": "paragraph",
+            "text": "Selain ancaman hukum, perusahaan yang tidak mengantongi Sertifikat SMK3 resmi menghadapi sanksi pasar yang berat:"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Aspek Bisnis",
+                "Dampak Tanpa Sertifikasi SMK3",
+                "Keuntungan Memiliki Sertifikat SMK3"
+            ],
+            "rows": [
+                [
+                    "Peluang Tender",
+                    "Gugur otomatis pada tahap evaluasi pra-kualifikasi CSMS (BUMN/Migas)",
+                    "Memenuhi syarat skor maksimal CSMS & tender pemerintah"
+                ],
+                [
+                    "Premi Asuransi",
+                    "Beban premi asuransi aset dan ketenagakerjaan lebih tinggi akibat profil risiko buruk",
+                    "Potensi diskon premi asuransi risiko industri"
+                ],
+                [
+                    "Audit Klien Global",
+                    "Gagal audit kepatuhan buyer internasional (rantai pasok global)",
+                    "Membuka akses pasar ekspor dan kemitraan multinasional"
+                ],
+                [
+                    "Produktivitas Kerja",
+                    "Risiko penghentian kerja mendadak (stop-work order) saat terjadi kecelakaan",
+                    "Operasional stabil dengan jam kerja selamat (safe man-hours) tinggi"
+                ]
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Penerapan SMK3 bukan biaya beban (cost center), melainkan proteksi hukum dan investasi strategis untuk melindungi kelangsungan bisnis perusahaan."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-umum",
+    "meta_title": "Sanksi Tidak Menerapkan SMK3 Menurut Undang-Undang — Gui",
+    "meta_description": "Panduan teknis keselamatan Sanksi Tidak Menerapkan SMK3 Menurut Undang-Undang resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography A",
+    "published_at": "2026-07-27"
+}

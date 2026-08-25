@@ -1,0 +1,77 @@
+{
+    "id": "01kyw9kfe8kc2ny0ddqaaaywxp",
+    "title": "Apa Itu Sertifikasi Fillet & Plate Welder?",
+    "slug": "apa-itu-fillet-plate-welder",
+    "path": "/panduan/sertifikasi-k3/apa-itu-fillet-plate-welder",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Sertifikasi Fillet & Plate Welder adalah kualifikasi juru las resmi untuk penyambungan pelat dan sambungan sudut baja struktural, bejana tekan, dan fabrikasi industri.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Fillet & Plate Welder (Juru Las Pelat dan Sambungan Sudut) adalah kualifikasi kompetensi pengelasan yang sangat krusial di sektor konstruksi baja, galangan kapal, fabrikasi bejana tekan, tangki timbun, dan jembatan. Sambungan fillet (sudut) dan groove pada pelat baja menuntut teknik pengelasan yang presisi agar penetrasi las sempurna dan bebas dari cacat struktur."
+        },
+        {
+            "type": "citation",
+            "text": "Kualifikasi Juru Las di Tempat Kerja — mengatur kelas, kewenangan, dan pengujian keterampilan juru las yang bekerja pada peralatan bertekanan dan konstruksi vital.",
+            "source": "Permenaker No. 02/MEN/1982"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Posisi Pengelasan yang Diuji"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kualifikasi juru las pelat diuji pada berbagai tingkat kesulitan posisi pengelasan standar:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Posisi Fillet (1F Bawah Tangan, 2F Mendatar, 3F Tegak / Vertikal, 4F Di Atas Kepala / Overhead)",
+                "Posisi Groove Pelat (1G Flat, 2G Horizontal, 3G Vertical-Up/Down, 4G Overhead)",
+                "Penggunaan proses las SMAW (Shielded Metal Arc Welding), GMAW/MIG, FCAW, atau GTAW/TIG sesuai spesifikasi prosedur las (WPS)"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Metode Pengujian Kualitas Hasil Las"
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk dinyatakan lulus dan memperoleh sertifikat kompetensi / lisensi juru las, spesimen hasil pengelasan peserta diuji melalui serangkaian pengujian material:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pemeriksaan Visual (Visual Inspection) untuk memastikan tidak ada undercut, porositas permukaan, spatter berlebih, atau ketidaksejajaran",
+                "Uji Rusak (Destructive Test): Uji Tekuk (Root Bend & Face Bend Test) dan Uji Patah Sambungan Sudut (Fillet Break Test) untuk membuktikan daktilitas dan fusi logam las",
+                "Uji Tanpa Rusak (Non-Destructive Examination): Radiography Testing (RT) atau Ultrasonic Testing (UT) pada sambungan pelat berpenetrasi penuh"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pentingnya Sertifikat Juru Las Bagi Perusahaan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mempekerjakan juru las yang memegang Lisensi K3 Juru Las Kemnaker RI atau Sertifikat BNSP adalah kewajiban hukum untuk memastikan instalasi tidak mengalami kegagalan struktur (catastrophic weld failure) dan lolos inspeksi pihak ketiga / Ditjen Binwasnaker."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Sertifikasi juru las pelat dan fillet membuktikan keterampilan manual dan kepatuhan teknik las terhadap Welding Procedure Specification (WPS)."
+        }
+    ],
+    "related_offering_slug": "fillet-plate-welder",
+    "meta_title": "Apa itu Fillet & Plate Welder? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Fillet & Plate Welder? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

@@ -1,0 +1,86 @@
+{
+    "id": "01kyw9mj59b0cjyz9tbsm0gxd9",
+    "title": "Apa Itu Paket Unit Penanggulangan Kebakaran Kelas C?",
+    "slug": "apa-itu-unit-p-keb-kelas-c",
+    "path": "/panduan/k3-teknis/apa-itu-unit-p-keb-kelas-c",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Unit Penanggulangan Kebakaran Kelas C (paket unit) adalah opsi mendaftarkan seluruh regu Kelas C sekaligus dalam satu penyelenggaraan — kompetensi dan dasar hukumnya sama dengan sertifikasi individu Kelas C.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Materi dan kompetensi Regu Penanggulangan Kebakaran Kelas C sama persis baik didaftarkan satu per satu maupun sekaligus sebagai satu unit/tim. Yang membedakan \"paket unit\" hanyalah format pendaftarannya — bukan isi pelatihannya."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Unit Penanggulangan Kebakaran di Tempat Kerja — klasifikasi personel Kelas D, C, B, dan A.",
+            "source": "Kepmenaker No. 186/MEN/1999"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kapan Memilih Paket Unit Dibanding Pendaftaran Individu"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Perusahaan membentuk regu Kelas C baru dari nol dan ingin seluruh anggota terlatih dalam satu periode",
+                "Lebih mudah dikoordinasikan secara jadwal dibanding mendaftarkan anggota secara terpisah dari waktu ke waktu",
+                "Anggota regu langsung berlatih dan bersimulasi bersama sebagai tim sejak awal pelatihan"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk penjelasan lengkap tentang tugas dan cakupan kerja Kelas C, lihat artikel Regu Penanggulangan Kebakaran Kelas C — kompetensinya identik, hanya format pendaftarannya yang berbeda."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Paket Unit Cocok untuk Kebutuhan Perusahaan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Paket ini paling berguna ketika perusahaan ingin membentuk regu baru, mengganti banyak anggota yang sudah tidak aktif, membuka fasilitas, atau memenuhi kebutuhan seluruh shift sekaligus. Pendaftaran tim memungkinkan peserta mempraktikkan komunikasi, pembagian peran, dan respons bersama. Namun jumlah anggota tetap harus dihitung dari luas area, tingkat bahaya kebakaran, shift, serta struktur Kelas D, B, dan A yang tersedia."
+        },
+        {
+            "type": "paragraph",
+            "text": "Paket Unit Kelas C bukan paket DCBA. Ia hanya mengisi jenjang regu dan tidak otomatis menyediakan petugas peran, koordinator, atau penanggung jawab teknik. Sertifikat peserta juga tidak menggantikan APAR dan hidran yang layak, inspeksi, drill, alarm, jalur evakuasi, komando kejadian, serta hubungan dengan bantuan pemadam eksternal."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Informasi untuk Menghitung Penawaran Tim"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sampaikan bidang usaha, lokasi, luas dan fungsi fasilitas, bahaya kebakaran utama, jumlah pekerja dan shift, jumlah anggota regu yang sudah ada, struktur DCBA, sarana pemadaman, target audit, dan calon peserta. Tim PENA akan memeriksa kebutuhan unit, pembagian angkatan, persyaratan pembinaan Kemnaker, jadwal, dan harga perusahaan sehingga paket tidak dijual sebagai kuota seragam."
+        },
+        {
+            "type": "paragraph",
+            "text": "Perusahaan juga perlu menentukan siapa yang tetap bertugas ketika sebagian anggota mengikuti pelatihan. Rencana angkatan yang baik menjaga cakupan respons pada setiap shift, memasukkan personel cadangan, dan memungkinkan regu berlatih bersama tanpa mengosongkan fungsi darurat fasilitas."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Membentuk regu Kelas C baru dan ingin tahu apakah paket unit lebih efisien dibanding pendaftaran satu per satu? Tim kami dapat membantu menghitung berdasarkan jumlah anggota regu Anda."
+        }
+    ],
+    "related_offering_slug": "unit-p-keb-kelas-c",
+    "meta_title": "Apa itu Unit P. Keb Kelas C? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Unit P. Keb Kelas C? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

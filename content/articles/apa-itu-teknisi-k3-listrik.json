@@ -1,0 +1,102 @@
+{
+    "id": "01kyw9mevzfbh4e5p8rt801z34",
+    "title": "Apa Itu Teknisi K3 Listrik BNSP?",
+    "slug": "apa-itu-teknisi-k3-listrik",
+    "path": "/panduan/k3-teknis/apa-itu-teknisi-k3-listrik",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Teknisi K3 Listrik skema BNSP menjalankan pekerjaan kelistrikan di lapangan berdasarkan kompetensi yang diuji lembaga sertifikasi profesi — jalur alternatif dari Teknisi K3 Listrik lisensi Kemnaker RI.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Selain jalur lisensi Kemnaker RI, pekerjaan teknisi kelistrikan juga bisa disertifikasi lewat skema kompetensi BNSP. Teknisi K3 Listrik BNSP menjalankan pekerjaan lapangan yang sama — memasang, memeriksa, dan memelihara instalasi listrik — namun kompetensinya diuji lewat asesmen BNSP, bukan penunjukan Kemnaker."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Listrik di Tempat Kerja.",
+            "source": "Permenaker No. 12 Tahun 2015"
+        },
+        {
+            "type": "citation",
+            "text": "Perubahan atas Permenaker No. 12 Tahun 2015.",
+            "source": "Permenaker No. 33 Tahun 2015"
+        },
+        {
+            "type": "citation",
+            "text": "Persyaratan Umum Instalasi Listrik (PUIL 2011).",
+            "source": "SNI 0225:2011"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Cakupan Kerja"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memasang, memeriksa, dan memelihara instalasi listrik sesuai prosedur kerja aman",
+                "Menerapkan lockout-tagout (LOTO) pada instalasi bertegangan",
+                "Melaporkan temuan kondisi instalasi kepada Ahli K3 Listrik yang mengawasi",
+                "Lulus asesmen kompetensi BNSP untuk skema teknisi listrik"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kapan Memilih Skema BNSP Dibanding Kemnaker RI"
+        },
+        {
+            "type": "paragraph",
+            "text": "Skema BNSP umumnya relevan ketika klien/proyek secara spesifik meminta sertifikasi kompetensi berbasis SKKNI, atau saat perusahaan ingin mengukur kompetensi secara terstandar lintas industri. Jalur lisensi Kemnaker RI (dibahas pada artikel Teknisi K3 Listrik lisensi Kemnaker RI) lebih umum digunakan untuk pemenuhan kewajiban penunjukan personel K3 di tempat kerja."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Peserta yang Tepat untuk Asesmen Teknisi Listrik"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sasaran program adalah teknisi maintenance, utility, facility, commissioning, atau personel proyek yang memiliki pekerjaan nyata pada instalasi listrik dan dapat menunjukkan kompetensinya. Skema BNSP berorientasi pada asesmen bukti, sehingga pengalaman, portofolio, uraian tugas, dan kesiapan calon penting. Peserta tanpa konteks kerja perlu memeriksa kelayakan sebelum mengejar sertifikat."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi Teknisi K3 Listrik tidak menggantikan SOP, LOTO, single-line diagram, pengujian instalasi, APD, peralatan berinsulasi, izin kerja, atau kewenangan Ahli K3 Listrik. Perusahaan sebaiknya memisahkan kebutuhan teknisi pelaksana dari ahli yang merencanakan dan mengevaluasi. Ini juga mencegah kata “teknisi listrik” digunakan untuk setiap peran kelistrikan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Yang Perlu Dikirim untuk Jadwal dan Biaya"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sampaikan persyaratan klien, tugas harian, jenis dan tegangan instalasi, pendidikan, pengalaman, bukti kerja yang tersedia, jumlah peserta, lokasi, serta target sertifikasi. Tim PENA dapat memeriksa skema BNSP, kebutuhan asesmen, dokumen, jadwal, dan biaya resmi. Bila proyek meminta lisensi Kemnaker, peserta akan diarahkan ke program K3 Teknisi Listrik yang berbeda."
+        },
+        {
+            "type": "paragraph",
+            "text": "Lampirkan matriks kompetensi atau kutipan tender bila ada. Detail tersebut mengurangi risiko memilih skema yang benar secara nama tetapi tidak diterima pada proyek tujuan."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Tidak yakin skema BNSP atau Kemnaker RI yang diminta proyek Anda untuk teknisi listrik? Tim kami dapat membantu mengecek persyaratan yang berlaku."
+        }
+    ],
+    "related_offering_slug": "teknisi-k3-listrik",
+    "meta_title": "Apa itu Teknisi K3 Listrik? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Teknisi K3 Listrik? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

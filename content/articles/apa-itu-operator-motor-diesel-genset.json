@@ -1,0 +1,88 @@
+{
+    "id": "01kyw9kvs53z1t7ek4cpt85yf6",
+    "title": "Apa Itu Operator Motor Diesel dan Genset?",
+    "slug": "apa-itu-operator-motor-diesel-genset",
+    "path": "/panduan/k3-teknis/apa-itu-operator-motor-diesel-genset",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Operator Motor Diesel/Genset adalah lisensi K3 untuk personel yang mengoperasikan pembangkit listrik cadangan — kompetensi yang relevan di hampir semua sektor industri, berbeda dari PTP yang berfokus pada mesin produksi.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Hampir setiap fasilitas industri — dari pabrik, gedung perkantoran, hingga rumah sakit — punya genset sebagai sumber listrik cadangan. Karena mengoperasikan motor diesel dan genset melibatkan bahan bakar, sistem kelistrikan, dan komponen berputar, operatornya wajib memiliki lisensi K3 sesuai Permenaker No. 38 Tahun 2016."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Pesawat Tenaga dan Produksi.",
+            "source": "Permenaker No. 38 Tahun 2016"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tanggung Jawab Operator Motor Diesel/Genset"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Mengoperasikan genset sesuai prosedur start-up dan shutdown yang aman",
+                "Memeriksa sistem bahan bakar, pelumas, dan pendingin secara berkala",
+                "Mengidentifikasi bahaya mekanis dan kelistrikan pada unit genset",
+                "Merespons gangguan operasional dan kondisi darurat pada peralatan"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Genset vs PTP: Peralatan Spesifik dalam Payung Regulasi yang Sama"
+        },
+        {
+            "type": "paragraph",
+            "text": "Motor Diesel/Genset dan Operator Pesawat Tenaga dan Produksi (PTP) sama-sama diatur Permenaker No. 38 Tahun 2016, tapi cakupannya berbeda. PTP adalah lisensi untuk mesin produksi di lini pabrik yang jenisnya bervariasi per industri. Genset adalah peralatan pembangkit listrik cadangan yang hampir universal di semua jenis fasilitas, terlepas dari jenis produksinya — sehingga kebutuhannya jauh lebih luas dibanding PTP yang sifatnya lebih spesifik per sektor."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Siapa yang Tepat Mengikuti Program Ini"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sasaran utamanya adalah personel utility, engineering, facility, atau maintenance yang ditugaskan menjalankan dan memantau motor diesel atau genset. Peserta perlu memahami konteks alat yang akan dioperasikan, bukan hanya mengejar sertifikat untuk pekerjaan listrik secara umum. Teknisi listrik, operator genset, dan teknisi mekanik dapat memiliki tugas yang beririsan, tetapi lisensi dan batas kewenangannya tidak otomatis sama."
+        },
+        {
+            "type": "paragraph",
+            "text": "Perusahaan memerlukan pemetaan saat memiliki beberapa genset dengan kapasitas berbeda, operasi paralel, suplai darurat untuk proses kritis, atau pergantian operator antarsift. Kompetensi personel harus didukung SOP, pengujian berkala, ventilasi, pengendalian bahan bakar, proteksi kebakaran, dan koordinasi dengan pengelola instalasi listrik."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Informasi yang Mempercepat Penawaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim jenis dan kapasitas genset, foto nameplate bila tersedia, fungsi unit, pola operasi, jumlah shift, pengalaman dan pendidikan peserta, lokasi, jumlah peserta, serta target jadwal. Tim PENA akan memeriksa jalur yang sesuai, kelengkapan dokumen, dan pilihan pelaksanaan. Bila fasilitas juga memiliki mesin produksi, kebutuhan Operator PTP dapat dihitung terpisah agar peserta tidak dimasukkan ke program yang salah."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Fasilitas Anda punya genset dan juga mesin produksi yang perlu operator berlisensi? Tim kami dapat membantu memetakan kebutuhan lisensi PTP dan genset sekaligus."
+        }
+    ],
+    "related_offering_slug": "operator-motor-diesel-genset",
+    "meta_title": "Apa itu Operator Motor Diesel / Genset? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Operator Motor Diesel / Genset? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sert",
+    "published_at": "2026-07-31"
+}

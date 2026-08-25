@@ -1,0 +1,87 @@
+{
+    "id": "01kyw9ket6m2g314m1hh620xvb",
+    "title": "Apa Itu Paket Damkar Paralel Kelas DCBA?",
+    "slug": "apa-itu-damkar-paralel-kelas-dcba",
+    "path": "/panduan/k3-teknis/apa-itu-damkar-paralel-kelas-dcba",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Paket Paralel Damkar Kelas D, C, B, A adalah opsi membangun seluruh struktur unit penanggulangan kebakaran sekaligus, bukan melatih satu kelas per angkatan — cocok untuk perusahaan yang mendirikan unit damkar dari nol.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Kepmenaker No. 186/MEN/1999 mengharuskan unit penanggulangan kebakaran tempat kerja terdiri dari 4 kelas personel berjenjang: D, C, B, dan A. Perusahaan yang belum punya satu pun personel bersertifikat biasanya menghadapi pilihan: melatih satu kelas dulu secara bertahap, atau melatih seluruh jenjang sekaligus lewat paket paralel."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Apa Bedanya \"Paralel\" dari Pelatihan per Kelas"
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan per kelas melatih satu jenjang personel pada satu waktu — misalnya hanya Kelas D untuk petugas peran kebakaran. Paket paralel menggabungkan pelatihan Kelas D, C, B, dan A dalam satu periode penyelenggaraan, sehingga perusahaan langsung memiliki struktur organisasi tanggap darurat kebakaran yang lengkap begitu program selesai."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Unit Penanggulangan Kebakaran di Tempat Kerja — klasifikasi personel Kelas D, C, B, dan A.",
+            "source": "Kepmenaker No. 186/MEN/1999"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kapan Paket Paralel Lebih Tepat daripada Bertahap"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Perusahaan baru berdiri atau baru membuka fasilitas dan belum punya personel damkar sama sekali",
+                "Ada tenggat kepatuhan/audit yang mensyaratkan struktur unit damkar lengkap dalam waktu dekat",
+                "Lebih efisien secara jadwal dan anggaran dibanding menyelenggarakan 4 batch terpisah"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Siapa yang Sebaiknya Mengambil Paket DCBA"
+        },
+        {
+            "type": "paragraph",
+            "text": "Paket ini terutama ditujukan untuk kebutuhan perusahaan, bukan satu peserta yang ingin mengumpulkan empat jenjang sekaligus. Komposisi peserta perlu mengikuti fungsi dalam organisasi: petugas peran kebakaran, anggota regu, koordinator, dan penanggung jawab teknik tidak otomatis dijalankan oleh orang yang sama. Karena itu, kebutuhan yang benar dimulai dari peta fasilitas, tingkat bahaya kebakaran, pola kerja, jumlah shift, dan struktur tanggap darurat yang sudah ada."
+        },
+        {
+            "type": "paragraph",
+            "text": "Paket paralel kurang tepat bila perusahaan sebenarnya hanya kehilangan satu personel pada satu kelas, atau bila hasil audit hanya meminta penambahan anggota regu tertentu. Dalam kondisi tersebut, kelas tunggal biasanya lebih fokus. Paket DCBA menjadi masuk akal ketika perusahaan perlu membangun atau merapikan seluruh rantai komando dan ingin jadwal antarkelas dikoordinasikan dalam satu proyek."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Informasi untuk Mendapatkan Rencana dan Penawaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sebelum meminta harga, siapkan lokasi fasilitas, bidang usaha, jumlah pekerja dan shift, klasifikasi risiko kebakaran bila sudah tersedia, jumlah personel yang telah memiliki lisensi, serta target waktu pemenuhan. Tim PENA akan menggunakan data itu untuk memeriksa kelas yang benar-benar dibutuhkan, pembagian peserta, pilihan penyelenggaraan, dokumen awal, dan estimasi jadwal. Dengan cara ini, penawaran tidak sekadar menjual empat kelas, tetapi mengarah pada struktur unit yang dapat dipakai perusahaan."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Sedang membangun unit penanggulangan kebakaran dari nol dan ingin tahu apakah paket paralel lebih efisien dibanding bertahap? Tim kami dapat membantu menghitung kebutuhan personel per kelas sesuai skala fasilitas Anda."
+        }
+    ],
+    "related_offering_slug": "damkar-paralel-kelas-dcba",
+    "meta_title": "Apa itu Damkar Paralel Kelas DCBA? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Damkar Paralel Kelas DCBA? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifika",
+    "published_at": "2026-07-31"
+}

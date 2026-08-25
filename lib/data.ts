@@ -1,134 +1,54 @@
-import programsData from '../data/programs.json';
-import articlesData from '../data/articles.json';
-import industriesData from '../data/industries.json';
-import locationsData from '../data/locations.json';
-import batchesData from '../data/batches.json';
-import testimonialsData from '../data/testimonials.json';
-import mitraData from '../data/mitra.json';
-import instructorsData from '../data/instructors.json';
-import caseStudiesData from '../data/case_studies.json';
-import faqsData from '../data/faqs.json';
+import fs from 'fs';
+import path from 'path';
+import { Program, Article, Industry, Location, ScheduleBatch } from './types';
 
-export interface StructuredBlock {
-  type: string;
-  text?: string;
-  style?: string;
-  items?: string[];
-  source?: string;
-  caption?: string;
+export * from './types';
+
+const contentDir = path.join(process.cwd(), 'content');
+
+function readJsonDir<T>(subDir: string): T[] {
+  const dirPath = path.join(contentDir, subDir);
+  if (!fs.existsSync(dirPath)) return [];
+  const files = fs.readdirSync(dirPath).filter(f => f.endsWith('.json'));
+  return files.map(file => {
+    const raw = fs.readFileSync(path.join(dirPath, file), 'utf-8');
+    return JSON.parse(raw) as T;
+  });
 }
 
-export interface Program {
-  id: string;
-  type: string;
-  name: string;
-  slug: string;
-  path: string;
-  title: string;
-  meta_title: string;
-  meta_description: string;
-  summary: string | null;
-  certification_body: 'kemnaker' | 'bnsp' | 'none' | null;
-  base_price: number | null;
-  duration: string | null;
-  legal_basis: StructuredBlock[];
-  objectives: StructuredBlock[];
-  scope: StructuredBlock[];
-  requirements: StructuredBlock[];
-  documents: StructuredBlock[];
-  facilities: StructuredBlock[];
-  registration_procedure: StructuredBlock[];
-  hero_media: { path: string; alt_text: string; width: number; height: number } | null;
-  batches: Array<{
-    id: string;
-    slug: string;
-    batch_number: number | null;
-    start_date: string | null;
-    end_date: string | null;
-    is_online: boolean;
-    mode: string;
-    normal_price: number | null;
-    promo_price: number | null;
-    location_name: string;
-    availability: string;
-  }>;
+function readJsonFile<T>(subDir: string, slug: string): T | undefined {
+  const filePath = path.join(contentDir, subDir, `${slug}.json`);
+  if (!fs.existsSync(filePath)) return undefined;
+  const raw = fs.readFileSync(filePath, 'utf-8');
+  return JSON.parse(raw) as T;
 }
 
-export interface Article {
-  id: string;
-  title: string;
-  slug: string;
-  path: string;
-  role: string;
-  cluster: { name: string; slug: string } | null;
-  summary: string | null;
-  body: StructuredBlock[];
-  related_offering_slug: string | null;
-  meta_title: string;
-  meta_description: string;
-  published_at: string | null;
-}
+export const getPrograms = (): Program[] => readJsonDir<Program>('programs');
+export const getProgramBySlug = (slug: string): Program | undefined => readJsonFile<Program>('programs', slug);
 
-export interface Industry {
-  id: string;
-  name: string;
-  slug: string;
-  path: string;
-  description: string | null;
-  regulatory_context: StructuredBlock[];
-  relevant_offering_slugs: string[];
-}
+export const getArticles = (): Article[] => readJsonDir<Article>('articles');
+export const getArticleBySlug = (slug: string): Article | undefined => readJsonFile<Article>('articles', slug);
 
-export interface Location {
-  id: string;
-  name: string;
-  slug: string;
-  path: string;
-  is_physical: boolean;
-  address: string | null;
-  intro: StructuredBlock[];
-  service_areas: string[];
-  phone: string | null;
-}
+export const getIndustries = (): Industry[] => readJsonDir<Industry>('industries');
+export const getIndustryBySlug = (slug: string): Industry | undefined => readJsonFile<Industry>('industries', slug);
 
-export interface ScheduleBatch {
-  id: string;
-  slug: string;
-  path: string;
-  batch_number: number | null;
-  start_date: string | null;
-  end_date: string | null;
-  is_online: boolean;
-  mode: string;
-  normal_price: number | null;
-  promo_price: number | null;
-  offering_name: string | null;
-  offering_slug: string | null;
-  certification_body: string | null;
-  location_name: string;
-  availability: string;
-}
+export const getLocations = (): Location[] => readJsonDir<Location>('locations');
+export const getLocationBySlug = (slug: string): Location | undefined => readJsonFile<Location>('locations', slug);
 
-export const getPrograms = (): Program[] => programsData as unknown as Program[];
-export const getProgramBySlug = (slug: string): Program | undefined => getPrograms().find(p => p.slug === slug);
+export const getBatches = (): ScheduleBatch[] => readJsonDir<ScheduleBatch>('batches');
+export const getBatchBySlug = (slug: string): ScheduleBatch | undefined => readJsonFile<ScheduleBatch>('batches', slug);
 
-export const getArticles = (): Article[] => articlesData as unknown as Article[];
-export const getArticleBySlug = (slug: string): Article | undefined => getArticles().find(a => a.slug === slug);
+export const getTestimonials = () => {
+  const file = path.join(contentDir, 'global', 'testimonials.json');
+  return fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf-8')) : [];
+};
 
-export const getIndustries = (): Industry[] => industriesData as unknown as Industry[];
-export const getIndustryBySlug = (slug: string): Industry | undefined => getIndustries().find(i => i.slug === slug);
+export const getMitra = () => {
+  const file = path.join(contentDir, 'global', 'mitra.json');
+  return fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf-8')) : [];
+};
 
-export const getLocations = (): Location[] => locationsData as unknown as Location[];
-export const getLocationBySlug = (slug: string): Location | undefined => getLocations().find(l => l.slug === slug);
-
-export const getBatches = (): ScheduleBatch[] => batchesData as unknown as ScheduleBatch[];
-export const getBatchBySlug = (slug: string): ScheduleBatch | undefined => getBatches().find(b => b.slug === slug);
-
-export const getTestimonials = () => testimonialsData;
-export const getMitra = () => mitraData;
-export const getInstructors = () => instructorsData;
-export const getCaseStudies = () => caseStudiesData;
-export const getFaqs = () => faqsData;
-
-export const WA_NUMBER = '6281296870884';
-export const getWaLink = (message: string) => `https://wa.me/${WA_NUMBER}?text=${encodeURIComponent(message)}`;
+export const getFaqs = () => {
+  const file = path.join(contentDir, 'global', 'faqs.json');
+  return fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf-8')) : [];
+};

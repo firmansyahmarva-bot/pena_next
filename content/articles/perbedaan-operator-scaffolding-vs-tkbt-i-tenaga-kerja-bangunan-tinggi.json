@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9n0tpbdya1r6tqtnf2mv6",
+    "title": "Perbedaan Operator Scaffolding vs TKBT Tingkat I",
+    "slug": "perbedaan-operator-scaffolding-vs-tkbt-i-tenaga-kerja-bangunan-tinggi",
+    "path": "/panduan/k3-teknis/perbedaan-operator-scaffolding-vs-tkbt-i-tenaga-kerja-bangunan-tinggi",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Perbandingan peran perancang & perakit perancah (Scaffolder) vs pekerja yang beraktivitas di atas bangunan tinggi (TKBT Tingkat I).",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Operator Scaffolding memiliki keahlian spesifik dalam mendirikan (erection), memodifikasi, dan membongkar (dismantling) struktur perancah baja serta memasang tagging kelaikan (Green Tag / Red Tag). TKBT Tingkat I adalah pekerja yang menggunakan sarana perancah/tangga tersebut untuk menyelesaikan tugas konstruksi dengan APD penahan jatuh."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Scaffolder memastikan perancah aman dinaiki, TKBT bekerja di atasnya dengan aman."
+        }
+    ],
+    "related_offering_slug": "operator-scaffolding",
+    "meta_title": "Perbedaan Operator Scaffolding dan TKBT I (Tenaga Kerja ",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Operator Scaffolding dan TKBT I (Tenaga Kerja Bangunan Tinggi) resmi Kemnaker RI dan BNSP. Persyaratan, prosedu",
+    "published_at": "2026-07-31"
+}

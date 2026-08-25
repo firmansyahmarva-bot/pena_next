@@ -1,0 +1,92 @@
+{
+    "id": "01kyw9kpmvmgqgwsqw1xczyw61",
+    "title": "Syarat Teknisi K3 Listrik Kemnaker",
+    "slug": "syarat-k3-teknisi-listrik",
+    "path": "/panduan/k3-teknis/syarat-k3-teknisi-listrik",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat mengikuti Teknisi K3 Listrik jenjang Kemnaker RI: ditujukan bagi teknisi listrik industri yang ditugaskan perusahaan untuk memasang, memeriksa, atau memelihara instalasi listrik.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Program ini ditujukan bagi teknisi listrik industri jenjang penunjukan Kemnaker RI, yang menjalankan pekerjaan pemasangan, pemeriksaan, dan pemeliharaan instalasi listrik di lapangan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Persyaratan Umum Peserta"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Ditugaskan/direkomendasikan secara tertulis oleh perusahaan tempat bekerja — sesuai sifat penunjukan Kemnaker RI",
+                "Bekerja atau berpengalaman pada pekerjaan instalasi listrik di lingkungan industri",
+                "Sehat jasmani dan rohani, tidak buta warna",
+                "Bersedia mengikuti pelatihan teori dan praktik hingga selesai"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan pendidikan dan pengalaman spesifik mengikuti ketentuan penunjukan yang berlaku — tim kami akan memverifikasi kelayakan Anda sebelum pendaftaran."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kelengkapan Berkas"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir",
+                "Surat tugas/rekomendasi dari perusahaan",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter, termasuk hasil tes buta warna"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kesesuaian Pendidikan, Pengalaman, dan Instalasi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kelayakan tidak boleh ditentukan hanya dari jabatan “teknisi”. Tim perlu memeriksa pendidikan, masa kerja, tugas pemasangan atau pemeliharaan, jenis dan tegangan instalasi, kewenangan kerja, serta ketentuan pembinaan yang berlaku. Surat tugas harus menggambarkan pekerjaan nyata. Teknisi mekanik atau operator mesin yang sesekali menyentuh panel belum tentu memenuhi ruang lingkup yang sama."
+        },
+        {
+            "type": "paragraph",
+            "text": "Jalur Kemnaker perlu dibedakan dari Teknisi K3 Listrik BNSP. Tender dapat meminta salah satu secara spesifik. Sertifikat personel tidak menggantikan LOTO, SOP, single-line diagram, inspeksi, APD, alat berinsulasi, atau pengawasan Ahli K3 Listrik. Tes buta warna dan surat sehat sebaiknya disiapkan dari fasilitas yang dapat menerbitkan hasil terbaca."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pre-Check Sebelum Pendaftaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim KTP, ijazah, CV, surat pengalaman, surat tugas, hasil tes buta warna, jenis instalasi, bukti kerja yang aman dibagikan, persyaratan klien, jumlah peserta, lokasi, dan target. Tim PENA akan memeriksa kelayakan, dokumen yang kurang, jadwal, durasi, dan biaya resmi. Untuk perusahaan, matriks calon mempercepat pemeriksaan kelompok."
+        },
+        {
+            "type": "paragraph",
+            "text": "Periksa masa berlaku identitas, kualitas pindai, dan konsistensi nama pada seluruh berkas. Bukti instalasi dapat disamarkan untuk melindungi data fasilitas, tetapi jenis pekerjaan serta kontribusi calon harus terlihat. Konfirmasikan pula bentuk dokumen hasil dan estimasi penerbitan bila sertifikat dibutuhkan untuk mobilisasi proyek."
+        },
+        {
+            "type": "paragraph",
+            "text": "Susun berkas per peserta dan beri nama yang jelas agar kekurangan pendidikan, pengalaman, surat tugas, atau hasil kesehatan dapat ditemukan sebelum jadwal pembinaan dikunci."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Tidak yakin jenjang Kemnaker RI atau BNSP yang diminta proyek Anda untuk teknisi listrik? Tim kami dapat membantu mengecek sebelum pendaftaran."
+        }
+    ],
+    "related_offering_slug": "k3-teknisi-listrik",
+    "meta_title": "Syarat Mengikuti K3 Teknisi Listrik — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti K3 Teknisi Listrik resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifik",
+    "published_at": "2026-07-31"
+}

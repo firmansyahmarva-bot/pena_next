@@ -1,0 +1,57 @@
+{
+    "id": "01kyw9mzbe0fd4mpymvka80j63",
+    "title": "Perbedaan Operator Alat Berat vs Operator Crane Kelas 3",
+    "slug": "perbedaan-operator-alat-berat-vs-operator-crane-kelas-3",
+    "path": "/panduan/sertifikasi-k3/perbedaan-operator-alat-berat-vs-operator-crane-kelas-3",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Perbandingan tugas dan kompetensi teknis antara Operator Alat Berat (pemindahan tanah/earthmoving) dan Operator Crane Kelas 3 (pengangkatan beban vertikal/horizontal).",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Meskipun sama-sama berada di bawah payung Pesawat Angkat dan Pesawat Angkut (Permenaker 08/2020), Operator Alat Berat dan Operator Crane memiliki prinsip fisika pengoperasian dan titik kritis keselamatan yang sangat berbeda."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tabel Perbandingan: Operator Alat Berat vs Operator Crane"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Aspek Evaluasi",
+                "Operator Alat Berat (Earthmoving)",
+                "Operator Crane Kelas 3 (Lifting)"
+            ],
+            "rows": [
+                [
+                    "Fokus Operasional",
+                    "Penggalian, pendorongan, pemuatan, & perataan material curah",
+                    "Pengangkatan, pemindahan, & penempatan material rigid via tali kawat baja"
+                ],
+                [
+                    "Keahlian Kritis",
+                    "Traksi tanah, sudut lereng, stabilitas bucket, & manuver roda/track",
+                    "Pembacaan Load Chart, sudut boom, radius angkat, & batas SWL"
+                ],
+                [
+                    "Dokumen SIO",
+                    "SIO Operator Pesawat Angkut (Excavator / Loader / Dozer)",
+                    "SIO Operator Pesawat Angkat (Mobile / Crawler / Tower Crane Kelas 3)"
+                ]
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Keduanya wajib memiliki SIO resmi yang terdaftar di Kementerian Ketenagakerjaan RI."
+        }
+    ],
+    "related_offering_slug": "operator-alat-berat",
+    "meta_title": "Perbedaan Operator Alat Berat dan Operator Crane Kelas 3",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Operator Alat Berat dan Operator Crane Kelas 3 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermogr",
+    "published_at": "2026-07-31"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "01kywb7w4hk8vvf4ps56gbqya0",
+    "slug": "tkbt-ii-tenaga-kerja-bangunan-tinggi-batch-293",
+    "path": "/jadwal/tkbt-ii-tenaga-kerja-bangunan-tinggi-batch-293",
+    "batch_number": "293",
+    "start_date": "2026-09-09",
+    "end_date": "2026-09-11",
+    "is_online": false,
+    "mode": "offline",
+    "normal_price": 5500000,
+    "promo_price": 3370000,
+    "offering_name": "TKBT II (Tenaga Kerja Bangunan Tinggi)",
+    "offering_slug": "tkbt-ii-tenaga-kerja-bangunan-tinggi",
+    "certification_body": "bnsp",
+    "location_name": "TUK Onsite",
+    "availability": "available"
+}

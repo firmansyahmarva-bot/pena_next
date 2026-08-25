@@ -1,0 +1,93 @@
+{
+    "id": "01kyw9m391y7yeg0d8vd8c0010",
+    "title": "Apa Itu Pengawas K3 Industri Migas?",
+    "slug": "apa-itu-pengawas-k3-industri-migas",
+    "path": "/panduan/k3-teknis/apa-itu-pengawas-k3-industri-migas",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Pengawas K3 Industri Migas mengawasi keseluruhan sistem keselamatan operasi migas — mengoordinasikan peran spesialis seperti Authorized Gas Tester, penanganan H2S, dan Fire Watcher dalam satu sistem izin kerja aman.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Operasi minyak dan gas melibatkan banyak bahaya sekaligus: hidrokarbon mudah terbakar, gas beracun seperti H2S, pekerjaan panas, dan ruang terbatas. Alih-alih satu peran menangani semuanya, industri migas biasanya membagi tanggung jawab ke beberapa spesialis — dan Pengawas K3 Industri Migas adalah peran yang mengoordinasikan semuanya dalam satu sistem."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+            "source": "UU No. 13 Tahun 2003"
+        },
+        {
+            "type": "citation",
+            "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+            "source": "PP No. 23 Tahun 2004"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tanggung Jawab Pengawas K3 Migas"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Mengawasi pekerjaan berisiko tinggi: hidrokarbon, ruang terbatas, dan pekerjaan panas",
+                "Menjalankan dan mengawasi sistem izin kerja aman (Permit to Work/PTW)",
+                "Memastikan setiap peran spesialis di lapangan menjalankan fungsinya sesuai prosedur",
+                "Memimpin respons saat terjadi kondisi tanggap darurat operasi migas"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Satu Pengawas, Banyak Peran di Bawahnya"
+        },
+        {
+            "type": "paragraph",
+            "text": "Dalam praktiknya, Pengawas K3 Migas tidak bekerja sendiri. Authorized Gas Tester menguji atmosfer sebelum izin kerja terbit, personel terlatih H2S siap merespons bila terjadi paparan gas beracun, dan Fire Watcher mengawasi pekerjaan panas — Pengawas K3 Migas adalah figur yang memastikan seluruh peran ini bekerja terkoordinasi dalam satu sistem izin kerja, bukan berjalan sendiri-sendiri."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Sertifikasi Ini Cocok untuk Siapa"
+        },
+        {
+            "type": "paragraph",
+            "text": "Program Pengawas K3 Industri Migas relevan bagi safety officer, HSE supervisor, pengawas operasi, pengawas kontraktor, dan personel berpengalaman yang mendapat tanggung jawab mengendalikan pekerjaan berisiko di fasilitas hulu maupun hilir. Ini bukan pelatihan awareness untuk pekerja baru. Calon perlu memahami operasi lapangan, prosedur izin kerja, identifikasi bahaya, komunikasi antartim, dan batas kewenangan pengawas."
+        },
+        {
+            "type": "paragraph",
+            "text": "Perusahaan biasanya mencari pelatihan atau sertifikasi Pengawas K3 Migas ketika memenuhi matriks kompetensi tender, memobilisasi tim ke proyek migas, memperkuat pengawasan shutdown, atau menutup kesenjangan kompetensi HSE. Sertifikat tidak menggantikan sistem PTW, prosedur isolasi, gas testing, inspeksi, maupun emergency response plan; kompetensi pengawas harus dipasang ke dalam sistem tersebut."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Sebelum Meminta Jadwal, Syarat, dan Biaya"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sampaikan jabatan dan pengalaman calon, pendidikan, lokasi serta jenis operasi migas, jumlah peserta, persyaratan sertifikat dari klien, target mobilisasi, dan apakah kebutuhan bersifat publik atau in-house. Tim PENA akan memeriksa kecocokan skema BNSP, dokumen asesmen, kemungkinan jadwal, dan penawaran resmi. Bila tugas peserta lebih spesifik, kebutuhan AGT, H2S, Fire Watcher, atau confined space dapat dipetakan terpisah agar perusahaan tidak membeli satu sertifikasi untuk semua fungsi."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Operasi migas Anda sudah punya AGT dan personel H2S tapi belum ada yang mengoordinasikan semuanya? Tim kami dapat membantu menilai kebutuhan Pengawas K3 Migas untuk fasilitas Anda."
+        }
+    ],
+    "related_offering_slug": "pengawas-k3-industri-migas",
+    "meta_title": "Apa itu Pengawas K3 Industri Migas? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Pengawas K3 Industri Migas? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifik",
+    "published_at": "2026-07-31"
+}

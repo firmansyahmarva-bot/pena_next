@@ -1,0 +1,17 @@
+{
+    "id": "01kywb7v5tnpgzzhg8edwc7qa8",
+    "slug": "ahli-k3-umum-batch-26",
+    "path": "/jadwal/ahli-k3-umum-batch-26",
+    "batch_number": "26",
+    "start_date": "2027-01-04",
+    "end_date": "2027-01-15",
+    "is_online": false,
+    "mode": "offline",
+    "normal_price": 8500000,
+    "promo_price": 6000000,
+    "offering_name": "Ahli K3 Umum",
+    "offering_slug": "ahli-k3-umum",
+    "certification_body": "kemnaker",
+    "location_name": "TUK Onsite",
+    "availability": "available"
+}

@@ -1,0 +1,97 @@
+{
+    "id": "01kyw9kq7gdf25nfn3a8t0zk0d",
+    "title": "Biaya Koordinator Kebakaran Kelas B 2026",
+    "slug": "biaya-koordinator-unit-p-keb-kelas-b-2026",
+    "path": "/panduan/k3-teknis/biaya-koordinator-unit-p-keb-kelas-b-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Biaya Koordinator Unit Penanggulangan Kebakaran Kelas B 2026 harus dihitung dari kelayakan calon, jumlah koordinator per shift, lokasi, praktik, dan komponen Kemnaker.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Dataset mencatat Koordinator Unit Penanggulangan Kebakaran Kelas B sebagai jalur Kemnaker berdurasi sekitar tujuh hari, tetapi harga publik belum terverifikasi. Karena itu tidak ada nominal rekaan. Kelas B adalah pengendali taktis regu, bukan pelatihan dasar. Harga perlu dikaitkan dengan pengalaman calon dan kebutuhan koordinator pada area serta shift perusahaan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Komponen yang Perlu Ada dalam Penawaran"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pembinaan, praktik, simulasi, dan evaluasi",
+                "Administrasi serta dokumen hasil Kemnaker",
+                "Materi, fasilitas praktik, pajak, konsumsi, dan alat",
+                "Perjalanan, akomodasi, atau kelas in-house"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Total biaya mencakup surat sehat, dokumen jenjang sebelumnya, waktu kerja, pengganti shift, dan perjalanan. Satu koordinator tidak selalu cukup untuk fasilitas multi-shift. Perusahaan harus menghitung personel cadangan dan memastikan Regu Kelas C serta penanggung jawab Kelas A tersedia. Bila seluruh struktur kurang, paket DCBA dapat lebih relevan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data untuk Menghitung Biaya yang Benar"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Daftar calon, pengalaman, sertifikat lama, dan surat tugas",
+                "Jumlah regu, area, shift, dan struktur DCBA",
+                "Profil risiko, fasilitas, lokasi, dan target audit",
+                "Pilihan kelas publik/in-house serta jumlah peserta"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Hindari Biaya Ulang dan Penawaran yang Tidak Setara"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bandingkan penawaran Kelas B dengan ruang lingkup sama. Jangan membandingkan langsung dengan Kelas C atau paket DCBA. Tanyakan praktik, dokumen, pajak, ketidakhadiran, pergantian peserta, dan penerbitan. Sertifikat tidak menggantikan alat, drill, komunikasi, command system, dan emergency response plan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan Biaya yang Sering Diajukan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Berapa biaya 2026? Minta quotation resmi. Apakah paket perusahaan lebih murah? Tergantung peserta dan lokasi. Apakah calon harus punya jenjang sebelumnya? Perlu verifikasi. Apakah satu orang cukup? Tergantung area dan shift. Apakah praktik termasuk? Harus tertulis. Apakah sertifikat dijamin? Tidak."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Hitung Biaya Efektif, Bukan Hanya Harga Paket"
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk keputusan pengadaan, bagi total penawaran dengan jumlah peserta yang benar-benar memenuhi syarat dan dapat mengikuti seluruh proses. Catat pula biaya pemeriksaan dokumen, waktu kerja, perjalanan, penginapan, pengganti shift, fasilitas praktik, asesmen ulang, serta risiko jadwal mundur. Minta vendor menuliskan masa berlaku harga, jumlah minimum peserta, syarat pelunasan, kebijakan pembatalan atau penggantian nama, komponen yang dikecualikan, estimasi dokumen, dan tindakan bila jadwal penerbit berubah. Perbandingan ini menghasilkan biaya efektif per peserta yang lebih jujur dan mencegah penawaran murah berubah menjadi biaya tambahan setelah purchase order diterbitkan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Cara Meminta Quotation Resmi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim struktur DCBA, jumlah regu dan shift, dokumen calon, lokasi, serta target. Tim PENA akan memeriksa kebutuhan Kelas B versus paket lengkap dan memberikan jadwal serta quotation resmi."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim data peserta dan kebutuhan perusahaan agar tim PENA dapat melakukan pre-check serta menyusun penawaran resmi tanpa angka rekaan."
+        }
+    ],
+    "related_offering_slug": "koordinator-unit-p-keb-kelas-b",
+    "meta_title": "Biaya Koordinator Unit P. Keb Kelas B 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Biaya Koordinator Unit P. Keb Kelas B 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan s",
+    "published_at": "2026-07-31"
+}

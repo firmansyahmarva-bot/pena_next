@@ -1,0 +1,95 @@
+{
+    "id": "01kyw9kc0g4hajc9bscnf4pang",
+    "title": "Jadwal Ahli Madya Ruang Terbatas BNSP 2026",
+    "slug": "jadwal-ahli-madya-ruang-terbatas-2026",
+    "path": "/panduan/k3-teknis/jadwal-ahli-madya-ruang-terbatas-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Panduan jadwal Ahli Madya K3 Ruang Terbatas BNSP 2026 untuk menyiapkan portofolio, asesmen, kuota, dan mobilisasi personel.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Data program mencatat jalur BNSP bagi ahli confined space jenjang madya, namun tidak memuat tanggal batch 2026 terverifikasi. Jadwal terdekat belum tentu terbaik bila sertifikat jenjang atau bukti pengelolaan ruang terbatas belum siap."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Durasi Terverifikasi, Tanggal Masih Harus Dikonfirmasi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Durasi tercatat sekitar tiga hari. Durasi itu tidak mencakup seluruh waktu pre-assessment, koreksi bukti, keputusan asesmen, dan penerbitan. Rencana perusahaan harus menyediakan buffer sebelum audit atau mobilisasi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Checklist Sebelum Mengunci Jadwal"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Tanggal persiapan/asesmen, jam, mode, lokasi, LSP, dan status batch",
+                "Skema, unit, asesor, kuota, minimum peserta, serta batas daftar",
+                "CV, sertifikat jenjang, pengalaman, portofolio permit/risk assessment",
+                "Biaya, retake, perbaikan bukti, reschedule, dan estimasi dokumen"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Siapkan Peserta Sebelum Batch Penuh"
+        },
+        {
+            "type": "paragraph",
+            "text": "Portofolio perlu menunjukkan peran calon pada perencanaan atau pengelolaan confined space, bukan hanya pernah masuk sebagai entrant. Dokumen rahasia dapat disamarkan selama kontribusi masih dapat dinilai."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Batch Publik atau Pelaksanaan Perusahaan?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Batch publik sesuai bagi sedikit peserta. Asesmen kelompok cocok bila beberapa calon pada jenjang sama telah siap. Jangan mencampur calon Muda, Madya, dan Utama dalam satu asumsi jadwal tanpa pemetaan skema."
+        },
+        {
+            "type": "paragraph",
+            "text": "Siapkan satu calon cadangan yang juga telah lolos pre-check, terutama untuk kelas dengan kuota atau jadwal proyek ketat. Selaraskan persetujuan atasan, procurement, perjalanan, penginapan, pelepasan shift, dan akses platform sebelum batas daftar. Simpan opsi tanggal kedua bila minimum peserta belum terpenuhi atau operasional berubah. Untuk kelas perusahaan, tetapkan PIC yang mengendalikan daftar peserta, dokumen, fasilitas, komunikasi jadwal, dan keputusan reschedule agar perubahan tidak tersebar melalui pesan yang berbeda-beda."
+        },
+        {
+            "type": "paragraph",
+            "text": "Rencanakan mundur dari tanggal personel harus siap. Sisihkan waktu untuk pre-check, koreksi dokumen, persetujuan anggaran, pendaftaran, pelaksanaan, evaluasi, dan proses penerbitan. Jangan menyamakan tanggal selesai kelas dengan tanggal sertifikat atau lisensi diterima. Minta konfirmasi tertulis mengenai tanggal mulai/selesai, jam dan zona waktu, lokasi atau platform, status confirmed, minimum peserta, batas pendaftaran, kehadiran, reschedule, biaya, evaluasi, retake, serta estimasi dokumen. Jika kebutuhan berasal dari tender, lampirkan klausul aslinya agar penerbit dan jenjang tidak salah."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "FAQ Jadwal 2026"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah tiga hari termasuk dokumen? Tidak. Apakah sertifikat Muda selalu wajib? Ikuti skema dan pre-check. Apakah portofolio dapat diperbaiki? Tanyakan proses. Apakah kelulusan dijamin? Tidak. Apakah jadwal dapat berubah? Ya."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Jadwal Aktif dan Pre-check"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim CV, sertifikat, portofolio, jenis operasi, peserta, lokasi, dan target. Tim PENA akan memeriksa kesiapan dan mengirim opsi jadwal."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kalender batch 2026 belum terverifikasi dalam data program. Tim PENA akan mengonfirmasi jadwal yang masih aktif; durasi program bukan janji tanggal mulai, kelas pasti berjalan, atau dokumen langsung terbit."
+        }
+    ],
+    "related_offering_slug": "ahli-madya-ruang-terbatas",
+    "meta_title": "Jadwal Ahli Madya Ruang Terbatas 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Jadwal Ahli Madya Ruang Terbatas 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertif",
+    "published_at": "2026-07-31"
+}

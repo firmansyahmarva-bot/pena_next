@@ -1,0 +1,135 @@
+{
+    "id": "01kyfffj5dfrtdcra5hxjqhcb3",
+    "type": "training",
+    "name": "Welding Engineer",
+    "slug": "welding-engineer",
+    "path": "/pelatihan/welding-engineer",
+    "title": "Welding Engineer",
+    "meta_title": "Sertifikasi Welding Engineer BNSP: Desain Metalurgi & WPS",
+    "meta_description": "Pelatihan Welding Engineer BNSP. Rekayasa sambungan las, metalurgi weldability, kalkulasi PWHT, penyusunan WPS/PQR, dan standar rekayasa.",
+    "summary": "Pelatihan dan sertifikasi Welding Engineer (Insinyur Pengelasan) BNSP — tingkat otoritas teknis tertinggi untuk rekayasa desain sambungan las, analisis metalurgi weldability, perhitungan PWHT, dan penyusunan WPS/PQR.",
+    "certification_body": "bnsp",
+    "base_price": 10000000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Welding Engineer adalah kualifikasi rekayasa pengelasan tertinggi yang diakui BNSP berbasis SKKNI Sub-Bidang Rekayasa Pengelasan (Welding Engineering). Insinyur Pengelasan bertanggung jawab atas keutuhan struktural dan keselamatan desain pengelasan sejak tahap rancangan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Standardisasi ini mengacu pada ISO 14731 (Welding coordination — Tasks and responsibilities) serta kode rekayasa utama: ASME Section VIII (Pressure Vessels), ASME B31.3 (Process Piping), dan AWS D1.1 (Structural Steel)."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+            "source": "UU No. 13 Tahun 2003"
+        },
+        {
+            "type": "citation",
+            "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+            "source": "PP No. 23 Tahun 2004"
+        },
+        {
+            "type": "citation",
+            "text": "Welding coordination — Tasks and responsibilities.",
+            "source": "ISO 14731"
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini mendidik insinyur teknik menjadi otoritas teknis pengelasan. Setelah lulus asesmen, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Merancang sambungan las (joint design calculation) dan menganalisis kekuatan las terhadap beban statis, dinamis, dan fatigue",
+                "Menganalisis metalurgi pengelasan: struktur mikro HAZ, risiko retak hidrogen (cold cracking), penentuan temperatur preheat & PWHT",
+                "Menyusun dan mengesahkan dokumen WPS (Welding Procedure Specification) berbasis analisis data uji PQR (Procedure Qualification Record)",
+                "Menentukan kombinasi logam induk (base metal) dan logam pengisi (filler metal) yang optimal untuk aplikasi suhu tinggi/korosif",
+                "Memperoleh Sertifikat Kompetensi BNSP skema Welding Engineer resmi yang diakui secara nasional dan internasional"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Cakupan materi rekayasa pengelasan & asesmen BNSP Welding Engineer:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul 1: Rekayasa Desain Sambungan Las & Mekanika Pengelasan (Stress Analysis & Joint Design)",
+                "Modul 2: Metalurgi Las & Weldability Material (Baja Karbon, Stainless Steel, Alloy, Diagram Schaeffler)",
+                "Modul 3: Perancangan PWHT (Post Weld Heat Treatment) & Pengendalian Tegangan Sisa",
+                "Modul 4: Formulasi & Pengesahan Dokumen Teknis WPS / PQR Sesuai ASME IX / AWS D1.1",
+                "Pelaksanaan Asesmen: Uji tertulis rekayasa, pemecahan kasus metalurgi, penilaian portofolio rekayasa, & wawancara lisan asesor BNSP"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Minimal S1 Teknik Mesin, Teknik Metalurgi, Teknik Perkapalan, Teknik Material, atau Teknik Sipil dengan pengalaman kerja rekayasa pengelasan minimal 3 tahun",
+                "Melengkapi dokumen portofolio rekayasa (perhitungan desain las, draf WPS/PQR, atau dokumen teknis terkait)",
+                "Pasfoto latar belakang merah (3x4 & 4x6), KTP, & ijazah S1 Teknik"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Kelengkapan administrasi yang umum dipersyaratkan untuk mengikuti program ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter",
+                "Surat rekomendasi/penugasan dari perusahaan (untuk peserta utusan perusahaan)",
+                "Curriculum vitae (untuk skema sertifikasi BNSP)"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan pendidikan minimum dan pengalaman kerja mengikuti ketentuan skema/penunjukan yang berlaku — tim kami akan memverifikasi kelengkapan Anda sebelum pendaftaran diproses."
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul dan materi pelatihan",
+                "Instruktur praktisi tersertifikasi di bidangnya",
+                "Ujian/asesmen sertifikasi",
+                "Sertifikat sesuai skema (Kemnaker RI atau BNSP)",
+                "Konsultasi pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir pendaftaran di halaman ini.",
+                "Terima penawaran resmi: jadwal, biaya, dan persyaratan program.",
+                "Lengkapi berkas administrasi dan lakukan konfirmasi pendaftaran.",
+                "Ikuti pelatihan dan ujian/asesmen sertifikasi.",
+                "Terima sertifikat dan lisensi/kartu kompetensi sesuai skema."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

@@ -1,0 +1,48 @@
+{
+    "id": "01kyw9m13y60vnx7mkvxx0z1hw",
+    "title": "Apa Itu Paramedis K3 Muda (Hyperkes)?",
+    "slug": "apa-itu-paramedis-k3-muda",
+    "path": "/panduan/sertifikasi-k3/apa-itu-paramedis-k3-muda",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Panduan lengkap profesi Paramedis K3 Muda (Hyperkes): tugas perawat klinik industri, penanganan gawat darurat trauma kerja, tata kelola rekam medis, dan regulasi Permenaker 01/1979.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Paramedis K3 Muda (Occupational Health Nurse) adalah tenaga keperawatan profesional yang memiliki kompetensi khusus dalam hygiene perusahaan, ergonomi, keselamatan dan kesehatan kerja untuk mengelola pelayanan kesehatan di klinik perusahaan dan fasilitas industri."
+        },
+        {
+            "type": "citation",
+            "text": "Kewajiban Latihan Hygiene Perusahaan, Ergonomi, Kesehatan dan Keselamatan Kerja Bagi Paramedis Perusahaan.",
+            "source": "Permenaker No. 01/MEN/1979"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tugas Pokok & Tanggung Jawab Paramedis K3 Muda"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Melakukan pertolongan pertama pada kecelakaan kerja (P3K) dan stabilisasi kondisi gawat darurat medis sebelum rujukan ke rumah sakit.",
+                "Menyelenggarakan pelayanan rawat jalan tingkat pertama di klinik perusahaan untuk penyakit umum dan cedera kerja ringan.",
+                "Membantu Dokter Perusahaan dalam pelaksanaan pemeriksaan kesehatan kerja (Medical Check-Up / MCU) awal, berkala, dan khusus.",
+                "Mengelola penyimpanan dan pencatatan rekam medis tenaga kerja secara rahasia dan sesuai standar etika medis.",
+                "Melakukan pemantauan gizi kerja, sanitasi kantin pabrik, dan inspeksi kebersihan fasilitas sanitasi tempat kerja."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Setiap perawat yang bertugas di klinik perusahaan wajib memiliki sertifikat pelatihan Hyperkes resmi sesuai regulasi ketenagakerjaan."
+        }
+    ],
+    "related_offering_slug": "paramedis-k3-muda",
+    "meta_title": "Apa itu Paramedis K3 Muda? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Paramedis K3 Muda? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

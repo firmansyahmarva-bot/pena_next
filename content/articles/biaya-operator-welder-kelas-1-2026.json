@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9kzjankwrmv1w884577v2",
+    "title": "Biaya Sertifikasi Juru Las Kelas 1 2026",
+    "slug": "biaya-operator-welder-kelas-1-2026",
+    "path": "/panduan/sertifikasi-k3/biaya-operator-welder-kelas-1-2026",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Rincian biaya sertifikasi Juru Las Kelas 1 tahun 2026: kupon pipa schedule 80, elektroda/gas argon, uji radiografi NDT, dan lisensi resmi.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Biaya sertifikasi Juru Las Kelas 1 tahun 2026 berkisar antara Rp 5.800.000 hingga Rp 8.800.000 per welder. Biaya sudah termasuk pengadaan material pipa uji sch 80, kawat las GTAW/SMAW, gas argon murni, pengujian laboratorium NDT Radiography Testing (RT), sertifikat pembinaan, dan Lisensi K3 resmi Kemnaker RI."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Tersedia paket Welder Qualification Test (WQT) korporasi langsung di bengkel fabrikasi klien."
+        }
+    ],
+    "related_offering_slug": "operator-welder-kelas-1",
+    "meta_title": "Biaya Operator Welder Kelas 1 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Biaya Operator Welder Kelas 1 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifika",
+    "published_at": "2026-07-31"
+}

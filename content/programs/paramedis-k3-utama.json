@@ -1,0 +1,136 @@
+{
+    "id": "01kyfffhvtpxthwsge7nwz8781",
+    "type": "training",
+    "name": "Paramedis K3 Utama",
+    "slug": "paramedis-k3-utama",
+    "path": "/pelatihan/paramedis-k3-utama",
+    "title": "Paramedis K3 Utama",
+    "meta_title": "Pelatihan Paramedis K3 Utama Kemnaker RI: Kesehatan Kerja",
+    "meta_description": "Sertifikasi Paramedis K3 Utama Kemnaker RI untuk perawat perusahaan senior. Pengelolaan Klinik K3, PAK, Ergonomi, & Permenaker 01/1979.",
+    "summary": "Pembinaan dan sertifikasi Paramedis K3 Utama Kemnaker RI untuk perawat kesehatan kerja senior — menguasai tata kelola Klinik Kesehatan Kerja perusahaan, surveilans kesehatan pekerja, deteksi dini Penyakit Akibat Kerja (PAK), ergonomi fasyankes industri, dan rujukan kedaruratan medis.",
+    "certification_body": "bnsp",
+    "base_price": 6000000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Pembinaan Paramedis K3 Utama diselenggarakan berdasarkan Permenaker No. 01/MEN/1979 tentang Kewajiban Latihan Hygiene Perusahaan Kesehatan dan Keselamatan Kerja Bagi Paramedis Perusahaan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Skema ini diperkuat oleh Permenaker No. 03/MEN/1982 tentang Pelayanan Kesehatan Kerja di Tempat Kerja yang mengamanatkan penyelenggaraan pelayanan kesehatan kerja oleh tenaga medis dan paramedis yang memenuhi kualifikasi K3."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Kewajiban Latihan Hygiene Perusahaan Kesehatan dan Keselamatan Kerja Bagi Paramedis Perusahaan.",
+            "source": "Permenaker No. 01/MEN/1979"
+        },
+        {
+            "type": "citation",
+            "text": "Pelayanan Kesehatan Kerja di Tempat Kerja.",
+            "source": "Permenaker No. 03/MEN/1982"
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini mendidik perawat perusahaan senior sebagai manajer klinik K3. Setelah lulus pembinaan, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Mengelola operasional Klinik Kesehatan Kerja perusahaan dan mematuhi regulasi Pelayanan Kesehatan Kerja Permenaker 03/1982",
+                "Melaksanakan pemeriksaan kesehatan kerja (pemeriksaan awal, berkala, dan khusus) serta analisis tren data kesehatan karyawan",
+                "Mendeteksi dini dan menginvestigasi indikasi Penyakit Akibat Kerja (PAK) seperti Noise-Induced Hearing Loss (NIHL), pneumokoniosis, dan dermatitis kontak",
+                "Mengelola program pertolongan pertama (First Aid Services), penanganan trauma cedera industri, dan sistem rujukan medis darurat",
+                "Meraih Sertifikat Paramedis K3 Kemnaker RI resmi tingkat Utama terlisensi"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kurikulum pembinaan Paramedis K3 Utama Kemnaker RI:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul 1: Perundang-undangan Kesehatan Kerja & Permenaker No. 01/MEN/1979 & Permenaker 03/MEN/1982",
+                "Modul 2: Organisasi & Manajemen Pelayanan Kesehatan Kerja di Perusahaan",
+                "Modul 3: Diagnosa & Pencegahan Penyakit Akibat Kerja (PAK) serta Penyakit Terkait Kerja (PTK)",
+                "Modul 4: Toksikologi Industri, Higiene Industri untuk Paramedis, & Pengujian Ergonomi Tempat Kerja",
+                "Modul 5: Manajemen Klinik Perusahaan, Pengelolaan Obat-obatan, & Sistem Pelaporan Kesehatan Kerja ke Kemnaker",
+                "Pelaksanaan Uji: Seminar studi kasus kesehatan kerja, ujian tertulis, & evaluasi Pengawas K3 Kemnaker RI"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Minimal D3/S1 Keperawatan (Registered Nurse / RN) dengan STR aktif",
+                "Pengalaman kerja sebagai perawat perusahaan / klinik minimal 2-3 tahun",
+                "Pasfoto formal latar belakang merah (3x4 & 4x6), KTP, & ijazah"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Kelengkapan administrasi yang umum dipersyaratkan untuk mengikuti program ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter",
+                "Surat rekomendasi/penugasan dari perusahaan (untuk peserta utusan perusahaan)",
+                "Curriculum vitae (untuk skema sertifikasi BNSP)"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan pendidikan minimum dan pengalaman kerja mengikuti ketentuan skema/penunjukan yang berlaku — tim kami akan memverifikasi kelengkapan Anda sebelum pendaftaran diproses."
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul dan materi pelatihan",
+                "Instruktur praktisi tersertifikasi di bidangnya",
+                "Ujian/asesmen sertifikasi",
+                "Sertifikat sesuai skema (Kemnaker RI atau BNSP)",
+                "Konsultasi pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir pendaftaran di halaman ini.",
+                "Terima penawaran resmi: jadwal, biaya, dan persyaratan program.",
+                "Lengkapi berkas administrasi dan lakukan konfirmasi pendaftaran.",
+                "Ikuti pelatihan dan ujian/asesmen sertifikasi.",
+                "Terima sertifikat dan lisensi/kartu kompetensi sesuai skema."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

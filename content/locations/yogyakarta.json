@@ -1,0 +1,20 @@
+{
+    "id": "01kyjp46s1d3vkhphv5d80gvkh",
+    "name": "Yogyakarta",
+    "slug": "yogyakarta",
+    "path": "/cabang/yogyakarta",
+    "is_physical": false,
+    "address": "Jl. Wonosari KM 8, Yogyakarta",
+    "intro": [
+        {
+            "type": "paragraph",
+            "text": "Daerah Istimewa Yogyakarta (DIY) merupakan kantor pusat operasional dan Tempat Uji Kompetensi (TUK) Mandiri PT PENA Consultant sejak berdiri pada tahun 2014. Sebagai pusat pendidikan tinggi dan kebudayaan nasional, Yogyakarta memiliki Kawasan Industri Piyungan di Kabupaten Bantul serta Kawasan Industri Sentolo di Kabupaten Kulon Progo yang menampung industri pengolahan tekstil, kerajinan ekspor, manufaktur makanan-minuman, sektor kesehatan fasyankes rujukan regional, serta mega proyek infrastruktur pendukung pariwisata dan transportasi."
+        },
+        {
+            "type": "paragraph",
+            "text": "Di Yogyakarta, PENA Consultant mengelola Tempat Uji Kompetensi (TUK) mandiri yang dilengkapi fasilitas laboratorium K3, ruang uji confined space, peralatan simulasi kebakaran APAR (PASS method), dan instrumen ukur higiene industri berstandar Kemnaker RI dan BNSP."
+        }
+    ],
+    "service_areas": [],
+    "phone": null
+}

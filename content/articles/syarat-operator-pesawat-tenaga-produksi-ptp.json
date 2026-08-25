@@ -1,0 +1,88 @@
+{
+    "id": "01kyw9kx59p860jz2835ntr521",
+    "title": "Syarat Operator Pesawat Tenaga dan Produksi",
+    "slug": "syarat-operator-pesawat-tenaga-produksi-ptp",
+    "path": "/panduan/k3-teknis/syarat-operator-pesawat-tenaga-produksi-ptp",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat Operator Pesawat Tenaga dan Produksi perlu dimulai dari inventaris mesin, fungsi proses, tugas calon, pengalaman, pendidikan, kesehatan, dan dokumen penugasan.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Pesawat Tenaga dan Produksi adalah kelompok luas, sehingga syarat operator tidak dapat dinilai dari istilah “operator mesin” saja. Perusahaan harus mengidentifikasi nama mesin, fungsi, tenaga penggerak, kapasitas, bahaya utama, dan pekerjaan calon. Mesin produksi, transmisi tenaga, motor penggerak, serta peralatan khusus dapat membutuhkan verifikasi berbeda; genset dan pesawat angkat-angkut juga tidak boleh otomatis dimasukkan ke jalur PTP."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Siapa yang Layak Dipre-Check"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Operator yang menjalankan mesin PTP sebagai tugas rutin",
+                "Calon dengan pendidikan dan pengalaman relevan sesuai aturan pembinaan",
+                "Personel yang memahami pemeriksaan sebelum, selama, dan sesudah operasi",
+                "Peserta sehat yang mendapat surat tugas dari perusahaan"
+            ]
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Pesawat Tenaga dan Produksi.",
+            "source": "Permenaker No. 38 Tahun 2016"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kelayakan akhir bergantung pada dokumen dan ketentuan yang berlaku, bukan klaim umum di halaman web. Surat pengalaman perlu menjelaskan mesin serta masa kerja. Jabatan produksi tidak selalu berarti operator PTP, karena sebagian pekerja hanya mengisi material atau memantau proses. Tugas aktual dan batas kewenangan calon harus terlihat sebelum jadwal dikunci."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Berkas dan Inventaris Mesin"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah, CV, pas foto, surat sehat, dan surat penugasan",
+                "Surat pengalaman atau uraian tugas per calon",
+                "Daftar mesin, foto nameplate, fungsi, kapasitas, dan lokasi",
+                "Matriks operator per mesin dan shift untuk pendaftaran perusahaan"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Satu foto mesin tidak cukup bila peserta mengoperasikan beberapa jenis alat. Susun inventaris sederhana dan tandai operatornya. Data rahasia proses dapat disamarkan selama kategori mesin dan tanggung jawab tetap dapat dinilai. Cara ini membantu memisahkan program PTP dari operator genset, boiler, forklift, crane, atau kompetensi teknisi yang berbeda."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kesalahan yang Sering Membuat Pelatihan Tidak Bernilai"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kesalahan umum adalah mengirim semua operator produksi ke satu program tanpa pemetaan alat. Sertifikat juga tidak menyelesaikan guarding yang hilang, emergency stop yang rusak, prosedur LOTO yang lemah, inspeksi yang tidak berjalan, atau target produksi yang mendorong bypass pengaman. Kompetensi personel harus menjadi bagian dari pengendalian teknis dan manajemen operasi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Permintaan Jadwal dan Quotation Perusahaan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim inventaris mesin, nameplate, jumlah shift, daftar calon, pendidikan, pengalaman, lokasi, dan target kepatuhan. Tim PENA akan menilai kecocokan PTP, kebutuhan program lain, dokumen yang kurang, pembagian angkatan, jadwal, serta biaya. Penawaran berbasis mesin membuat anggaran lebih tepat dan mengurangi risiko sertifikasi tidak diterima saat audit."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim daftar mesin dan operator per shift agar kebutuhan PTP dapat dipetakan sebelum penawaran dibuat."
+        }
+    ],
+    "related_offering_slug": "operator-pesawat-tenaga-produksi-ptp",
+    "meta_title": "Syarat Mengikuti Operator Pesawat Tenaga Produksi (PTP) ",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Operator Pesawat Tenaga Produksi (PTP) resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermogra",
+    "published_at": "2026-07-31"
+}

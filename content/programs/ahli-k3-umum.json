@@ -1,0 +1,238 @@
+{
+    "id": "01kyfffhfhfe3sx4kenn53s49w",
+    "type": "training",
+    "name": "Ahli K3 Umum",
+    "slug": "ahli-k3-umum",
+    "path": "/pelatihan/ahli-k3-umum",
+    "title": "Ahli K3 Umum",
+    "meta_title": "Sertifikasi Ahli K3 Umum Kemnaker RI 2026 — PENA Consultant",
+    "meta_description": "Pelatihan & sertifikasi Ahli K3 Umum Kemnaker RI 2026. Pembinaan 12 hari, lisensi SKP resmi, Blended/Online, biaya transparan. Daftar sekarang!",
+    "summary": "Program Pembinaan & Sertifikasi Ahli K3 Umum (AK3U) resmi Kemnaker RI berdasarkan Permenaker No. 02/MEN/1992 & UU No. 1 Tahun 1970. Pembinaan 12 hari kerja dengan lisensi SKP & Sertifikat Pembinaan Kemnaker RI resmi. Tersedia kelas Blended Learning Online Zoom & Tatap Muka TUK.",
+    "certification_body": "kemnaker",
+    "base_price": 7500000,
+    "duration": "12 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Ahli K3 Umum (AK3U) adalah jabatan yang secara eksplisit disyaratkan oleh peraturan perundang-undangan Indonesia sejak 1970, bukan sekadar gelar pelatihan. UU No. 1 Tahun 1970 mewajibkan setiap tempat kerja dengan potensi bahaya tertentu untuk mempekerjakan atau menunjuk Ahli Keselamatan dan Kesehatan Kerja yang berwenang mengawasi ditaatinya ketentuan K3. Permenaker No. 02/MEN/1992 menjabarkan mekanisme penunjukan itu secara rinci: siapa yang berhak diusulkan, prosedur pengajuan ke Kemnaker RI, serta kewajiban dan wewenang yang melekat begitu Surat Keputusan Penunjukan (SKP) terbit."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Tata Cara Penunjukan, Kewajiban dan Wewenang Ahli Keselamatan dan Kesehatan Kerja.",
+            "source": "Permenaker No. 02/MEN/1992"
+        },
+        {
+            "type": "citation",
+            "text": "Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) — wajib bagi perusahaan dengan ≥100 pekerja atau tingkat bahaya tinggi.",
+            "source": "PP No. 50 Tahun 2012"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ketiga regulasi ini saling melengkapi: UU No. 1/1970 menetapkan kewajiban dasarnya, Permenaker 02/1992 mengatur siapa yang boleh menjabat dan bagaimana penunjukannya, sedangkan PP No. 50/2012 menempatkan peran Ahli K3 Umum di dalam kerangka SMK3 perusahaan — auditor SMK3 akan memeriksa apakah perusahaan telah menunjuk Ahli K3 Umum sesuai kewajibannya sebagai salah satu kriteria penilaian."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program dua belas hari ini dirancang untuk mengubah peserta — biasanya staf HSE, teknik, atau operasional yang ditugaskan perusahaan — menjadi personel yang layak mendapat penunjukan resmi Kemnaker RI sebagai Ahli K3 Umum. Cakupannya jauh lebih luas daripada pelatihan K3 dasar biasa, karena begitu SKP terbit, peserta memikul kewenangan hukum untuk mengawasi seluruh aspek K3 di perusahaan penunjuknya."
+        },
+        {
+            "type": "paragraph",
+            "text": "Di lapangan, kebutuhan akan Ahli K3 Umum bersertifikasi Kemnaker RI terus tinggi karena posisi ini adalah salah satu dari sedikit jabatan K3 yang secara eksplisit disebut dalam UU No. 1 Tahun 1970 dan menjadi rujukan wajib dalam banyak persyaratan tender, audit klien, serta pengurusan Sertifikat SMK3. Perusahaan skala menengah-besar, kontraktor migas, manufaktur, dan konstruksi umumnya mensyaratkan minimal satu Ahli K3 Umum berpenunjukan Kemnaker RI aktif di organisasinya — menjadikan sertifikasi ini salah satu kredensial K3 paling dicari di pasar kerja Indonesia, baik untuk penempatan internal maupun pengembangan karier menuju posisi HSE Manager atau HSE Officer senior. Setelah menyelesaikan program, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memahami dan menafsirkan peraturan perundang-undangan K3 — mulai dari UU No. 1/1970 hingga peraturan turunannya — serta menerapkannya secara konkret pada kondisi kerja nyata di perusahaan, bukan sekadar menghafal pasal",
+                "Menjalankan peran Ahli K3 Umum secara penuh: memimpin identifikasi bahaya (hazard identification), menilai tingkat risiko, dan menetapkan pengendalian yang proporsional terhadap tingkat risiko tersebut",
+                "Membina dan menjalankan Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3) sebagai forum kerja sama pengusaha dan pekerja dalam mengelola program K3 perusahaan secara terstruktur",
+                "Menerapkan, mendokumentasikan, dan mengaudit elemen-elemen Sistem Manajemen K3 (SMK3) sesuai 12 elemen dan 166 kriteria PP No. 50 Tahun 2012, termasuk menyiapkan perusahaan menghadapi audit eksternal",
+                "Melakukan investigasi kecelakaan kerja secara sistematis — dari pengumpulan bukti, analisis akar penyebab, hingga penyusunan laporan dan rekomendasi pencegahan berulang",
+                "Menyusun dan membaca statistik kecelakaan kerja (frequency rate, severity rate) sebagai alat ukur kinerja K3 perusahaan dari waktu ke waktu"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kurikulum mengacu langsung pada silabus resmi pembinaan calon Ahli K3 Umum Kemnaker RI, disampaikan melalui kombinasi kelas teori, diskusi kasus, praktik/observasi lapangan, dan seminar akhir sebelum ujian tertulis. Materi disusun berlapis, dari dasar hukum hingga pengawasan teknis per bidang:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Kebijakan dan dasar hukum K3 — kerangka regulasi nasional dan bagaimana ia diturunkan ke kewajiban operasional perusahaan",
+                "Kelembagaan dan keahlian K3 — struktur P2K3, peran Ahli K3, dan Perusahaan Jasa K3 (PJK3) yang berwenang melakukan pemeriksaan/pengujian teknis",
+                "Sistem Manajemen K3 (SMK3) dan auditnya — penerapan 12 elemen PP No. 50/2012 dan simulasi penilaian kriteria audit",
+                "Pengawasan norma K3 mekanik — pesawat angkat-angkut, pesawat tenaga produksi, dan kewajiban lisensi operatornya",
+                "Pengawasan norma K3 pesawat uap dan bejana tekan — bahaya tekanan dan panas pada boiler serta bejana bertekanan",
+                "Pengawasan norma K3 listrik — bahaya sengatan listrik, kebakaran akibat instalasi, dan standar PUIL",
+                "Pengawasan norma K3 penanggulangan kebakaran — sistem proteksi aktif/pasif dan organisasi tanggap darurat",
+                "Pengawasan norma K3 konstruksi bangunan — bahaya spesifik proyek konstruksi: ketinggian, galian, dan alat berat",
+                "Kesehatan kerja, lingkungan kerja, dan bahan berbahaya — pengendalian paparan fisik, kimia, dan biologis di tempat kerja",
+                "Statistik, pelaporan, dan analisis kecelakaan kerja — termasuk praktik investigasi pada studi kasus nyata",
+                "Praktik kerja lapangan (PKL) dan seminar — peserta mempresentasikan hasil observasi K3 di lokasi kerja sungguhan sebagai syarat kelulusan"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "paragraph",
+            "text": "Program ini bersifat penunjukan resmi, sehingga persyaratannya lebih ketat dibanding pelatihan kompetensi biasa:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal Sarjana (S1) dengan pengalaman kerja di bidang K3 paling sedikit 2 tahun, ATAU Sarjana Muda/D3 dengan pengalaman paling sedikit 4 tahun, ATAU SLTA/sederajat dengan pengalaman paling sedikit 12 tahun — kombinasi pendidikan dan pengalaman ini mengikuti Permenaker No. 02/MEN/1992 Pasal 4",
+                "Ditugaskan dan diusulkan secara tertulis oleh perusahaan tempat bekerja — SKP terbit atas nama perusahaan pengusul, bukan atas nama pribadi peserta, sehingga dokumen penugasan dari perusahaan wajib disertakan",
+                "Sehat jasmani dan rohani, dibuktikan dengan surat keterangan dokter",
+                "Bersedia mengikuti pembinaan penuh selama 12 hari kerja (termasuk praktik lapangan) dan lulus ujian tertulis di akhir program — kehadiran penuh dipersyaratkan karena materi bersifat kumulatif"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kombinasi pendidikan dan pengalaman kerja di atas adalah syarat penunjukan resmi, bukan syarat pelatihan biasa — tim kami akan memverifikasi kelayakan Anda terlebih dahulu sebelum pendaftaran diproses, agar SKP Anda tidak berisiko ditolak Kemnaker RI karena syarat administratif tidak terpenuhi."
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Karena SKP terbit atas nama perusahaan pengusul, berkas administrasi program ini lebih lengkap dibanding sertifikasi kompetensi biasa:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Surat penugasan/rekomendasi resmi dari perusahaan yang mengusulkan penunjukan — dokumen inti yang membedakan proses ini dari pendaftaran individu biasa",
+                "Fotokopi ijazah pendidikan terakhir (sesuai kombinasi pendidikan-pengalaman pada bagian Persyaratan)",
+                "Curriculum vitae yang mencantumkan pengalaman kerja di bidang K3, untuk verifikasi kelayakan sebelum diajukan ke Kemnaker RI",
+                "Fotokopi KTP dan pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "paragraph",
+            "text": "Fasilitas program ini disesuaikan dengan bobot materi 12 hari dan kebutuhan praktik kerja lapangan:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul pembinaan resmi mengikuti silabus Kemnaker RI",
+                "Instruktur praktisi bersertifikat, sebagian aktif sebagai auditor SMK3 atau ahli K3 senior di industri",
+                "Sesi praktik kerja lapangan (PKL) di lokasi kerja nyata sebagai bagian wajib kurikulum",
+                "Ujian tertulis akhir dan pengurusan penerbitan SKP ke Kemnaker RI",
+                "Pendampingan konsultasi pasca-pembinaan untuk pertanyaan implementasi di tempat kerja"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "paragraph",
+            "text": "Proses pendaftaran memiliki satu langkah tambahan dibanding program sertifikasi biasa: verifikasi kelayakan penunjukan di awal, agar perusahaan tidak mengajukan SKP yang berisiko ditolak."
+        },
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir di halaman ini untuk konsultasi awal.",
+                "Tim kami memverifikasi kelayakan kombinasi pendidikan dan pengalaman kerja calon peserta sesuai Permenaker No. 02/MEN/1992.",
+                "Perusahaan menerbitkan surat penugasan/rekomendasi resmi untuk calon peserta.",
+                "Lengkapi berkas administrasi dan konfirmasi jadwal batch.",
+                "Ikuti pembinaan 12 hari (kelas, praktik lapangan, seminar) dan ujian tertulis akhir.",
+                "SKP Ahli K3 Umum terbit dari Kemnaker RI atas nama perusahaan pengusul."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": [
+        {
+            "id": "01kywb7tmjbamz07cdegjp0an0",
+            "slug": "ahli-k3-umum-batch-21",
+            "batch_number": "21",
+            "start_date": "2026-08-03",
+            "end_date": "2026-08-14",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 8500000,
+            "promo_price": 6000000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7tv65py7srpt099h5mgz",
+            "slug": "ahli-k3-umum-batch-22",
+            "batch_number": "22",
+            "start_date": "2026-09-07",
+            "end_date": "2026-09-18",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 8500000,
+            "promo_price": 6000000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7tydp45ztgzg3wgy4dza",
+            "slug": "ahli-k3-umum-batch-23",
+            "batch_number": "23",
+            "start_date": "2026-10-05",
+            "end_date": "2026-10-16",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 8500000,
+            "promo_price": 6000000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7v0zph0wdtfk8sxf1e8r",
+            "slug": "ahli-k3-umum-batch-24",
+            "batch_number": "24",
+            "start_date": "2026-11-02",
+            "end_date": "2026-11-13",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 8500000,
+            "promo_price": 6000000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7v365wk5kaze42njh42q",
+            "slug": "ahli-k3-umum-batch-25",
+            "batch_number": "25",
+            "start_date": "2026-12-07",
+            "end_date": "2026-12-18",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 8500000,
+            "promo_price": 6000000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7v5tnpgzzhg8edwc7qa8",
+            "slug": "ahli-k3-umum-batch-26",
+            "batch_number": "26",
+            "start_date": "2027-01-04",
+            "end_date": "2027-01-15",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 8500000,
+            "promo_price": 6000000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}

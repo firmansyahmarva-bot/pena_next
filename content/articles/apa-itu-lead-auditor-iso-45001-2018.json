@@ -1,0 +1,52 @@
+{
+    "id": "01kyw9kqft7zjgpa7jd54at717",
+    "title": "Apa Itu Lead Auditor ISO 45001:2018?",
+    "slug": "apa-itu-lead-auditor-iso-45001-2018",
+    "path": "/panduan/smk3/apa-itu-lead-auditor-iso-45001-2018",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Lead Auditor ISO 45001:2018 adalah kualifikasi auditor kepala yang memimpin tim audit pihak ketiga (Certification Body) atau audit korporasi global berstandar IRCA/Exemplar Global.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Lead Auditor ISO 45001:2018 merupakan jenjang kualifikasi tertinggi dalam profesi audit sistem manajemen keselamatan dan kesehatan kerja internasional. Seorang Lead Auditor memiliki wewenang untuk memimpin tim audit (Audit Team Leader), merumuskan temuan audit sertifikasi resmi atas nama Badan Sertifikasi Internasional (Certification Body), dan merekomendasikan penerbitan sertifikat ISO 45001 bagi organisasi klien."
+        },
+        {
+            "type": "citation",
+            "text": "Guidelines for auditing management systems — Prinsip, pengelolaan program audit, dan kompetensi auditor.",
+            "source": "ISO 19011:2018"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kewenangan dan Tanggung Jawab Lead Auditor"
+        },
+        {
+            "type": "paragraph",
+            "text": "Peran Lead Auditor mencakup kepemimpinan teknis dan manajerial dalam audit sertifikasi:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Merancang Program Audit dan Jadwal Audit Detail (Stage 1 Document Review & Stage 2 On-Site Certification Audit)",
+                "Memimpin Opening Meeting dan Closing Meeting bersama jajaran direksi dan manajemen puncak auditee",
+                "Mengalokasikan tugas audit kepada anggota tim auditor sesuai keahlian teknis sektor industri (scopes)",
+                "Menilai dan memutuskan kategori temuan audit: Non-Conformance Mayor (NCR Mayor), Minor, atau Opportunity for Improvement (OFI)",
+                "Memvalidasi rencana perbaikan korektif (CAPA) yang diajukan auditee sebelum merekomendasikan kelulusan sertifikasi"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kualifikasi Lead Auditor ISO 45001 membuka peluang karier internasional sebagai auditor sertifikasi global, konsultan senior, atau Head of Corporate HSE."
+        }
+    ],
+    "related_offering_slug": "lead-auditor-iso-45001-2018",
+    "meta_title": "Apa itu Lead Auditor ISO 45001:2018? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Lead Auditor ISO 45001:2018? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifi",
+    "published_at": "2026-07-31"
+}

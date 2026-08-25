@@ -1,0 +1,135 @@
+{
+    "id": "01kyfffj1ws8yc1nkpj1zd4bc0",
+    "type": "training",
+    "name": "Operator Lift Barang",
+    "slug": "operator-lift-barang",
+    "path": "/pelatihan/operator-lift-barang",
+    "title": "Operator Lift Barang",
+    "meta_title": "Pelatihan Operator Lift Barang Kemnaker RI: Elevator K3",
+    "meta_description": "Sertifikasi & Lisensi K3 Operator Lift Barang (Cargo Elevator) Kemnaker RI. Pengoperasian hoist, batas beban SWL, & Permenaker No. 6 Tahun 2017.",
+    "summary": "Pembinaan dan sertifikasi Lisensi K3 Operator Lift Barang (Cargo Elevator) Kemnaker RI — menguasai pengoperasian lift barang/hoist di gedung industri, batas beban kerja aman (Safe Working Load / SWL), pengujian interlock pintu, dan keselamatan operasi sesuai Permenaker No. 6 Tahun 2017.",
+    "certification_body": "kemnaker",
+    "base_price": 5500000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi Operator Lift Barang diselenggarakan berdasarkan Permenaker No. 6 Tahun 2017 tentang Keselamatan dan Kesehatan Kerja Elevator dan Eskalator. Regulasi ini mewajibkan setiap lift barang di gedung/pabrik dioperasikan oleh operator yang tersertifikasi dan berlisensi K3 Kemnaker RI."
+        },
+        {
+            "type": "paragraph",
+            "text": "Pengawasan ini memastikan keselamatan peralatan angkut vertikal dan mencegah bahaya kawat seling putus, jatuhnya car lift, atau kejepitan pintu."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+            "source": "UU No. 13 Tahun 2003"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Elevator dan Eskalator.",
+            "source": "Permenaker No. 6 Tahun 2017"
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini mendidik operator lift barang yang berdisiplin dan utamakan K3. Setelah lulus pembinaan, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Menguasai pengoperasian lift barang (cargo elevator / dumbwaiter) sesuai kapasitas beban aman (Safe Working Load / SWL)",
+                "Melakukan pemeriksaan harian pengaman mekanis dan elektrikal: limit switch stop, door interlock switch, kawat seling (wire rope), dan governor pemutus arus",
+                "Mengawasi tata cara pemuatan barang (loading/unloading) agar seimbang, tidak melebihi tonase, dan mencegah pergeseran muatan saat car lift bergerak",
+                "Menguasai prosedur penyelamatan darurat (Emergency Rescue Procedure) saat lift barang macet di antara lantai (car trapping)",
+                "Meraih Buku Kerja dan Lisensi K3 Kemnaker RI resmi Operator Lift Barang"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Materi pembinaan & ujian Kemnaker RI Operator Lift Barang:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul 1: Peraturan K3 Elevator dan Eskalator sesuai Permenaker No. 6 Tahun 2017",
+                "Modul 2: Konstruksi Utama Lift Barang (Car, Counterweight, Guide Rail, Traction Machine, Wire Rope, Pit)",
+                "Modul 3: Sistem Pengaman (Safety Devices): Safety Gear/Catch, Door Lock Interlock, Buffer, Limit Switch",
+                "Modul 4: Prosedur Pengoperasian Aman, Pembatasan Beban SWL, & Inspeksi Rutin Operator",
+                "Modul Praktik: Inspeksi sebelum operasi, uji coba door interlock, simulasi pengoperasian muatan barang, & Ujian Teori Kemnaker RI"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Minimal SMP/SMA/SMK sederajat",
+                "Sehat jasmani dan rohani, dibuktikan dengan Surat Keterangan Sehat dari dokter",
+                "Pasfoto formal latar belakang merah (3x4 & 4x6), KTP, & ijazah"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Kelengkapan administrasi yang umum dipersyaratkan untuk mengikuti program ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter",
+                "Surat rekomendasi/penugasan dari perusahaan (untuk peserta utusan perusahaan)",
+                "Curriculum vitae (untuk skema sertifikasi BNSP)"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan pendidikan minimum dan pengalaman kerja mengikuti ketentuan skema/penunjukan yang berlaku — tim kami akan memverifikasi kelengkapan Anda sebelum pendaftaran diproses."
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul dan materi pelatihan",
+                "Instruktur praktisi tersertifikasi di bidangnya",
+                "Ujian/asesmen sertifikasi",
+                "Sertifikat sesuai skema (Kemnaker RI atau BNSP)",
+                "Konsultasi pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir pendaftaran di halaman ini.",
+                "Terima penawaran resmi: jadwal, biaya, dan persyaratan program.",
+                "Lengkapi berkas administrasi dan lakukan konfirmasi pendaftaran.",
+                "Ikuti pelatihan dan ujian/asesmen sertifikasi.",
+                "Terima sertifikat dan lisensi/kartu kompetensi sesuai skema."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9kpcs72kxeyq0v29f9g7m",
+    "title": "Jadwal Pelatihan Investigasi Kecelakaan Kerja 2026",
+    "slug": "jadwal-investigasi-kecelakaan-2026",
+    "path": "/panduan/smk3/jadwal-investigasi-kecelakaan-2026",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Jadwal pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) tahun 2026.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Pelatihan investigasi insiden diselenggarakan 1 kali setiap bulan dengan durasi 2 hari. Peserta mempraktikkan rekonstruksi insiden, teknik wawancara saksi trauma, dan perumusan matriks CAPA."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Daftar sekarang untuk batch bulan ini."
+        }
+    ],
+    "related_offering_slug": "investigasi-kecelakaan",
+    "meta_title": "Jadwal Investigasi Kecelakaan 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Jadwal Investigasi Kecelakaan 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifika",
+    "published_at": "2026-07-31"
+}

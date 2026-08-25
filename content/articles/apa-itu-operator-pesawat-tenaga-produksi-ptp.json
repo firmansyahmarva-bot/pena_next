@@ -1,0 +1,88 @@
+{
+    "id": "01kyw9kwzkwc523r2b0spx20r3",
+    "title": "Apa Itu Operator Pesawat Tenaga dan Produksi (PTP)?",
+    "slug": "apa-itu-operator-pesawat-tenaga-produksi-ptp",
+    "path": "/panduan/k3-teknis/apa-itu-operator-pesawat-tenaga-produksi-ptp",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Operator Pesawat Tenaga dan Produksi (PTP) adalah lisensi K3 payung untuk mesin produksi bertenaga mekanis di lini pabrik — mencakup jenis mesin yang lebih luas dan spesifik per industri dibanding genset.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Permenaker No. 38 Tahun 2016 mengatur K3 Pesawat Tenaga dan Produksi (PTP) — istilah payung untuk peralatan mekanis yang menghasilkan, mentransmisikan, atau menggunakan tenaga pada proses produksi. Operatornya wajib memiliki lisensi K3 sesuai jenis peralatan yang dioperasikan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Pesawat Tenaga dan Produksi.",
+            "source": "Permenaker No. 38 Tahun 2016"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tanggung Jawab Operator PTP"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Mengoperasikan mesin produksi sesuai prosedur keselamatan yang berlaku untuk jenis mesinnya",
+                "Melakukan pemeriksaan sebelum, selama, dan sesudah operasi",
+                "Mengidentifikasi bahaya mekanis dan energi tersimpan pada peralatan",
+                "Merespons gangguan dan kondisi darurat pada mesin produksi"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "PTP sebagai Payung: Berbeda dari Genset yang Sudah Punya Lisensi Sendiri"
+        },
+        {
+            "type": "paragraph",
+            "text": "Karena PTP mencakup ragam mesin produksi yang berbeda antar sektor industri (tekstil, logam, pengolahan pangan, dan lainnya), pelatihan ini berfokus pada prinsip K3 pesawat tenaga produksi secara umum. Motor Diesel/Genset — meski secara regulasi juga di bawah Permenaker No. 38 Tahun 2016 — punya artikel dan jalur sertifikasi tersendiri karena penggunaannya jauh lebih universal lintas sektor dibanding mesin produksi spesifik."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Mulai dari Inventaris Mesin, Bukan Nama Program"
+        },
+        {
+            "type": "paragraph",
+            "text": "Istilah PTP mencakup kelompok yang luas, sehingga perusahaan perlu menginventarisasi nama, fungsi, tenaga penggerak, kapasitas, dan risiko setiap mesin. Operator mesin perkakas, mesin produksi, transmisi tenaga, atau unit khusus tidak boleh diasumsikan memiliki kebutuhan identik. Pemetaan tersebut menentukan siapa yang memang mengoperasikan alat dan siapa yang hanya melakukan pengawasan atau pemeliharaan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Program operator bukan pengganti guarding, emergency stop, isolasi energi, inspeksi, SOP, dan pemeliharaan mesin. Jika audit menemukan pelindung mesin hilang atau prosedur LOTO lemah, mengirim operator ke pelatihan saja tidak cukup. Kompetensi personel harus menjadi satu bagian dari perbaikan sistem pengendalian risiko produksi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Bahan Verifikasi Sebelum Pendaftaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Siapkan daftar serta foto nameplate mesin, fungsi proses, jumlah operator dan shift, pengalaman serta pendidikan calon, lokasi, dan target waktu. Tim PENA dapat memeriksa apakah alat masuk jalur PTP, genset, pesawat angkat-angkut, atau program lain; kemudian menyampaikan persyaratan, jadwal, dan biaya resmi. Langkah ini menghindari satu program generik diterapkan ke semua mesin tanpa melihat fungsi sebenarnya."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Tidak yakin mesin produksi Anda termasuk cakupan PTP atau memerlukan lisensi K3 jenis lain? Tim kami dapat membantu mengecek berdasarkan jenis dan fungsi mesin di fasilitas Anda."
+        }
+    ],
+    "related_offering_slug": "operator-pesawat-tenaga-produksi-ptp",
+    "meta_title": "Apa itu Operator Pesawat Tenaga Produksi (PTP)? — Guide ",
+    "meta_description": "Panduan teknis keselamatan Apa itu Operator Pesawat Tenaga Produksi (PTP)? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, ",
+    "published_at": "2026-07-31"
+}

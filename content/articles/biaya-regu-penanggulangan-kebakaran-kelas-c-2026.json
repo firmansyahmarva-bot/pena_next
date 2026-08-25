@@ -1,0 +1,96 @@
+{
+    "id": "01kyw9mbad2jjng6z9v5y5ehw2",
+    "title": "Biaya Regu Penanggulangan Kebakaran Kelas C 2026",
+    "slug": "biaya-regu-penanggulangan-kebakaran-kelas-c-2026",
+    "path": "/panduan/k3-teknis/biaya-regu-penanggulangan-kebakaran-kelas-c-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Biaya Regu Penanggulangan Kebakaran Kelas C 2026 harus dihitung dari jumlah anggota per shift, praktik, lokasi, dan gap struktur kebakaran perusahaan.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Data program mengonfirmasi pembinaan Kemnaker berdurasi sekitar enam hari untuk anggota regu pemadam perusahaan, tetapi tidak mencantumkan harga publik terverifikasi. Karena itu nominal 2026 harus mengikuti quotation aktif. Kelas C adalah fungsi regu operasional dan berbeda dari Petugas Kelas D, Koordinator Kelas B, atau Ahli Kelas A."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Faktor yang Menentukan Biaya 2026"
+        },
+        {
+            "type": "paragraph",
+            "text": "Jumlah peserta, shift, profil risiko, fasilitas praktik, serta lokasi menentukan model biaya. Perusahaan perlu menghitung bahan pemadaman, waktu kerja, pengganti shift, kesehatan calon, dan personel cadangan agar perlindungan tidak kosong selama pembinaan."
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pembinaan teori, praktik pemadaman, simulasi, dan evaluasi",
+                "Administrasi Kemnaker serta dokumen hasil",
+                "Instruktur, APD, alat/bahan praktik, konsumsi, dan pajak",
+                "Mobilisasi, perjalanan, akomodasi, atau kebutuhan in-house"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data untuk Meminta Quotation"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Daftar calon, surat tugas, kesehatan, dan sertifikat Kelas D",
+                "Jumlah regu, area, pekerja, risiko, dan pola shift",
+                "Struktur D-C-B-A saat ini serta target audit",
+                "Lokasi, fasilitas praktik, mode, peserta, dan tenggat"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Bandingkan Penawaran dengan Ruang Lingkup Sama"
+        },
+        {
+            "type": "paragraph",
+            "text": "Jangan membandingkan Kelas C dengan awareness APAR atau Kelas D. Samakan penerbit, durasi, praktik, bahan, dokumen, pajak, dan kebijakan jadwal. Sertifikat tidak menggantikan APAR, hidran, alarm, drill, command system, atau emergency response plan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk pengadaan kelompok, minta simulasi dua skenario: kelas publik per peserta dan kelas perusahaan dengan seluruh biaya lokasi. Nilai juga apakah semua calon memenuhi syarat, apakah operasional dapat melepas mereka pada tanggal yang sama, dan apakah fasilitas praktik perusahaan memenuhi kebutuhan. Keputusan terbaik adalah opsi yang menghasilkan personel tepat guna pada saat dibutuhkan, bukan sekadar total invoice terendah."
+        },
+        {
+            "type": "paragraph",
+            "text": "Hitung biaya efektif, bukan hanya harga per kursi. Tambahkan pemeriksaan dokumen dan kesehatan, waktu kerja peserta, perjalanan, akomodasi, pengganti shift, fasilitas praktik, serta risiko jadwal ulang. Minta penawaran mencantumkan minimum peserta, pajak, termin, pembatalan, penggantian nama, retake atau evaluasi ulang, komponen yang dikecualikan, dan estimasi dokumen. Perbandingan ini mencegah harga awal yang murah berubah menjadi biaya tambahan setelah purchase order terbit. Pembayaran juga bukan jaminan kelulusan atau penerbitan instan; calon tetap harus memenuhi proses yang berlaku."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "FAQ Biaya dan Pendaftaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah Kelas D diperlukan lebih dulu? Kelayakan calon harus diperiksa. Apakah paket DCBA lebih hemat? Bergantung gap struktur. Apakah praktik termasuk? Harus tertulis. Apakah semua shift perlu regu? Kebutuhan harus dipetakan. Apakah in-house tersedia? Dapat dinilai."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dapatkan Penawaran yang Dapat Dipertanggungjawabkan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim profil fasilitas, struktur kebakaran, regu per shift, calon, lokasi, dan target. Tim PENA akan memetakan kebutuhan lalu memberikan jadwal serta quotation resmi."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Belum ada harga publik terverifikasi pada data program. Kirim kebutuhan dan dokumen calon agar tim PENA dapat memeriksa program, penerbit, kesiapan, dan komponen biaya sebelum invoice."
+        }
+    ],
+    "related_offering_slug": "regu-penanggulangan-kebakaran-kelas-c",
+    "meta_title": "Biaya Regu Penanggulangan Kebakaran Kelas C 2026 — Guide",
+    "meta_description": "Panduan teknis keselamatan Biaya Regu Penanggulangan Kebakaran Kelas C 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI,",
+    "published_at": "2026-07-31"
+}

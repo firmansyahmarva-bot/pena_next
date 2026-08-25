@@ -1,0 +1,93 @@
+{
+    "id": "01kyw9maz640q5wehw9nxb9gm3",
+    "title": "Apa Itu Regu Penanggulangan Kebakaran Kelas C?",
+    "slug": "apa-itu-regu-penanggulangan-kebakaran-kelas-c",
+    "path": "/panduan/k3-teknis/apa-itu-regu-penanggulangan-kebakaran-kelas-c",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Regu Penanggulangan Kebakaran Kelas C adalah tim inti yang dilatih dan dilengkapi khusus untuk memadamkan kebakaran secara langsung — berbeda dari Kelas D yang bersifat kompetensi dasar untuk seluruh karyawan.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Jika Kelas D adalah kompetensi dasar yang idealnya dimiliki setiap karyawan, Kelas C adalah tim inti yang benar-benar dibentuk, dilatih rutin, dan diperlengkapi khusus untuk memadamkan kebakaran secara langsung di tempat kerja."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Unit Penanggulangan Kebakaran di Tempat Kerja — klasifikasi personel Kelas D, C, B, dan A.",
+            "source": "Kepmenaker No. 186/MEN/1999"
+        },
+        {
+            "type": "citation",
+            "text": "Syarat-syarat Pemasangan dan Pemeliharaan Alat Pemadam Api Ringan (APAR).",
+            "source": "Permenaker No. 04/MEN/1980"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Peran Regu Kelas C di Lapangan"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Melakukan pemadaman aktif menggunakan APAR, hidran, atau sarana proteksi lainnya",
+                "Bekerja sebagai tim terlatih di bawah arahan Koordinator Kelas B saat kejadian",
+                "Berlatih dan bersimulasi secara berkala agar respons saat kejadian nyata lebih cepat dan terkoordinasi",
+                "Melakukan pemeriksaan rutin terhadap sarana proteksi kebakaran di area tanggung jawabnya"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kelas C dalam Struktur Damkar: Regu, Bukan Individu"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kelas D melatih kompetensi individu untuk merespons tahap awal. Kelas C melatih tim (regu) yang bekerja bersama secara terkoordinasi dengan peralatan yang lebih lengkap — sehingga pelatihannya menekankan kerja sama tim dan simulasi berulang, bukan hanya pengetahuan dasar penggunaan APAR."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kapan Perusahaan Harus Membentuk Regu Kelas C"
+        },
+        {
+            "type": "paragraph",
+            "text": "Regu dibutuhkan ketika profil risiko dan skala fasilitas menuntut respons internal yang lebih terorganisasi daripada petugas peran kebakaran dasar. Pabrik, gudang, proyek konstruksi, fasilitas energi, gedung luas, dan operasi multi-shift perlu menilai sumber penyalaan, fire load, sistem proteksi, jarak bantuan eksternal, serta jumlah orang yang harus dievakuasi. Hasil pemetaan menentukan jumlah anggota dan pembagian regu."
+        },
+        {
+            "type": "paragraph",
+            "text": "Satu atau dua orang bersertifikat tidak otomatis menjadi regu yang siap. Perusahaan perlu menetapkan komando, anggota cadangan, cakupan setiap shift, alat, komunikasi, drill, inspeksi, dan hubungan dengan Kelas B serta Kelas A. Kompetensi Kelas C juga tidak memberi alasan untuk melakukan pemadaman di luar kemampuan; keselamatan personel dan batas respons tetap harus ditetapkan dalam prosedur."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Informasi untuk Menghitung Kebutuhan Pelatihan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sampaikan luas dan fungsi fasilitas, tingkat bahaya kebakaran, jumlah shift, jumlah pekerja, sarana APAR atau hidran, struktur DCBA yang sudah tersedia, hasil audit, jumlah calon, lokasi, dan tenggat. Tim PENA dapat membantu menghitung kelompok peserta, memeriksa prasyarat pembinaan Kemnaker, mengoordinasikan jadwal, serta menyiapkan penawaran perusahaan tanpa menyamakan kebutuhan semua lokasi."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Sedang membentuk regu penanggulangan kebakaran inti di perusahaan Anda? Tim kami dapat membantu menentukan jumlah anggota regu Kelas C sesuai luas dan risiko fasilitas Anda."
+        }
+    ],
+    "related_offering_slug": "regu-penanggulangan-kebakaran-kelas-c",
+    "meta_title": "Apa itu Regu Penanggulangan Kebakaran Kelas C? — Guide 2",
+    "meta_description": "Panduan teknis keselamatan Apa itu Regu Penanggulangan Kebakaran Kelas C? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, d",
+    "published_at": "2026-07-31"
+}

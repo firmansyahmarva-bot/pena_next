@@ -1,0 +1,96 @@
+{
+    "id": "01kyw9m3dbtmj0sj8faqs9drjk",
+    "title": "Syarat Pengawas K3 Industri Migas BNSP",
+    "slug": "syarat-pengawas-k3-industri-migas",
+    "path": "/panduan/k3-teknis/syarat-pengawas-k3-industri-migas",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat Pengawas K3 Industri Migas BNSP perlu diverifikasi dari pendidikan, pengalaman operasi, tugas pengawasan, portofolio, kesehatan, dan kebutuhan proyek.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Pengawas K3 Migas bukan program awareness untuk pekerja baru. Calon idealnya memahami operasi migas, permit-to-work, pekerjaan panas, confined space, H2S, isolasi energi, inspeksi, kontraktor, dan respons darurat. Jabatan HSE saja belum membuktikan kesiapan; pengalaman, tingkat kewenangan, serta bukti pengawasan harus dicocokkan dengan skema kompetensi yang digunakan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kelayakan Calon Asesmen"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Bekerja atau berpengalaman pada operasi/proyek migas",
+                "Menjalankan fungsi pengawasan K3 atau koordinasi pekerjaan berisiko",
+                "Memenuhi kombinasi pendidikan dan pengalaman pada skema LSP",
+                "Sehat serta siap mengikuti pelatihan dan asesmen kompetensi"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "BNSP menilai kompetensi berdasarkan bukti dan demonstrasi, bukan kehadiran saja. CV, surat pengalaman, uraian tugas, laporan inspeksi, risk assessment, permit, toolbox record, atau bukti lain dapat diperlukan sesuai arahan asesor. Dokumen proyek boleh disamarkan, tetapi kontribusi calon, periode, jenis pekerjaan, dan hasilnya harus dapat dinilai."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dokumen dan Persyaratan Mobilisasi"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah, CV, pas foto, surat sehat, dan surat tugas",
+                "Portofolio atau bukti kerja pengawasan K3 migas",
+                "Kutipan tender yang menyebut skema, jenjang, dan penerbit",
+                "Jumlah peserta, lokasi, mode, dan target mobilisasi"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Pastikan nama konsisten dan dokumen terbaca. Jangan mengubah pengalaman untuk memenuhi syarat. Bila calon belum siap, perusahaan dapat menutup gap melalui penugasan terawasi dan pengumpulan bukti yang sah. Sertifikat AGT, Fire Watcher, atau H2S mendukung fungsi khusus tetapi tidak otomatis setara dengan Pengawas K3 Migas."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Sertifikat Tidak Menggantikan Sistem HSE"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kompetensi pengawas perlu ditopang PTW, SIMOPS control, contractor management, isolation, gas testing, emergency plan, pelaporan, dan kewenangan stop-work. Satu pengawas juga tidak selalu cukup untuk seluruh lokasi dan shift. Perusahaan harus menghitung cakupan berdasarkan operasi, jumlah pekerjaan simultan, serta risiko."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pre-Assessment dan Penawaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim pendidikan, pengalaman, tugas, bukti kerja, persyaratan klien, jumlah peserta, lokasi, dan tenggat. Tim PENA akan memeriksa skema, kelayakan dokumen, gap bukti, jadwal, serta biaya resmi. Untuk perusahaan, matriks calon membantu memilih peserta yang benar dan memisahkan kebutuhan kompetensi spesialis."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan yang Sering Diajukan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah fresh graduate dapat langsung menjadi Pengawas K3 Migas? Program ini menilai fungsi pengawasan dan umumnya membutuhkan konteks pengalaman serta bukti sesuai skema. Kirim pendidikan dan CV untuk pre-check; jangan membeli sertifikasi dengan asumsi jabatan akan otomatis mengikuti."
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah sertifikat K3 umum cukup untuk tender migas? Tidak selalu. Tender dapat meminta skema, jenjang, pengalaman, dan penerbit tertentu. Kirim halaman persyaratan lengkap agar tim membedakan kebutuhan Pengawas K3 Migas dari AK3U atau spesialis lain."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim CV, uraian tugas, dan persyaratan proyek untuk pre-assessment Pengawas K3 Migas."
+        }
+    ],
+    "related_offering_slug": "pengawas-k3-industri-migas",
+    "meta_title": "Syarat Mengikuti Pengawas K3 Industri Migas — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Pengawas K3 Industri Migas resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan ",
+    "published_at": "2026-07-31"
+}

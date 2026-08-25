@@ -1,0 +1,93 @@
+{
+    "id": "01kyw9m9mfa59xnp1ban9vyfnz",
+    "title": "Apa Itu Petugas Peran Kebakaran Kelas D?",
+    "slug": "apa-itu-petugas-peran-kebakaran-kelas-d",
+    "path": "/panduan/k3-teknis/apa-itu-petugas-peran-kebakaran-kelas-d",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Petugas Peran Kebakaran Kelas D adalah jenjang dasar dan terluas dalam struktur tanggap darurat kebakaran — kompetensi minimum yang idealnya dimiliki setiap karyawan, bukan hanya tim damkar khusus.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Kelas D adalah jenjang paling dasar dalam struktur personel penanggulangan kebakaran menurut Kepmenaker No. 186/MEN/1999 — dan justru karena itu, jenjang ini dirancang untuk dimiliki oleh populasi pekerja paling luas, bukan hanya tim khusus."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Unit Penanggulangan Kebakaran di Tempat Kerja — klasifikasi personel Kelas D, C, B, dan A.",
+            "source": "Kepmenaker No. 186/MEN/1999"
+        },
+        {
+            "type": "citation",
+            "text": "Syarat-syarat Pemasangan dan Pemeliharaan Alat Pemadam Api Ringan (APAR).",
+            "source": "Permenaker No. 04/MEN/1980"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kompetensi Dasar Petugas Peran Kebakaran"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Mengenali sumber dan tanda awal potensi kebakaran di area kerja masing-masing",
+                "Menggunakan Alat Pemadam Api Ringan (APAR) untuk memadamkan api tahap awal",
+                "Mengaktifkan alarm dan melaporkan kejadian kepada regu/koordinator yang lebih senior",
+                "Melakukan evakuasi diri dan membantu evakuasi rekan kerja di sekitarnya"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kelas D Bukan \"Tim Khusus\" — Ini Kompetensi untuk Semua Orang"
+        },
+        {
+            "type": "paragraph",
+            "text": "Berbeda dari Kelas C (regu penanggulangan) yang merupakan tim khusus dengan latihan rutin, atau Kelas B dan A yang punya tanggung jawab koordinasi/strategis, Kelas D adalah kompetensi minimum yang idealnya dimiliki hampir setiap karyawan — sebagai garis pertahanan pertama sebelum regu khusus datang menangani."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Menentukan Jumlah Petugas per Shift dan Area"
+        },
+        {
+            "type": "paragraph",
+            "text": "Jumlah peserta sebaiknya dihitung dari kondisi nyata fasilitas, bukan satu angka untuk seluruh perusahaan. Pertimbangkan tingkat risiko kebakaran, luas dan pembagian area, jumlah pekerja, pola shift, pergantian personel, akses evakuasi, serta waktu kedatangan regu internal. Setiap shift dan area perlu memiliki cakupan respons awal yang masuk akal ketika alarm berbunyi."
+        },
+        {
+            "type": "paragraph",
+            "text": "Petugas Kelas D bukan pengganti Regu Kelas C, Koordinator Kelas B, atau Ahli K3 Kebakaran Kelas A. Mereka mengenali kejadian, melapor, membantu evakuasi, dan melakukan respons awal hanya bila kondisi memungkinkan. Perusahaan tetap harus menyediakan APAR yang sesuai, inspeksi, alarm, jalur evakuasi, titik kumpul, latihan berkala, dan prosedur untuk menghentikan respons ketika api membesar."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data untuk Jadwal dan Penawaran Pelatihan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim bidang usaha, lokasi, luas dan jumlah area, klasifikasi bahaya kebakaran bila tersedia, jumlah pekerja per shift, jumlah petugas yang sudah ada, jumlah peserta baru, dan target audit. Tim PENA akan membantu menilai apakah kebutuhan cukup Kelas D, perlu Regu Kelas C, atau lebih efisien memakai paket DCBA, kemudian menyampaikan persyaratan, jadwal, durasi, dan biaya resmi."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Ingin memastikan seluruh karyawan punya kompetensi dasar tanggap kebakaran, bukan hanya tim damkar khusus? Tim kami dapat membantu merancang cakupan pelatihan Kelas D untuk seluruh unit kerja Anda."
+        }
+    ],
+    "related_offering_slug": "petugas-peran-kebakaran-kelas-d",
+    "meta_title": "Apa itu Petugas Peran Kebakaran Kelas D? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Petugas Peran Kebakaran Kelas D? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan ser",
+    "published_at": "2026-07-31"
+}

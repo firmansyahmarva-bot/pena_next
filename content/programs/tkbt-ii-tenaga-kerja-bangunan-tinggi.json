@@ -1,0 +1,214 @@
+{
+    "id": "01kyfffj3736hfe2094xrmft3w",
+    "type": "training",
+    "name": "TKBT II (Tenaga Kerja Bangunan Tinggi)",
+    "slug": "tkbt-ii-tenaga-kerja-bangunan-tinggi",
+    "path": "/pelatihan/tkbt-ii-tenaga-kerja-bangunan-tinggi",
+    "title": "TKBT II (Tenaga Kerja Bangunan Tinggi)",
+    "meta_title": "Sertifikasi TKBT Tingkat 2 Kemnaker RI: Ketinggian K3",
+    "meta_description": "Lisensi K3 Tenaga Kerja Bangunan Tinggi (TKBT) Tingkat 2 Kemnaker RI. Penggunaan full body harness, lanyard, anchorage point, & Permenaker 09/2016.",
+    "summary": "Pembinaan dan sertifikasi Lisensi K3 Tenaga Kerja Bangunan Tinggi (TKBT) Tingkat 2 Kemnaker RI — menguasai teknik bekerja di ketinggian pada struktur bangunan/scaffolding, penggunaan Full Body Harness dual lanyard, pengujian Anchorage Point, dan penahan jatuh (Fall Arrester System) sesuai Permenaker No. 09 Tahun 2016.",
+    "certification_body": "bnsp",
+    "base_price": 5750000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Pembinaan TKBT Tingkat 2 diselenggarakan berdasarkan Permenaker No. 09 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja dalam Pekerjaan Pada Ketinggian. Regulasi ini menetapkan kewajiban sertifikasi bagi personel yang bekerja pada tempat kerja tinggi untuk mencegah bahaya jatuh dari ketinggian."
+        },
+        {
+            "type": "paragraph",
+            "text": "Kualifikasi TKBT Tingkat II memegang peranan vital dalam pekerjaan konstruksi, maintenance gedung, pemasangan struktur baja, dan perancah."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+            "source": "UU No. 13 Tahun 2003"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja dalam Pekerjaan Pada Ketinggian.",
+            "source": "Permenaker No. 09 Tahun 2016"
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini mendidik teknisi bekerja di ketinggian yang mengutamakan keselamatan. Setelah lulus pembinaan, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Menguasai prosedur K3 bekerja aman di ketinggian (Working at Height) pada struktur bangunan, konstruksi baja, dan scaffolding",
+                "Melakukan pemeriksaan pre-use APD ketinggian: Full Body Harness, Energy Absorber Lanyard, Fall Arrester, Karabiner, dan Work Positioning Lanyard",
+                "Memasang dan memverifikasi kekuatan Titik Tambat (Anchorage Point) serta Lifeline vertikal/horizontal",
+                "Menerapkan metode pergerakan bergerak (climbing movement) dengan sistem 100% Tie-Off (dual lanyard hooks)",
+                "Meraih Buku Kerja dan Lisensi K3 Kemnaker RI resmi TKBT Tingkat 2"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kurikulum pembinaan K3 ketinggian & uji praktikum Kemnaker RI:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul 1: Peraturan K3 Bekerja Pada Ketinggian sesuai Permenaker No. 09 Tahun 2016",
+                "Modul 2: Identifikasi Bahaya Jatuh, Perhitungan Clearance Distance, & Factor Fall (Faktor Jatuh)",
+                "Modul 3: Pemilihan, Inspeksi, & Perawatan Peralatan Penahan Jatuh (Fall Arrest System)",
+                "Modul 4: Pengoperasian Platform Kerja (Scaffolding, Gondola, MEWP) & Prosedur Tanggap Darurat Non-Rope Rescue",
+                "Modul Praktik: Praktik pemakaian harness, simulasi 100% tie-off di tower/struktur TUK, pengujian anchor, & Ujian Teori Kemnaker RI"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Minimal SD/SMP/SMA sederajat",
+                "Sehat jasmani dan rohani, dibuktikan dengan Surat Keterangan Sehat dari dokter (bebas vertigo dan penyakit jantung/epilepsi)",
+                "Pasfoto formal latar belakang merah (3x4 & 4x6), KTP, & ijazah"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Kelengkapan administrasi yang umum dipersyaratkan untuk mengikuti program ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter",
+                "Surat rekomendasi/penugasan dari perusahaan (untuk peserta utusan perusahaan)",
+                "Curriculum vitae (untuk skema sertifikasi BNSP)"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan pendidikan minimum dan pengalaman kerja mengikuti ketentuan skema/penunjukan yang berlaku — tim kami akan memverifikasi kelengkapan Anda sebelum pendaftaran diproses."
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul dan materi pelatihan",
+                "Instruktur praktisi tersertifikasi di bidangnya",
+                "Ujian/asesmen sertifikasi",
+                "Sertifikat sesuai skema (Kemnaker RI atau BNSP)",
+                "Konsultasi pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir pendaftaran di halaman ini.",
+                "Terima penawaran resmi: jadwal, biaya, dan persyaratan program.",
+                "Lengkapi berkas administrasi dan lakukan konfirmasi pendaftaran.",
+                "Ikuti pelatihan dan ujian/asesmen sertifikasi.",
+                "Terima sertifikat dan lisensi/kartu kompetensi sesuai skema."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": [
+        {
+            "id": "01kywb7w1vamjq990q0dprqq1e",
+            "slug": "tkbt-ii-tenaga-kerja-bangunan-tinggi-batch-292",
+            "batch_number": "292",
+            "start_date": "2026-08-05",
+            "end_date": "2026-08-07",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 5500000,
+            "promo_price": 3370000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7w4hk8vvf4ps56gbqya0",
+            "slug": "tkbt-ii-tenaga-kerja-bangunan-tinggi-batch-293",
+            "batch_number": "293",
+            "start_date": "2026-09-09",
+            "end_date": "2026-09-11",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 5500000,
+            "promo_price": 3370000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7w70ccbqkqkdm9jh4w35",
+            "slug": "tkbt-ii-tenaga-kerja-bangunan-tinggi-batch-294",
+            "batch_number": "294",
+            "start_date": "2026-10-07",
+            "end_date": "2026-10-09",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 5500000,
+            "promo_price": 3370000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7w8jzd5msyz2h9bym4ef",
+            "slug": "tkbt-ii-tenaga-kerja-bangunan-tinggi-batch-295",
+            "batch_number": "295",
+            "start_date": "2026-11-04",
+            "end_date": "2026-11-06",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 5500000,
+            "promo_price": 3370000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7wan76s8dyk06vwb9qnn",
+            "slug": "tkbt-ii-tenaga-kerja-bangunan-tinggi-batch-296",
+            "batch_number": "296",
+            "start_date": "2026-12-09",
+            "end_date": "2026-12-11",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 5500000,
+            "promo_price": 3370000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7wckphgacm3x3ptgq21y",
+            "slug": "tkbt-ii-tenaga-kerja-bangunan-tinggi-batch-297",
+            "batch_number": "297",
+            "start_date": "2027-01-06",
+            "end_date": "2027-01-08",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 5500000,
+            "promo_price": 3370000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9mww59y3s3c7ep4vnhh64",
+    "title": "Perbedaan Regu Kebakaran Kelas C vs Unit Kebakaran Kelas C",
+    "slug": "perbedaan-regu-penanggulangan-kebakaran-kelas-c-vs-unit-p-keb-kelas-c",
+    "path": "/panduan/k3-teknis/perbedaan-regu-penanggulangan-kebakaran-kelas-c-vs-unit-p-keb-kelas-c",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Klarifikasi perbedaan antara sertifikasi individu anggota regu pemadam kebakaran (Kelas C) dan paket pembentukan unit kebakaran terpadu per shift kerja.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Anggota Regu Kebakaran Kelas C dilatih menggelar selang hidran, formasi regu nozzleman, dan pemakaian baju tahan panas. Paket Unit Kelas C mencakup pembinaan terpadu satu tim lengkap per shift operasional pabrik."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Memastikan ketersediaan tim tanggap darurat yang terlatih selama 24 jam rotasi kerja."
+        }
+    ],
+    "related_offering_slug": "regu-penanggulangan-kebakaran-kelas-c",
+    "meta_title": "Perbedaan Regu Penanggulangan Kebakaran Kelas C dan Unit",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Regu Penanggulangan Kebakaran Kelas C dan Unit P. Keb Kelas C resmi Kemnaker RI dan BNSP. Persyaratan, prosedur",
+    "published_at": "2026-07-31"
+}

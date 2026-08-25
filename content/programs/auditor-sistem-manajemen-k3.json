@@ -1,0 +1,147 @@
+{
+    "id": "01kyfffhnzgqq5t1zrp7xytdz9",
+    "type": "training",
+    "name": "Auditor Sistem Manajemen K3",
+    "slug": "auditor-sistem-manajemen-k3",
+    "path": "/pelatihan/auditor-sistem-manajemen-k3",
+    "title": "Auditor Sistem Manajemen K3",
+    "meta_title": "Auditor Sistem Manajemen K3",
+    "meta_description": "Pelatihan Auditor SMK3 Kemnaker RI. Pembinaan audit internal & eksternal PP 50/2012, 166 kriteria audit, & lisensi Auditor SMK3.",
+    "summary": "Tersedia online.",
+    "certification_body": "bnsp",
+    "base_price": 4500000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) adalah kewajiban bagi perusahaan di Indonesia yang mempekerjakan tenaga kerja dalam jumlah tertentu atau memiliki tingkat risiko bahaya tinggi, sebagaimana diatur dalam Peraturan Pemerintah Nomor 50 Tahun 2012 tentang Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja. Agar penerapan SMK3 di suatu perusahaan benar-benar berjalan efektif — bukan sekadar dokumen di atas kertas — dibutuhkan proses audit yang sistematis untuk menilai kesesuaian pelaksanaan SMK3 terhadap kriteria yang berlaku. Di sinilah peran seorang Auditor SMK3 menjadi krusial."
+        },
+        {
+            "type": "paragraph",
+            "text": "Auditor SMK3 adalah individu yang memiliki kompetensi untuk menilai penerapan sistem manajemen K3 di suatu perusahaan atau tempat kerja, dengan merujuk pada 12 elemen dan kriteria audit SMK3 sebagaimana tercantum dalam Lampiran PP No. 50 Tahun 2012. Audit ini mencakup seluruh aspek manajemen keselamatan kerja, mulai dari komitmen manajemen puncak, perencanaan K3, pengendalian risiko, hingga tinjauan ulang dan peningkatan kinerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Penting untuk dipahami bahwa terdapat dua ranah yang berkaitan namun berbeda: audit eksternal resmi untuk penerbitan sertifikat SMK3 perusahaan (termasuk peringkat bendera emas/perak) dilakukan oleh Lembaga Audit SMK3 yang ditunjuk dan diawasi oleh Kementerian Ketenagakerjaan, dengan auditor yang terdaftar pada lembaga tersebut. Sementara itu, sertifikasi kompetensi individu Auditor SMK3 melalui BNSP (Badan Nasional Sertifikasi Profesi) membuktikan bahwa seseorang memiliki pengetahuan, keterampilan, dan sikap kerja yang memenuhi standar kompetensi kerja nasional dalam bidang audit SMK3. Sertifikasi BNSP ini sangat relevan bagi praktisi K3 internal perusahaan, auditor internal, konsultan K3, maupun calon auditor yang ingin membangun jenjang karier di bidang audit sistem manajemen keselamatan kerja."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini cocok untuk:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Petugas K3, Ahli K3 Umum, atau HSE Officer yang bertanggung jawab melakukan audit internal SMK3 di perusahaannya",
+                "Manajer atau supervisor HSE yang perlu memastikan efektivitas penerapan SMK3 di unit kerjanya",
+                "Konsultan K3 dan praktisi independen yang ingin memperluas layanan ke bidang audit sistem manajemen",
+                "Calon auditor yang ingin membangun kompetensi formal sebelum bergabung dengan lembaga audit atau berkarier sebagai auditor SMK3",
+                "Perusahaan yang ingin menyiapkan tim internal agar lebih siap menghadapi audit eksternal SMK3"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Seorang auditor SMK3 bertanggung jawab untuk:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Merencanakan kegiatan audit, termasuk menentukan ruang lingkup, kriteria, dan jadwal audit berdasarkan kategori risiko dan kompleksitas perusahaan",
+                "Mengumpulkan bukti audit melalui tinjauan dokumen, observasi lapangan, dan wawancara dengan manajemen serta pekerja di berbagai level",
+                "Mengidentifikasi dan mengklasifikasikan temuan ketidaksesuaian (non-conformity), baik kategori minor, mayor, maupun kritikal, secara objektif dan berbasis bukti — bukan opini",
+                "Menyampaikan hasil temuan dalam rapat pembukaan dan penutupan audit secara profesional dan komunikatif",
+                "Menyusun laporan audit yang jelas, akurat, dan dapat ditindaklanjuti oleh pihak yang diaudit (auditee)",
+                "Memverifikasi tindakan perbaikan dan pencegahan (corrective and preventive action) yang diambil perusahaan atas temuan audit",
+                "Menjaga independensi, objektivitas, dan kerahasiaan selama proses audit berlangsung"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Kompetensi audit SMK3 memberi nilai langsung bagi perusahaan: perusahaan dapat membangun tim auditor internal yang mampu mendeteksi kesenjangan penerapan K3 sebelum berkembang menjadi insiden, mempersiapkan diri lebih matang sebelum menjalani audit eksternal, serta memastikan tindakan perbaikan benar-benar dijalankan dan diverifikasi. Bagi individu, kompetensi ini membuka peluang berkarier sebagai auditor internal, konsultan K3, maupun mendukung jenjang karier menuju auditor pada lembaga audit SMK3. Perusahaan yang menerapkan SMK3 secara serius umumnya melihat penurunan insiden kerja, peningkatan kepatuhan regulasi, dan penguatan reputasi di mata klien serta mitra bisnis — terutama di sektor yang mensyaratkan SMK3 sebagai bagian dari kualifikasi tender atau kontrak kerja."
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Tahapan pelaksanaan audit SMK3 yang dipelajari peserta:"
+        },
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Persiapan audit — memahami profil perusahaan, ruang lingkup usaha, jumlah tenaga kerja, dan tingkat risiko bahaya untuk menentukan pendekatan audit yang sesuai",
+                "Rapat pembukaan (opening meeting) — auditor menjelaskan tujuan, ruang lingkup, metodologi, dan jadwal audit kepada pihak auditee",
+                "Pengumpulan bukti audit — melalui peninjauan dokumen (kebijakan K3, prosedur, catatan pelatihan, hasil inspeksi), observasi langsung di lapangan, dan wawancara dengan berbagai level organisasi mulai dari manajemen puncak hingga pekerja operasional",
+                "Identifikasi dan analisis temuan — membandingkan kondisi aktual dengan kriteria/elemen SMK3 yang berlaku, lalu mengategorikan ketidaksesuaian",
+                "Rapat penutupan (closing meeting) — menyampaikan hasil temuan sementara kepada manajemen dan memberi kesempatan klarifikasi",
+                "Penyusunan laporan audit — mendokumentasikan seluruh proses, bukti, dan temuan secara sistematis",
+                "Tindak lanjut — auditee menyusun dan melaksanakan tindakan perbaikan, yang kemudian dapat diverifikasi kembali oleh auditor atau pihak berwenang"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Kurikulum pelatihan mencakup:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Dasar hukum dan kerangka regulasi SMK3 di Indonesia (PP No. 50 Tahun 2012 dan peraturan pelaksana terkait)",
+                "Prinsip dan filosofi audit sistem manajemen (perbedaan audit, inspeksi, dan pengawasan)",
+                "12 elemen kriteria audit SMK3 dan interpretasinya dalam konteks operasional perusahaan",
+                "Teknik pengumpulan bukti audit: telaah dokumen, observasi lapangan, dan teknik wawancara audit",
+                "Klasifikasi temuan (minor, mayor, kritikal) dan penyusunan laporan ketidaksesuaian (NCR)",
+                "Teknik komunikasi audit: rapat pembukaan, penyampaian temuan, dan penanganan resistensi auditee",
+                "Penyusunan laporan audit yang efektif dan dapat ditindaklanjuti",
+                "Simulasi/praktik audit untuk mengasah kemampuan analisis dan pengambilan keputusan auditor"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan disampaikan melalui kombinasi pemaparan materi oleh instruktur berpengalaman di bidang K3 dan audit sistem manajemen, diskusi studi kasus dari kondisi riil di lapangan, serta simulasi audit agar peserta terbiasa dengan dinamika proses audit sesungguhnya — termasuk cara menggali bukti, menyusun pertanyaan wawancara, dan menyampaikan temuan secara konstruktif kepada auditee."
+        },
+        {
+            "type": "paragraph",
+            "text": "Peserta yang mengikuti seluruh rangkaian pelatihan dan dinyatakan memenuhi syarat akan mengikuti uji kompetensi pada skema Auditor SMK3 yang diselenggarakan oleh Lembaga Sertifikasi Profesi (LSP) berlisensi BNSP. Uji kompetensi umumnya terdiri dari penilaian pengetahuan (tertulis/lisan) dan penilaian keterampilan/simulasi sesuai unit kompetensi yang dipersyaratkan dalam skema. Peserta yang dinyatakan kompeten akan memperoleh sertifikat kompetensi BNSP sebagai bukti formal bahwa yang bersangkutan memiliki kemampuan melakukan audit SMK3 sesuai standar kompetensi kerja nasional."
+        }
+    ],
+    "requirements": [
+        {
+            "type": "paragraph",
+            "text": "Persyaratan umum peserta meliputi latar belakang pendidikan dan/atau pengalaman kerja di bidang K3 sesuai dengan ketentuan skema sertifikasi yang berlaku, serta kelengkapan dokumen administratif seperti KTP, pas foto, ijazah, dan bukti pengalaman kerja/portofolio di bidang K3 (jika dipersyaratkan oleh skema)."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "[VERIFIKASI PENA] Persyaratan detail dapat berbeda mengikuti pembaruan skema BNSP — tim PENA Consultant akan membantu memastikan kelengkapan dokumen peserta sebelum pelaksanaan uji kompetensi."
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan pas foto",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Bukti pengalaman kerja/portofolio di bidang K3 (jika dipersyaratkan oleh skema)"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "paragraph",
+            "text": "Peserta mendapatkan materi pelatihan, pendampingan instruktur berpengalaman, sesi simulasi audit, serta pendampingan administratif menuju uji kompetensi BNSP."
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "paragraph",
+            "text": "Calon peserta dapat menghubungi tim PENA Consultant melalui kontak resmi di website penaconsultant.com untuk mendapatkan informasi jadwal pelatihan terdekat, kelengkapan dokumen yang dibutuhkan, serta konsultasi kesesuaian program dengan kebutuhan perusahaan atau individu. Tim kami akan membantu proses pendaftaran, verifikasi dokumen, hingga pendampingan sampai pelaksanaan uji kompetensi."
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

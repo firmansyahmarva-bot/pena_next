@@ -1,0 +1,20 @@
+{
+    "id": "01kyw9p1tp0bfgayr7bax73zbr",
+    "name": "Bekasi",
+    "slug": "bekasi",
+    "path": "/cabang/bekasi",
+    "is_physical": false,
+    "address": null,
+    "intro": [
+        {
+            "type": "paragraph",
+            "text": "Bekasi — mencakup Kabupaten Bekasi dengan kawasan industri Cikarang di dalamnya — adalah salah satu basis manufaktur terbesar di Indonesia, menaungi ribuan pabrik di kawasan industri terintegrasi seperti MM2100, Jababeka, dan EJIP. Sektor otomotif, elektronik, dan FMCG (barang konsumsi bergerak cepat) mendominasi wilayah ini, dengan puluhan ribu tenaga kerja bekerja di lini produksi, pergudangan, dan logistik setiap harinya."
+        },
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyelenggarakan pelatihan dan sertifikasi K3 yang relevan untuk kebutuhan operasional pabrik manufaktur, otomotif, dan pergudangan di Bekasi dan sekitarnya — skema Kemnaker RI maupun BNSP, tersedia online maupun in-house."
+        }
+    ],
+    "service_areas": [],
+    "phone": null
+}

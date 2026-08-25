@@ -1,0 +1,92 @@
+{
+    "id": "01kyw9k79040y7m2v61kfd378x",
+    "title": "Syarat Ahli K3 Konstruksi BNSP dan Bukti Kompetensi",
+    "slug": "syarat-ahli-k3-konstruksi",
+    "path": "/panduan/k3-teknis/syarat-ahli-k3-konstruksi",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat mengikuti Ahli K3 Konstruksi skema BNSP: ditujukan bagi personel K3 pada proyek konstruksi dengan pengalaman atau penugasan di lapangan sesuai Permenaker No. 01/MEN/1980.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Ahli K3 Konstruksi adalah sertifikasi kompetensi BNSP bagi personel yang menangani K3 pada proyek konstruksi bangunan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Persyaratan Umum Peserta"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Bekerja atau berpengalaman pada proyek konstruksi (kontraktor, konsultan, atau pemilik proyek)",
+                "Memiliki pemahaman dasar tentang praktik kerja konstruksi dan bahayanya",
+                "Sehat jasmani dan rohani",
+                "Bersedia mengikuti seluruh sesi pelatihan dan uji kompetensi BNSP"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kombinasi pendidikan dan pengalaman spesifik dapat berbeda tergantung skema/unit kompetensi LSP penyelenggara — tim kami akan mengonfirmasi kelengkapan berkas Anda sebelum pendaftaran."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kelengkapan Berkas"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir",
+                "Curriculum vitae yang mencantumkan pengalaman proyek konstruksi",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Bukti Kompetensi yang Biasanya Perlu Disiapkan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Karena jalur ini menggunakan asesmen BNSP, peserta tidak cukup hanya hadir di kelas. Calon perlu menunjukkan pekerjaan atau pengalaman konstruksi yang relevan melalui CV, surat pengalaman, uraian jabatan, laporan, portofolio, atau bukti lain yang diterima asesor. Kombinasi pendidikan dan masa kerja mengikuti skema LSP yang digunakan dan harus diverifikasi sebelum pendaftaran."
+        },
+        {
+            "type": "paragraph",
+            "text": "Program sesuai bagi HSE proyek, safety officer, engineer, supervisor, atau personel kontraktor yang mengelola risiko konstruksi. Untuk pemula tanpa bukti kerja, jenjang atau program pembinaan lain mungkin lebih tepat. Sertifikat Ahli K3 Konstruksi BNSP juga tidak boleh diasumsikan identik dengan penunjukan Kemnaker; tender dan pemilik proyek dapat meminta penerbit tertentu."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Cara Meminta Pemeriksaan Syarat dan Biaya"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim pendidikan, lama pengalaman, jenis proyek, jabatan, bukti kerja, persyaratan klien, jumlah peserta, lokasi, dan tenggat mobilisasi. Tim PENA akan memeriksa skema, kelengkapan asesmen, kemungkinan gap, jadwal, dan penawaran resmi. Untuk kebutuhan perusahaan, sertakan matriks kompetensi agar program yang dipilih selaras dengan posisi setiap calon."
+        },
+        {
+            "type": "paragraph",
+            "text": "Portofolio tidak perlu memuat data proyek yang bersifat rahasia. Bukti dapat disiapkan dengan penyamaran yang wajar selama identitas peran, jenis pekerjaan, periode, dan kontribusi calon masih dapat dinilai. Konfirmasikan formatnya terlebih dahulu agar asesor memperoleh bukti yang cukup tanpa melanggar kerahasiaan klien."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sebelum memilih tanggal, pastikan calon tersedia untuk seluruh pelatihan dan asesmen. Jadwal kerja proyek, perjalanan, atau rotasi yang berbenturan dapat membuat proses tidak lengkap dan menambah biaya penjadwalan ulang."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Perlu mengecek apakah pengalaman kerja Anda memenuhi syarat Ahli K3 Konstruksi skema BNSP? Tim kami akan membantu verifikasi sebelum pendaftaran diproses."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-konstruksi",
+    "meta_title": "Syarat Mengikuti Ahli K3 Konstruksi — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Ahli K3 Konstruksi resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifik",
+    "published_at": "2026-07-31"
+}

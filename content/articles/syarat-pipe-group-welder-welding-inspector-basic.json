@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9mag69m75e7145qqthpsa",
+    "title": "Syarat Mengikuti Pelatihan Pipe Welder & Inspector Basic",
+    "slug": "syarat-pipe-group-welder-welding-inspector-basic",
+    "path": "/panduan/sertifikasi-k3/syarat-pipe-group-welder-welding-inspector-basic",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Persyaratan kualifikasi Pipe Group Welder & Basic Inspector.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Memiliki pengalaman pengelasan pipa dan mampu membaca simbol las pada gambar teknik fabrikasi."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Uji praktik pengelasan pipa dan evaluasi visual cacat las porosity/undercut."
+        }
+    ],
+    "related_offering_slug": "pipe-group-welder-welding-inspector-basic",
+    "meta_title": "Syarat Mengikuti Pipe, Group Welder, Welding Inspector B",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Pipe, Group Welder, Welding Inspector Basic resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, ther",
+    "published_at": "2026-07-31"
+}

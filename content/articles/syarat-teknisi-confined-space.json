@@ -1,0 +1,87 @@
+{
+    "id": "01kyw9me3r1cvts6p05848nmky",
+    "title": "Syarat Teknisi Confined Space Kemnaker",
+    "slug": "syarat-teknisi-confined-space",
+    "path": "/panduan/k3-teknis/syarat-teknisi-confined-space",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat Teknisi Confined Space Kemnaker perlu diverifikasi dari peran entrant/attendant, pengalaman, penugasan, kesehatan, jenis ruang, prosedur entry, dan permintaan proyek.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Teknisi Confined Space ditujukan bagi personel yang benar-benar masuk sebagai entrant atau berjaga sebagai attendant pada pekerjaan ruang terbatas. Nama jabatan teknisi belum cukup. Perusahaan harus menjelaskan jenis ruang, pekerjaan, potensi atmosfer, isolasi, metode komunikasi, pola shift, dan peran calon. Jalur Kemnaker juga tidak boleh otomatis disamakan dengan Teknisi K3 Ruang Terbatas BNSP."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kesiapan Calon yang Perlu Diperiksa"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Ditugaskan sebagai entrant atau attendant",
+                "Memiliki pengalaman kerja ruang terbatas yang dapat dijelaskan",
+                "Sehat dan siap memakai APD serta mengikuti praktik",
+                "Memenuhi pendidikan dan persyaratan pembinaan aktif"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Calon perlu memahami permit, bahaya atmosfer, isolasi, ventilasi, komunikasi, tanda penghentian kerja, dan tindakan ketika kondisi berubah. Namun teknisi bukan otomatis penyusun seluruh entry plan atau anggota rescue team. Pengalaman harus sesuai fungsi. Tim PENA melakukan pre-check dokumen; persetujuan dan kelulusan tetap mengikuti proses resmi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dokumen Peserta dan Konteks Proyek"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah, CV, pas foto, surat sehat, dan surat tugas",
+                "Surat pengalaman atau uraian pekerjaan confined space",
+                "Jenis ruang, pekerjaan, peran, jumlah entry, serta shift",
+                "Persyaratan tender yang menyebut skema dan penerbit"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim kutipan tender secara utuh agar kata Kemnaker, BNSP, entrant, attendant, atau jenjang lain tidak terpotong. Contoh permit dan prosedur boleh disamarkan. Nama peserta harus konsisten di semua berkas. Jika pengalaman belum cukup, jangan membuat portofolio; perusahaan dapat memberi penugasan terawasi dan mengembangkan bukti secara sah."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Yang Tetap Menjadi Kewajiban Perusahaan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikat teknisi tidak menggantikan risk assessment, permit, LOTO, blanking atau isolasi, gas detector terkalibrasi, ventilasi, attendant, komunikasi, retrieval, rescue plan, tim penyelamat, dan pengawasan. Jumlah teknisi juga harus mempertimbangkan shift, beberapa entry yang berlangsung bersamaan, cuti, serta personel cadangan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan Pembeli dan Langkah Berikutnya"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah sertifikat BNSP dapat menggantikan Kemnaker? Tidak dapat diasumsikan; penerimaan mengikuti persyaratan klien. Apakah pengalaman teknisi cukup untuk jenjang ahli? Belum tentu, karena fungsi penilaian serta perencanaan berbeda. Kirim CV, tugas, jenis ruang, persyaratan proyek, jumlah peserta, lokasi, dan target agar tim memeriksa jalur, dokumen, jadwal, serta biaya resmi."
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah satu attendant dapat menjaga beberapa entry? Jangan diasumsikan. Penempatan harus mengikuti prosedur, risiko, kemampuan komunikasi, dan pekerjaan simultan. Perusahaan perlu menghitung personel dari operasi nyata, bukan hanya jumlah sertifikat yang tersedia."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim persyaratan proyek dan peran calon untuk memastikan jalur confined space sebelum pendaftaran."
+        }
+    ],
+    "related_offering_slug": "teknisi-confined-space",
+    "meta_title": "Syarat Mengikuti Teknisi Confined Space — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Teknisi Confined Space resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sert",
+    "published_at": "2026-07-31"
+}

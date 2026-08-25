@@ -1,0 +1,95 @@
+{
+    "id": "01kyw9kgkfwfvdfr6rpjddvszr",
+    "title": "Jadwal Pelatihan Fire Watcher 2026",
+    "slug": "jadwal-fire-watcher-2026",
+    "path": "/panduan/k3-teknis/jadwal-fire-watcher-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Panduan jadwal pelatihan Fire Watcher 2026 untuk menyesuaikan kebutuhan hot work, dokumen proyek, praktik, shift, dan mobilisasi.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Data program mencatat durasi Fire Watcher sekitar tiga hari untuk area hot work atau migas, tetapi penerbit dan tanggal batch 2026 belum terverifikasi. Karena itu halaman ini tidak mengklaim BNSP atau Kemnaker. Bentuk program harus mengikuti persyaratan klien."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Durasi Terverifikasi, Tanggal Masih Harus Dikonfirmasi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Durasi tiga hari bukan bukti skema tertentu, janji batch aktif, atau estimasi dokumen terbit. Sebelum memilih tanggal, konfirmasikan apakah proyek meminta pelatihan internal, sertifikat penyelenggara, asesmen tertentu, atau dokumen lain."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Checklist Sebelum Mengunci Jadwal"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Tanggal mulai/selesai, jam, shift, lokasi, mode, dan status batch",
+                "Nama/bentuk program, penerbit dokumen, evaluasi, kuota, serta batas daftar",
+                "Jenis hot work, area, potensi gas, prosedur permit, dan persyaratan klien",
+                "Biaya, praktik/APAR, reschedule, penggantian peserta, dan dokumen"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Siapkan Peserta Sebelum Batch Penuh"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim klausul proyek lengkap untuk verifikasi sebelum pembayaran. Fire Watcher tidak sama dengan AGT, H2S, atau petugas damkar. Calon juga perlu memahami permit, kondisi penghentian kerja, pengawasan setelah pekerjaan, dan komunikasi darurat."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Batch Publik atau Pelaksanaan Perusahaan?"
+        },
+        {
+            "type": "paragraph",
+            "text": "In-house sering memberi praktik yang lebih kontekstual untuk shift dan area hot work. Batch publik bisa cocok untuk sedikit peserta, tetapi bentuk dokumen harus diterima klien. Jangan memilih hanya berdasarkan tanggal tercepat."
+        },
+        {
+            "type": "paragraph",
+            "text": "Siapkan satu calon cadangan yang juga telah lolos pre-check, terutama untuk kelas dengan kuota atau jadwal proyek ketat. Selaraskan persetujuan atasan, procurement, perjalanan, penginapan, pelepasan shift, dan akses platform sebelum batas daftar. Simpan opsi tanggal kedua bila minimum peserta belum terpenuhi atau operasional berubah. Untuk kelas perusahaan, tetapkan PIC yang mengendalikan daftar peserta, dokumen, fasilitas, komunikasi jadwal, dan keputusan reschedule agar perubahan tidak tersebar melalui pesan yang berbeda-beda."
+        },
+        {
+            "type": "paragraph",
+            "text": "Rencanakan mundur dari tanggal personel harus siap. Sisihkan waktu untuk pre-check, koreksi dokumen, persetujuan anggaran, pendaftaran, pelaksanaan, evaluasi, dan proses penerbitan. Jangan menyamakan tanggal selesai kelas dengan tanggal sertifikat atau lisensi diterima. Minta konfirmasi tertulis mengenai tanggal mulai/selesai, jam dan zona waktu, lokasi atau platform, status confirmed, minimum peserta, batas pendaftaran, kehadiran, reschedule, biaya, evaluasi, retake, serta estimasi dokumen. Jika kebutuhan berasal dari tender, lampirkan klausul aslinya agar penerbit dan jenjang tidak salah."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "FAQ Jadwal 2026"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah Fire Watcher BNSP? Belum dapat dipastikan dari data. Apakah AGT termasuk? Tidak otomatis. Apakah tiga hari termasuk dokumen? Tidak. Apakah jadwal bisa menyesuaikan shift? Dapat dibahas. Apakah sertifikat diterima proyek? Harus diverifikasi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Jadwal Aktif dan Pre-check"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim persyaratan klien, hot work, area, potensi gas, shift, peserta, lokasi, dan tenggat. Tim PENA akan mengonfirmasi bentuk program dan jadwal."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kalender batch 2026 belum terverifikasi dalam data program. Tim PENA akan mengonfirmasi jadwal yang masih aktif; durasi program bukan janji tanggal mulai, kelas pasti berjalan, atau dokumen langsung terbit."
+        }
+    ],
+    "related_offering_slug": "fire-watcher",
+    "meta_title": "Jadwal Fire Watcher 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Jadwal Fire Watcher 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

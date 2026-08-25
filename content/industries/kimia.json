@@ -1,0 +1,22 @@
+{
+    "id": "01kyw9njyefyfwxjn93najyprp",
+    "name": "Kimia",
+    "slug": "kimia",
+    "path": "/industri/kimia",
+    "description": "K3 untuk sektor Kimia.",
+    "regulatory_context": [
+        {
+            "type": "paragraph",
+            "text": "Perusahaan yang menyimpan atau menggunakan bahan kimia berbahaya di atas nilai ambang kuantitas wajib menunjuk petugas/ahli K3 kimia sesuai Kepmenaker No. 187/MEN/1999."
+        },
+        {
+            "type": "citation",
+            "text": "Pengendalian Bahan Kimia Berbahaya di Tempat Kerja.",
+            "source": "Kepmenaker No. 187/MEN/1999"
+        }
+    ],
+    "relevant_offering_slugs": [
+        "ahli-k3-kimia",
+        "petugas-k3-kimia"
+    ]
+}

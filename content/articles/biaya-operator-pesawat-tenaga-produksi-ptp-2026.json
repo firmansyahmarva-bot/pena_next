@@ -1,0 +1,92 @@
+{
+    "id": "01kyw9kx9tfc553h2hd8dycv3f",
+    "title": "Biaya Operator Pesawat Tenaga dan Produksi 2026",
+    "slug": "biaya-operator-pesawat-tenaga-produksi-ptp-2026",
+    "path": "/panduan/k3-teknis/biaya-operator-pesawat-tenaga-produksi-ptp-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Biaya Operator Pesawat Tenaga dan Produksi 2026 harus disusun dari jenis mesin, jumlah operator, praktik, dokumen, dan skema pembinaan Kemnaker yang tepat.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Dataset program tidak menyediakan harga publik terverifikasi untuk Operator PTP. Yang terkonfirmasi adalah jalur Kemnaker, durasi sekitar lima hari, dan sasaran operator mesin produksi bertenaga. Karena cakupan mesin di fasilitas manufaktur berbeda-beda, quotation 2026 perlu berangkat dari inventaris alat dan tugas operator, bukan angka paket generik."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Apa Saja yang Membentuk Biaya 2026?"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pembinaan teori, identifikasi bahaya, praktik, dan evaluasi",
+                "Administrasi Kemnaker serta dokumen hasil",
+                "Instruktur, materi, fasilitas mesin, APD, konsumsi, dan pajak",
+                "Survei, mobilisasi, perjalanan, atau kebutuhan kelas in-house"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Biaya aktual dipengaruhi kelompok mesin, jumlah peserta dan shift, lokasi, kesiapan fasilitas praktik, serta kelengkapan bukti calon. Perusahaan juga menghitung downtime produksi, pengganti operator, pemeriksaan kesehatan, dan penyusunan inventaris. Menggabungkan operator dari mesin yang tidak relevan hanya untuk mengejar harga kelompok dapat mengurangi manfaat pembinaan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data yang Dibutuhkan untuk Quotation Akurat"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah, CV, surat tugas, pengalaman, dan kesehatan",
+                "Daftar mesin, fungsi, foto nameplate, kapasitas, dan lokasi",
+                "Jumlah operator per jenis mesin serta pola shift",
+                "Target audit, pilihan publik/in-house, peserta, dan jadwal produksi"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Cara Membandingkan Penawaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bandingkan penawaran berdasarkan kelompok PTP, mesin praktik, durasi, penerbit, dokumen, pajak, dan ketentuan jadwal. Pastikan vendor memahami inventaris, bukan hanya jumlah kursi. Sertifikat operator tidak menggantikan guarding, emergency stop, inspeksi, SOP, LOTO, preventive maintenance, atau pengawasan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Jangan berhenti pada harga per kursi. Hitung biaya efektif peserta yang lolos pemeriksaan awal dan dapat hadir penuh, lalu tambahkan waktu kerja, perjalanan, akomodasi, pengganti shift, pemeriksaan kesehatan, fasilitas praktik, dan potensi penjadwalan ulang. Minta penawaran menuliskan masa berlaku harga, minimum peserta, pajak, termin pembayaran, pembatalan, penggantian nama, komponen yang tidak termasuk, proses evaluasi, serta estimasi penerbitan dokumen. Dengan dasar yang sama, tim pengadaan dapat membedakan harga murah dari total biaya yang benar-benar terkendali."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan yang Sering Diajukan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah semua mesin produksi masuk satu program? Perlu pemetaan. Apakah pelaksanaan bisa di pabrik? Bergantung fasilitas dan peserta. Apakah downtime termasuk harga? Itu biaya internal perusahaan. Apakah dokumen mesin diperlukan? Ya. Apakah peserta dijamin lulus? Tidak."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Pemeriksaan dan Penawaran Resmi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim inventaris mesin, nameplate, tugas calon, shift, lokasi, mode, dan tenggat. Tim PENA akan memetakan kebutuhan program dan memberikan quotation rinci."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim kebutuhan perusahaan dan dokumen calon sebelum meminta invoice. Tim PENA akan memeriksa kecocokan program, kelayakan awal, ruang lingkup, dan komponen quotation tanpa mengarang harga publik."
+        }
+    ],
+    "related_offering_slug": "operator-pesawat-tenaga-produksi-ptp",
+    "meta_title": "Biaya Operator Pesawat Tenaga Produksi (PTP) 2026 — Guid",
+    "meta_description": "Panduan teknis keselamatan Biaya Operator Pesawat Tenaga Produksi (PTP) 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI",
+    "published_at": "2026-07-31"
+}

@@ -1,0 +1,47 @@
+{
+    "id": "01kyw9ksx2q0ec01y1be0djt8x",
+    "title": "Apa Itu Operator Forklift Kelas 2?",
+    "slug": "apa-itu-operator-forklift-kelas-2",
+    "path": "/panduan/sertifikasi-k3/apa-itu-operator-forklift-kelas-2",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Panduan lengkap Operator Forklift Kelas 2: batasan kapasitas angkat sampai 15 ton, manuver aman di gudang sempit, segitiga stabilitas, dan regulasi Permenaker 08/2020.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Operator Forklift Kelas 2 adalah tenaga kerja yang memiliki keterampilan dan lisensi K3 resmi dari Kemnaker RI untuk mengoperasikan unit forklift diesel, bensin, LPG, maupun electric forklift dengan kapasitas beban angkat sampai dengan 15 ton."
+        },
+        {
+            "type": "citation",
+            "text": "Syarat-Syarat Keselamatan Operator Pesawat Angkut.",
+            "source": "Permenaker No. 08 Tahun 2020"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Prinsip Utama Segitiga Stabilitas Forklift (Stability Triangle)"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Forklift memiliki titik tumpu roda depan sebagai poros timbangan (fulcrum point).",
+                "Pusat gravitasi (Center of Gravity) gabungan antara unit forklift dan muatan harus selalu berada di dalam area segitiga roda depan dan as roda belakang.",
+                "Dilarang melakukan belokan tajam pada saat garpu (fork) terangkat tinggi atau melaju melebihi batas kecepatan 10 km/jam di dalam area gudang.",
+                "Dilarang menambah beban penyeimbang (counterweight) tambahan tanpa sertifikasi pabrikan."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "SIO Forklift Kelas 2 membuktikan kompetensi manuver di lorong sempit (narrow aisle) dan kepatuhan prosedur keselamatan angkat muatan."
+        }
+    ],
+    "related_offering_slug": "operator-forklift-kelas-2",
+    "meta_title": "Apa itu Operator Forklift Kelas 2? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Operator Forklift Kelas 2? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifika",
+    "published_at": "2026-07-31"
+}

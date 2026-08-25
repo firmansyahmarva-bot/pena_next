@@ -1,0 +1,144 @@
+{
+    "id": "01kyfffhpr9j7f9e9204t6dpyw",
+    "type": "training",
+    "name": "Investigasi Kecelakaan",
+    "slug": "investigasi-kecelakaan",
+    "path": "/pelatihan/investigasi-kecelakaan",
+    "title": "Investigasi Kecelakaan",
+    "meta_title": "Investigasi Kecelakaan",
+    "meta_description": "Pelatihan Investigasi Kecelakaan Kerja (Accident Investigation). Analisis penyebab utama Root Cause Analysis (RCA), 5 Whys, & report.",
+    "summary": "Tersedia online.",
+    "certification_body": "bnsp",
+    "base_price": 3200000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Investigasi Kecelakaan Kerja adalah skema sertifikasi kompetensi BNSP yang membekali tenaga kerja dengan kemampuan sistematis untuk menyelidiki penyebab kecelakaan atau insiden di tempat kerja, hingga menemukan akar masalah (root cause) dan merumuskan tindakan pencegahan agar kejadian serupa tidak terulang. Skema ini merupakan bagian dari klaster kompetensi dalam Standar Kompetensi Kerja Nasional Indonesia (SKKNI) Bidang Keselamatan dan Kesehatan Kerja yang ditetapkan Kementerian Ketenagakerjaan RI."
+        },
+        {
+            "type": "paragraph",
+            "text": "Kewajiban perusahaan untuk menerapkan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3), termasuk mekanisme pelaporan dan investigasi kecelakaan kerja, diatur dalam UU No. 1 Tahun 1970 tentang Keselamatan Kerja dan Peraturan Pemerintah No. 50 Tahun 2012 tentang Penerapan SMK3. Sertifikasi kompetensi investigator kecelakaan sendiri mengacu pada SKKNI Bidang K3 yang diterbitkan Kementerian Ketenagakerjaan RI, dan diuji melalui LSP yang berlisensi BNSP."
+        },
+        {
+            "type": "paragraph",
+            "text": "Kecelakaan kerja bukan peristiwa yang berdiri sendiri — di baliknya selalu ada rangkaian penyebab, mulai dari tindakan tidak aman (unsafe act), kondisi tidak aman (unsafe condition), hingga kelemahan sistem manajemen K3. Banyak perusahaan mengalami kecelakaan berulang justru karena investigasi yang dilakukan hanya menyentuh gejala permukaan, bukan akar masalah. Di sinilah kompetensi investigator kecelakaan yang terlatih menjadi penting."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Siapa yang perlu mengikuti program ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "HSE Officer, HSE Supervisor, dan HSE Manager",
+                "Anggota P2K3 (Panitia Pembina Keselamatan dan Kesehatan Kerja) di perusahaan",
+                "Ahli K3 Umum yang ingin memperdalam kompetensi spesifik investigasi insiden",
+                "Supervisor/koordinator lapangan yang sering ditugaskan sebagai bagian dari tim investigasi internal perusahaan",
+                "Personel yang bertanggung jawab menyusun laporan kecelakaan kerja untuk keperluan internal maupun pelaporan ke Disnaker/BPJS Ketenagakerjaan"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Seorang investigator kecelakaan kerja bertanggung jawab untuk:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Mengamankan lokasi kejadian (scene) segera setelah insiden terjadi agar bukti tidak rusak atau hilang",
+                "Mengumpulkan bukti fisik, dokumentasi foto, dan keterangan saksi secara objektif",
+                "Menyusun kronologi kejadian berdasarkan fakta, bukan asumsi",
+                "Menerapkan metode analisis akar masalah seperti Root Cause Analysis (RCA), Fault Tree Analysis, Fishbone Diagram (Ishikawa), atau Change Analysis untuk menelusuri penyebab langsung maupun penyebab dasar",
+                "Membedakan penyebab langsung (unsafe act/unsafe condition) dari penyebab dasar (faktor personal, faktor pekerjaan, dan kelemahan sistem manajemen)",
+                "Menyusun laporan investigasi yang lengkap, faktual, dan dapat dipertanggungjawabkan sesuai ketentuan perundangan dan kebijakan internal perusahaan",
+                "Merekomendasikan tindakan perbaikan (corrective action) dan tindakan pencegahan (preventive action) yang realistis untuk diterapkan"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Kompetensi ini langsung meningkatkan kualitas investigasi internal perusahaan — mempercepat identifikasi akar masalah, mengurangi risiko kecelakaan berulang, dan memperkuat dasar pengambilan keputusan manajemen dalam program pencegahan kecelakaan. Bagi individu, sertifikat ini memperkuat profil profesional di bidang K3 dan menjadi nilai tambah untuk posisi HSE yang lebih senior."
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kompetensi yang dipelajari:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Konsep dasar penyebab kecelakaan kerja (teori domino, model penyebab berlapis)",
+                "Prosedur pengamanan lokasi kejadian dan pengumpulan bukti",
+                "Teknik wawancara saksi yang objektif dan bebas bias",
+                "Metode analisis akar masalah: RCA, Fault Tree Analysis, Fishbone Diagram, Change Analysis",
+                "Klasifikasi dan pelaporan kecelakaan kerja sesuai ketentuan yang berlaku",
+                "Penyusunan laporan investigasi yang sistematis dan actionable",
+                "Perumusan rekomendasi tindakan perbaikan berbasis hasil investigasi",
+                "Etika dan objektivitas dalam proses investigasi (menghindari mencari \"siapa yang salah\" dan fokus pada \"apa yang salah pada sistem\")"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan menggunakan pendekatan Competency Based Training dengan kombinasi materi teori (ceramah dan diskusi), studi kasus kecelakaan kerja nyata, serta simulasi/praktik investigasi — termasuk latihan penggunaan tools analisis akar masalah dan penyusunan laporan investigasi secara langsung."
+        },
+        {
+            "type": "paragraph",
+            "text": "Uji kompetensi dilaksanakan oleh asesor dari LSP berlisensi BNSP, umumnya melalui: ujian tertulis (menguji pemahaman konsep dan metode investigasi), wawancara (asesor menggali pemahaman peserta atas kasus dan metode yang digunakan), dan demonstrasi/penugasan praktik (peserta diminta menganalisis kasus kecelakaan menggunakan metode RCA/Fishbone/Fault Tree dan menyusun laporan investigasi). Peserta yang dinyatakan kompeten menerima Sertifikat Kompetensi Investigasi Kecelakaan Kerja dari BNSP, yang berlaku secara nasional."
+        }
+    ],
+    "requirements": [
+        {
+            "type": "paragraph",
+            "text": "Secara umum, skema ini terbuka bagi peserta dengan latar belakang pendidikan minimal SLTA/SMK sederajat disertai pengalaman kerja di bidang K3, atau latar belakang pendidikan tinggi (D3/S1) baik dari jurusan K3, teknik, maupun non-teknik dengan ketentuan pengalaman kerja yang bervariasi sesuai skema yang diikuti."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "[VERIFIKASI PENA] Persyaratan detail dapat berbeda antar skema/LSP — calon peserta disarankan mengonfirmasi kesesuaian dengan tim PENA Consultant sebelum mendaftar."
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Dokumen yang diperlukan (umumnya):"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan pas foto",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Surat keterangan pengalaman kerja di bidang K3 dari perusahaan (bila dipersyaratkan)",
+                "Sertifikat pelatihan K3 sebelumnya (bila ada, sebagai bukti pendukung portofolio)",
+                "CV/daftar riwayat hidup"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyediakan modul pelatihan, studi kasus investigasi yang relevan dengan berbagai sektor industri, instruktur/praktisi K3 berpengalaman, serta pendampingan sebelum menghadapi uji kompetensi BNSP. Kelas tersedia secara daring maupun tatap muka."
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Konsultasi gratis dengan tim PENA Consultant untuk memastikan skema dan persyaratan yang sesuai.",
+                "Kirim dokumen pendaftaran yang diminta.",
+                "Lakukan pembayaran sesuai informasi biaya yang diberikan.",
+                "Ikuti sesi pelatihan dan latihan studi kasus.",
+                "Ikuti uji kompetensi BNSP (ujian tulis, wawancara, dan penugasan praktik).",
+                "Terima Sertifikat Kompetensi Investigasi Kecelakaan Kerja dari BNSP."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

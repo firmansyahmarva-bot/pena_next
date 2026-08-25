@@ -1,0 +1,17 @@
+{
+    "id": "01kywb7vcr5sa8h5frpvetbpdz",
+    "slug": "ahli-muda-k3-konstruksi-batch-178",
+    "path": "/jadwal/ahli-muda-k3-konstruksi-batch-178",
+    "batch_number": "178",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-18",
+    "is_online": false,
+    "mode": "offline",
+    "normal_price": 6500000,
+    "promo_price": 4070000,
+    "offering_name": "Ahli Muda K3 Konstruksi",
+    "offering_slug": "ahli-muda-k3-konstruksi",
+    "certification_body": "kemnaker",
+    "location_name": "TUK Onsite",
+    "availability": "available"
+}

@@ -1,0 +1,150 @@
+{
+    "id": "01kyfffhg053rdvbgk6jemzmr9",
+    "type": "training",
+    "name": "Ahli K3 Umum",
+    "slug": "ahli-k3-umum-2",
+    "path": "/pelatihan/ahli-k3-umum-2",
+    "title": "Ahli K3 Umum",
+    "meta_title": "Sertifikasi Ahli K3 Umum In-House Corporate Kemnaker RI",
+    "meta_description": "Pelatihan Ahli K3 Umum Kemnaker RI paket korporasi. Pembinaan 12 hari, SMK3, identifikasi bahaya, audit K3, & lisensi resmi Kemnaker.",
+    "summary": "Tersedia online.",
+    "certification_body": "bnsp",
+    "base_price": 5000000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Berbeda dari penunjukan Kemnaker RI yang bersifat kewenangan hukum, sertifikasi Ahli K3 Umum BNSP mengukur kompetensi kerja seseorang terhadap Standar Kompetensi Kerja Nasional Indonesia (SKKNI) bidang K3 — pengakuan nasional atas kemampuan, bukan izin operasional. Dasar hukumnya berlapis dari UU Ketenagakerjaan hingga kelembagaan BNSP sendiri:"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+            "source": "UU No. 13 Tahun 2003"
+        },
+        {
+            "type": "citation",
+            "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+            "source": "PP No. 23 Tahun 2004"
+        },
+        {
+            "type": "citation",
+            "text": "Standar Kompetensi Kerja Nasional Indonesia (SKKNI) bidang Keselamatan dan Kesehatan Kerja.",
+            "source": "SKKNI Bidang K3"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikat BNSP diterbitkan oleh Lembaga Sertifikasi Profesi (LSP) berlisensi setelah peserta melalui uji kompetensi (asesmen), bukan ujian akademik biasa — asesor menilai bukti nyata bahwa peserta mampu menjalankan unit-unit kompetensi sesuai skema, sejalan dengan filosofi SKKNI bahwa kompetensi dibuktikan melalui unjuk kerja, bukan sekadar pengetahuan teoritis."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini cocok bagi individu yang ingin punya bukti kompetensi K3 yang diakui secara nasional — baik untuk melamar kerja, memenuhi persyaratan proyek/tender, maupun mendampingi Ahli K3 Umum berlisensi Kemnaker di perusahaan yang belum memenuhi syarat penunjukan penuh."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bagi pencari kerja, sertifikat BNSP Ahli K3 Umum sering menjadi pembeda pada tahap seleksi administrasi lowongan HSE/K3 — banyak perusahaan menerima kandidat dengan sertifikasi BNSP sebagai bukti kompetensi awal sebelum mereka memenuhi syarat pengalaman untuk penunjukan Kemnaker RI. Karena jalur ini tersedia online dan tidak mensyaratkan pengalaman kerja minimum yang kaku, program ini juga menjadi pilihan populer bagi fresh graduate teknik atau kesehatan yang ingin memulai karier di jalur K3 tanpa harus menunggu bertahun-tahun pengalaman lebih dulu. Setelah menyelesaikan program, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Menerapkan kerangka regulasi K3 nasional pada pekerjaan sehari-hari, memahami perbedaan cakupan antara kewajiban hukum (Kemnaker) dan pengakuan kompetensi (BNSP)",
+                "Melakukan identifikasi bahaya dan penilaian risiko (HIRA/HIRADC) secara terstruktur menggunakan metode yang diakui industri",
+                "Merancang program pengendalian risiko K3 yang proporsional — hierarki pengendalian dari eliminasi hingga alat pelindung diri",
+                "Melaksanakan komunikasi, promosi, dan pelaporan K3 kepada manajemen dan pekerja, termasuk menyusun materi safety talk/toolbox meeting",
+                "Lulus uji kompetensi (asesmen) BNSP pada unit-unit kompetensi yang ditetapkan skema Ahli K3 Umum — kombinasi observasi, wawancara, dan portofolio bukti kerja"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Materi disusun mengikuti unit-unit kompetensi SKKNI pada skema sertifikasi Ahli K3 Umum, dengan porsi lebih besar pada latihan praktik dan simulasi asesmen dibanding kelas teori murni:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Peraturan perundangan dan kelembagaan K3 — memahami hierarki regulasi dan lembaga pengawas terkait",
+                "Identifikasi bahaya dan pengendalian risiko — praktik HIRA pada studi kasus lintas sektor industri",
+                "Program dan prosedur K3 di tempat kerja — menyusun SOP, instruksi kerja, dan izin kerja aman (permit-to-work)",
+                "Investigasi insiden dan pelaporan — teknik dasar analisis kecelakaan dan nyaris celaka (near-miss)",
+                "Persiapan portofolio uji kompetensi — menyusun bukti kerja yang relevan sebelum hari asesmen",
+                "Pelaksanaan uji kompetensi (asesmen) BNSP — simulasi lengkap format asesmen: observasi langsung, wawancara asesor, dan verifikasi portofolio"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "paragraph",
+            "text": "Persyaratan sertifikasi BNSP lebih terbuka dibanding penunjukan Kemnaker RI, karena mengukur kompetensi individu, bukan menerbitkan kewenangan hukum atas nama perusahaan:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal SMA/SMK sederajat dengan pengalaman kerja di bidang K3 atau operasional, ATAU D3/S1 segala jurusan tanpa syarat pengalaman kerja khusus",
+                "Memiliki paparan atau pengalaman langsung terhadap penerapan K3 di tempat kerja — dibuktikan CV, surat keterangan kerja, atau portofolio kegiatan K3 yang pernah dijalankan",
+                "Sehat jasmani dan rohani",
+                "Bersedia mengikuti seluruh sesi pelatihan dan uji kompetensi (asesmen) LSP berlisensi BNSP, termasuk menyiapkan bukti portofolio sebelum hari asesmen"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan spesifik dapat sedikit berbeda tergantung skema/unit kompetensi LSP penyelenggara yang digunakan pada batch Anda — tim kami akan mengonfirmasi kelengkapan berkas sebelum pendaftaran diproses."
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Berkas asesmen kompetensi BNSP berfokus pada bukti pengalaman kerja, bukan surat penugasan perusahaan:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Curriculum vitae yang mencantumkan pengalaman atau paparan kerja di bidang K3",
+                "Formulir asesmen mandiri (APL-01 dan APL-02) yang dibantu diisi oleh tim kami sebelum hari asesmen",
+                "Portofolio bukti kerja pendukung (jika ada) — memperkuat penilaian asesor pada hari uji kompetensi"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul pelatihan mengikuti unit kompetensi SKKNI skema Ahli K3 Umum",
+                "Instruktur/asesor kompeten berlisensi BNSP",
+                "Uji kompetensi (asesmen) oleh Lembaga Sertifikasi Profesi (LSP) berlisensi resmi",
+                "Sertifikat kompetensi BNSP setelah dinyatakan kompeten",
+                "Konsultasi pasca-sertifikasi seputar penerapan di tempat kerja"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir di halaman ini.",
+                "Terima penawaran resmi: jadwal, biaya, dan skema sertifikasi yang sesuai.",
+                "Lengkapi berkas dan formulir asesmen mandiri (APL-01/APL-02).",
+                "Ikuti pelatihan persiapan dan susun portofolio bukti kerja.",
+                "Ikuti uji kompetensi (asesmen) oleh asesor LSP berlisensi BNSP.",
+                "Terima sertifikat kompetensi BNSP setelah dinyatakan kompeten."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

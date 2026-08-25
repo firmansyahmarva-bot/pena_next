@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9kvehm5pptg5sfgx2mea2",
+    "title": "Jadwal Pembinaan Operator Lift Barang 2026",
+    "slug": "jadwal-operator-lift-barang-2026",
+    "path": "/panduan/sertifikasi-k3/jadwal-operator-lift-barang-2026",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Jadwal pembinaan Operator Lift Barang tahun 2026.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Jadwal diselenggarakan rutin setiap bulan dengan format 3 hari pembinaan teori dan simulasi inspeksi kelaikan lift."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Hubungi konsultan kami untuk pendaftaran tim teknisi gedung."
+        }
+    ],
+    "related_offering_slug": "operator-lift-barang",
+    "meta_title": "Jadwal Operator Lift Barang 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Jadwal Operator Lift Barang 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi",
+    "published_at": "2026-07-31"
+}

@@ -1,0 +1,97 @@
+{
+    "id": "01kyw9kd7k22vc22bqmn2w2snc",
+    "title": "Biaya Ahli Utama K3 Ruang Terbatas 2026",
+    "slug": "biaya-ahli-utama-ruang-terbatas-2026",
+    "path": "/panduan/k3-teknis/biaya-ahli-utama-ruang-terbatas-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Biaya Ahli Utama K3 Ruang Terbatas BNSP 2026 belum memiliki nominal publik terverifikasi; quotation bergantung jenjang, portofolio supervisor, asesmen, dan kebutuhan perusahaan.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Ahli Utama adalah jenjang tertinggi dalam jalur ruang terbatas BNSP, bukan paket singkat untuk menaikkan titel. Dataset mencatat durasi sekitar tiga hari tetapi tidak menyimpan harga terverifikasi. Biaya 2026 harus diminta resmi dan diperiksa bersama kelayakan calon. Portofolio supervisi, evaluasi sistem, dan bukti jenjang lebih penting daripada angka promosi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Komponen yang Perlu Ada dalam Penawaran"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Persiapan dan asesmen unit kompetensi Ahli Utama",
+                "Administrasi LSP serta dokumen hasil",
+                "Review portofolio, fasilitas, pajak, dan tindak lanjut",
+                "Perjalanan, akomodasi, atau asesmen kelompok perusahaan"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Perusahaan perlu menghitung waktu penyusunan bukti, verifikasi sertifikat Madya atau pengalaman setara, cuti kerja, perjalanan, dan pengganti fungsi supervisor. Kandidat tanpa bukti evaluasi program, koordinasi rescue, permit, audit, atau perbaikan sistem berisiko belum siap meskipun jabatannya senior."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data untuk Menghitung Biaya yang Benar"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Ijazah, CV, sertifikat Madya, dan uraian tugas",
+                "Portofolio supervisi/evaluasi yang aman dibagikan",
+                "Jenis operasi, struktur tim, dan persyaratan klien",
+                "Jumlah peserta, lokasi, mode, dan tenggat"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Hindari Biaya Ulang dan Penawaran yang Tidak Setara"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bandingkan LSP, skema, unit, asesmen, dokumen, retake, serta kebijakan jadwal. Jangan menyamakan biaya Ahli Utama dengan Madya atau Muda. Sertifikat supervisor tidak menggantikan teknisi, alat, permit, isolasi, gas testing, rescue plan, dan personel pada tiap shift."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan Biaya yang Sering Diajukan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah bisa tanpa sertifikat Madya? Kelayakan mengikuti skema dan bukti. Apakah kelulusan dijamin? Tidak. Apakah portofolio rahasia boleh disamarkan? Boleh selama kontribusi dapat dinilai. Apakah harga in-house tersedia? Bergantung jumlah, lokasi, dan proses. Apakah dokumen terbit langsung? Tanyakan estimasi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Hitung Biaya Efektif, Bukan Hanya Harga Paket"
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk keputusan pengadaan, bagi total penawaran dengan jumlah peserta yang benar-benar memenuhi syarat dan dapat mengikuti seluruh proses. Catat pula biaya pemeriksaan dokumen, waktu kerja, perjalanan, penginapan, pengganti shift, fasilitas praktik, asesmen ulang, serta risiko jadwal mundur. Minta vendor menuliskan masa berlaku harga, jumlah minimum peserta, syarat pelunasan, kebijakan pembatalan atau penggantian nama, komponen yang dikecualikan, estimasi dokumen, dan tindakan bila jadwal penerbit berubah. Perbandingan ini menghasilkan biaya efektif per peserta yang lebih jujur dan mencegah penawaran murah berubah menjadi biaya tambahan setelah purchase order diterbitkan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Cara Meminta Quotation Resmi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim sertifikat, CV, tugas supervisor, portofolio, struktur tim, jumlah peserta, lokasi, dan target. Tim PENA akan melakukan pre-assessment, mengidentifikasi gap, serta menerbitkan quotation dengan komponen dan kebijakan yang jelas."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim data peserta dan kebutuhan perusahaan agar tim PENA dapat melakukan pre-check serta menyusun penawaran resmi tanpa angka rekaan."
+        }
+    ],
+    "related_offering_slug": "ahli-utama-ruang-terbatas",
+    "meta_title": "Biaya Ahli Utama Ruang Terbatas 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Biaya Ahli Utama Ruang Terbatas 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifi",
+    "published_at": "2026-07-31"
+}

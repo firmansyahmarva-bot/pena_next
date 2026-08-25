@@ -1,0 +1,123 @@
+{
+    "id": "01kyfffhgb2y9wqqtp2tr6q7ft",
+    "type": "training",
+    "name": "Ahli K3 Umum (Paket Ekonomis)",
+    "slug": "ahli-k3-umum-paket-ekonomis",
+    "path": "/pelatihan/ahli-k3-umum-paket-ekonomis",
+    "title": "Ahli K3 Umum (Paket Ekonomis)",
+    "meta_title": "Sertifikasi Ahli K3 Umum Paket Ekonomis — PENA Consultant",
+    "meta_description": "Pelatihan Ahli K3 Umum Kemnaker RI paket ekonomis hemat 2026. Pembinaan online blended, lisensi SKP resmi, cicilan biaya transparan. Daftar sekarang!",
+    "summary": "Program Pembinaan & Sertifikasi Ahli K3 Umum Kemnaker RI Paket Ekonomis terjangkau. Dirancang khusus bagi profesional & fresh graduate yang membutuhkan lisensi SKP resmi dengan opsi pembinaan Blended Learning Online hemat biaya tanpa mengurangi standar kelulusan Kemnaker RI.",
+    "certification_body": "bnsp",
+    "base_price": 3750000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Permenaker No. 02/MEN/1992 tentang Tata Cara Penunjukan Kewajiban dan Wewenang Ahli Keselamatan dan Kesehatan Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Peraturan Pemerintah No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Memberikan kesempatan kepada profesional dan lulusan baru untuk mendapatkan sertifikasi Ahli K3 Umum Kemnaker RI dengan biaya lebih terjangkau."
+        },
+        {
+            "type": "paragraph",
+            "text": "Mencetak calon Ahli K3 Umum yang kompeten dalam mengidentifikasi bahaya, menyusun HIRADC, dan memimpin P2K3 di perusahaan."
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kurikulum pelatihan mengacu pada Unit Kompetensi SKKNI K3 yang diujikan dalam Asesmen BNSP:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "M.74K301.001.01 — Mengembangkan Informasi K3 (ketersediaan regulasi & standar)",
+                "M.74K301.002.01 — Mengelola Pertolongan Pertama Pada Kecelakaan (P3K) di tempat kerja",
+                "M.74K301.003.01 — Mengelola Alat Pelindung Diri (APD) di tempat kerja",
+                "M.74K301.004.01 — Menerapkan Manajemen Risiko K3 di tempat kerja",
+                "M.74K301.005.01 — Mengoordinasikan Inspeksi K3 di tempat kerja",
+                "M.74K301.006.01 — Mengoordinasikan Tanggap Darurat K3",
+                "M.74K301.007.01 — Mengoordinasikan Investigasi Kecelakaan Kerja",
+                "M.74K301.008.01 — Mengoordinasikan Penerapan Sistem Manajemen K3 (SMK3)",
+                "M.74K301.009.01 — Mengukur Komunikasi K3 (kampanye & edukasi)"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Materi yang diajarkan tidak sekadar teori akademis, melainkan penerapan langsung di lapangan: pembuatan HIRADC/IBPR (Hazard Identification, Risk Assessment, and Determining Control) sesuai konteks industri masing-masing; penyusunan JSA (Job Safety Analysis) untuk membedah tahapan pekerjaan berisiko tinggi; audit dan inspeksi K3 (teknik membuat checklist inspeksi, walkthrough audit, klasifikasi temuan minor/major/non-conformity); serta investigasi kecelakaan menggunakan metode 5-Whys, Diagram Fishbone, atau Causation Model."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi BNSP bersifat Competency-Based Assessment. Proses asesmen dilakukan oleh Asesor Resmi LSP BNSP melalui: pra-asesmen & asesmen mandiri (Form APL-01 & APL-02) — peserta mengisi formulir permohonan dan menilai mandiri kesiapan kompetensinya; verifikasi portofolio — asesor memeriksa keabsahan, kecukupan, dan keaslian bukti-bukti berkas; uji tulis & wawancara — asesor melakukan wawancara pendalaman dan uji lisan/tulis; dan keputusan asesmen — asesor menetapkan rekomendasi hasil Kompeten (K) atau Belum Kompeten (BK)."
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal D3 atau S1 seluruh jurusan (Sesuai ketentuan penunjukan Ahli K3 Kemnaker RI).",
+                "Fotokopi Ijazah Terakhir & Kartu Identitas (KTP).",
+                "Surat Keterangan Kerja / Surat Keterangan Lulus dari kampus.",
+                "Pasfoto background warna merah ukuran 2x3, 3x4, dan 4x6."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi/scan ijazah terakhir",
+                "Fotokopi/scan KTP/SIM",
+                "Pas foto formal latar belakang merah (format JPG/PNG)",
+                "Curriculum vitae (CV)/daftar riwayat hidup terbaru",
+                "Surat keterangan kerja/surat rekomendasi perusahaan (jika sudah bekerja) atau surat pengalaman magang/organisasi",
+                "Bukti portofolio pendukung (laporan inspeksi, sertifikat pelatihan tambahan, JSA/HIRADC yang pernah dibuat, atau tugas khusus pelatihan)"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul pelatihan digital & handout materi SKKNI K3 lengkap",
+                "Bimbingan khusus pembuatan dokumen portofolio asesmen BNSP sampai siap uji",
+                "Sesi pembekalan intensif (refreshment & try out) bersama instruktur senior K3",
+                "Sertifikat pelatihan pembekalan dari PENA Consultant",
+                "Sertifikat Kompetensi Ahli K3 Umum resmi dari BNSP (apabila dinyatakan Kompeten)",
+                "Jaringan komunitas HSE alumni untuk sharing lowongan kerja dan diskusi regulasi"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Konsultasi pendaftaran — hubungi tim advisor PENA Consultant untuk pengecekan kesesuaian berkas awal dan kualifikasi pendidikan.",
+                "Pengisian formulir online — isi form pendaftaran resmi dan kirimkan dokumen persyaratan.",
+                "Pembayaran investasi — sesuai skema paket ekonomis (tersedia opsi termin/cicilan sesuai ketentuan).",
+                "Mengikuti pembekalan materi — sesi kelas pelatihan dan pembimbingan portofolio bersama instruktur.",
+                "Pelaksanaan asesmen BNSP — ujian asesmen tatap muka atau daring sesuai jadwal LSP BNSP.",
+                "Penerbitan sertifikat — bagi peserta yang dinyatakan Kompeten."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

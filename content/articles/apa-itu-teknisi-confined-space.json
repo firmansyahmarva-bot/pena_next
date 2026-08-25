@@ -1,0 +1,97 @@
+{
+    "id": "01kyw9mdy2k6shxsnbr415qp0j",
+    "title": "Apa Itu Teknisi Confined Space Kemnaker?",
+    "slug": "apa-itu-teknisi-confined-space",
+    "path": "/panduan/k3-teknis/apa-itu-teknisi-confined-space",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Teknisi Confined Space sertifikasi Kemnaker RI adalah jalur pembinaan pemerintah untuk personel entrant/attendant ruang terbatas — mitra dari sertifikasi kompetensi BNSP untuk peran yang sama.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Selain jalur sertifikasi kompetensi BNSP, K3 ruang terbatas juga punya jalur pembinaan Kemnaker RI. Teknisi Confined Space adalah versi Kemnaker RI dari peran teknisi (entrant/attendant) yang bekerja langsung di lapangan pada pekerjaan ruang terbatas."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Lingkungan Kerja.",
+            "source": "Permenaker No. 5 Tahun 2018"
+        },
+        {
+            "type": "citation",
+            "text": "Pedoman Keselamatan dan Kesehatan Kerja di Ruang Terbatas (Confined Spaces).",
+            "source": "Kepdirjen PPK No. 113/DJPPK/IX/2006"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tugas Teknisi di Lapangan"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Bekerja sebagai entrant (yang masuk ruang terbatas) sesuai rencana masuk yang sudah disiapkan",
+                "Bekerja sebagai attendant (yang mengawasi dari luar) selama entrant bekerja di dalam",
+                "Memantau kondisi atmosfer dan komunikasi selama pekerjaan berlangsung",
+                "Menghentikan pekerjaan dan memberi sinyal darurat bila kondisi berubah tidak aman"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kemnaker RI vs BNSP untuk Peran yang Sama"
+        },
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant juga menyelenggarakan Teknisi K3 Ruang Terbatas skema BNSP untuk peran entrant/attendant yang sama persis. Perbedaannya hanya pada lembaga penerbit sertifikat — pilih sesuai persyaratan yang diminta proyek atau klien Anda."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Jangan Memilih Jalur Hanya dari Nama yang Mirip"
+        },
+        {
+            "type": "paragraph",
+            "text": "Dokumen tender dapat menggunakan istilah Teknisi Confined Space, petugas ruang terbatas, entrant, attendant, atau teknisi K3 ruang terbatas. Persyaratan penerbitnya harus dibaca secara harfiah. Jalur Kemnaker tidak otomatis dapat menggantikan sertifikat BNSP, demikian pula sebaliknya, karena penerimaan akhirnya berada pada pemberi kerja atau pemilik proyek."
+        },
+        {
+            "type": "paragraph",
+            "text": "Program cocok bagi pekerja yang benar-benar masuk atau menjaga akses ruang terbatas seperti tangki, vessel, silo, sewer, pit, dan manhole. Sertifikat teknisi tidak membuat peserta berwenang menyusun seluruh rencana masuk atau rescue plan. Pengujian gas, isolasi, ventilasi, permit, komunikasi, standby rescue, dan supervisi tetap harus disediakan oleh sistem perusahaan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data Proyek untuk Verifikasi Syarat dan Biaya"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim bunyi persyaratan klien, jenis ruang terbatas dan pekerjaan, peran calon sebagai entrant atau attendant, pengalaman, pendidikan, jumlah peserta, lokasi, jadwal mobilisasi, serta sertifikat lama bila perpanjangan. Tim PENA akan memeriksa jalur Kemnaker yang dimaksud, persyaratan dokumen, kelas publik atau in-house, jadwal, dan biaya tanpa menjanjikan penerimaan sebelum kebutuhan proyek jelas."
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk kebutuhan perusahaan, sertakan pula jumlah ruang, frekuensi entry, pembagian shift, alat gas detector, sistem komunikasi, dan kesiapan rescue. Data ini membantu menyusun kelompok peserta serta skenario pelatihan yang dekat dengan pekerjaan nyata, sekaligus menemukan fungsi yang masih belum terisi."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Proyek Anda mensyaratkan sertifikat Kemnaker RI, bukan BNSP, untuk teknisi ruang terbatas? Tim kami dapat membantu memastikan jalur yang sesuai kebutuhan Anda."
+        }
+    ],
+    "related_offering_slug": "teknisi-confined-space",
+    "meta_title": "Apa itu Teknisi Confined Space? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Teknisi Confined Space? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

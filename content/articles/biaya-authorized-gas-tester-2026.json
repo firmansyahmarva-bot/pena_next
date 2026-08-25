@@ -1,0 +1,97 @@
+{
+    "id": "01kyw9kehjpwkdb706rfcg4eck",
+    "title": "Biaya Authorized Gas Tester BNSP 2026",
+    "slug": "biaya-authorized-gas-tester-2026",
+    "path": "/panduan/k3-teknis/biaya-authorized-gas-tester-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Biaya Authorized Gas Tester BNSP 2026 harus dikonfirmasi berdasarkan asesmen, bukti pengalaman, peserta, lokasi, dan kebutuhan proyek; harga publik belum terverifikasi.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Dataset mencatat Authorized Gas Tester sebagai skema BNSP berdurasi sekitar tiga hari, tetapi tidak memiliki harga publik terverifikasi. Karena itu halaman ini tidak menampilkan angka rekaan. Harga perlu menjelaskan pelatihan, asesmen, administrasi, dokumen, dan fasilitas. AGT juga berbeda dari awareness gas, pelatihan H2S, atau sekadar penggunaan detector."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Komponen yang Perlu Ada dalam Penawaran"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Persiapan penggunaan detector dan permit-to-work",
+                "Asesmen kompetensi serta administrasi LSP",
+                "Dokumen hasil, materi, fasilitas, dan pajak",
+                "Perjalanan, alat praktik, atau pelaksanaan in-house"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Total cost dapat mencakup portofolio, surat pengalaman, waktu kerja, perjalanan, kalibrasi atau kesiapan alat praktik, dan pengganti shift. Calon harus mampu menjelaskan sampling, sensor, pemeriksaan alat, interpretasi, pencatatan, dan tindakan. Pembayaran tidak menjamin status kompeten."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data untuk Menghitung Biaya yang Benar"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "CV, ijazah, surat tugas, dan pengalaman gas testing",
+                "Contoh log/permit yang disamarkan dan jenis detector",
+                "Gas potensial, industri, pekerjaan, serta shift",
+                "Jumlah peserta, lokasi, persyaratan klien, dan tenggat"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Hindari Biaya Ulang dan Penawaran yang Tidak Setara"
+        },
+        {
+            "type": "paragraph",
+            "text": "Jangan membandingkan AGT dengan H2S hanya dari harga. Pastikan skema, LSP, unit, asesmen, dokumen, retake, alat, dan kebijakan sama. Sertifikat AGT tidak menggantikan kalibrasi, prosedur, ventilasi, isolasi, rescue, atau kewenangan perusahaan dalam permit-to-work."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan Biaya yang Sering Diajukan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah harga termasuk asesmen? Harus diperiksa. Apakah detector disediakan? Tanyakan. Apakah H2S setara AGT? Tidak. Apakah pengalaman wajib? Ikuti skema dan pre-check. Apakah sertifikat berlaku untuk semua klien? Konfirmasikan penerimaan. Apakah ada harga kelompok? Dapat dihitung berdasarkan lokasi dan peserta."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Hitung Biaya Efektif, Bukan Hanya Harga Paket"
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk keputusan pengadaan, bagi total penawaran dengan jumlah peserta yang benar-benar memenuhi syarat dan dapat mengikuti seluruh proses. Catat pula biaya pemeriksaan dokumen, waktu kerja, perjalanan, penginapan, pengganti shift, fasilitas praktik, asesmen ulang, serta risiko jadwal mundur. Minta vendor menuliskan masa berlaku harga, jumlah minimum peserta, syarat pelunasan, kebijakan pembatalan atau penggantian nama, komponen yang dikecualikan, estimasi dokumen, dan tindakan bila jadwal penerbit berubah. Perbandingan ini menghasilkan biaya efektif per peserta yang lebih jujur dan mencegah penawaran murah berubah menjadi biaya tambahan setelah purchase order diterbitkan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Cara Meminta Quotation Resmi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim pengalaman calon, jenis detector, pekerjaan, persyaratan klien, jumlah peserta, lokasi, dan target. Tim PENA akan memeriksa skema, bukti, jadwal, fasilitas, serta quotation resmi."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim data peserta dan kebutuhan perusahaan agar tim PENA dapat melakukan pre-check serta menyusun penawaran resmi tanpa angka rekaan."
+        }
+    ],
+    "related_offering_slug": "authorized-gas-tester",
+    "meta_title": "Biaya Authorized Gas Tester 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Biaya Authorized Gas Tester 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi",
+    "published_at": "2026-07-31"
+}

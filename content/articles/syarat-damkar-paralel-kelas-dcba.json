@@ -1,0 +1,88 @@
+{
+    "id": "01kyw9keysg7zs4v98mh8dmck2",
+    "title": "Syarat Paket Damkar Paralel Kelas DCBA",
+    "slug": "syarat-damkar-paralel-kelas-dcba",
+    "path": "/panduan/k3-teknis/syarat-damkar-paralel-kelas-dcba",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat mengikuti Paket Paralel Damkar Kelas D, C, B, A: mencakup persyaratan gabungan seluruh jenjang, termasuk kesiapan fisik untuk jenjang yang menuntut aktivitas pemadaman langsung.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Karena paket ini mencakup 4 jenjang sekaligus — dari Kelas D yang bersifat kompetensi dasar hingga Kelas A yang menuntut tanggung jawab penuh — persyaratan pesertanya mengikuti gabungan ketentuan setiap jenjang."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Persyaratan Umum Peserta"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Ditugaskan oleh perusahaan sebagai calon personel unit penanggulangan kebakaran",
+                "Sehat jasmani dan rohani, mampu melakukan aktivitas fisik pemadaman (relevan terutama untuk jenjang Kelas C dan B)",
+                "Bersedia mengikuti seluruh rangkaian pembinaan berjenjang dalam satu periode",
+                "Untuk peserta yang diproyeksikan mengisi jenjang Kelas A, disarankan sudah punya pemahaman dasar organisasi tanggap darurat"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Karena setiap jenjang punya cakupan tanggung jawab berbeda, sebaiknya perusahaan memetakan personel mana yang akan mengisi jenjang D, C, B, atau A sebelum pendaftaran — tim kami dapat membantu proses ini."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kelengkapan Berkas"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir untuk seluruh calon peserta",
+                "Surat tugas dari perusahaan yang mencantumkan jenjang yang dituju per personel",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Satu Paket Bukan Satu Persyaratan untuk Semua"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kelas D, C, B, dan A memiliki fungsi berbeda. Perusahaan perlu menunjuk siapa yang menjadi petugas peran, anggota regu, koordinator, dan penanggung jawab teknik berdasarkan pengalaman, kondisi fisik, tanggung jawab, serta kebutuhan setiap shift. Satu orang tidak otomatis cocok atau diperlukan untuk mengikuti seluruh jenjang. Dokumen dan kelayakan harus diperiksa per calon serta per kelas."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sebelum membeli paket, audit struktur yang sudah ada. Bila hanya satu jenjang yang kurang, kelas tunggal bisa lebih efisien. Paket paralel tepat saat fasilitas baru membentuk unit atau kekurangan terjadi di seluruh rantai komando. Pelatihan tetap harus didukung alarm, APAR, hidran, inspeksi, drill, evakuasi, komunikasi, dan prosedur darurat."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Penawaran Berdasarkan Struktur dan Shift"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim profil fasilitas, tingkat bahaya kebakaran, luas area, jumlah pekerja dan shift, struktur DCBA saat ini, sertifikat yang dimiliki, daftar calon per jenjang, lokasi, dan tenggat audit. Tim PENA dapat membantu memetakan kelas, memeriksa dokumen Kemnaker, membagi angkatan, dan memberikan jadwal serta biaya perusahaan. Cara ini mencegah paket dijual sebagai kuota seragam tanpa fungsi jelas."
+        },
+        {
+            "type": "paragraph",
+            "text": "Rencana pelaksanaan juga harus menjaga personel tanggap darurat tetap tersedia selama peserta mengikuti pembinaan. Bagi angkatan berdasarkan shift, siapkan calon cadangan, dan tentukan siapa mengisi fungsi sementara. Sertifikat baru tidak bermanfaat bila proses pelatihan justru meninggalkan fasilitas tanpa cakupan respons yang memadai."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Sedang menyiapkan daftar personel untuk paket paralel ini? Tim kami dapat membantu memverifikasi kelengkapan berkas per jenjang sebelum pendaftaran."
+        }
+    ],
+    "related_offering_slug": "damkar-paralel-kelas-dcba",
+    "meta_title": "Syarat Mengikuti Damkar Paralel Kelas DCBA — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Damkar Paralel Kelas DCBA resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan s",
+    "published_at": "2026-07-31"
+}

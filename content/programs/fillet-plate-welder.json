@@ -1,0 +1,133 @@
+{
+    "id": "01kyfffj3pc89am3meqdr2nbe8",
+    "type": "training",
+    "name": "Fillet & Plate Welder",
+    "slug": "fillet-plate-welder",
+    "path": "/pelatihan/fillet-plate-welder",
+    "title": "Fillet & Plate Welder",
+    "meta_title": "Sertifikasi Fillet & Plate Welder BNSP: Las Pelat 1G-4G",
+    "meta_description": "Uji kompetensi BNSP Fillet & Plate Welder untuk konstruksi baja. Standar SKKNI pengelasan SMAW/FCAW posisi 1F-4F & 1G-4G, syarat portofolio LSP.",
+    "summary": "Sertifikasi kompetensi juru las pelat dan fillet berbasis SKKNI dari BNSP untuk kualifikasi pengelasan konstruksi baja, galangan kapal, dan fabrikasi pelat posisi 1F-4F & 1G-4G.",
+    "certification_body": "bnsp",
+    "base_price": 5000000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi Fillet & Plate Welder diselenggarakan berbasis standar nasional SKKNI Kategori Industri Pengolahan Sub-Golongan Jasa Pengelasan. Sertifikat kompetensi ini diterbitkan oleh Badan Nasional Sertifikasi Profesi (BNSP) melalui Lembaga Sertifikasi Profesi (LSP) terlisensi."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi ini mengukur kemampuan juru las dalam melakukan pengelasan sambungan sudut (fillet 1F-4F) dan sambungan tumpul pelat (groove 1G-4G) menggunakan proses pengelasan SMAW, GMAW, atau FCAW untuk memenuhi kualifikasi industri konstruksi baja, karoseri, dan galangan kapal."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+            "source": "UU No. 13 Tahun 2003"
+        },
+        {
+            "type": "citation",
+            "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+            "source": "PP No. 23 Tahun 2004"
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program sertifikasi ini bertujuan memberikan pengakuan negara atas kompetensi teknis juru las pelat. Setelah lulus asesmen, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Menerapkan prinsip K3 pengelasan di tempat kerja sesuai standar SKKNI",
+                "Membaca gambar kerja pengelasan dan simbol las pelat/fillet secara akurat",
+                "Melakukan persiapan sambungan pelat (beveling, tack welding, root gap alignment) posisi 1F, 2F, 3F, 4F dan 1G, 2G, 3G, 4G",
+                "Mengatur parameter mesin las (amperase, voltase, wire feed speed) sesuai thickness pelat dan WPS",
+                "Menghasilkan lasan pelat bebas cacat visual (tanpa undercut excessive, lack of fusion, atau spatter berlebih)",
+                "Memperoleh Sertifikat Kompetensi BNSP bersimbol Garuda yang berlaku 3 tahun nasional"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Unit kompetensi SKKNI yang diujikan dalam asesmen Fillet & Plate Welder:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "LOG.OO01.002.01: Menerapkan Praktik-Praktik Keselamatan Dan Kesehatan Kerja (K3)",
+                "LOG.OO01.001.01: Melakukan Komunikasi Di Tempat Kerja",
+                "LOG.OO05.003.01: Memotong Dengan Gas (Oxy-Fuel Cutting)",
+                "LOG.OO05.006.01: Mengelas Pelat Posisi 1F-4F & 1G-4G Dengan SMAW / GMAW / FCAW",
+                "Pelaksanaan Asesmen: Pra-asesmen portofolio, uji teori tertulis, uji lisan, dan observasi praktik di Tempat Uji Kompetensi (TUK)"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal SMA/SMK sederajat",
+                "Memiliki pengalaman kerja di bidang pengelasan pelat minimal 1 tahun atau sertifikat pelatihan pengelasan dasar",
+                "Melengkapi dokumen portofolio (CV, surat pengalaman kerja, contoh job sheet/foto kerja las pelat)",
+                "Pasfoto formal latar belakang merah (3x4 & 4x6)",
+                "Fotokopi KTP dan ijazah"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Kelengkapan administrasi yang umum dipersyaratkan untuk mengikuti program ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter",
+                "Surat rekomendasi/penugasan dari perusahaan (untuk peserta utusan perusahaan)",
+                "Curriculum vitae (untuk skema sertifikasi BNSP)"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan pendidikan minimum dan pengalaman kerja mengikuti ketentuan skema/penunjukan yang berlaku — tim kami akan memverifikasi kelengkapan Anda sebelum pendaftaran diproses."
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul dan materi pelatihan",
+                "Instruktur praktisi tersertifikasi di bidangnya",
+                "Ujian/asesmen sertifikasi",
+                "Sertifikat sesuai skema (Kemnaker RI atau BNSP)",
+                "Konsultasi pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir pendaftaran di halaman ini.",
+                "Terima penawaran resmi: jadwal, biaya, dan persyaratan program.",
+                "Lengkapi berkas administrasi dan lakukan konfirmasi pendaftaran.",
+                "Ikuti pelatihan dan ujian/asesmen sertifikasi.",
+                "Terima sertifikat dan lisensi/kartu kompetensi sesuai skema."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

@@ -1,0 +1,96 @@
+{
+    "id": "01kyw9mc1970t33ej33m334k5m",
+    "title": "Biaya TKBT Tingkat I BNSP 2026",
+    "slug": "biaya-tkbt-i-tenaga-kerja-bangunan-tinggi-2026",
+    "path": "/panduan/k3-teknis/biaya-tkbt-i-tenaga-kerja-bangunan-tinggi-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Biaya TKBT Tingkat I BNSP 2026 perlu menghitung asesmen, praktik ketinggian, APD, kesehatan calon, fasilitas, lokasi, dan kebutuhan proyek.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Dataset mencatat TKBT I sebagai jalur BNSP sekitar tiga hari bagi pekerja bangunan tinggi jenjang dasar, tanpa harga publik terverifikasi. Nominal 2026 harus mengikuti quotation aktif. TKBT I tidak boleh disamakan dengan Operator Scaffolding, rope access, atau TKBT II."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Faktor yang Menentukan Biaya 2026"
+        },
+        {
+            "type": "paragraph",
+            "text": "Biaya dipengaruhi peserta, lokasi, struktur praktik, APD, cuaca, instruktur, serta kesiapan bukti. Perusahaan perlu menghitung pemeriksaan kesehatan, waktu kerja, perjalanan, pengganti shift, dan rescue readiness selama praktik."
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Persiapan dan asesmen unit kompetensi TKBT I",
+                "Administrasi LSP serta dokumen hasil",
+                "Struktur praktik, full-body harness, lifeline, APD, dan pajak",
+                "Instruktur, rescue support, perjalanan, akomodasi, atau in-house"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data untuk Meminta Quotation"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "CV, tugas, pengalaman, kesehatan, dan sertifikat calon",
+                "Jenis pekerjaan, ketinggian, akses, struktur, dan risiko jatuh",
+                "APD/fasilitas praktik serta prosedur rescue",
+                "Peserta, lokasi, mode, kebutuhan klien, dan tenggat"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Bandingkan Penawaran dengan Ruang Lingkup Sama"
+        },
+        {
+            "type": "paragraph",
+            "text": "Samakan jenjang TKBT I, skema, LSP, praktik, APD, rescue, dokumen, retake, dan cuaca. Jangan membandingkan dengan TKBT II atau scaffolding. Sertifikat tidak menggantikan anchor yang layak, inspeksi APD, permit, pengawasan, dan rescue plan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk pengadaan kelompok, minta simulasi dua skenario: kelas publik per peserta dan kelas perusahaan dengan seluruh biaya lokasi. Nilai juga apakah semua calon memenuhi syarat, apakah operasional dapat melepas mereka pada tanggal yang sama, dan apakah fasilitas praktik perusahaan memenuhi kebutuhan. Keputusan terbaik adalah opsi yang menghasilkan personel tepat guna pada saat dibutuhkan, bukan sekadar total invoice terendah."
+        },
+        {
+            "type": "paragraph",
+            "text": "Hitung biaya efektif, bukan hanya harga per kursi. Tambahkan pemeriksaan dokumen dan kesehatan, waktu kerja peserta, perjalanan, akomodasi, pengganti shift, fasilitas praktik, serta risiko jadwal ulang. Minta penawaran mencantumkan minimum peserta, pajak, termin, pembatalan, penggantian nama, retake atau evaluasi ulang, komponen yang dikecualikan, dan estimasi dokumen. Perbandingan ini mencegah harga awal yang murah berubah menjadi biaya tambahan setelah purchase order terbit. Pembayaran juga bukan jaminan kelulusan atau penerbitan instan; calon tetap harus memenuhi proses yang berlaku."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "FAQ Biaya dan Pendaftaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah APD termasuk? Harus dirinci. Apakah surat sehat dibutuhkan? Siapkan untuk pre-check. Apakah sama dengan scaffolding? Tidak. Apakah praktik dapat in-house? Bergantung fasilitas. Apakah cuaca memengaruhi jadwal? Ya, untuk praktik luar."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dapatkan Penawaran yang Dapat Dipertanggungjawabkan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim pekerjaan, ketinggian, dokumen calon, fasilitas, APD, peserta, lokasi, dan target. Tim PENA akan memeriksa jenjang lalu memberi quotation."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Belum ada harga publik terverifikasi pada data program. Kirim kebutuhan dan dokumen calon agar tim PENA dapat memeriksa program, penerbit, kesiapan, dan komponen biaya sebelum invoice."
+        }
+    ],
+    "related_offering_slug": "tkbt-i-tenaga-kerja-bangunan-tinggi",
+    "meta_title": "Biaya TKBT I (Tenaga Kerja Bangunan Tinggi) 2026 — Guide",
+    "meta_description": "Panduan teknis keselamatan Biaya TKBT I (Tenaga Kerja Bangunan Tinggi) 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI,",
+    "published_at": "2026-07-31"
+}

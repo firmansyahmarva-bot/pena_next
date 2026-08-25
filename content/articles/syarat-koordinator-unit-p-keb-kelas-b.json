@@ -1,0 +1,87 @@
+{
+    "id": "01kyw9kq3px9bmwwb51grzz9qd",
+    "title": "Syarat Koordinator Unit Penanggulangan Kebakaran Kelas B",
+    "slug": "syarat-koordinator-unit-p-keb-kelas-b",
+    "path": "/panduan/k3-teknis/syarat-koordinator-unit-p-keb-kelas-b",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat Koordinator Unit Penanggulangan Kebakaran Kelas B perlu diverifikasi dari pengalaman damkar, penugasan perusahaan, kesiapan fisik, jenjang sebelumnya, dan kebutuhan struktur setiap shift.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Koordinator Unit Penanggulangan Kebakaran Kelas B adalah pengendali taktis yang mengoordinasikan regu Kelas C dan menghubungkan pelaksanaan lapangan dengan penanggung jawab teknik Kelas A. Karena perannya memimpin orang dan keputusan respons, pendaftaran tidak seharusnya didasarkan hanya pada jabatan supervisor."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Persyaratan Calon yang Perlu Diperiksa"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Ditugaskan perusahaan untuk mengisi fungsi Koordinator Kelas B dalam struktur unit kebakaran",
+                "Memiliki pengalaman atau pemahaman jenjang penanggulangan kebakaran di bawahnya",
+                "Mampu berkomunikasi, memimpin regu, dan bekerja dalam kondisi darurat",
+                "Sehat jasmani dan rohani serta siap mengikuti praktik pembinaan"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Kepmenaker No. 186/MEN/1999 menjadi rujukan struktur D-C-B-A, tetapi rincian pendidikan, pengalaman, dan bukti jenjang calon perlu dikonfirmasi terhadap ketentuan pembinaan yang berlaku. PENA melakukan pre-check; keputusan kelayakan dan kelulusan tidak boleh dijanjikan sebelum dokumen serta proses resmi selesai."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dokumen Pendaftaran Koordinator Kelas B"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah terakhir, CV, pas foto, dan surat keterangan sehat",
+                "Surat tugas atau rekomendasi perusahaan yang menjelaskan fungsi calon",
+                "Sertifikat atau bukti pengalaman damkar yang sudah dimiliki",
+                "Data fasilitas dan struktur unit kebakaran bila didaftarkan perusahaan"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Pastikan nama konsisten pada seluruh berkas dan hasil pindai terbaca. Bila sertifikat lama memakai data berbeda, siapkan dokumen penjelas. Jangan membuat pengalaman atau surat tugas yang tidak sesuai pekerjaan nyata. Calon yang belum siap sebaiknya diarahkan memperkuat jenjang regu terlebih dahulu."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kapan Perusahaan Membutuhkan Kelas B"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kebutuhan biasanya muncul ketika beberapa regu atau shift memerlukan koordinator, fasilitas berkembang, personel lama pindah, atau audit menemukan rantai komando tidak lengkap. Satu Koordinator Kelas B tidak otomatis mencukupi semua shift dan area. Perusahaan perlu menghitung ketersediaan aktual, personel cadangan, risiko kebakaran, serta hubungan dengan Kelas A."
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan Kelas B tidak menggantikan petugas Kelas D, Regu Kelas C, sistem proteksi, drill, komunikasi, dan emergency response plan. Jika struktur di seluruh jenjang belum tersedia, paket DCBA mungkin lebih tepat daripada mendaftarkan satu kelas secara terpisah."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Cara Meminta Jadwal dan Biaya Resmi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim daftar calon, pendidikan, pengalaman, sertifikat lama, surat tugas, jumlah regu dan shift, profil fasilitas, lokasi, target audit, serta jumlah peserta. Tim PENA akan memeriksa dokumen, kebutuhan kelas, pembagian jadwal, durasi, dan penawaran. Informasi ini menghasilkan quotation yang terhubung dengan struktur perusahaan, bukan harga generik tanpa konteks."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim struktur regu, shift, dan dokumen calon agar tim PENA dapat memeriksa syarat Koordinator Kelas B serta menyiapkan penawaran yang sesuai."
+        }
+    ],
+    "related_offering_slug": "koordinator-unit-p-keb-kelas-b",
+    "meta_title": "Syarat Mengikuti Koordinator Unit P. Keb Kelas B — Guide",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Koordinator Unit P. Keb Kelas B resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI,",
+    "published_at": "2026-07-31"
+}

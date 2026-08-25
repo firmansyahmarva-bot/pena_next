@@ -1,0 +1,95 @@
+{
+    "id": "01kyw9m7js96hpw6p8edqqa4d4",
+    "title": "Jadwal Petugas K3 Kimia Kemnaker 2026",
+    "slug": "jadwal-petugas-k3-kimia-2026",
+    "path": "/panduan/k3-teknis/jadwal-petugas-k3-kimia-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Panduan jadwal Petugas K3 Kimia Kemnaker 2026 untuk memeriksa batch, syarat peserta, durasi, biaya, praktik, dan kebutuhan perusahaan.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Jadwal Petugas K3 Kimia Kemnaker 2026 dibutuhkan perusahaan yang menempatkan pekerja pada penyimpanan, penggunaan, pemindahan, atau pengawasan bahan kimia. Data program mencatat jalur Kemnaker dan durasi sekitar enam hari, tetapi belum menyimpan tanggal batch terverifikasi. Petugas K3 Kimia juga tidak boleh disamakan dengan Ahli K3 Kimia atau pelatihan B3 umum."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Jadwal Aktif, Bukan Tanggal Rekaan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Enam hari adalah durasi program, bukan tanggal pasti atau estimasi dokumen. Konfirmasikan hari belajar, jam, lokasi, mode, praktik, evaluasi, kuota, batas daftar, dan status confirmed. Untuk operasi multi-shift, jangan menarik semua petugas area secara bersamaan tanpa pengganti yang memahami SDS, label, penyimpanan, tumpahan, dan respons darurat."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Checklist Verifikasi Batch 2026"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Tanggal mulai/selesai, jam, lokasi, mode, kuota, minimum peserta, dan status batch",
+                "Jalur Kemnaker, fungsi Petugas K3 Kimia, evaluasi, administrasi, dan estimasi dokumen",
+                "CV, pendidikan, pengalaman bahan kimia, surat tugas, kesehatan, identitas, serta dokumen",
+                "Harga, pajak, fasilitas praktik, reschedule, penggantian peserta, dan pelaksanaan in-house"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pre-check Peserta dan Bukti Kerja"
+        },
+        {
+            "type": "paragraph",
+            "text": "Siapkan daftar bahan dan proses yang relevan, peran calon, shift, serta pengalaman aktual. Pre-check harus memastikan jalur petugas sesuai. Sertifikat tidak menggantikan inventaris bahan, SDS, segregasi, ventilasi, APD, monitoring paparan, prosedur tumpahan, izin kerja, atau pengawasan perusahaan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Batch Publik atau Pelatihan In-house?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Batch publik cocok untuk peserta sedikit. In-house lebih kontekstual bagi kelompok dan beberapa shift karena studi kasus dapat dikaitkan dengan bahan perusahaan. Namun data rahasia, fasilitas, alat praktik, keselamatan simulasi, instruktur, serta proses Kemnaker tetap harus dikonfirmasi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan Harga, Syarat, dan Sertifikat"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah Petugas sama dengan Ahli K3 Kimia? Tidak. Apakah enam hari termasuk dokumen? Tidak. Apakah tersedia online? Bergantung batch dan praktik. Apakah harga termasuk administrasi? Minta rincian. Apakah calon tanpa pengalaman dapat ikut? Harus melalui pre-check."
+        },
+        {
+            "type": "paragraph",
+            "text": "Rencanakan mundur dari target audit, tender, shutdown, atau mobilisasi. Sisihkan waktu untuk pemeriksaan syarat, koreksi dokumen, persetujuan anggaran, pendaftaran, pelaksanaan, evaluasi atau asesmen, perbaikan bila diperlukan, dan proses dokumen hasil. Tanggal selesai kelas bukan janji sertifikat, lisensi, atau keputusan kompeten langsung terbit. Simpan satu opsi tanggal cadangan dan jangan membeli tiket sebelum status batch, lokasi, serta minimum peserta dikonfirmasi tertulis."
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk permintaan perusahaan, tunjuk satu PIC yang mengendalikan daftar peserta, dokumen, PO, fasilitas praktik, komunikasi jadwal, dan reschedule. Quotation perlu menjelaskan harga per peserta atau paket, pajak, minimum peserta, alat dan bahan praktik, perjalanan, konsumsi, evaluasi, retake, penggantian nama, pembatalan, serta estimasi dokumen. Perbandingan seperti ini lebih berguna daripada memilih angka headline termurah."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Jadwal Aktif dan Quotation"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim CV, daftar proses/bahan, jumlah peserta, shift, kota, mode, target audit, dan tenggat. Tim PENA akan memeriksa syarat lalu mengirim jadwal Petugas K3 Kimia aktif serta quotation."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kalender batch 2026 belum terverifikasi dalam data program. Tim PENA akan memeriksa jadwal aktif, jalur, dan kesiapan peserta sebelum memberikan rekomendasi."
+        }
+    ],
+    "related_offering_slug": "petugas-k3-kimia",
+    "meta_title": "Jadwal Petugas K3 Kimia 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Jadwal Petugas K3 Kimia 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

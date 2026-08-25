@@ -1,0 +1,148 @@
+{
+    "id": "01kyfffhyrfj6bx5f1f7f4yz42",
+    "type": "training",
+    "name": "Ahli Muda Ruang Terbatas",
+    "slug": "ahli-muda-ruang-terbatas",
+    "path": "/pelatihan/ahli-muda-ruang-terbatas",
+    "title": "Ahli Muda Ruang Terbatas",
+    "meta_title": "Sertifikasi Ahli Muda Ruang Terbatas BNSP: Entry & Gas",
+    "meta_description": "Sertifikasi BNSP Ahli Muda K3 Ruang Terbatas (Confined Space). Pengawasan izin masuk, pengujian gas O2/H2S/LEL, & regulasi Permenaker 11/2023.",
+    "summary": "Sertifikasi kompetensi Ahli Muda K3 Ruang Terbatas (Confined Space Entry Supervisor) BNSP untuk pengawas operasional pekerjaan di ruang terbatas — menguasai pengujian kualitas udara (O2, LEL, H2S, CO), otorisasi izin kerja (Entry Permit), dan pengawasan keselamatan tim entrant/attendant sesuai Permenaker No. 11 Tahun 2023.",
+    "certification_body": "bnsp",
+    "base_price": 5200000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi Ahli Muda K3 Ruang Terbatas diselenggarakan berbasis SKKNI Bidang K3 Sub-Bidang Ruang Terbatas. Sertifikasi ini memberikan kewenangan legal bagi pengawas operasional dalam mengendalikan izin masuk (Entry Permit System) dan pengujian atmosfer sebelum dan selama pekerjaan confined space berlangsung."
+        },
+        {
+            "type": "paragraph",
+            "text": "Pekerjaan di ruang terbatas diatur secara ketat dalam Permenaker No. 11 Tahun 2023 tentang Keselamatan dan Kesehatan Kerja di Ruang Terbatas (pencabutan dan pengkinian regulasi Kepmenaker 113/2006 & Permenaker 01/2011). Regulasi baru ini mempertegas kewajiban sertifikasi personel, batas toleransi gas berbahaya, penyediaan blower ventilasi mekanis, dan penyusunan izin kerja tertulis."
+        },
+        {
+            "type": "paragraph",
+            "text": "Pengawasan ini memastikan seluruh pengujian udara memenuhi baku mutu hukum: Oksigen 19.5%–23.5%, LEL <5%, H2S <10 ppm, dan CO <25 ppm, guna mencegah insiden kelemasan (asfiksia), keracunan gas mendadak, atau ledakan di dalam tangki, silo, manhole, dan saluran bawah tanah."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+            "source": "UU No. 13 Tahun 2003"
+        },
+        {
+            "type": "citation",
+            "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+            "source": "PP No. 23 Tahun 2004"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja di Ruang Terbatas.",
+            "source": "Permenaker No. 11 Tahun 2023"
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini mendidik pengawas operasional confined space yang handal. Setelah lulus asesmen, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Melaksanakan pengawasan izin masuk ruang terbatas (Confined Space Entry Permit System) dan memverifikasi prasyarat keselamatan sebelum pekerja memasuki manhole, tangki, atau silo",
+                "Menguasai prosedur pengujian gas atmosfer berbahaya (Gas Testing) menggunakan 4-gas detector: memastikan kadar oksigen aman (19.5% - 23.5%), LEL <5% (gas mudah terbakar), H2S <10 ppm, dan CO <25 ppm",
+                "Menguji dan mengalibrasi instrumen gas detector melalui prosedur Bump Test sebelum digunakan di lokasi kerja",
+                "Mengawasi pengoperasian sistem pembersihan udara (purging) dan ventilasi mekanis kontinu untuk menjaga sirkulasi udara segar di dalam confined space",
+                "Menerapkan pengisolasian sumber energi berbahaya (Lockout/Tagout - LOTO) pada saluran pipa, valve, dan sistem kelistrikan yang terhubung ke ruang terbatas",
+                "Mengawasi penggunaan Alat Pelindung Diri (APD) khusus: Self-Contained Breathing Apparatus (SCBA) positive pressure, tripod retrieval system, full body harness, dan lifeline",
+                "Mengoordinasikan peran Petugas Utama (Entrant) dan Petugas Pendamping (Attendant/Standby Person) serta menghentikan pekerjaan (Stop Work Authority) jika terjadi kondisi darurat",
+                "Meraih Sertifikat Kompetensi BNSP bersimbol Garuda skema Ahli Muda K3 Ruang Terbatas yang berlaku 3 tahun secara nasional"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Cakupan materi pelatihan & uji asesmen BNSP Ahli Muda Ruang Terbatas:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul 1: Regulasi K3 Ruang Terbatas & Pembaharuan Permenaker No. 11 Tahun 2023",
+                "Modul 2: Pengenalan Bahaya Ruang Terbatas (Defisiensi Oksigen, Gas Beracun H2S/CO, Bahan Mudah Terbakar, Engulfment, Hazard Fisik)",
+                "Modul 3: Prosedur Pengujian Gas Atmosfer (Gas Testing), Kalibrasi Bump Test 4-Gas Detector, & Dokumentasi Entry Permit",
+                "Modul 4: Pengawasan Ventilasi Purging, Pengisolasian Energi (LOTO), & Peralatan Safety (Tripod, Winch, SCBA, Harness)",
+                "Modul 5: Manajemen Peran Entrant, Attendant, & Prosedur Tanggap Darurat Non-Entry Rescue",
+                "Pelaksanaan Asesmen: Penilaian portofolio pengawasan entry, uji tertulis teknis, pengujian gas & simulasi pengawasan permit di Tempat Uji Kompetensi (TUK), & wawancara lisan asesor BNSP"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Minimal D3 Teknik/K3/MIPA dengan pengalaman kerja pengawasan/pekerjaan confined space minimal 1 tahun, ATAU SMA/SMK dengan pengalaman kerja minimal 3 tahun",
+                "Surat Keterangan Sehat Bebas Claustrophobia (ketakutan pada ruang sempit/tertutup) dan Surat Keterangan Sehat dari dokter",
+                "Pasfoto formal latar belakang merah (3x4 & 4x6), KTP, & ijazah"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Kelengkapan administrasi yang umum dipersyaratkan untuk mengikuti program ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter",
+                "Surat rekomendasi/penugasan dari perusahaan (untuk peserta utusan perusahaan)",
+                "Curriculum vitae (untuk skema sertifikasi BNSP)"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan pendidikan minimum dan pengalaman kerja mengikuti ketentuan skema/penunjukan yang berlaku — tim kami akan memverifikasi kelengkapan Anda sebelum pendaftaran diproses."
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul dan materi pelatihan",
+                "Instruktur praktisi tersertifikasi di bidangnya",
+                "Ujian/asesmen sertifikasi",
+                "Sertifikat sesuai skema (Kemnaker RI atau BNSP)",
+                "Konsultasi pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir pendaftaran di halaman ini.",
+                "Terima penawaran resmi: jadwal, biaya, dan persyaratan program.",
+                "Lengkapi berkas administrasi dan lakukan konfirmasi pendaftaran.",
+                "Ikuti pelatihan dan ujian/asesmen sertifikasi.",
+                "Terima sertifikat dan lisensi/kartu kompetensi sesuai skema."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

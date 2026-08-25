@@ -1,0 +1,101 @@
+{
+    "id": "01kyw9mda5k9r27en31p8y5gyr",
+    "title": "Syarat Teknisi Bejana Tekan dan Tangki Timbun",
+    "slug": "syarat-teknisi-bejana-tekan",
+    "path": "/panduan/k3-teknis/syarat-teknisi-bejana-tekan",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat Teknisi Bejana Tekan Kemnaker harus dicocokkan dengan jenis alat, media, kapasitas, tekanan kerja, tugas teknisi, pendidikan, pengalaman, dan penugasan.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Nama “tangki” atau “vessel” di lapangan belum cukup menentukan program. Perusahaan perlu mengidentifikasi apakah alat termasuk bejana tekanan, tangki timbun, boiler/pesawat uap, atau kategori lain. Media, kapasitas, tekanan, temperatur, fungsi, bahan konstruksi, dan tugas calon menjadi dasar pre-check. Teknisi pemeriksaan, operator proses, dan maintenance dapat memiliki ruang lingkup berbeda."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Calon yang Perlu Diverifikasi"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Ditugaskan menangani bejana tekanan atau tangki timbun yang relevan",
+                "Memenuhi pendidikan dan pengalaman sesuai pembinaan berlaku",
+                "Memahami instrumen, perangkat pengaman, isolasi, dan kondisi abnormal",
+                "Sehat serta siap mengikuti teori, praktik, dan evaluasi"
+            ]
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Bejana Tekanan dan Tangki Timbun.",
+            "source": "Permenaker No. 37 Tahun 2016"
+        },
+        {
+            "type": "paragraph",
+            "text": "Surat pengalaman harus menjelaskan alat dan pekerjaan, bukan hanya jabatan teknisi. Pengalaman boiler tidak otomatis sama dengan bejana tekan. Kelayakan calon serta jalur dokumen harus diverifikasi pada proses resmi. Artikel tidak menjamin minimal pendidikan, masa kerja, kelulusan, atau kewenangan tertentu tanpa pemeriksaan berkas."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dokumen dan Data Peralatan"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah, CV, pas foto, surat sehat, dan surat tugas",
+                "Surat pengalaman atau uraian pekerjaan teknisi",
+                "Foto nameplate, media, kapasitas, tekanan, temperatur, dan lokasi",
+                "Daftar unit, status pemeriksaan, serta temuan audit yang relevan"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim data setiap jenis alat yang ditangani. Informasi proses rahasia dapat disamarkan selama klasifikasi dan spesifikasi penting terlihat. Pastikan nama peserta konsisten. Bila dokumen nameplate rusak atau tidak terbaca, perusahaan perlu menyelesaikan identifikasi alat; pelatihan personel tidak dapat menggantikan data teknis yang hilang."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Sertifikasi Teknisi Bukan Sertifikat Kelayakan Alat"
+        },
+        {
+            "type": "paragraph",
+            "text": "Perusahaan tetap memerlukan pemeriksaan dan pengujian, relief device, instrumentasi, inspeksi korosi, SOP, isolasi, LOTO, pemeliharaan, pencatatan, dan emergency response. Jika temuan audit berada pada integritas mekanik, mengirim teknisi ke pembinaan saja tidak menutup risiko. Kompetensi personel dan kelayakan alat harus dikelola paralel."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pre-Check, Jadwal, dan Harga"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim dokumen calon, nameplate, jumlah unit, media, fungsi, shift, lokasi, jumlah peserta, dan target. Tim PENA akan memeriksa apakah program Teknisi Bejana Tekan sesuai, memisahkan kebutuhan boiler atau alat lain, serta memberikan daftar dokumen, jadwal, durasi, dan biaya resmi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan yang Sering Diajukan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah tangki selalu termasuk bejana tekan? Tidak. Kategori bergantung pada fungsi dan spesifikasi. Kirim nameplate, media, tekanan, kapasitas, dan foto alat agar program tidak dipilih hanya dari sebutan lapangan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah teknisi bejana tekan sama dengan operator boiler? Tidak. Boiler melibatkan pesawat uap dan proses termal, sedangkan bejana tekanan/tangki timbun memiliki aturan serta kompetensi berbeda. Satu sertifikat tidak otomatis menggantikan yang lain."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim foto nameplate dan tugas teknisi agar jenis program dapat dipastikan sebelum pendaftaran."
+        }
+    ],
+    "related_offering_slug": "teknisi-bejana-tekan",
+    "meta_title": "Syarat Mengikuti Teknisi Bejana Tekan — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Teknisi Bejana Tekan resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertif",
+    "published_at": "2026-07-31"
+}

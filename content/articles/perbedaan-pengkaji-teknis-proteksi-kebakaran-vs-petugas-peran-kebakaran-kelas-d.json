@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9mwr31ww5htd0yv6v0dt0",
+    "title": "Perbedaan Pengkaji Teknis Kebakaran vs Petugas Damkar Kelas D",
+    "slug": "perbedaan-pengkaji-teknis-proteksi-kebakaran-vs-petugas-peran-kebakaran-kelas-d",
+    "path": "/panduan/k3-teknis/perbedaan-pengkaji-teknis-proteksi-kebakaran-vs-petugas-peran-kebakaran-kelas-d",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Perbedaan pengkaji teknis sistem proteksi kebakaran gedung (tingkat engineer/konsultan) vs Petugas Peran Kebakaran Kelas D (first responder APAR di ruangan).",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Pengkaji Teknis Proteksi Kebakaran melakukan audit kalkulasi debit air hidran, respon sprinkler, dan integritas kompartemen api gedung. Petugas Kelas D adalah karyawan per ruangan yang bertugas memandu evakuasi darurat dan memadamkan api dini dengan APAR."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Pengkaji merancang dan mengaudit sistem proteksi; Petugas Kelas D mengoperasikan tanggap darurat di lantai gedung."
+        }
+    ],
+    "related_offering_slug": "pengkaji-teknis-proteksi-kebakaran",
+    "meta_title": "Perbedaan Pengkaji Teknis Proteksi Kebakaran dan Petugas",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Pengkaji Teknis Proteksi Kebakaran dan Petugas Peran Kebakaran Kelas D resmi Kemnaker RI dan BNSP. Persyaratan,",
+    "published_at": "2026-07-31"
+}

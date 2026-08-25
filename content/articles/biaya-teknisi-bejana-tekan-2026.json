@@ -1,0 +1,96 @@
+{
+    "id": "01kyw9mdgn29e7gkgtj44x1vjg",
+    "title": "Biaya Teknisi Bejana Tekan Kemnaker 2026",
+    "slug": "biaya-teknisi-bejana-tekan-2026",
+    "path": "/panduan/k3-teknis/biaya-teknisi-bejana-tekan-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Biaya Teknisi Bejana Tekan Kemnaker 2026 bergantung pada jenis peralatan, dokumen teknis, kelayakan calon, praktik, lokasi, dan ruang lingkup pembinaan.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Dataset mencatat jalur Kemnaker berdurasi sekitar sembilan hari untuk teknisi bejana tekan dan boiler, namun tidak menyediakan harga publik terverifikasi. Quotation 2026 perlu dimulai dari inventaris bejana, tangki timbun, atau peralatan terkait. Program teknisi tidak boleh disamakan dengan Operator Boiler hanya karena bekerja pada fasilitas yang sama."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Faktor yang Menentukan Biaya 2026"
+        },
+        {
+            "type": "paragraph",
+            "text": "Jumlah peserta, lokasi, jenis alat, fasilitas praktik, dan kelengkapan dokumen memengaruhi biaya. Total cost perusahaan juga mencakup waktu teknisi, kesehatan, pengganti shift, perjalanan, dan penyediaan unit yang aman untuk praktik."
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pembinaan teknis, inspeksi/pemeriksaan, praktik, dan evaluasi",
+                "Administrasi Kemnaker serta dokumen hasil",
+                "Instruktur, materi, alat ukur/praktik, APD, konsumsi, dan pajak",
+                "Survei, mobilisasi, perjalanan, akomodasi, atau in-house"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data untuk Meminta Quotation"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah, CV, surat tugas, pengalaman, dan kesehatan",
+                "Inventaris, foto nameplate, jenis, kapasitas, tekanan, dan lokasi alat",
+                "Tugas calon, jumlah teknisi, shift, serta sertifikat lama",
+                "Mode, peserta, fasilitas praktik, target audit, dan tenggat"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Bandingkan Penawaran dengan Ruang Lingkup Sama"
+        },
+        {
+            "type": "paragraph",
+            "text": "Samakan program teknisi, penerbit, durasi, alat praktik, dokumen, dan pajak. Jangan membandingkan dengan operator boiler atau pelatihan vendor. Sertifikat teknisi tidak menggantikan pemeriksaan berkala, dokumen alat, SOP, izin operasi, atau kewenangan personel lain."
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk pengadaan kelompok, minta simulasi dua skenario: kelas publik per peserta dan kelas perusahaan dengan seluruh biaya lokasi. Nilai juga apakah semua calon memenuhi syarat, apakah operasional dapat melepas mereka pada tanggal yang sama, dan apakah fasilitas praktik perusahaan memenuhi kebutuhan. Keputusan terbaik adalah opsi yang menghasilkan personel tepat guna pada saat dibutuhkan, bukan sekadar total invoice terendah."
+        },
+        {
+            "type": "paragraph",
+            "text": "Hitung biaya efektif, bukan hanya harga per kursi. Tambahkan pemeriksaan dokumen dan kesehatan, waktu kerja peserta, perjalanan, akomodasi, pengganti shift, fasilitas praktik, serta risiko jadwal ulang. Minta penawaran mencantumkan minimum peserta, pajak, termin, pembatalan, penggantian nama, retake atau evaluasi ulang, komponen yang dikecualikan, dan estimasi dokumen. Perbandingan ini mencegah harga awal yang murah berubah menjadi biaya tambahan setelah purchase order terbit. Pembayaran juga bukan jaminan kelulusan atau penerbitan instan; calon tetap harus memenuhi proses yang berlaku."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "FAQ Biaya dan Pendaftaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah harga mengikuti jumlah alat? Inventaris memengaruhi pemetaan. Apakah sama dengan Operator Boiler? Tidak. Apakah alat ukur disediakan? Tanyakan. Apakah in-house tersedia? Bergantung fasilitas. Apakah dokumen alat dibutuhkan? Ya untuk pre-check."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dapatkan Penawaran yang Dapat Dipertanggungjawabkan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim dokumen calon dan inventaris/nameplate peralatan, lokasi, peserta, mode, serta target. Tim PENA akan memeriksa kecocokan program dan menyusun penawaran."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Belum ada harga publik terverifikasi pada data program. Kirim kebutuhan dan dokumen calon agar tim PENA dapat memeriksa program, penerbit, kesiapan, dan komponen biaya sebelum invoice."
+        }
+    ],
+    "related_offering_slug": "teknisi-bejana-tekan",
+    "meta_title": "Biaya Teknisi Bejana Tekan 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Biaya Teknisi Bejana Tekan 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

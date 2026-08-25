@@ -1,0 +1,88 @@
+{
+    "id": "01kyw9kwf9v5x2c7sx77depsng",
+    "title": "Syarat Operator Motor Diesel dan Genset Kemnaker",
+    "slug": "syarat-operator-motor-diesel-genset",
+    "path": "/panduan/k3-teknis/syarat-operator-motor-diesel-genset",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat Operator Motor Diesel/Genset Kemnaker harus diverifikasi dari tugas nyata, spesifikasi unit, pendidikan, pengalaman, kesehatan, dan penugasan perusahaan—bukan hanya nama jabatan teknisi.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Calon Operator Motor Diesel/Genset perlu benar-benar menangani pengoperasian unit, bukan sekadar berada di departemen engineering. Verifikasi dimulai dari fungsi genset, kapasitas, sistem operasi, jumlah unit, pola shift, serta tugas peserta saat start-up, sinkronisasi bila relevan, pemantauan, gangguan, dan shutdown. Data itu menentukan apakah program ini sesuai atau kebutuhan sebenarnya berada pada kompetensi teknisi listrik maupun Operator Pesawat Tenaga dan Produksi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kriteria Calon yang Perlu Diverifikasi"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Ditugaskan mengoperasikan motor diesel atau genset di fasilitas",
+                "Memiliki pendidikan dan pengalaman sesuai ketentuan pembinaan yang berlaku",
+                "Memahami bahaya bahan bakar, listrik, panas, kebisingan, dan bagian bergerak",
+                "Sehat serta siap mengikuti teori, praktik, dan evaluasi"
+            ]
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Pesawat Tenaga dan Produksi.",
+            "source": "Permenaker No. 38 Tahun 2016"
+        },
+        {
+            "type": "paragraph",
+            "text": "Persyaratan minimum tidak boleh disimpulkan hanya dari artikel. Ijazah, masa kerja, surat pengalaman, dan uraian tugas harus diperiksa terhadap ketentuan pembinaan aktif. Teknisi listrik yang hanya melakukan pemeliharaan panel belum tentu memiliki fungsi operator genset. Sebaliknya, operator berpengalaman tetap perlu menunjukkan hubungan pekerjaan dengan unit yang akan menjadi dasar penugasan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dokumen Peserta dan Data Genset"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah, CV, pas foto, surat sehat, dan surat tugas",
+                "Surat pengalaman atau uraian pekerjaan operator",
+                "Foto nameplate, kapasitas, merek/model, dan fungsi setiap genset",
+                "Persyaratan audit, tender, atau klien bila menjadi alasan pendaftaran"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Perusahaan dengan beberapa unit perlu mengirim seluruh spesifikasi yang dioperasikan peserta. Jangan memakai nameplate unit terkecil bila tanggung jawabnya mencakup unit lain. Nama dan tanggal lahir harus konsisten pada semua berkas. Informasi fasilitas yang sensitif dapat ditutup, tetapi kapasitas, jenis alat, periode pengalaman, dan peran calon harus tetap terbaca untuk pre-check."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kapan Pelatihan Saja Tidak Cukup"
+        },
+        {
+            "type": "paragraph",
+            "text": "Lisensi personel tidak menggantikan kelayakan genset, ventilasi ruang, pengendalian bahan bakar, proteksi kebakaran, grounding, SOP, logbook, inspeksi, pemeliharaan, LOTO, dan koordinasi dengan pengelola instalasi listrik. Bila audit menemukan masalah teknis atau prosedural, perusahaan perlu memperbaikinya terpisah. Jumlah operator juga harus mempertimbangkan shift, cuti, unit aktif, dan personel cadangan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Cara Mendapatkan Jadwal dan Penawaran Akurat"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim dokumen calon, foto nameplate, jumlah unit dan shift, lokasi, jumlah peserta, serta target audit atau mobilisasi. Tim PENA akan memeriksa kecocokan program, kekurangan dokumen, pilihan kelas, jadwal, durasi, dan biaya resmi. Pemeriksaan berbasis alat mencegah pembelian sertifikasi yang benar namanya tetapi tidak sesuai dengan tugas atau unit di lapangan."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim foto nameplate genset dan uraian tugas calon agar tim dapat memeriksa program sebelum menyusun penawaran."
+        }
+    ],
+    "related_offering_slug": "operator-motor-diesel-genset",
+    "meta_title": "Syarat Mengikuti Operator Motor Diesel / Genset — Guide ",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Operator Motor Diesel / Genset resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, ",
+    "published_at": "2026-07-31"
+}

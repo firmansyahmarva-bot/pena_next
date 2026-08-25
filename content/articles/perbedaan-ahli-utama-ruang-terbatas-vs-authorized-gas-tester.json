@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9mxhkbz3hz6y4r961bn4k",
+    "title": "Perbedaan Ahli Utama Ruang Terbatas vs Authorized Gas Tester",
+    "slug": "perbedaan-ahli-utama-ruang-terbatas-vs-authorized-gas-tester",
+    "path": "/panduan/k3-teknis/perbedaan-ahli-utama-ruang-terbatas-vs-authorized-gas-tester",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Perbedaan fokus antara Ahli Utama Ruang Terbatas (manajemen risiko sistem) dan Authorized Gas Tester (pengujian atmosfer gas sebelum dan selama pekerjaan).",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Authorized Gas Tester (AGT) fokus secara spesifik pada pengukuran atmosfer gas mudah terbakar (LEL), gas beracun (H2S, CO), dan kadar oksigen menggunakan gas detector terkalibrasi. Ahli Utama bertanggung jawab atas keseluruhan arsitektur keselamatan ruang terbatas korporasi."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Hasil uji atmosfer oleh AGT adalah syarat mutlak terbitnya izin kerja ruang terbatas yang disetujui Ahli K3."
+        }
+    ],
+    "related_offering_slug": "ahli-utama-ruang-terbatas",
+    "meta_title": "Perbedaan Ahli Utama Ruang Terbatas dan Authorized Gas T",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Ahli Utama Ruang Terbatas dan Authorized Gas Tester resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, the",
+    "published_at": "2026-07-31"
+}

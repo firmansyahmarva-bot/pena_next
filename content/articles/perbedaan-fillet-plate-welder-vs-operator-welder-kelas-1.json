@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9my8qv4hftyjckfmcr22h",
+    "title": "Perbedaan Fillet Plate Welder vs Welder Kelas 1",
+    "slug": "perbedaan-fillet-plate-welder-vs-operator-welder-kelas-1",
+    "path": "/panduan/sertifikasi-k3/perbedaan-fillet-plate-welder-vs-operator-welder-kelas-1",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Perbandingan antara sertifikasi juru las pelat/fillet dan juru las serbaguna Kelas 1 pipa 6G.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Fillet & Plate Welder terbatas pada sambungan pelat datar dan sudut; Welder Kelas 1 mencakup pipa bertekanan tinggi 6G all positions dengan standar ASME / Kemnaker."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Welder Kelas 1 memiliki fleksibilitas penugasan industri tertinggi."
+        }
+    ],
+    "related_offering_slug": "fillet-plate-welder",
+    "meta_title": "Perbedaan Fillet & Plate Welder dan Operator Welder Kela",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Fillet & Plate Welder dan Operator Welder Kelas 1 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, therm",
+    "published_at": "2026-07-31"
+}

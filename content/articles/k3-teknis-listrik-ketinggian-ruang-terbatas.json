@@ -1,0 +1,59 @@
+{
+    "id": "01kyhqmdw0s6spj5h6j4g1wyef",
+    "title": "K3 Teknis: Listrik, Ketinggian, dan Ruang Terbatas",
+    "slug": "k3-teknis-listrik-ketinggian-ruang-terbatas",
+    "path": "/panduan/k3-teknis",
+    "role": "pillar",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Panduan komprehensif K3 teknis untuk 3 pekerjaan berisiko tinggi (High-Risk Activities): instalasi kelistrikan, bekerja pada ketinggian, dan confined space.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Dalam lanskap keselamatan kerja industri, terdapat tiga kategori pekerjaan yang menyumbang angka kecelakaan fatal (fatality) tertinggi jika tidak menerapkan kontrol teknis yang ketat: pekerjaan instalasi kelistrikan, bekerja pada ketinggian, dan pekerjaan di dalam ruang terbatas (confined space). Ketiganya memiliki regulasi wajib dan sistem izin kerja khusus (Permit to Work)."
+        },
+        {
+            "type": "citation",
+            "text": "Pedoman Teknis Keselamatan Kerja Pekerjaan Berisiko Tinggi.",
+            "source": "UU No. 1 Tahun 1970 & Permenaker Terkait"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "1. K3 Kelistrikan Industri (Permenaker 12/2015 & PUIL 2011)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Setiap aktivitas pada instalasi tegangan rendah maupun tinggi wajib menerapkan prosedur Lockout/Tagout (LOTO), pengujian zero voltage, verifikasi grounding, serta pemakaian APD tahan busur api (Arc Flash PPE). Perusahaan dengan kapasitas daya di atas 200 kVA wajib memiliki Ahli K3 Listrik dan Teknisi K3 Listrik berlisensi resmi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "2. K3 Bekerja di Ketinggian (Permenaker 09/2016)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Aktivitas di atas perbedaan ketinggian wajib menerapkan sistem pencegahan jatuh pasif (guardrail, safety net) atau aktif (Full Body Harness 100% tie-off, lifeline, fall arrester). Personel wajib mengantongi sertifikasi Tenaga Kerja Bangunan Tinggi (TKBT) atau Tenaga Kerja Pada Ketinggian (TKPK)."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "3. K3 Ruang Terbatas / Confined Space (Kepdirjen 113/2006)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Pekerjaan di dalam tangki, silo, manhole, atau gorong-gorong menuntut pengujian atmosfer gas oleh Authorized Gas Tester (AGT), pemasangan blower ventilasi mekanis, isolasi pipa, dan penyiagaan tim rescue dengan peralatan tripod dan SCBA."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Mengintegrasikan ketiga disiplin K3 teknis ini menjamin tercapainya target Zero Accident pada operasional industri dan konstruksi."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-umum",
+    "meta_title": "K3 Teknis Listrik Ketinggian Ruang Terbatas K3 AI",
+    "meta_description": "Panduan K3 teknis K3 Teknis: Listrik, Ketinggian, dan Ruang Terbatas. Tren teknologi AI listrik, proteksi kebakaran, kimia berbahaya, & sertifikasi ",
+    "published_at": "2026-07-27"
+}

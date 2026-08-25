@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9mvgt63kc6rcq0969ay30",
+    "title": "Perbedaan HIMU vs Pengawas K3 Laboratorium",
+    "slug": "perbedaan-higiene-industri-muda-himu-vs-pengawas-k3-laboratorium",
+    "path": "/panduan/sertifikasi-k3/perbedaan-higiene-industri-muda-himu-vs-pengawas-k3-laboratorium",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Perbandingan antara HIMU (pengukuran lingkungan kerja operasional pabrik) dan Pengawas K3 Laboratorium (keselamatan biosafety & reagen kimia lab).",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "HIMU fokus pada pemantauan faktor lingkungan kerja di area operasional industri (pabrik, proyek konstruksi, tambang); Pengawas K3 Laboratorium fokus pada keselamatan biosafety cabinet, ventilasi fume hood, penyimpanan reagen kimia kompatibel, dan pengelolaan limbah B3 laboratorium."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Keduanya saling melengkapi dalam mengamankan lingkungan kerja pabrik dan fasilitas laboratorium uji."
+        }
+    ],
+    "related_offering_slug": "higiene-industri-muda-himu",
+    "meta_title": "Perbedaan Higiene Industri Muda (HIMU) dan Pengawas K3 L",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Higiene Industri Muda (HIMU) dan Pengawas K3 Laboratorium resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOT",
+    "published_at": "2026-07-31"
+}

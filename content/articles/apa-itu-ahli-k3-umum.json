@@ -1,0 +1,104 @@
+{
+    "id": "01kyw9k9sx5vvye0gxmtyjk59v",
+    "title": "Apa Itu Ahli K3 Umum Kemnaker RI?",
+    "slug": "apa-itu-ahli-k3-umum",
+    "path": "/panduan/sertifikasi-k3/apa-itu-ahli-k3-umum",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Ahli K3 Umum Kemnaker RI adalah tenaga teknis berkeahlian khusus yang ditunjuk oleh Menteri Ketenagakerjaan RI untuk mengawasi ditaatinya peraturan perundangan K3 di tempat kerja penunjuknya.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Ahli Keselamatan dan Kesehatan Kerja Umum (Ahli K3 Umum) Kemnaker RI adalah salah satu posisi kunci yang secara eksplisit dimandatkan oleh peraturan perundang-undangan ketenagakerjaan di Indonesia. Berbeda dari sertifikasi pelatihan biasa, pemegang predikat ini mendapatkan Surat Keputusan Penunjukan (SKP) dan Lisensi Resmi dari Kementerian Ketenagakerjaan Republik Indonesia."
+        },
+        {
+            "type": "citation",
+            "text": "Tata Cara Penunjukan, Kewajiban dan Wewenang Ahli Keselamatan dan Kesehatan Kerja.",
+            "source": "Permenaker No. 02/MEN/1992"
+        },
+        {
+            "type": "paragraph",
+            "text": "Melalui penunjukan tersebut, Ahli K3 Umum bertindak sebagai kepanjangan tangan pengawas ketenagakerjaan pemerintah di dalam internal perusahaan, dengan kewenangan hukum untuk memeriksa kondisi kerja, meminta keterangan, dan memberikan rekomendasi pencegahan kecelakaan kerja kepada pimpinan puncak."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kewajiban Pokok Ahli K3 Umum Menurut Regulasi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sesuai Permenaker 02/1992 Pasal 9 dan 10, kewajiban dan wewenang Ahli K3 Umum meliputi:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Membantu mengawasi pelaksanaan peraturan perundang-undangan K3 sesuai bidang yang ditugaskan",
+                "Memberikan laporan triwulan pelaksanaan K3 perusahaan kepada Menteri Ketenagakerjaan atau pejabat yang ditunjuk melalui Dinas Tenaga Kerja setempat",
+                "Menjabat sebagai Sekretaris Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3) di perusahaan",
+                "Memasuki tempat kerja untuk memeriksa mesin, instalasi, pesawat, alat kerja, bahan, dan lingkungan kerja",
+                "Meminta keterangan dan bukti pelaksanaan syarat K3 dari pihak terkait di perusahaan"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Perbedaan Sertifikat Pembinaan vs SKP Ahli K3 Umum"
+        },
+        {
+            "type": "paragraph",
+            "text": "Banyak calon peserta belum memahami perbedaan antara sertifikat pelatihan dan SKP:"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Aspek",
+                "Sertifikat Pembinaan Calon Ahli K3",
+                "Surat Keputusan Penunjukan (SKP) & Lisensi"
+            ],
+            "rows": [
+                [
+                    "Penerbit",
+                    "Direktorat Bina Kelembagaan K3 Kemnaker RI",
+                    "Menteri Ketenagakerjaan RI"
+                ],
+                [
+                    "Status Pemegang",
+                    "Melekat pada individu seumur hidup sebagai bukti telah lulus pembinaan",
+                    "Melekat pada individu di perusahaan yang mengusulkan penunjukan"
+                ],
+                [
+                    "Masa Berlaku",
+                    "Tidak ada masa kedaluwarsa",
+                    "3 tahun dan wajib diperpanjang berkala"
+                ],
+                [
+                    "Kewenangan Hukum",
+                    "Belum memiliki kewenangan menandatangani laporan resmi P2K3",
+                    "Memiliki kewenangan penuh menandatangani laporan P2K3 dan audit internal"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kriteria Perusahaan yang Wajib Memiliki Ahli K3 Umum"
+        },
+        {
+            "type": "paragraph",
+            "text": "Berdasarkan UU No. 1 Tahun 1970 dan Permenaker 02/1992, setiap tempat kerja yang mempekerjakan 100 orang buruh atau lebih, atau kurang dari 100 orang buruh namun memiliki tingkat bahaya tinggi (bahan kimia, peledak, radiasi, bejana tekan, konstruksi), wajib memiliki minimal satu orang Ahli K3 Umum berpenunjukan aktif."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Memiliki Ahli K3 Umum bersertifikat dan berpenunjukan SKP Kemnaker RI adalah syarat mutlak pemenuhan SMK3 PP 50/2012 dan kelayakan tender BUMN/Swasta."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-umum",
+    "meta_title": "Apa itu Ahli K3 Umum? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Ahli K3 Umum? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

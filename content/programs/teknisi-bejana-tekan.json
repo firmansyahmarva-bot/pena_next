@@ -1,0 +1,124 @@
+{
+    "id": "01kyfffj0h2e5ks3v3pw60y5q2",
+    "type": "training",
+    "name": "Teknisi Bejana Tekan",
+    "slug": "teknisi-bejana-tekan",
+    "path": "/pelatihan/teknisi-bejana-tekan",
+    "title": "Teknisi Bejana Tekan",
+    "meta_title": "Teknisi Bejana Tekan",
+    "meta_description": "Sertifikasi Teknisi Bejana Tekan & Tangki Timbun Kemnaker RI. Inspeksi kelayakan tangki B3, kompresor, & Permenaker 37/2016.",
+    "summary": "Teknisi K3 Bejana Tekan adalah program pembinaan dan sertifikasi personel teknisi bejana tekanan dan tangki timbun — kompetensi wajib pada pengoperasian/penanganan peralatan bertekanan sesuai peraturan uap dan bejana tekanan yang berlaku. Tersedia online & offline.",
+    "certification_body": "kemnaker",
+    "base_price": 10500000,
+    "duration": "9 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Bejana tekan dan tangki timbun yang tidak diperiksa secara berkala menyimpan risiko yang jarang terlihat sampai terlambat: kebocoran gas beracun, ledakan akibat tekanan berlebih, atau kebakaran dari tangki penyimpanan bahan mudah terbakar. Karena risikonya bersifat katastropik, pemerintah mewajibkan setiap perusahaan yang mengoperasikan peralatan ini memiliki Teknisi K3 Bejana Tekan dan Tangki Timbun yang bersertifikat."
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan Kerja (Pasal 2 dan Pasal 3 tentang perlindungan tenaga kerja dari potensi bahaya peralatan kerja).",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Bejana Tekanan dan Tangki Timbun.",
+            "source": "Permenaker No. 37 Tahun 2016"
+        },
+        {
+            "type": "paragraph",
+            "text": "Permenaker No. 37/2016 menggantikan Permenaker No. 1 Tahun 1982 tentang Bejana Tekanan dan sejumlah aturan lama lainnya, mengatur material dan konstruksi, tekanan kerja, sistem pelabelan dan pewarnaan tabung, jadwal pemeriksaan berkala — bejana tekanan wajib menjalani uji hidrostatik maksimal setiap 5 tahun, tangki timbun wajib diperiksa visual setiap 2 tahun dan uji menyeluruh setiap 5 tahun — serta kompetensi personel yang berwenang melaksanakannya."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Bejana tekanan adalah wadah tertutup yang menyimpan gas, udara, atau campuran fluida bertekanan di atas tekanan atmosfer, sedangkan tangki timbun adalah tangki penyimpanan bahan cair atau gas dalam jumlah besar, umum dijumpai di industri migas, kimia, dan pergudangan. Teknisi K3 Bejana Tekan dan Tangki Timbun adalah personel bersertifikat yang berwenang melakukan pemeriksaan, pengujian, dan pemeliharaan berkala terhadap peralatan tersebut agar tetap layak dan aman dioperasikan — berbeda dari Ahli K3 Bidang Pesawat Uap dan Bejana Tekan yang satu tingkat di atasnya dan menangani perencanaan teknis serta pengawasan yang lebih luas; Teknisi K3 lebih berorientasi pada pelaksanaan pemeriksaan dan pengujian teknis harian di lapangan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi ini dibutuhkan oleh perusahaan dan personel di industri migas dan petrokimia, kilang dan terminal BBM, SPBE dan distributor LPG, pabrik pupuk dan gas industri, pabrik makanan dan minuman yang menggunakan tangki CO2 atau amonia, sistem refrigerasi cold storage, pembangkit listrik dengan boiler dan bejana tekan, pabrik farmasi, serta industri manufaktur yang mengoperasikan kompresor udara bertekanan tinggi. Perusahaan dengan aset bejana tekan atau tangki timbun wajib memiliki minimal satu teknisi bersertifikat agar pemeriksaan berkala dapat dilaksanakan secara internal."
+        },
+        {
+            "type": "paragraph",
+            "text": "Tugas utama teknisi ini mencakup melakukan pemeriksaan visual dan dimensi terhadap bejana tekan dan tangki timbun; melaksanakan atau mendampingi pelaksanaan uji hidrostatik sesuai jadwal yang diwajibkan; memeriksa kondisi appendages/perlengkapan seperti katup pengaman (safety valve), manometer, dan indikator level; memastikan sistem pewarnaan dan pelabelan tabung gas sesuai kode warna yang berlaku; menyusun laporan hasil pemeriksaan lengkap dengan rekomendasi tindak lanjut — apakah peralatan layak dilanjutkan, perlu diperbaiki, atau harus ditarik dari operasional; serta menjaga dokumentasi berupa register aset dan riwayat pengujian setiap unit peralatan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bagi perusahaan, memiliki teknisi bersertifikat berarti memenuhi kewajiban Permenaker No. 37/2016 sekaligus mengurangi risiko insiden fatal yang berdampak pada aset dan reputasi. Bagi individu, sertifikasi ini menjadi nilai tambah signifikan untuk posisi maintenance engineer, inspection technician, atau HSE staff di industri migas dan manufaktur bertekanan tinggi, sekaligus membuka jenjang karier menuju level Ahli K3 Bidang Pesawat Uap dan Bejana Tekan."
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Peserta akan mempelajari pengetahuan dasar bejana tekanan dan tangki timbun beserta bagian-bagiannya, interpretasi gambar teknik dan spesifikasi material, teknik pemeriksaan visual dan pengenalan metode pengujian tanpa merusak (NDT dasar), prosedur pelaksanaan uji hidrostatik dan uji tekan, fungsi masing-masing appendages dan cara memeriksanya, sistem pewarnaan tabung gas sesuai standar RAL, catatan pengelasan (welding record) bila konstruksi bejana melibatkan sambungan las, hingga prosedur penyusunan laporan dan rekomendasi kelayakan operasional."
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan berlangsung sekitar 9 hari efektif dengan struktur materi:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Kelompok dasar: kebijakan K3 nasional dan peraturan perundang-undangan terkait pesawat uap dan bejana tekan",
+                "Kelompok inti: pengetahuan dasar bejana tekanan dan tangki timbun serta bagian-bagiannya, fungsi appendages, teknik pemeriksaan dan pengujian, prosedur K3 selama pemeriksaan berlangsung, serta dasar pengelasan dan welding record",
+                "Kelompok penunjang: praktik lapangan langsung pada unit bejana tekan dan tangki timbun, latihan penyusunan laporan pemeriksaan, dan evaluasi akhir berupa ujian tertulis serta uji praktik"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Pendekatan blended (kombinasi kelas daring dan praktik tatap muka) tersedia bagi peserta yang berasal dari luar kota agar tetap dapat mengikuti sesi teori tanpa harus meninggalkan pekerjaan dalam waktu lama."
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal SMA/SMK sederajat",
+                "Usia sekurang-kurangnya 21 tahun",
+                "Sehat jasmani dan rohani",
+                "Diutamakan memiliki pengalaman kerja yang berkaitan dengan bidang bejana tekan atau tangki timbun"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi ijazah",
+                "Fotokopi KTP",
+                "Pas foto dengan latar belakang merah",
+                "Surat keterangan kerja dari perusahaan pengutus",
+                "Pakta integritas sesuai format yang ditetapkan PJK3 penyelenggara"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul dan training kit",
+                "Alat bantu praktik pemeriksaan pada unit bejana tekan dan tangki timbun sungguhan",
+                "Instruktur dari kalangan praktisi berpengalaman di bidang inspeksi teknik",
+                "Pendampingan hingga peserta siap menghadapi evaluasi akhir"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "paragraph",
+            "text": "Peserta yang dinyatakan kompeten memperoleh Sertifikat dan Surat Keputusan Penunjukan (SKP) sebagai Teknisi K3 Bejana Tekan dan Tangki Timbun dari Kemnaker RI, menjadi bukti kewenangan resmi untuk melaksanakan pemeriksaan dan pengujian di perusahaan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Calon peserta cukup menghubungi tim PENA Consultant untuk berkonsultasi mengenai jadwal terdekat, melengkapi dokumen administrasi, mengikuti sesi pembinaan selama periode yang ditentukan, dan menempuh ujian akhir. Skema in-house training juga tersedia bagi perusahaan yang ingin menyertifikasi beberapa teknisi sekaligus langsung di lokasi kerja."
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

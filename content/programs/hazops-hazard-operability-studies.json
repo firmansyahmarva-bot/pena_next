@@ -1,0 +1,171 @@
+{
+    "id": "01kyfffhq2y8py73qqgvnz6zqp",
+    "type": "training",
+    "name": "HAZOPS (Hazard & Operability Studies)",
+    "slug": "hazops-hazard-operability-studies",
+    "path": "/pelatihan/hazops-hazard-operability-studies",
+    "title": "HAZOPS (Hazard & Operability Studies)",
+    "meta_title": "HAZOPS (Hazard & Operability Studies)",
+    "meta_description": "Pelatihan HAZOPS (Hazard and Operability Study). Analisis risiko sistem proses industri kimia, node study, P&ID, & mitigasi hazard.",
+    "summary": "Tersedia online.",
+    "certification_body": "bnsp",
+    "base_price": 6500000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Program ini diselenggarakan berdasarkan peraturan perundang-undangan berikut:"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+            "source": "UU No. 13 Tahun 2003"
+        },
+        {
+            "type": "citation",
+            "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+            "source": "PP No. 23 Tahun 2004"
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "HAZOP (Hazard and Operability Study) adalah metodologi analisis bahaya terstruktur dan sistematis yang digunakan untuk mengidentifikasi potensi bahaya dan masalah operabilitas pada suatu proses atau sistem, terutama di industri proses seperti minyak dan gas, petrokimia, kimia, farmasi, dan pembangkit energi. HAZOP dilakukan dengan cara memeriksa setiap bagian dari desain proses (disebut node) secara sistematis menggunakan kata kunci panduan (guide words) untuk menemukan penyimpangan (deviation) dari kondisi operasi normal, beserta penyebab, konsekuensi, dan lapisan pengaman yang ada."
+        },
+        {
+            "type": "paragraph",
+            "text": "Metodologi ini pertama kali dikembangkan di industri kimia dan kini menjadi salah satu teknik process hazard analysis (PHA) paling banyak digunakan secara global, karena kemampuannya menangkap risiko yang muncul dari interaksi antar-komponen sistem, bukan hanya dari kegagalan komponen tunggal."
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan ini menyasar:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Engineer proses, engineer keselamatan proses (process safety engineer), dan HSE officer di industri proses",
+                "Anggota tim yang terlibat dalam desain, commissioning, atau modifikasi fasilitas proses",
+                "Personel yang akan berperan sebagai fasilitator, scribe, atau anggota tim HAZOP",
+                "Perusahaan yang mempersiapkan tinjauan keselamatan proses (process safety review) sebelum start-up fasilitas baru atau modifikasi signifikan",
+                "Auditor dan konsultan yang menangani manajemen risiko proses"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "HAZOP bertujuan untuk mengidentifikasi risiko proses secara dini — pada tahap desain, sebelum modifikasi, atau secara berkala pada fasilitas yang sudah beroperasi — sehingga tindakan mitigasi dapat direncanakan sebelum insiden terjadi. Studi ini membantu organisasi memahami di mana sistem pengaman (safeguard) sudah memadai dan di mana diperlukan rekomendasi tambahan, sekaligus mendukung pemenuhan praktik manajemen keselamatan proses (process safety management)."
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Konsep inti metodologi HAZOP:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Node — bagian dari sistem atau proses yang dianalisis sebagai satu kesatuan, biasanya dibatasi oleh peralatan atau titik dalam diagram alir proses (P&ID), misalnya jalur pipa antara dua peralatan, sebuah reaktor, atau sistem penyimpanan",
+                "Guide Words — kata kunci panduan yang digunakan untuk memicu identifikasi penyimpangan, seperti: No/None, More, Less, As Well As, Part Of, Reverse, Other Than, serta guide words terkait waktu (Early, Late) dan urutan (Before, After) tergantung jenis parameter yang ditinjau",
+                "Deviation (Penyimpangan) — kombinasi antara guide word dan parameter proses (misalnya aliran, tekanan, suhu, level), contohnya \"No Flow\" (tidak ada aliran) atau \"More Pressure\" (tekanan lebih tinggi dari desain)",
+                "Cause (Penyebab) — setiap deviation ditelusuri kemungkinan penyebabnya, baik dari kegagalan peralatan, kesalahan operasional, maupun faktor eksternal",
+                "Consequence (Konsekuensi) — evaluasi dampak yang mungkin timbul dari setiap penyimpangan terhadap keselamatan, lingkungan, aset, dan kelangsungan operasi",
+                "Safeguard — lapisan pengaman yang sudah ada untuk mencegah atau mengurangi dampak deviation, seperti sistem interlock, relief valve, alarm, atau prosedur operasi",
+                "Recommendation — jika safeguard yang ada dinilai belum memadai, tim merumuskan rekomendasi tindak lanjut, yang kemudian ditindaklanjuti dan dilacak hingga selesai (action tracking)"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Studi HAZOP dilakukan secara tim (workshop), bukan analisis individu, dengan peran umum meliputi:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fasilitator/Chairman — memimpin diskusi, memastikan metodologi dijalankan secara sistematis dan node demi node dibahas tuntas",
+                "Scribe/Recorder — mendokumentasikan hasil diskusi (deviation, cause, consequence, safeguard, recommendation) secara akurat",
+                "Process/Design Engineer — memberikan pemahaman teknis mengenai desain dan parameter proses",
+                "Operasi/Maintenance Representative — memberikan perspektif kondisi operasional aktual di lapangan",
+                "HSE/Safety Engineer — mengevaluasi dampak keselamatan dan lingkungan dari setiap deviation"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Cakupan materi pelatihan:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Dasar dan filosofi process hazard analysis (PHA), termasuk posisi HAZOP di antara metode PHA lainnya",
+                "Persiapan studi HAZOP: pembagian node, pengumpulan data proses (P&ID, datasheet, deskripsi operasi)",
+                "Penerapan guide words pada berbagai parameter proses",
+                "Teknik identifikasi cause, consequence, dan evaluasi safeguard",
+                "Perumusan rekomendasi yang actionable dan terukur",
+                "Dokumentasi worksheet HAZOP dan pelacakan tindak lanjut (action tracking)",
+                "Peran dan dinamika tim dalam workshop HAZOP",
+                "Studi kasus penerapan HAZOP pada sistem proses"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan menggabungkan pemaparan konsep, review contoh P&ID, serta simulasi workshop HAZOP di mana peserta berlatih langsung memainkan peran-peran dalam tim (fasilitator, scribe, anggota tim) untuk menganalisis satu sistem proses menggunakan worksheet HAZOP standar."
+        },
+        {
+            "type": "paragraph",
+            "text": "Evaluasi dilakukan berdasarkan pemahaman konsep metodologi dan kemampuan peserta menerapkan proses HAZOP secara praktik, termasuk kemampuan mengisi worksheet HAZOP dan merumuskan rekomendasi yang relevan terhadap studi kasus yang diberikan."
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memiliki latar belakang teknik (proses, kimia, mekanikal, instrumentasi, atau HSE) atau pengalaman kerja di industri proses",
+                "Memahami dasar diagram alir proses (P&ID) akan sangat membantu, meskipun tidak selalu menjadi syarat mutlak",
+                "Sehat jasmani dan mampu mengikuti sesi diskusi/workshop secara aktif"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP",
+                "Pas foto terbaru",
+                "CV atau surat keterangan kerja yang menunjukkan relevansi bidang tugas"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul dan materi pelatihan",
+                "Instruktur praktisi tersertifikasi di bidangnya",
+                "Ujian/asesmen sertifikasi",
+                "Sertifikat sesuai skema (Kemnaker RI atau BNSP)",
+                "Konsultasi pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "paragraph",
+            "text": "Personel yang memahami metodologi HAZOP dapat berkontribusi aktif dalam workshop process hazard analysis di perusahaannya, baik sebagai anggota tim maupun calon fasilitator. Bagi perusahaan di industri proses, memiliki personel internal yang memahami HAZOP mendukung pelaksanaan tinjauan keselamatan proses secara lebih mandiri dan berkelanjutan, serta memperkuat budaya identifikasi risiko sejak tahap desain."
+        },
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyelenggarakan pelatihan HAZOP bagi individu maupun kelompok dari perusahaan di sektor industri proses. Hubungi tim PENA Consultant untuk mengetahui jadwal pelatihan terdekat, cakupan materi lengkap, dan proses pendaftaran."
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

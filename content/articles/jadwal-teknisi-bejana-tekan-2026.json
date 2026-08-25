@@ -1,0 +1,95 @@
+{
+    "id": "01kyw9mdpmvvb5561kd7zbns44",
+    "title": "Jadwal Teknisi Bejana Tekan Kemnaker 2026",
+    "slug": "jadwal-teknisi-bejana-tekan-2026",
+    "path": "/panduan/k3-teknis/jadwal-teknisi-bejana-tekan-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Panduan jadwal Teknisi Bejana Tekan Kemnaker 2026 untuk memeriksa batch, jenis peralatan, pengalaman teknisi, praktik, biaya, dan kebutuhan industri.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Jadwal Teknisi Bejana Tekan Kemnaker 2026 harus dikaitkan dengan bejana tekanan atau tangki timbun yang ditangani peserta. Data program mencatat durasi sekitar sembilan hari dan jalur Kemnaker, tetapi tanggal aktif belum terverifikasi. Program ini berbeda dari Operator Boiler dan inspeksi oleh pihak yang memiliki kewenangan lain."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Jadwal Aktif, Bukan Tanggal Rekaan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sembilan hari memerlukan rencana pelepasan kerja yang serius. Konfirmasikan tanggal, pola hari, jam, lokasi, mode, praktik, evaluasi, kuota, dan status confirmed. Jangan menjadwalkan teknisi utama bersamaan ketika peralatan kritis sedang turnaround, commissioning, atau maintenance besar."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Checklist Verifikasi Batch 2026"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Tanggal mulai/selesai, hari efektif, jam, lokasi, mode, praktik, kuota, dan status",
+                "Jenis bejana/tangki, fluida, tekanan, tugas teknisi, pengalaman, shift, dan kebutuhan perusahaan",
+                "CV, pendidikan, kesehatan, surat tugas, identitas, bukti pengalaman, dan dokumen Kemnaker",
+                "Biaya, pajak, fasilitas praktik, perjalanan, minimum peserta, reschedule, dan estimasi dokumen"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pre-check Peserta dan Bukti Kerja"
+        },
+        {
+            "type": "paragraph",
+            "text": "Siapkan inventaris peralatan dan uraian tugas calon. Pengalaman perlu menjelaskan operasi, pemeliharaan, pemeriksaan, pengujian, atau pencatatan yang benar-benar dilakukan. Pembinaan tidak menggantikan inspeksi peralatan, SOP, izin kerja, isolasi energi, integritas mekanik, atau pengawasan perusahaan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Batch Publik atau Pelatihan In-house?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Batch publik cocok untuk teknisi individual. In-house dapat mengaitkan studi kasus dengan peralatan perusahaan, tetapi penggunaan area atau peralatan untuk praktik harus aman dan tidak mengganggu operasi. Pastikan ruang lingkup, instruktur, dan fasilitas tercantum."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan Harga, Syarat, dan Sertifikat"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah sama dengan Operator Boiler? Tidak. Apakah sembilan hari termasuk dokumen? Tidak. Apakah tangki timbun termasuk? Periksa cakupan. Apakah kelas online tersedia? Konfirmasikan praktik. Apakah pengalaman wajib? Harus melalui pre-check."
+        },
+        {
+            "type": "paragraph",
+            "text": "Rencanakan mundur dari target audit, tender, shutdown, atau mobilisasi. Sisihkan waktu untuk pemeriksaan syarat, koreksi dokumen, persetujuan anggaran, pendaftaran, pelaksanaan, evaluasi atau asesmen, perbaikan bila diperlukan, dan proses dokumen hasil. Tanggal selesai kelas bukan janji sertifikat, lisensi, atau keputusan kompeten langsung terbit. Simpan satu opsi tanggal cadangan dan jangan membeli tiket sebelum status batch, lokasi, serta minimum peserta dikonfirmasi tertulis."
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk permintaan perusahaan, tunjuk satu PIC yang mengendalikan daftar peserta, dokumen, PO, fasilitas praktik, komunikasi jadwal, dan reschedule. Quotation perlu menjelaskan harga per peserta atau paket, pajak, minimum peserta, alat dan bahan praktik, perjalanan, konsumsi, evaluasi, retake, penggantian nama, pembatalan, serta estimasi dokumen. Perbandingan seperti ini lebih berguna daripada memilih angka headline termurah."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Jadwal Aktif dan Quotation"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim jenis bejana/tangki, fluida, kapasitas/tekanan, CV teknisi, jumlah peserta, shift, lokasi, dan target. Tim PENA akan memberi jadwal Teknisi Bejana Tekan aktif dan quotation."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kalender batch 2026 belum terverifikasi dalam data program. Tim PENA akan memeriksa jadwal aktif, jalur, dan kesiapan peserta sebelum memberikan rekomendasi."
+        }
+    ],
+    "related_offering_slug": "teknisi-bejana-tekan",
+    "meta_title": "Jadwal Teknisi Bejana Tekan 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Jadwal Teknisi Bejana Tekan 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi",
+    "published_at": "2026-07-31"
+}

@@ -1,0 +1,95 @@
+{
+    "id": "01kyw9k461jfzyx1y2kkdzsb4k",
+    "title": "Apa Itu Ahli Higiene Industri Madya (HIMA)?",
+    "slug": "apa-itu-ahli-higiene-industri-madya",
+    "path": "/panduan/sertifikasi-k3/apa-itu-ahli-higiene-industri-madya",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Ahli Higiene Industri Madya (HIMA) adalah profesional K3 yang bertugas menganalisis faktor bahaya lingkungan kerja lanjutan, merancang program pemantauan pajanan, dan merekomendasikan rekayasa pengendalian teknis.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Ahli Higiene Industri Madya (HIMA) memegang peran strategis dalam menjembatani data pengukuran lapangan dengan keputusan manajemen keselamatan kerja. Jika teknisi atau jenjang muda fokus pada pengambilan sampel, jenjang Madya bertugas menafsirkan data pajanan kumulatif, membandingkannya dengan Nilai Ambang Batas (NAB), serta merancang rekayasa teknis (engineering control) seperti sistem ventilasi industri, isolasi akustik, atau penataan ulang proses kimia."
+        },
+        {
+            "type": "citation",
+            "text": "K3 Lingkungan Kerja — mengatur kewajiban pengukuran, pengendalian faktor fisika, kimia, biologi, ergonomi, dan psikologi, serta kualifikasi personel higiene industri di tempat kerja.",
+            "source": "Permenaker No. 5 Tahun 2018"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tanggung Jawab dan Ruang Lingkup Kerja HIMA"
+        },
+        {
+            "type": "paragraph",
+            "text": "Di perusahaan manufaktur kimia, pertambangan, minyak dan gas, serta industri berat, HIMA bertanggung jawab memastikan pekerja tidak terpapar bahaya kesehatan yang dapat menimbulkan Penyakit Akibat Kerja (PAK) dalam jangka panjang. Lingkup kerjanya meliputi:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Menyusun strategi dan jadwal pemantauan lingkungan kerja periodik untuk seluruh area operasional",
+                "Menganalisis hasil uji laboratorium terhadap sampel udara tempat kerja, konsentrasi debu respirabel, uap kimia, dan radiasi non-pengion",
+                "Menghitung dosis pajanan harian (Time-Weighted Average / TWA) dan Short-Term Exposure Limit (STEL) bagi pekerja di zona berisiko tinggi",
+                "Merancang dan mengevaluasi efektivitas sistem ventilasi pembuangan lokal (Local Exhaust Ventilation / LEV)",
+                "Memberikan rekomendasi teknis kepada Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3) dan manajemen puncak"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Posisi HIMA dalam Jenjang Karier Higiene Industri"
+        },
+        {
+            "type": "paragraph",
+            "text": "Dalam standar kompetensi kerja nasional, profesi higiene industri terbagi menjadi tiga tingkatan berjenjang:"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Jenjang Profesi",
+                "Fokus Tugas Utama",
+                "Tingkat Kewenangan & Pengambilan Keputusan"
+            ],
+            "rows": [
+                [
+                    "Higiene Industri Muda (HIMU)",
+                    "Operasional alat ukur, kalibrasi, dan pengambilan sampel lapangan",
+                    "Tingkat teknis pelaksanaan sampling"
+                ],
+                [
+                    "Higiene Industri Madya (HIMA)",
+                    "Analisis data pajanan, perancangan program pengendalian, evaluasi ventilasi",
+                    "Tingkat perancangan teknis dan supervisi program"
+                ],
+                [
+                    "Higiene Industri Utama (HIU)",
+                    "Perumusan kebijakan korporasi, audit komprehensif, manajemen risiko makro",
+                    "Tingkat manajerial dan kebijakan strategis"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kapan Perusahaan Membutuhkan Ahli Higiene Industri Madya?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Perusahaan dengan potensi bahaya kimia, kebisingan tinggi di atas 85 dBA, penggunaan bahan karsinogenik, atau yang sedang mempersiapkan audit sertifikasi SMK3 PP 50/2012 dan ISO 45001 sangat memerlukan personel HIMA tersertifikasi agar program pencegahan PAK terbukti valid secara hukum dan ilmiah."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Sertifikasi HIMA membuktikan kompetensi personel dalam mengendalikan bahaya kesehatan kerja sebelum timbul dampak klinis pada tenaga kerja."
+        }
+    ],
+    "related_offering_slug": "ahli-higiene-industri-madya",
+    "meta_title": "Apa itu Ahli Higiene Industri Madya? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Ahli Higiene Industri Madya? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifi",
+    "published_at": "2026-07-31"
+}

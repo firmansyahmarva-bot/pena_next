@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9m2w60n67mrynys4pttnr",
+    "title": "Syarat Mengikuti Pelatihan Pengawas K3 Fasyankes",
+    "slug": "syarat-pengawas-k3-fasyankes",
+    "path": "/panduan/sertifikasi-k3/syarat-pengawas-k3-fasyankes",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Persyaratan sertifikasi Pengawas K3 Fasyankes.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Terbuka bagi penanggung jawab K3 Puskesmas, sanitarian, bidan, perawat, analis laboratorium, dan kepala klinik dengan ijazah minimal D3 Kesehatan."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Fokus pada keselamatan imunisasi, pembuangan spuit aman, dan tata kelola APD fasyankes."
+        }
+    ],
+    "related_offering_slug": "pengawas-k3-fasyankes",
+    "meta_title": "Syarat Mengikuti Pengawas K3 & Fasyankes — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Pengawas K3 & Fasyankes resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan ser",
+    "published_at": "2026-07-31"
+}

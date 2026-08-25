@@ -1,0 +1,76 @@
+{
+    "id": "01kyw9m890qzh5n28682cf56as",
+    "title": "Apa Itu Petugas P3K di Tempat Kerja?",
+    "slug": "apa-itu-petugas-p3k",
+    "path": "/panduan/sertifikasi-k3/apa-itu-petugas-p3k",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Panduan lengkap Petugas P3K di Tempat Kerja: kewajiban hukum pengusaha, rasio jumlah petugas wajib, isi kotak P3K standar Tipe A/B/C, dan regulasi Permenaker 15/2008.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Petugas P3K di Tempat Kerja adalah pekerja yang ditunjuk oleh pengusaha dan dilatih secara khusus oleh Kementerian Ketenagakerjaan untuk melaksanakan pertolongan pertama pada kecelakaan kerja di lokasi perusahaan guna mencegah keparahan cedera dan menyelamatkan nyawa korban."
+        },
+        {
+            "type": "citation",
+            "text": "Pertolongan Pertama Pada Kecelakaan di Tempat Kerja.",
+            "source": "Permenaker No. 15/MEN/VIII/2008"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tabel Rasio Jumlah Wajib Petugas P3K di Perusahaan"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Tingkat Bahaya Tempat Kerja",
+                "Jumlah Tenaga Kerja",
+                "Rasio Minimum Petugas P3K Wajib"
+            ],
+            "rows": [
+                [
+                    "Potensi Bahaya Rendah (Kantor, Ritel, Jasa)",
+                    "25 – 150 Pekerja",
+                    "1 Orang Petugas P3K (tambah 1 untuk setiap kelipatan 150)"
+                ],
+                [
+                    "Potensi Bahaya Rendah (Kantor, Ritel, Jasa)",
+                    "> 150 Pekerja",
+                    "1 Orang Petugas P3K untuk setiap 150 orang atau kurang"
+                ],
+                [
+                    "Potensi Bahaya Tinggi (Pabrik, Konstruksi, Tambang, Kimia)",
+                    "≤ 100 Pekerja",
+                    "1 Orang Petugas P3K"
+                ],
+                [
+                    "Potensi Bahaya Tinggi (Pabrik, Konstruksi, Tambang, Kimia)",
+                    "> 100 Pekerja",
+                    "1 Orang Petugas P3K untuk setiap 100 orang atau kurang"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Standar Kotak P3K di Tempat Kerja (Tipe A, B, C)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Perusahaan wajib menyediakan kotak P3K yang diletakkan pada lokasi strategis, mudah dijangkau, dan tidak terkunci. Kotak P3K Tipe A digunakan untuk ≤ 25 pekerja, Tipe B untuk ≤ 50 pekerja, dan Tipe C untuk ≤ 100 pekerja."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Setiap petugas P3K wajib mengantongi Lisensi K3 resmi Kemnaker RI dengan masa berlaku 3 tahun."
+        }
+    ],
+    "related_offering_slug": "petugas-p3k",
+    "meta_title": "Apa itu Petugas P3K? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Petugas P3K? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

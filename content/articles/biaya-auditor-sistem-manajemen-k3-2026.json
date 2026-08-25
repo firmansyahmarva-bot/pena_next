@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9kdnj1d5ydx6gckwvaq2p",
+    "title": "Biaya Sertifikasi Auditor SMK3 BNSP 2026",
+    "slug": "biaya-auditor-sistem-manajemen-k3-2026",
+    "path": "/panduan/smk3/biaya-auditor-sistem-manajemen-k3-2026",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Biaya sertifikasi uji kompetensi Auditor SMK3 BNSP 2026 dan rincian tahapan asesmen portofolio.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Biaya sertifikasi Auditor SMK3 skema BNSP tahun 2026 berkisar antara Rp 3.800.000 hingga Rp 5.500.000 per asesi, mencakup bimbingan pra-asesmen portofolio, verifikasi dokumen audit, wawancara teknis asesor, dan penerbitan sertifikat BNSP Garuda Emas."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Sertifikat BNSP berlaku 3 tahun secara nasional dan diakui sebagai kredensial kompetensi profesi audit independen."
+        }
+    ],
+    "related_offering_slug": "auditor-sistem-manajemen-k3",
+    "meta_title": "Biaya Auditor Sistem Manajemen K3 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Biaya Auditor Sistem Manajemen K3 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan serti",
+    "published_at": "2026-07-31"
+}

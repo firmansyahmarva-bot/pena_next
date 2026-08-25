@@ -1,0 +1,41 @@
+{
+    "id": "01kyw9kazjfkwt1x8c0y0dprrs",
+    "title": "Syarat Pendaftaran Ahli K3 Umum Paket Ekonomis",
+    "slug": "syarat-ahli-k3-umum-paket-ekonomis",
+    "path": "/panduan/sertifikasi-k3/syarat-ahli-k3-umum-paket-ekonomis",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Syarat pendaftaran pembinaan Ahli K3 Umum paket ekonomis: efisiensi biaya maksimal dengan kurikulum dan legalitas 100% resmi Kemnaker RI.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Paket Ekonomis adalah solusi cerdas bagi peserta mandiri dan UKM yang membutuhkan legalitas Ahli K3 Umum resmi Kemnaker RI dengan alokasi anggaran yang sangat efisien tanpa mengurangi bobot 120 JP kurikulum baku."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Persyaratan Peserta Paket Ekonomis"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal Diploma 3 (D3) atau Sarjana (S1) semua jurusan.",
+                "Scan ijazah asli atau SKL, transkrip nilai, KTP, dan surat keterangan sehat dokter.",
+                "Pasfoto formal latar belakang merah."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Seluruh proses ujian, sertifikat, dan legalitas diterbitkan langsung oleh Kemnaker RI sama persis dengan kelas reguler."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-umum-paket-ekonomis",
+    "meta_title": "Syarat Mengikuti Ahli K3 Umum (paket ekonomis) — Guide 2",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Ahli K3 Umum (paket ekonomis) resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, d",
+    "published_at": "2026-07-31"
+}

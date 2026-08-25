@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9mzyafndrfvvg7v689r02",
+    "title": "Perbedaan Operator Forklift vs Operator Lift Barang",
+    "slug": "perbedaan-operator-forklift-kelas-2-vs-operator-lift-barang",
+    "path": "/panduan/sertifikasi-k3/perbedaan-operator-forklift-kelas-2-vs-operator-lift-barang",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Perbandingan antara Operator Forklift (pesawat angkut mobile beroda) dan Operator Lift Barang (pesawat angkut vertikal tetap pada rel pemandu gedung).",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Forklift beroperasi secara horizontal dan vertikal bebas di area terbuka atau lantai gudang; sedangkan Lift Barang (Goods Hoist Elevator) beroperasi statis vertikal antar-lantai gedung dengan rel pemandu, pintu interlock mekanik, dan sistem governor pengaman."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Keduanya memiliki standar pemeriksaan harian dan lisensi K3 yang berbeda sesuai Permenaker 08/2020 dan Permenaker 06/2017."
+        }
+    ],
+    "related_offering_slug": "operator-forklift-kelas-2",
+    "meta_title": "Perbedaan Operator Forklift Kelas 2 dan Operator Lift Ba",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Operator Forklift Kelas 2 dan Operator Lift Barang resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, ther",
+    "published_at": "2026-07-31"
+}

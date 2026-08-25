@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9mnr3gwqy66rmeaksg84c",
+    "title": "Apa Itu Welding Foreman (Mandor Pengelasan)?",
+    "slug": "apa-itu-welding-foreman",
+    "path": "/panduan/sertifikasi-k3/apa-itu-welding-foreman",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Welding Foreman adalah mandor/pengawas pengelasan yang memimpin regu juru las di lapangan untuk memastikan produktivitas kerja dan kepatuhan prosedur keselamatan.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Welding Foreman menjembatani insinyur las (Welding Engineer) dengan juru las di lapangan: mengatur pembagian tugas shift juru las, memeriksa ketersediaan elektroda yang dipanaskan di oven (holding oven), dan mengawasi keselamatan kerja proses pengelasan."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kunci keberhasilan pencapaian target produksi fabrikasi tanpa mengabaikan aspek K3."
+        }
+    ],
+    "related_offering_slug": "welding-foreman",
+    "meta_title": "Apa itu Welding Foreman? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Welding Foreman? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

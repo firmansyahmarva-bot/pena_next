@@ -1,0 +1,95 @@
+{
+    "id": "01kyw9mhs5pkbdcd8g25v5wrqc",
+    "title": "Jadwal Teknisi K3 Ruang Terbatas BNSP 2026",
+    "slug": "jadwal-teknisi-ruang-terbatas-2026",
+    "path": "/panduan/k3-teknis/jadwal-teknisi-ruang-terbatas-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Panduan jadwal Teknisi K3 Ruang Terbatas BNSP 2026 untuk memeriksa asesmen, portofolio entrant-attendant, praktik, biaya, dan kebutuhan proyek.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Jadwal Teknisi K3 Ruang Terbatas BNSP 2026 ditujukan bagi personel confined space yang menyiapkan asesmen kompetensi. Data program mencatat durasi sekitar tiga hari. Tanggal belum terverifikasi; program ini berbeda dari Teknisi Confined Space Kemnaker dan jenjang Ahli Muda, Madya, atau Utama."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Jadwal Aktif, Bukan Tanggal Rekaan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Tiga hari bukan keseluruhan proses. Konfirmasikan LSP, skema/unit, asesor, pre-assessment, tanggal asesmen, mode, lokasi praktik, alat, kuota, status, retake, dan estimasi sertifikat. Jangan menjadwalkan terlalu dekat dengan mobilisasi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Checklist Verifikasi Batch 2026"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Tanggal review/asesmen, LSP, skema, unit, asesor, lokasi/mode, kuota, dan status",
+                "Peran entrant/attendant, jenis ruang, bahaya, permit, gas testing, komunikasi, dan rescue",
+                "CV, pengalaman, portofolio yang sah, kesehatan, identitas, serta persyaratan klien",
+                "Biaya, alat praktik, retake/perbaikan bukti, pajak, reschedule, dan estimasi sertifikat"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pre-check Peserta dan Bukti Kerja"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bukti dapat mencakup permit, checklist, log, komunikasi, atau dokumen lain yang menunjukkan peran calon dan diizinkan untuk dibagikan. Data sensitif boleh disamarkan. Asesmen bukan jalan pintas bagi personel tanpa pengalaman ruang terbatas."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Batch Publik atau Pelatihan In-house?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Batch publik cocok bagi peserta siap. In-house relevan untuk kelompok dengan skema sama dan alat memadai. Simulasi harus aman, detector terkalibrasi, serta rescue tidak dilakukan di ruang berbahaya aktif. Cocokkan sertifikat dengan klausul klien."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan Harga, Syarat, dan Sertifikat"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah sama dengan Kemnaker? Tidak. Apakah tiga hari termasuk sertifikat? Tidak. Apakah teknisi bisa langsung menjadi Ahli Muda? Tidak otomatis. Apakah AGT termasuk? Tidak. Apakah lulus dijamin? Tidak."
+        },
+        {
+            "type": "paragraph",
+            "text": "Rencanakan mundur dari target audit, tender, shutdown, atau mobilisasi. Sisihkan waktu untuk pemeriksaan syarat, koreksi dokumen, persetujuan anggaran, pendaftaran, pelaksanaan, evaluasi atau asesmen, perbaikan bila diperlukan, dan proses dokumen hasil. Tanggal selesai kelas bukan janji sertifikat, lisensi, atau keputusan kompeten langsung terbit. Simpan satu opsi tanggal cadangan dan jangan membeli tiket sebelum status batch, lokasi, serta minimum peserta dikonfirmasi tertulis."
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk permintaan perusahaan, tunjuk satu PIC yang mengendalikan daftar peserta, dokumen, PO, fasilitas praktik, komunikasi jadwal, dan reschedule. Quotation perlu menjelaskan harga per peserta atau paket, pajak, minimum peserta, alat dan bahan praktik, perjalanan, konsumsi, evaluasi, retake, penggantian nama, pembatalan, serta estimasi dokumen. Perbandingan seperti ini lebih berguna daripada memilih angka headline termurah."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Jadwal Aktif dan Quotation"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim CV, peran, jenis ruang, portofolio, klausul klien, alat, peserta, dan target. Tim PENA akan memeriksa skema lalu memberi jadwal Teknisi Ruang Terbatas BNSP aktif."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kalender batch 2026 belum terverifikasi dalam data program. Tim PENA akan memeriksa jadwal aktif, jalur, dan kesiapan peserta sebelum memberikan rekomendasi."
+        }
+    ],
+    "related_offering_slug": "teknisi-ruang-terbatas",
+    "meta_title": "Jadwal Teknisi Ruang Terbatas 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Jadwal Teknisi Ruang Terbatas 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifika",
+    "published_at": "2026-07-31"
+}

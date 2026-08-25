@@ -1,0 +1,47 @@
+{
+    "id": "01kyw9ka93vx8chyjgg5dbf03e",
+    "title": "Jadwal Pembinaan Ahli K3 Umum Kemnaker RI 2026",
+    "slug": "jadwal-ahli-k3-umum-2026",
+    "path": "/panduan/sertifikasi-k3/jadwal-ahli-k3-umum-2026",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Jadwal pelaksanaan pembinaan Ahli K3 Umum Kemnaker RI tahun 2026, durasi 12 hari kerja efektif, tanggal batch reguler, dan batas akhir pendaftaran.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Pembinaan Ahli K3 Umum diselenggarakan secara konsisten sepanjang tahun 2026 dengan 2 batch setiap bulannya. Peserta dapat memilih jadwal yang paling sesuai dengan ketersediaan waktu kerja dan cuti operasional."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Durasi dan Rincian Waktu Pembinaan 120 JP"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sesuai kurikulum baku Direktorat Pengawasan Norma K3 Kemnaker RI, pembinaan berdurasi 12 hari kerja efektif (Senin s.d. Sabtu) dengan alokasi:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Hari 1 – 8: Pembahasan materi regulasi, kelembagaan K3, K3 Listrik, Mekanik, Uap/Bejana Tekan, Konstruksi, Kimia, Kesehatan Kerja, dan SMK3 PP 50/2012.",
+                "Hari 9: Pelaksanaan Praktik Kerja Lapangan (PKL) observasi bahaya tempat kerja.",
+                "Hari 10: Penyusunan Laporan PKL dan penyusunan rekomendasi pengendalian bahaya.",
+                "Hari 11: Seminar presentasi laporan PKL di hadapan tim penguji pengawas ketenagakerjaan.",
+                "Hari 12: Ujian Akhir Tertulis (CBT / CAT) online dan evaluasi pembinaan."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Pendaftaran batch reguler ditutup 5 hari kerja sebelum tanggal pembukaan untuk proses verifikasi data di sistem TemanK3 Kemnaker RI."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-umum",
+    "meta_title": "Jadwal Ahli K3 Umum 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Jadwal Ahli K3 Umum 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

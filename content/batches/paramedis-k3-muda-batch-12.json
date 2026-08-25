@@ -1,0 +1,17 @@
+{
+    "id": "01kywday00bz1vr2stxrprj4nr",
+    "slug": "paramedis-k3-muda-batch-12",
+    "path": "/jadwal/paramedis-k3-muda-batch-12",
+    "batch_number": "12",
+    "start_date": "2026-10-26",
+    "end_date": "2026-10-29",
+    "is_online": false,
+    "mode": "offline",
+    "normal_price": 5500000,
+    "promo_price": 2500000,
+    "offering_name": "Paramedis K3 Muda",
+    "offering_slug": "paramedis-k3-muda",
+    "certification_body": "bnsp",
+    "location_name": "TUK Onsite",
+    "availability": "available"
+}

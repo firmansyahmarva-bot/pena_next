@@ -1,0 +1,47 @@
+{
+    "id": "01kyw9mm0e40tdwf4ytq40zpcw",
+    "title": "Apa Itu Welding Engineer (Insinyur Pengelasan)?",
+    "slug": "apa-itu-welding-engineer",
+    "path": "/panduan/sertifikasi-k3/apa-itu-welding-engineer",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Panduan lengkap Welding Engineer (Insinyur Pengelasan): perancangan Welding Procedure Specification (WPS), kualifikasi PQR, metalurgi sambungan logam, dan standar ASME Section IX.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Welding Engineer (Insinyur Las) adalah pemegang otoritas rekayasa pengelasan tertinggi (Comprehensive Welding Coordinator ISO 14731). Bertanggung jawab merancang prosedur pengelasan (WPS), mengevaluasi uji mekanik kualifikasi prosedur (PQR), memilih proses las otomatis/robotik, dan menginvestigasi kegagalan struktur las (failure analysis)."
+        },
+        {
+            "type": "citation",
+            "text": "Standard for Welding Procedure and Performance Qualification.",
+            "source": "AWS B2.1 / ASME Section IX"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tanggung Jawab Rekayasa Utama Welding Engineer"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Penyusunan dan Pengesahan WPS/PQR: Menentukan variabel esensial, supplementary essential, dan non-essential sesuai standar desain.",
+                "Perhitungan Tegangan Sisa & Metalurgi: Menganalisis daerah terpengaruh panas (Heat Affected Zone / HAZ), struktur mikro martensit, dan pencegahan retak dingin hidrogen (HACC).",
+                "Penetapan Prosedur PWHT: Menentukan kurva pemanasan, holding time, dan laju pendinginan pasca-las.",
+                "Audit Kelaikan Mutu Pengelasan: Memastikan seluruh fabrikasi mematuhi ISO 3834 Comprehensive Quality Requirements."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Welding Engineer adalah profesi paling prestisius dalam rekayasa manufaktur logam berat, kedirgantaraan, dan industri energi dunia."
+        }
+    ],
+    "related_offering_slug": "welding-engineer",
+    "meta_title": "Apa itu Welding Engineer? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Welding Engineer? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

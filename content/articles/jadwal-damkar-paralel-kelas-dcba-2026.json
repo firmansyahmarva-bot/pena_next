@@ -1,0 +1,95 @@
+{
+    "id": "01kyw9kf95arm5kes3jq4qxsqt",
+    "title": "Jadwal Paket Damkar Paralel Kelas DCBA 2026",
+    "slug": "jadwal-damkar-paralel-kelas-dcba-2026",
+    "path": "/panduan/k3-teknis/jadwal-damkar-paralel-kelas-dcba-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Panduan jadwal Paket Damkar Paralel Kelas D-C-B-A 2026 untuk membangun struktur kebakaran perusahaan tanpa mengganggu kesiapan setiap shift.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Dataset mencatat paket Kemnaker lengkap jenjang D-C-B-A, tetapi tidak menyimpan tanggal batch 2026 terverifikasi. Jadwal paket harus disusun dari komposisi calon per jenjang, bukan menganggap semua peserta mengikuti seluruh rangkaian yang sama."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Durasi Terverifikasi, Tanggal Masih Harus Dikonfirmasi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Durasi tercatat sekitar 20 hari. Itu bukan janji seluruh jenjang berjalan serentak atau dokumen langsung terbit. Perusahaan perlu mengatur angkatan, shift, praktik, dan personel cadangan selama rangkaian."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Checklist Sebelum Mengunci Jadwal"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Tanggal setiap jenjang, urutan, jam, lokasi, dan status confirmed",
+                "Calon per D/C/B/A, sertifikat lama, kesehatan, pengalaman, dan surat tugas",
+                "Jumlah shift, regu, fasilitas praktik, instruktur, alat, serta bahan",
+                "Biaya, minimum peserta, reschedule, administrasi Kemnaker, dan dokumen"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Siapkan Peserta Sebelum Batch Penuh"
+        },
+        {
+            "type": "paragraph",
+            "text": "Petakan struktur saat ini agar peserta ditempatkan pada jenjang tepat. Paket lengkap tidak selalu diperlukan bila gap hanya satu kelas. Pastikan fungsi darurat tetap tersedia saat anggota regu mengikuti pembinaan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Batch Publik atau Pelaksanaan Perusahaan?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelaksanaan perusahaan sering lebih relevan untuk banyak peserta, sedangkan kelas tunggal publik dapat mengisi gap kecil. Bandingkan skenario berdasarkan kebutuhan, bukan hanya harga paket."
+        },
+        {
+            "type": "paragraph",
+            "text": "Siapkan satu calon cadangan yang juga telah lolos pre-check, terutama untuk kelas dengan kuota atau jadwal proyek ketat. Selaraskan persetujuan atasan, procurement, perjalanan, penginapan, pelepasan shift, dan akses platform sebelum batas daftar. Simpan opsi tanggal kedua bila minimum peserta belum terpenuhi atau operasional berubah. Untuk kelas perusahaan, tetapkan PIC yang mengendalikan daftar peserta, dokumen, fasilitas, komunikasi jadwal, dan keputusan reschedule agar perubahan tidak tersebar melalui pesan yang berbeda-beda."
+        },
+        {
+            "type": "paragraph",
+            "text": "Rencanakan mundur dari tanggal personel harus siap. Sisihkan waktu untuk pre-check, koreksi dokumen, persetujuan anggaran, pendaftaran, pelaksanaan, evaluasi, dan proses penerbitan. Jangan menyamakan tanggal selesai kelas dengan tanggal sertifikat atau lisensi diterima. Minta konfirmasi tertulis mengenai tanggal mulai/selesai, jam dan zona waktu, lokasi atau platform, status confirmed, minimum peserta, batas pendaftaran, kehadiran, reschedule, biaya, evaluasi, retake, serta estimasi dokumen. Jika kebutuhan berasal dari tender, lampirkan klausul aslinya agar penerbit dan jenjang tidak salah."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "FAQ Jadwal 2026"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah semua peserta ikut 20 hari? Jangan diasumsikan. Apakah paket selalu lebih cepat? Bergantung komposisi. Apakah praktik termasuk? Harus tertulis. Apakah kelas bisa paralel? Konfirmasikan desain. Apakah dokumen terbit bersamaan? Tidak otomatis."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Jadwal Aktif dan Pre-check"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim struktur D-C-B-A, calon per jenjang, shift, fasilitas, lokasi, dan target audit. Tim PENA akan menyusun opsi jadwal serta quotation."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kalender batch 2026 belum terverifikasi dalam data program. Tim PENA akan mengonfirmasi jadwal yang masih aktif; durasi program bukan janji tanggal mulai, kelas pasti berjalan, atau dokumen langsung terbit."
+        }
+    ],
+    "related_offering_slug": "damkar-paralel-kelas-dcba",
+    "meta_title": "Jadwal Damkar Paralel Kelas DCBA 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Jadwal Damkar Paralel Kelas DCBA 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertif",
+    "published_at": "2026-07-31"
+}

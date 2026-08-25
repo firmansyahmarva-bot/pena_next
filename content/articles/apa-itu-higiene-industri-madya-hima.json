@@ -1,0 +1,73 @@
+{
+    "id": "01kyw9khszcr8kja2cvtqmwwth",
+    "title": "Apa Itu Sertifikasi Higiene Industri Madya (HIMA) BNSP?",
+    "slug": "apa-itu-higiene-industri-madya-hima",
+    "path": "/panduan/sertifikasi-k3/apa-itu-higiene-industri-madya-hima",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Sertifikasi Higiene Industri Madya (HIMA) BNSP adalah pengakuan kompetensi profesi negara melalui uji asesmen portofolio 12 unit SKKNI evaluasi bahaya kesehatan kerja.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi Higiene Industri Madya (HIMA) berlogo BNSP adalah pengakuan formal negara atas kompetensi seorang profesional dalam merancang strategi evaluasi bahaya kesehatan kerja dan pengendalian teknis di tempat kerja. Melalui asesmen uji kompetensi oleh Asesor LSP Higiene Industri terakreditasi, sertifikasi ini membuktikan bahwa pemegangnya telah memiliki keterampilan kerja nyata yang teruji."
+        },
+        {
+            "type": "citation",
+            "text": "Pedoman Pelaksanaan Sertifikasi Kompetensi Profesi — BNSP.",
+            "source": "Peraturan BNSP No. 02/BNSP/III/2014"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "12 Unit Kompetensi SKKNI yang Diujikan pada Skema HIMA"
+        },
+        {
+            "type": "paragraph",
+            "text": "Peserta uji kompetensi HIMA dinilai berdasarkan penguasaan unit-unit kompetensi inti SKKNI:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Menerapkan prinsip-prinsip higiene industri dasar dalam proses identifikasi bahaya tempat kerja",
+                "Menentukan faktor bahaya kesehatan kerja prioritas di lingkungan industri",
+                "Menyusun strategi dan program sampling pajanan faktor fisika, kimia, dan biologi",
+                "Mengevaluasi hasil pemantauan lingkungan kerja terhadap Nilai Ambang Batas (NAB) yang berlaku",
+                "Menilai efektivitas sistem ventilasi industri dan alat penangkap debu/kontaminan",
+                "Merumuskan rekomendasi hierarki pengendalian bahaya kesehatan kerja bagi manajemen",
+                "Mengembangkan materi komunikasi bahaya (hazard communication) dan program proteksi pendengaran/pernapasan"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Persyaratan Asesmen Portofolio HIMA"
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk mengikuti asesmen HIMA skema BNSP, calon asesi harus menyiapkan bukti portofolio kerja:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Laporan hasil pengukuran lingkungan kerja mandiri yang pernah disusun minimal 2 tahun terakhir",
+                "Bukti sertifikat pelatihan terkait higiene industri, K3 lingkungan kerja, atau kalibrasi alat ukur",
+                "Surat keterangan pengalaman kerja atau surat tugas dari perusahaan di bidang HSE / hygiene industri",
+                "Dokumen analisis data statistik pajanan kebisingan, iklim kerja, atau konsentrasi kimia"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Sertifikat HIMA BNSP memberikan kredibilitas profesi berstandar nasional dan regional ASEAN (MRA) bagi praktisi kesehatan kerja industri."
+        }
+    ],
+    "related_offering_slug": "higiene-industri-madya-hima",
+    "meta_title": "Apa itu Higiene Industri Madya (HIMA)? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Higiene Industri Madya (HIMA)? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan serti",
+    "published_at": "2026-07-31"
+}

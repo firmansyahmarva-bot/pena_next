@@ -1,0 +1,73 @@
+{
+    "id": "01kyw9kk28qhf66kxp9cjkas1t",
+    "title": "Apa Itu Sertifikasi Higiene Industri Muda (HIMU) BNSP?",
+    "slug": "apa-itu-higiene-industri-muda-himu",
+    "path": "/panduan/sertifikasi-k3/apa-itu-higiene-industri-muda-himu",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Sertifikasi Higiene Industri Muda (HIMU) BNSP adalah sertifikasi kompetensi profesi untuk teknisi pengujian faktor fisika dan kimia lingkungan kerja berbasis SKKNI.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi Higiene Industri Muda (HIMU) skema BNSP dirancang untuk membuktikan kompetensi teknis pelaksana lapangan dalam melakukan pengujian faktor bahaya lingkungan kerja. Sertifikasi ini memberikan legitimasi profesional bahwa pemegangnya mampu melakukan kalibrasi, pengoperasian alat ukur lingkungan kerja, pengambilan sampel representatif, dan pencatatan data secara objektif sesuai kaidah ilmiah."
+        },
+        {
+            "type": "citation",
+            "text": "Standar Kompetensi Kerja Nasional Indonesia Kategori Jasa Profesional, Ilmiah Dan Teknis Golongan Pokok Jasa Arsitektur Dan Keinsinyuran; Analisis Dan Uji Teknis Bidang Higiene Industri.",
+            "source": "Kepmenaker No. 209 Tahun 2008"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Unit Kompetensi Dasar yang Dinilai Asesor"
+        },
+        {
+            "type": "paragraph",
+            "text": "Dalam proses asesmen HIMU, asesor kompetensi menguji pemahaman teori dan demonstrasi praktik atas unit kompetensi:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Melaksanakan program K3 di laboratorium dan area pengujian lapangan",
+                "Menggunakan dan merawat alat pelindung diri (APD) spesifik pengujian higiene industri",
+                "Mengoperasikan instrumen pembacaan langsung (direct reading instruments) untuk faktor fisik",
+                "Melakukan kalibrasi lapangan (pre-sampling dan post-sampling calibration) pada pompa hisap udara",
+                "Mengumpulkan sampel kontaminan udara kimia menggunakan media filter, tube, atau impinger",
+                "Mendokumentasikan data parameter lingkungan kerja dalam lembar kerja standar (logsheet)"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Alur Proses Asesmen Uji Kompetensi HIMU BNSP"
+        },
+        {
+            "type": "paragraph",
+            "text": "Tahapan uji kompetensi HIMU berlangsung secara terstruktur:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "1. Pra-Asesmen: Pengisian formulir APL-01 (permohonan) dan APL-02 (asesmen mandiri) serta penyerahan berkas portofolio",
+                "2. Uji Tulis / Studi Kasus: Evaluasi pemahaman terhadap konsep NAB, rumus perhitungan pajanan, dan prosedur K3",
+                "3. Uji Lisan / Wawancara: Klarifikasi portofolio dan verifikasi pengetahuan operasional alat uji oleh asesor",
+                "4. Demonstrasi Praktik: Peragaan langsung kalibrasi dan pengoperasian SLM, Lux Meter, atau Gas Detector di hadapan asesor",
+                "5. Rekomendasi Asesor: Penetapan status Kompeten (K) atau Belum Kompeten (BK)"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Sertifikat HIMU BNSP adalah pijakan awal paling kokoh bagi analis laboratorium lingkungan, teknisi K3, dan fresh graduate yang ingin berkarier spesifik di bidang industrial hygiene."
+        }
+    ],
+    "related_offering_slug": "higiene-industri-muda-himu",
+    "meta_title": "Apa itu Higiene Industri Muda (HIMU)? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Higiene Industri Muda (HIMU)? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertif",
+    "published_at": "2026-07-31"
+}

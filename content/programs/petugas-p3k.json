@@ -1,0 +1,131 @@
+{
+    "id": "01kyfffhtktxxap3k9xdwfxa8s",
+    "type": "training",
+    "name": "Petugas P3K",
+    "slug": "petugas-p3k",
+    "path": "/pelatihan/petugas-p3k",
+    "title": "Petugas P3K",
+    "meta_title": "Petugas P3K",
+    "meta_description": "Pelatihan Petugas P3K tempat kerja Kemnaker RI. Penanganan luka, pembalutan, pembidaian, evakuasi korban, & Lisensi P3K resmi.",
+    "summary": "Petugas P3K sertifikasi Kemnaker RI adalah program pelatihan dan sertifikasi Petugas Pertolongan Pertama Pada Kecelakaan (P3K) di tempat kerja (lisensi Kemnaker RI) sesuai Permenaker No. 15/MEN/VIII/2008 — setiap tempat kerja wajib memiliki petugas P3K sesuai rasio jumlah pekerja dan tingkat risiko. Tersedia online & offline.",
+    "certification_body": "kemnaker",
+    "base_price": 5000000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Kecelakaan kerja bisa terjadi di detik mana pun, dan penanganan pertama yang tepat dalam menit-menit awal sering menentukan tingkat keparahan cedera. Permenaker No. 15/MEN/VIII/2008 mewajibkan setiap tempat kerja menyediakan fasilitas dan petugas Pertolongan Pertama Pada Kecelakaan (P3K) — bukan sekadar imbauan, melainkan kewajiban dengan rasio jumlah petugas yang dihitung berdasarkan jumlah pekerja dan tingkat risiko tempat kerja."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Pertolongan Pertama Pada Kecelakaan di Tempat Kerja — kewajiban petugas, fasilitas, dan rasio P3K.",
+            "source": "Permenaker No. 15/MEN/VIII/2008"
+        },
+        {
+            "type": "paragraph",
+            "text": "Regulasi ini juga mengatur isi kotak P3K standar, penempatan fasilitas P3K di tempat kerja, dan kewajiban pelaporan — perusahaan yang tidak memiliki petugas P3K bersertifikat sesuai rasio yang dipersyaratkan berisiko tidak memenuhi kewajiban dasar K3-nya di mata pengawas ketenagakerjaan."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini sengaja dirancang tanpa prasyarat latar belakang medis — petugas P3K perusahaan pada praktiknya adalah pekerja biasa (operator, admin, staf HR) yang ditunjuk dan dilatih menangani kondisi darurat dasar sebelum bantuan medis profesional tiba."
+        },
+        {
+            "type": "paragraph",
+            "text": "Waktu tanggap dalam menit-menit pertama setelah kecelakaan sering menjadi faktor penentu antara cedera ringan dan komplikasi serius — inilah alasan Permenaker No. 15/MEN/VIII/2008 mewajibkan rasio petugas P3K per jumlah pekerja, bukan sekadar menyediakan kotak P3K tanpa orang yang kompeten menggunakannya. Bagi peserta, sertifikat ini juga bernilai personal di luar konteks kerja — keterampilan bantuan hidup dasar yang dilatih berlaku untuk situasi darurat apa pun, tidak terbatas pada lingkungan kerja. Setelah menyelesaikan program, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Melakukan penilaian awal terhadap korban secara sistematis dan memberikan bantuan hidup dasar (BHD/CPR) pada kasus henti napas/jantung",
+                "Menangani perdarahan, luka bakar, patah tulang, dan kasus keracunan yang umum terjadi di tempat kerja industri maupun perkantoran",
+                "Mengelola dan memeriksa kelengkapan kotak P3K serta fasilitas P3K lain sesuai standar Permenaker No. 15/MEN/VIII/2008",
+                "Melakukan evakuasi dan proses rujukan korban ke fasilitas kesehatan secara aman, tanpa memperburuk cedera yang ada",
+                "Menjalankan peran petugas P3K sesuai penunjukan perusahaan, termasuk mendokumentasikan setiap penanganan yang dilakukan"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Materi menekankan praktik simulasi berulang, karena kompetensi P3K pada dasarnya adalah keterampilan motorik yang harus otomatis dilakukan dalam kondisi panik/darurat — bukan sekadar pengetahuan teoritis:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Regulasi P3K di tempat kerja dan kewajiban perusahaan terkait rasio petugas serta fasilitas",
+                "Anatomi dan fisiologi dasar yang relevan untuk penilaian kondisi korban",
+                "Bantuan hidup dasar (BHD/CPR) dan penanganan tersedak (choking)",
+                "Penanganan perdarahan, luka, dan patah tulang (fraktur) dengan teknik pembidaian dasar",
+                "Penanganan kasus khusus: keracunan, sengatan listrik, luka bakar, dan paparan bahan kimia",
+                "Teknik evakuasi dan pemindahan korban yang aman",
+                "Pengelolaan kotak dan fasilitas P3K, serta praktik simulasi penanganan korban secara berulang hingga hari terakhir pelatihan"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "paragraph",
+            "text": "Karena dirancang untuk pekerja non-medis, syarat masuk program ini relatif terbuka:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal SMA/sederajat — tidak disyaratkan latar belakang medis, karena program ini membekali pertolongan pertama dasar bagi pekerja umum",
+                "Ditugaskan oleh pengurus perusahaan sebagai petugas P3K sesuai rasio jumlah pekerja dan tingkat risiko tempat kerja (Permenaker No. 15/MEN/VIII/2008)",
+                "Sehat jasmani dan rohani, mampu melakukan tindakan fisik pertolongan pertama (misalnya kompresi CPR yang membutuhkan tenaga dan stamina)",
+                "Bersedia mengikuti pelatihan teori dan praktik simulasi penanganan korban secara aktif, bukan hanya mengikuti kelas secara pasif"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter",
+                "Surat tugas dari perusahaan yang menunjuk sebagai petugas P3K"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul pelatihan P3K sesuai Permenaker No. 15/MEN/VIII/2008",
+                "Instruktur/paramedis berpengalaman menangani kegawatdaruratan kerja",
+                "Manikin CPR dan perlengkapan simulasi penanganan korban untuk praktik berulang",
+                "Uji praktik simulasi penanganan korban di hari terakhir",
+                "Sertifikat dan lisensi Kemnaker RI, serta konsultasi pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir di halaman ini.",
+                "Terima penawaran resmi: jadwal dan biaya.",
+                "Lengkapi berkas administrasi dan surat tugas dari perusahaan.",
+                "Ikuti pelatihan teori dan praktik simulasi penanganan korban.",
+                "Ikuti uji praktik di hari terakhir pelatihan.",
+                "Terima sertifikat dan lisensi Petugas P3K Kemnaker RI."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

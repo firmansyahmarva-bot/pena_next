@@ -1,0 +1,121 @@
+{
+    "id": "01kyfffj1myjvx5b1y4pc61sef",
+    "type": "training",
+    "name": "Operator Forklift Kelas 2",
+    "slug": "operator-forklift-kelas-2",
+    "path": "/pelatihan/operator-forklift-kelas-2",
+    "title": "Operator Forklift Kelas 2",
+    "meta_title": "Sertifikasi Operator Forklift Kelas 2 1 — PENA Consultant",
+    "meta_description": "Pelatihan & sertifikasi Operator Forklift Kemnaker RI 2026 (Kelas 1 & 2). SIO resmi, material handling, inspeksi K3 pabrik. Daftar sekarang!",
+    "summary": "Program Pembinaan & Sertifikasi Operator Forklift resmi Kemnaker RI berdasarkan Permenaker No. 08/2020. Menerbitkan Surat Izin Operator (SIO) resmi Kemnaker RI untuk operator forklift industri.",
+    "certification_body": "kemnaker",
+    "base_price": 5000000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Forklift adalah salah satu pesawat angkat-angkut paling umum digunakan di gudang, pabrik, dan pelabuhan — juga salah satu penyebab kecelakaan kerja tersering karena beban yang terangkat, jarak pandang operator yang terbatas, dan interaksi dengan pejalan kaki di area kerja yang sama. Permenaker No. 8 Tahun 2020 mewajibkan setiap operator pesawat angkat-angkut, termasuk forklift, memiliki lisensi K3 berupa Surat Izin Operator (SIO) sesuai kelas dan kapasitas alat yang dioperasikan."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Pesawat Angkat dan Pesawat Angkut — kewajiban lisensi operator per jenis dan kelas.",
+            "source": "Permenaker No. 8 Tahun 2020"
+        },
+        {
+            "type": "paragraph",
+            "text": "SIO diterbitkan oleh Kemnaker RI setelah operator dinyatakan kompeten melalui pembinaan dan ujian — dokumen ini menjadi bukti bahwa operator berwenang secara hukum mengoperasikan forklift sesuai kelas kapasitasnya, dan wajib ditunjukkan saat pengawas ketenagakerjaan atau auditor K3 memeriksa kepatuhan gudang/pabrik."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini menyasar operator forklift aktif maupun calon operator yang ditugaskan perusahaan — umumnya staf gudang, logistik, atau produksi yang pekerjaannya melibatkan pemindahan barang menggunakan forklift."
+        },
+        {
+            "type": "paragraph",
+            "text": "Banyak perusahaan logistik dan manufaktur kini mensyaratkan SIO forklift sebagai syarat mutlak sebelum seseorang diizinkan mengoperasikan alat, bukan lagi sekadar kemampuan mengemudikan forklift secara praktik — kecelakaan forklift (tabrakan, alat terguling, beban jatuh) tetap menjadi salah satu insiden kerja paling sering terjadi di area logistik, sehingga lisensi ini dipandang sebagai standar minimum kelayakan operasional, bukan nilai tambah. Setelah menyelesaikan program, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Mengoperasikan forklift secara aman sesuai prosedur, termasuk manuver di ruang sempit dan area dengan lalu lintas pejalan kaki",
+                "Melakukan pemeriksaan harian (pre-use inspection) sebelum operasi dan mengenali tanda kerusakan yang berisiko",
+                "Memahami stabilitas beban, kapasitas angkat, dan rambu/marka operasi forklift",
+                "Menerapkan prosedur keadaan darurat: kebocoran bahan bakar/gas LPG, beban jatuh, dan tabrakan",
+                "Memenuhi persyaratan lisensi K3 (SIO) operator forklift sesuai kelas kapasitasnya"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Peraturan K3 pesawat angkat dan angkut serta kewajiban lisensi operator",
+                "Pengetahuan teknis forklift: komponen, sistem hidrolik, dan perangkat keselamatan",
+                "Perhitungan beban, titik berat, dan stabilitas forklift saat mengangkat",
+                "Teknik pengoperasian aman: manuver, tikungan, tanjakan/turunan, dan komunikasi dengan pemandu (signalman)",
+                "Pemeriksaan harian dan perawatan dasar forklift",
+                "Praktik operasi langsung dan evaluasi kompetensi sebelum penerbitan SIO"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal SMA/SMK sederajat",
+                "Usia minimal 18 tahun, sehat jasmani dan rohani, tidak buta warna",
+                "Diutamakan sudah familiar dengan operasional gudang/logistik, meski pengalaman mengemudikan forklift sebelumnya tidak wajib bagi peserta pemula",
+                "Ditugaskan oleh perusahaan sebagai calon operator forklift"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter, termasuk keterangan tidak buta warna",
+                "Surat tugas dari perusahaan (jika peserta utusan perusahaan)"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul teori pesawat angkat-angkut sesuai Permenaker No. 8 Tahun 2020",
+                "Instruktur praktisi berpengalaman operasional gudang/logistik",
+                "Unit forklift untuk praktik langsung",
+                "Ujian teori dan praktik sebelum penerbitan SIO"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir di halaman ini.",
+                "Terima penawaran resmi: jadwal dan biaya.",
+                "Lengkapi berkas administrasi.",
+                "Ikuti pelatihan teori dan praktik pengoperasian forklift.",
+                "Ikuti ujian teori dan praktik.",
+                "Terima SIO (lisensi K3) Operator Forklift Kelas 2."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

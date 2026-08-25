@@ -1,0 +1,88 @@
+{
+    "id": "01kyw9k8dhghxbbvm9dfn7r28s",
+    "title": "Syarat Ahli K3 Listrik Kemnaker dan Dokumen Penunjukan",
+    "slug": "syarat-ahli-k3-listrik-2",
+    "path": "/panduan/k3-teknis/syarat-ahli-k3-listrik-2",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat mengikuti Ahli K3 Listrik penunjukan Kemnaker RI: ditujukan bagi personel jenjang lanjut yang menangani instalasi tegangan tinggi, sesuai Permenaker No. 12 Tahun 2015.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Ahli K3 Listrik jalur penunjukan Kemnaker RI ini ditujukan bagi personel jenjang lanjut yang menangani instalasi tegangan tinggi — cakupan kerja yang lebih spesifik dibanding skema BNSP untuk instalasi tegangan umum."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Persyaratan Umum Peserta"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Ditugaskan/direkomendasikan secara tertulis oleh perusahaan tempat bekerja — sesuai sifat penunjukan Kemnaker RI",
+                "Memiliki pengalaman kerja pada instalasi listrik tegangan tinggi",
+                "Sehat jasmani dan rohani, tidak buta warna",
+                "Bersedia mengikuti pembinaan penuh dan lulus ujian di akhir program"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Karena program ini menyasar instalasi tegangan tinggi, pengalaman kerja pada instalasi tegangan rendah/menengah saja umumnya belum cukup — tim kami akan membantu menilai kesesuaian latar belakang Anda sebelum pendaftaran."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kelengkapan Berkas"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir",
+                "Surat tugas/rekomendasi dari perusahaan yang menyebutkan cakupan instalasi tegangan tinggi",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter, termasuk hasil tes buta warna"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pastikan Jalur Kemnaker Memang yang Diminta"
+        },
+        {
+            "type": "paragraph",
+            "text": "Nama Ahli K3 Listrik juga digunakan pada penawaran dengan penerbit berbeda. Perusahaan harus memeriksa apakah kebutuhan berasal dari kewajiban penunjukan, temuan audit, atau persyaratan tender. Surat tugas, pendidikan teknik, pengalaman instalasi, dan lingkup tegangan perlu diverifikasi terhadap ketentuan pembinaan yang sedang berlaku; jangan mengandalkan satu klaim “minimal” tanpa pemeriksaan dokumen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Calon sebaiknya memiliki tanggung jawab nyata pada instalasi dan dukungan perusahaan. Sertifikat tidak menggantikan kompetensi teknisi, SOP, LOTO, single-line diagram, pemeriksaan instalasi, APD, dan pengawasan. Bila peserta hanya bekerja sebagai pelaksana, program teknisi mungkin lebih cocok; bila proyek meminta BNSP, pilih jalur asesmen yang sesuai."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dokumen untuk Mendapatkan Jawaban dan Harga Akurat"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim ijazah, KTP, CV, surat pengalaman, surat tugas yang menjelaskan instalasi, hasil tes buta warna, pas foto, lokasi, jumlah peserta, dan bunyi persyaratan klien. Tim PENA akan melakukan verifikasi awal, mengonfirmasi jenjang, lalu menyampaikan jadwal, durasi, metode, dan biaya resmi. Foto nameplate atau profil sistem dapat membantu menjelaskan lingkup kerja tanpa membuka data rahasia."
+        },
+        {
+            "type": "paragraph",
+            "text": "Periksa konsistensi nama dan tanggal lahir pada seluruh berkas, gunakan hasil pindai yang terbaca, dan pastikan surat tugas masih berlaku. Jika peserta berpindah perusahaan atau menangani beberapa lokasi, jelaskan hubungan kerja dan instalasi yang menjadi dasar penugasan agar proses verifikasi tidak berhenti karena konteks yang tidak jelas."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Tidak yakin instalasi di tempat kerja Anda tergolong tegangan tinggi? Tim kami dapat membantu mengecek sebelum Anda mendaftar."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-listrik-2",
+    "meta_title": "Syarat Mengikuti Ahli K3 Listrik — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Ahli K3 Listrik resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi",
+    "published_at": "2026-07-31"
+}

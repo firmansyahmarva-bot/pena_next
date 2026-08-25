@@ -1,0 +1,92 @@
+{
+    "id": "01kyw9kgat5ckrw388s7a17h23",
+    "title": "Syarat Fire Watcher untuk Pekerjaan Panas",
+    "slug": "syarat-fire-watcher",
+    "path": "/panduan/k3-teknis/syarat-fire-watcher",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat mengikuti Fire Watcher: ditujukan bagi petugas yang mengawasi area pekerjaan panas (hot work), termasuk di lingkungan migas, dengan kesiapan mengikuti pelatihan dan asesmen kompetensi.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Fire Watcher ditujukan bagi petugas yang mengawasi area pekerjaan panas (hot work) — termasuk di lingkungan migas — selama dan setelah pekerjaan berlangsung."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Persyaratan Umum Peserta"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Bekerja atau ditugaskan pada area yang rutin melibatkan pekerjaan panas seperti pengelasan atau pemotongan",
+                "Memiliki kewaspadaan dan kemampuan mengamati kondisi lapangan secara berkelanjutan selama pekerjaan berlangsung",
+                "Sehat jasmani dan rohani",
+                "Bersedia mengikuti pelatihan dan asesmen kompetensi sesuai skema penyelenggara"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Lembaga sertifikasi dan skema yang berlaku untuk Fire Watcher dapat bervariasi tergantung penyelenggara — tim kami akan mengonfirmasi skema dan persyaratan yang berlaku sebelum pendaftaran."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kelengkapan Berkas"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir",
+                "Surat tugas/rekomendasi dari perusahaan",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Persyaratan Proyek Menentukan Bentuk Program"
+        },
+        {
+            "type": "paragraph",
+            "text": "Fire Watcher adalah fungsi pengendalian hot work, tetapi bukti pelatihan atau kompetensi yang diterima dapat berbeda menurut operator, kontraktor utama, industri, dan proyek. Karena data program belum menetapkan satu lembaga penerbit, PENA harus melihat bunyi persyaratan klien sebelum menyebut skema. Jangan menganggap program ini otomatis BNSP, Kemnaker, atau setara dengan jenjang Damkar DCBA."
+        },
+        {
+            "type": "paragraph",
+            "text": "Calon perlu mampu fokus mengawasi area, mengenali sumber penyalaan dan bahan mudah terbakar, memeriksa APAR, memahami alarm serta komunikasi, menghentikan pekerjaan, dan mengawasi area setelah hot work selesai. Pelatihan tidak menggantikan hot-work permit, gas testing, isolasi, housekeeping, Fire Watch period, atau tim tanggap darurat."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dokumen dan Data untuk Penawaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim KTP, pendidikan, surat tugas, pengalaman hot work, jenis pekerjaan, area dan potensi gas, prosedur klien, bentuk bukti yang diminta, jumlah peserta, shift, lokasi, dan tanggal mobilisasi. Tim PENA akan memverifikasi bentuk program, kelengkapan, jadwal, dan biaya. Bila area berpotensi gas, kebutuhan Authorized Gas Tester dapat dipetakan terpisah."
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk kelas in-house, sertakan contoh hot-work permit, tata letak area, metode komunikasi, jenis APAR, dan aturan pengawasan setelah pekerjaan. Informasi itu membantu menyesuaikan skenario tanpa mengubah kewajiban perusahaan. Pastikan peserta tersedia penuh dan tidak sekaligus diberi tugas produksi selama latihan atau asesmen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Tanyakan sejak awal bentuk dokumen hasil dan waktu penerbitannya. Kartu internal, sertifikat pelatihan, dan sertifikasi kompetensi dapat memiliki penerimaan berbeda pada tiap proyek."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Perusahaan Anda rutin melakukan pekerjaan panas dan ingin memastikan skema sertifikasi Fire Watcher yang tepat? Tim kami dapat membantu mengecek sebelum pendaftaran."
+        }
+    ],
+    "related_offering_slug": "fire-watcher",
+    "meta_title": "Syarat Mengikuti Fire Watcher — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Fire Watcher resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

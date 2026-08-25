@@ -1,0 +1,137 @@
+{
+    "id": "01kyfffhmdyfpb58p9ek6v6tp5",
+    "type": "training",
+    "name": "Pengawas K3 Rumah Sakit",
+    "slug": "pengawas-k3-rumah-sakit",
+    "path": "/pelatihan/pengawas-k3-rumah-sakit",
+    "title": "Pengawas K3 Rumah Sakit",
+    "meta_title": "Pengawas K3 Rumah Sakit",
+    "meta_description": "Sertifikasi Pengawas K3 Rumah Sakit. Manajemen K3 RS, fasilitas medis, penanganan limbah medis B3, & akreditasi KARS STARKES.",
+    "summary": "Tersedia online.",
+    "certification_body": "bnsp",
+    "base_price": 4750000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Pengawas K3 Rumah Sakit adalah personel yang memiliki kompetensi untuk mengawasi, mengoordinasikan, dan memastikan penerapan Keselamatan dan Kesehatan Kerja (K3) di lingkungan rumah sakit berjalan sesuai standar. Berbeda dari Petugas K3 Rumah Sakit yang berperan di tingkat pelaksana teknis, Pengawas K3 Rumah Sakit memegang peran supervisi — mengawasi pelaksanaan program K3RS, mengoordinasikan unit-unit kerja, serta memastikan kepatuhan terhadap prosedur keselamatan di berbagai area rumah sakit, mulai dari ruang perawatan, laboratorium, radiologi, hingga instalasi gizi dan sanitasi."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi ini diselenggarakan melalui skema BNSP, menguji kompetensi calon Pengawas K3 Rumah Sakit berdasarkan unit-unit kompetensi yang relevan dengan pengawasan K3 di fasilitas layanan kesehatan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Penerapan K3 di rumah sakit di Indonesia mengacu pada UU No. 1 Tahun 1970 tentang Keselamatan Kerja serta Peraturan Menteri Kesehatan No. 66 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja Rumah Sakit (K3RS), yang mewajibkan rumah sakit menyelenggarakan manajemen K3 secara terstruktur, termasuk pembentukan unit/komite K3RS. Sertifikasi kompetensi BNSP melengkapi pemenuhan regulasi ini dengan menyediakan pengakuan formal atas kompetensi personel yang menjalankan fungsi pengawasan."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi ini relevan bagi:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Kepala/koordinator unit K3 rumah sakit",
+                "Supervisor keselamatan kerja di lingkungan fasilitas kesehatan",
+                "Tenaga kesehatan atau non-kesehatan yang ditugaskan mengawasi implementasi K3RS",
+                "Manajemen rumah sakit yang bertanggung jawab atas kepatuhan K3 fasilitas",
+                "Calon anggota Komite/Tim K3 Rumah Sakit"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Tugas dan tanggung jawab Pengawas K3 Rumah Sakit mencakup:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Mengawasi pelaksanaan program K3 di seluruh unit kerja rumah sakit",
+                "Melakukan identifikasi bahaya dan penilaian risiko di lingkungan rumah sakit (biologis, kimia, fisik, ergonomis, psikososial)",
+                "Mengoordinasikan penanganan kondisi darurat (kebakaran, tumpahan B3, bencana internal)",
+                "Mengawasi penerapan prosedur pengelolaan limbah medis dan limbah B3",
+                "Melakukan evaluasi dan pelaporan kinerja K3 kepada manajemen rumah sakit",
+                "Mengoordinasikan pelatihan dan sosialisasi K3 kepada staf rumah sakit"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Rumah sakit yang memiliki Pengawas K3 bersertifikat dapat menjalankan program K3RS secara lebih terkoordinasi, memenuhi kewajiban regulasi, dan mengurangi risiko insiden kerja maupun risiko terhadap pasien. Bagi individu, sertifikasi ini membuka jalur karier sebagai koordinator/kepala unit K3RS dan memperkuat kredibilitas dalam pengelolaan keselamatan fasilitas kesehatan."
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kompetensi yang dipelajari mencakup:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Manajemen risiko K3 di lingkungan rumah sakit",
+                "Pengawasan penerapan program K3RS sesuai regulasi",
+                "Identifikasi bahaya spesifik fasilitas kesehatan (paparan radiasi, bahan kimia, limbah medis, risiko infeksi)",
+                "Manajemen tanggap darurat rumah sakit",
+                "Pengawasan ergonomi dan keselamatan pasien-staf",
+                "Audit dan evaluasi program K3RS",
+                "Pelaporan dan dokumentasi K3 rumah sakit"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan menggabungkan pemaparan teori, studi kasus nyata dari lingkungan rumah sakit, diskusi kelompok, dan simulasi pengawasan di area kerja berisiko tinggi."
+        },
+        {
+            "type": "paragraph",
+            "text": "Peserta mengikuti uji kompetensi yang diselenggarakan oleh asesor kompetensi LSP terkait, melalui metode observasi, wawancara, dan/atau verifikasi portofolio pekerjaan. Peserta yang dinyatakan kompeten memperoleh sertifikat BNSP sebagai Pengawas K3 Rumah Sakit."
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Bekerja atau memiliki pengalaman di lingkungan rumah sakit/fasilitas kesehatan",
+                "Memiliki latar belakang pendidikan yang relevan (kesehatan, K3, atau bidang terkait)",
+                "Sehat jasmani dan mampu mengikuti pelatihan penuh, termasuk sesi praktik"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP",
+                "Pas foto terbaru",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Surat keterangan kerja dari rumah sakit/institusi terkait",
+                "CV atau portofolio pengalaman di bidang K3 rumah sakit (jika ada)"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul dan materi pelatihan",
+                "Instruktur praktisi tersertifikasi di bidangnya",
+                "Ujian/asesmen sertifikasi",
+                "Sertifikat sesuai skema (Kemnaker RI atau BNSP)",
+                "Konsultasi pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyelenggarakan pelatihan dan memfasilitasi sertifikasi Pengawas K3 Rumah Sakit BNSP untuk individu maupun rombongan dari rumah sakit/klinik. Hubungi tim PENA Consultant untuk informasi jadwal, persyaratan lengkap, dan proses pendaftaran."
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

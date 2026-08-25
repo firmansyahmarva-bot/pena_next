@@ -1,0 +1,17 @@
+{
+    "id": "01kywdaxkxgeztb2vfb0rheevc",
+    "slug": "tenaga-kerja-pada-ketinggian-batch-16",
+    "path": "/jadwal/tenaga-kerja-pada-ketinggian-batch-16",
+    "batch_number": "16",
+    "start_date": "2026-10-05",
+    "end_date": "2026-10-09",
+    "is_online": false,
+    "mode": "offline",
+    "normal_price": 6500000,
+    "promo_price": 3500000,
+    "offering_name": "Tenaga Kerja Pada Ketinggian (TKPK)",
+    "offering_slug": "tenaga-kerja-pada-ketinggian",
+    "certification_body": "kemnaker",
+    "location_name": "TUK Onsite",
+    "availability": "available"
+}

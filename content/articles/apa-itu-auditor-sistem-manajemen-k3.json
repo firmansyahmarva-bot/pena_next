@@ -1,0 +1,51 @@
+{
+    "id": "01kyw9kdep0qcs3nce9b9vzznc",
+    "title": "Apa Itu Auditor SMK3 BNSP?",
+    "slug": "apa-itu-auditor-sistem-manajemen-k3",
+    "path": "/panduan/smk3/apa-itu-auditor-sistem-manajemen-k3",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Auditor SMK3 BNSP adalah sertifikasi kompetensi profesi audit K3 berbasis SKKNI yang diakui secara nasional untuk mengevaluasi kinerja sistem manajemen keselamatan kerja.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Auditor SMK3 skema BNSP adalah sertifikasi profesi yang menguji dan mengakui kompetensi individu dalam merencanakan, melaksanakan, dan melaporkan audit sistem manajemen keselamatan dan kesehatan kerja berdasarkan Standar Kompetensi Kerja Nasional Indonesia (SKKNI)."
+        },
+        {
+            "type": "citation",
+            "text": "Sertifikasi Kompetensi Auditor K3 — Badan Nasional Sertifikasi Profesi.",
+            "source": "PP No. 23 Tahun 2004"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Keunggulan Sertifikasi Auditor SMK3 BNSP"
+        },
+        {
+            "type": "paragraph",
+            "text": "Memiliki sertifikat kompetensi Auditor K3 BNSP memberikan fleksibilitas profesi yang tinggi:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pengakuan kompetensi melekat pada individu tanpa terikat status penunjukan satu badan usaha tertentu",
+                "Menguasai metodologi audit berbasis risiko yang kompatibel dengan standar internasional seperti ISO 19011 (Guidelines for Auditing Management Systems)",
+                "Sangat dibutuhkan oleh konsultan manajemen K3, tim QHSE korporasi multi-site, dan auditor pihak kedua (vendor/supplier auditor)",
+                "Masa berlaku sertifikasi 3 tahun yang dapat diperpanjang melalui portofolio re-sertifikasi asesmen"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Sertifikasi Auditor SMK3 BNSP mengesahkan keahlian audit Anda secara profesional dan diakui dalam kerangka kualifikasi kerja nasional."
+        }
+    ],
+    "related_offering_slug": "auditor-sistem-manajemen-k3",
+    "meta_title": "Apa itu Auditor Sistem Manajemen K3? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Auditor Sistem Manajemen K3? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifi",
+    "published_at": "2026-07-31"
+}

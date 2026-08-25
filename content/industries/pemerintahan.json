@@ -1,0 +1,23 @@
+{
+    "id": "01kyw9nm2x931abtrgb7n70nz6",
+    "name": "Pemerintahan dan BUMN",
+    "slug": "pemerintahan",
+    "path": "/industri/pemerintahan",
+    "description": "K3 untuk sektor Pemerintahan dan BUMN.",
+    "regulatory_context": [
+        {
+            "type": "paragraph",
+            "text": "Instansi pemerintah dan BUMN yang mengelola fasilitas dan tenaga kerja tunduk pada kewajiban penerapan SMK3 sesuai PP No. 50 Tahun 2012, termasuk audit kepatuhan berkala."
+        },
+        {
+            "type": "citation",
+            "text": "Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) — wajib bagi perusahaan dengan ≥100 pekerja atau tingkat bahaya tinggi.",
+            "source": "PP No. 50 Tahun 2012"
+        }
+    ],
+    "relevant_offering_slugs": [
+        "welding-specialist-supervisor",
+        "internal-auditor-iso-45001-2018",
+        "lead-auditor-iso-45001-2018"
+    ]
+}

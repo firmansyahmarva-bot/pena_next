@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9mynqvx4dmaxange39fee",
+    "title": "Perbedaan Welding Inspector Comprehensive vs Standard",
+    "slug": "perbedaan-welding-inspector-comprehensive-vs-welding-inspector-standard",
+    "path": "/panduan/sertifikasi-k3/perbedaan-welding-inspector-comprehensive-vs-welding-inspector-standard",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Perbandingan antara Welding Inspector Standard (inspeksi visual & parameter proses) dan Comprehensive (analisis NDT lanjutan & evaluasi film radiografi).",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Level Standard fokus pada pengawasan visual langsung di lantai fabrikasi; Level Comprehensive memegang wewenang menganalisis hasil uji volumetrik radiografi dan ultrasonik serta menandatangani persetujuan kualifikasi prosedur las."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Dua jenjang inspeksi yang saling menyempurnakan penjaminan mutu pengelasan."
+        }
+    ],
+    "related_offering_slug": "welding-inspector-comprehensive",
+    "meta_title": "Perbedaan Welding Inspector Comprehensive dan Welding In",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Welding Inspector Comprehensive dan Welding Inspector Standard resmi Kemnaker RI dan BNSP. Persyaratan, prosedu",
+    "published_at": "2026-07-31"
+}

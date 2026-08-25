@@ -1,0 +1,96 @@
+{
+    "id": "01kyw9mf08kwdzbdbcxq9yr9bt",
+    "title": "Syarat Teknisi K3 Listrik BNSP",
+    "slug": "syarat-teknisi-k3-listrik",
+    "path": "/panduan/k3-teknis/syarat-teknisi-k3-listrik",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat Teknisi K3 Listrik BNSP mencakup pengalaman kelistrikan, pendidikan, bukti kompetensi, kesehatan, jenis instalasi, dan kesesuaian skema dengan kebutuhan proyek.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Teknisi K3 Listrik BNSP adalah jalur asesmen kompetensi bagi pelaksana pekerjaan kelistrikan. Calon perlu menunjukkan tugas nyata pada pemasangan, pemeriksaan, pengoperasian, atau pemeliharaan instalasi. Jabatan maintenance umum belum cukup. Jenis instalasi, tegangan, kewenangan, pengalaman, dan bukti kerja harus dipetakan sebelum peserta memilih skema atau membayar asesmen."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kriteria dan Bukti Kesiapan"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan serta pengalaman sesuai skema LSP aktif",
+                "Uraian tugas yang menunjukkan pekerjaan kelistrikan",
+                "Sehat dan tidak buta warna sesuai kebutuhan kerja",
+                "Portofolio atau bukti kompetensi yang dapat dinilai asesor"
+            ]
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Listrik di Tempat Kerja.",
+            "source": "Permenaker No. 12 Tahun 2015"
+        },
+        {
+            "type": "paragraph",
+            "text": "BNSP menilai kompetensi, bukan sekadar kehadiran pelatihan. Bukti dapat berupa surat pengalaman, laporan pemeriksaan, checklist, prosedur, diagram yang disamarkan, foto pekerjaan aman, atau dokumen lain sesuai arahan LSP. Jangan mengarang bukti. Bila calon belum memiliki pengalaman, perusahaan perlu menyiapkan jalur pengembangan yang sah."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Berkas dan Informasi Instalasi"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah, CV, pas foto, surat sehat/tes buta warna",
+                "Surat tugas dan surat pengalaman",
+                "Jenis instalasi, tegangan, peralatan, serta tugas calon",
+                "Persyaratan klien, jumlah peserta, lokasi, dan tenggat"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Bukti fasilitas dapat disamarkan tanpa menghilangkan kontribusi calon. Periksa konsistensi nama dan kualitas pindai. Jika tender meminta Kemnaker, jangan memilih BNSP hanya karena judul program mirip. Teknisi juga berbeda dari Ahli K3 Listrik yang menjalankan fungsi evaluasi serta tanggung jawab lebih luas."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Sertifikat Tidak Menggantikan Sistem Listrik Aman"
+        },
+        {
+            "type": "paragraph",
+            "text": "Perusahaan tetap membutuhkan SOP, izin kerja, LOTO, single-line diagram, grounding, proteksi, pemeriksaan, APD, alat berinsulasi, kompetensi pengawas, dan pemeliharaan. Jumlah teknisi harus mengikuti shift, lokasi, kegiatan simultan, serta kebutuhan cadangan. Sertifikat individu tidak memperbaiki instalasi yang tidak layak."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "FAQ dan Penawaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah Teknisi K3 Listrik BNSP sama dengan Teknisi Kemnaker? Tidak; skema dan penerbit berbeda. Apakah fresh graduate pasti bisa ikut? Kelayakan tergantung skema serta bukti. Kirim ijazah, CV, tugas, instalasi, portofolio, persyaratan klien, dan jumlah peserta agar tim memeriksa dokumen, jadwal, proses asesmen, serta biaya."
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah sertifikat teknisi memberi kewenangan sebagai Ahli K3 Listrik? Tidak. Fungsi teknisi dan ahli berbeda. Perusahaan perlu menempatkan peserta sesuai tugas, menetapkan batas kerja, dan memastikan supervisi tersedia pada setiap shift serta lokasi."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sebelum tanggal asesmen, minta peserta meninjau portofolio dan memastikan setiap bukti dapat dijelaskan. Dokumen yang banyak tetapi tidak dipahami calon tidak menunjukkan kompetensi yang dapat dipertanggungjawabkan."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim CV, bukti kerja, dan kutipan tender untuk pre-assessment Teknisi K3 Listrik BNSP."
+        }
+    ],
+    "related_offering_slug": "teknisi-k3-listrik",
+    "meta_title": "Syarat Mengikuti Teknisi K3 Listrik — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Teknisi K3 Listrik resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifik",
+    "published_at": "2026-07-31"
+}

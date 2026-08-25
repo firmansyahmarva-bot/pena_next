@@ -1,0 +1,224 @@
+{
+    "id": "01kyfffhhvnhpb5fk04w8zzhjn",
+    "type": "training",
+    "name": "Ahli K3 Listrik",
+    "slug": "ahli-k3-listrik",
+    "path": "/pelatihan/ahli-k3-listrik",
+    "title": "Ahli K3 Listrik",
+    "meta_title": "Sertifikasi Ahli K3 Listrik Kemnaker — PENA Consultant",
+    "meta_description": "Pelatihan & sertifikasi Ahli K3 Listrik Kemnaker RI 2026. Pembinaan 17 hari, PUIL 2011, thermography AI, LOTO, lisensi SKP resmi. Biaya transparan!",
+    "summary": "Program Pembinaan & Sertifikasi Ahli K3 Listrik resmi Kemnaker RI berdasarkan Permenaker No. 12/2015 & PUIL 2011 (SNI 0225:2011). Pembinaan 17 hari kerja mencakup inspeksi instalasi, grounding, LOTO digital, dan thermography AI. Sertifikat & Lisensi SKP resmi Kemnaker RI.",
+    "certification_body": "bnsp",
+    "base_price": 6000000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Instalasi listrik adalah salah satu sumber bahaya kerja paling sering diabaikan hingga terjadi insiden — sengatan listrik, busur api (arc flash), dan kebakaran akibat instalasi bermasalah. Permenaker No. 12 Tahun 2015 secara khusus mewajibkan setiap tempat kerja yang memiliki instalasi listrik untuk dikelola oleh personel yang kompeten dan bersertifikat, dari tahap perencanaan hingga pemeliharaan."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Listrik di Tempat Kerja.",
+            "source": "Permenaker No. 12 Tahun 2015"
+        },
+        {
+            "type": "citation",
+            "text": "Perubahan atas Permenaker No. 12 Tahun 2015.",
+            "source": "Permenaker No. 33 Tahun 2015"
+        },
+        {
+            "type": "citation",
+            "text": "Persyaratan Umum Instalasi Listrik (PUIL 2011).",
+            "source": "SNI 0225:2011"
+        },
+        {
+            "type": "paragraph",
+            "text": "PUIL 2011 (SNI 0225:2011) menjadi rujukan teknis utama untuk standar instalasi listrik yang aman di Indonesia — kompetensi Ahli K3 Listrik pada dasarnya adalah kemampuan menerjemahkan standar teknis ini ke praktik pemeriksaan dan pengawasan di lapangan, sekaligus memenuhi kewajiban hukum Permenaker No. 12/2015 beserta perubahannya."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini menyasar personel yang bertanggung jawab atas instalasi listrik di tempat kerja — baik teknisi maintenance, engineer, maupun staf HSE yang perlu memahami sisi teknis kelistrikan secara mendalam."
+        },
+        {
+            "type": "paragraph",
+            "text": "Kebutuhan personel K3 listrik bersertifikat tumbuh seiring semakin ketatnya pengawasan instalasi di sektor manufaktur, gedung bertingkat, dan fasilitas komersial — kebakaran akibat instalasi listrik tetap menjadi salah satu penyebab kerugian kerja terbesar di Indonesia, menjadikan kompetensi ini bukan sekadar kepatuhan administratif melainkan mitigasi risiko nyata bagi aset dan nyawa. Sertifikasi ini juga membuka jalur karier ke posisi spesialis, seperti auditor instalasi listrik internal atau konsultan K3 kelistrikan untuk beberapa fasilitas sekaligus. Setelah menyelesaikan program, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memahami regulasi K3 listrik dan standar PUIL yang berlaku, serta mengaitkannya dengan kondisi instalasi riil di tempat kerja",
+                "Mengidentifikasi bahaya listrik secara spesifik: sentuh langsung, sentuh tidak langsung, busur api (arc flash), dan risiko kebakaran akibat instalasi",
+                "Menerapkan prosedur kerja aman pada instalasi listrik, termasuk Lock-Out Tag-Out (LOTO) sebelum pekerjaan pemeliharaan atau perbaikan",
+                "Melakukan pemeriksaan dan pengujian instalasi listrik sesuai kewenangan sertifikasinya, dan mendokumentasikan hasilnya secara benar",
+                "Memenuhi persyaratan kompetensi personel K3 listrik sesuai skema sertifikasi, sebagai bukti kepatuhan perusahaan terhadap Permenaker No. 12/2015"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kurikulum menggabungkan teori kelistrikan, regulasi, dan praktik pemeriksaan — proporsi praktik ditingkatkan karena kompetensi ini pada akhirnya diuji lewat kemampuan memeriksa instalasi nyata, bukan sekadar menjawab soal teori:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Dasar hukum dan pengawasan K3 listrik — kewajiban perusahaan dan tanggung jawab personel bersertifikat",
+                "Sistem instalasi listrik dan proteksi bahaya listrik — arsitektur instalasi umum dan titik-titik rawan bahaya",
+                "Sistem proteksi petir dan pembumian (grounding) — perlindungan bangunan dan peralatan dari sambaran petir",
+                "Prosedur kerja aman dan alat pelindung diri kelistrikan — termasuk praktik LOTO secara langsung",
+                "Pemeriksaan, pengujian, dan pelaporan instalasi — menggunakan alat ukur standar dan mendokumentasikan temuan sesuai format yang berlaku",
+                "Praktik lapangan dan asesmen sesuai skema sertifikasi — simulasi pemeriksaan instalasi pada objek nyata"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "paragraph",
+            "text": "Karena cakupan kerjanya menyangkut pemeriksaan teknis instalasi, program ini mensyaratkan latar belakang kelistrikan — bukan program untuk pemula tanpa dasar teknis:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal D3 Teknik Elektro/Listrik, ATAU SMK jurusan listrik dengan pengalaman kerja di bidang instalasi/kelistrikan",
+                "Memiliki pengalaman atau penugasan pada pekerjaan perencanaan, pemasangan, pemeriksaan, atau pemeliharaan instalasi listrik",
+                "Sehat jasmani dan rohani, tidak buta warna — relevan untuk identifikasi kode warna kabel dan komponen instalasi",
+                "Bersedia mengikuti pelatihan teori dan praktik langsung pada instalasi, serta uji kompetensi sesuai skema sertifikasi"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Latar belakang pendidikan/pengalaman kelistrikan disyaratkan karena cakupan kerja Ahli K3 Listrik menyangkut pemeriksaan teknis instalasi sesuai Permenaker No. 12 Tahun 2015 — tim kami akan memverifikasi kesesuaian latar belakang Anda sebelum pendaftaran diproses."
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir (D3 Teknik Elektro/Listrik atau SMK listrik)",
+                "Pas foto terbaru latar belakang merah",
+                "Bukti/surat keterangan pengalaman kerja di bidang instalasi atau kelistrikan (jika ada)",
+                "Surat keterangan sehat dari dokter, termasuk keterangan tidak buta warna"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul teori dan teknis kelistrikan sesuai standar PUIL",
+                "Instruktur praktisi berpengalaman di bidang instalasi dan inspeksi kelistrikan",
+                "Sesi praktik langsung menggunakan alat ukur dan alat uji instalasi standar",
+                "Uji kompetensi (asesmen) sesuai skema sertifikasi",
+                "Sertifikat dan konsultasi pasca-pelatihan seputar temuan pemeriksaan instalasi"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir di halaman ini.",
+                "Tim kami mengonfirmasi kesesuaian latar belakang pendidikan/pengalaman kelistrikan Anda.",
+                "Terima penawaran resmi: jadwal, biaya, dan skema sertifikasi.",
+                "Lengkapi berkas administrasi.",
+                "Ikuti pelatihan teori dan praktik pemeriksaan instalasi.",
+                "Ikuti uji kompetensi dan terima sertifikat Ahli K3 Listrik."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": [
+        {
+            "id": "01kywb7y06kvzt9vc824emtgp9",
+            "slug": "ahli-k3-listrik-batch-22",
+            "batch_number": "22",
+            "start_date": "2026-08-17",
+            "end_date": "2026-08-21",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 6000000,
+            "promo_price": 3800000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7y1yypcnbagxsgpjws4v",
+            "slug": "ahli-k3-listrik-batch-23",
+            "batch_number": "23",
+            "start_date": "2026-09-21",
+            "end_date": "2026-09-25",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 6000000,
+            "promo_price": 3800000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7y3jpsvvtwrqaa1b68qa",
+            "slug": "ahli-k3-listrik-batch-24",
+            "batch_number": "24",
+            "start_date": "2026-10-19",
+            "end_date": "2026-10-23",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 6000000,
+            "promo_price": 3800000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7y5agfd498cd68h72q0a",
+            "slug": "ahli-k3-listrik-batch-25",
+            "batch_number": "25",
+            "start_date": "2026-11-16",
+            "end_date": "2026-11-20",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 6000000,
+            "promo_price": 3800000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7y6z90xwdbmfghytar55",
+            "slug": "ahli-k3-listrik-batch-26",
+            "batch_number": "26",
+            "start_date": "2026-12-14",
+            "end_date": "2026-12-18",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 6000000,
+            "promo_price": 3800000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywb7y8m9zz49wgd53dh0x8r",
+            "slug": "ahli-k3-listrik-batch-27",
+            "batch_number": "27",
+            "start_date": "2027-01-18",
+            "end_date": "2027-01-22",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 6000000,
+            "promo_price": 3800000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}

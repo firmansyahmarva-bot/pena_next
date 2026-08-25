@@ -1,0 +1,97 @@
+{
+    "id": "01kyw9mgmyvwvv6zn2wpfpaez5",
+    "title": "Apa Itu Teknisi K3 Ruang Terbatas BNSP?",
+    "slug": "apa-itu-teknisi-ruang-terbatas",
+    "path": "/panduan/k3-teknis/apa-itu-teknisi-ruang-terbatas",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Teknisi K3 Ruang Terbatas skema BNSP adalah jenjang dasar yang menjalankan peran entrant (masuk) dan attendant (mengawasi) di lapangan — fondasi sebelum jenjang ahli muda, madya, dan utama.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Di antara semua jenjang K3 ruang terbatas, Teknisi adalah yang paling dasar dan paling banyak jumlahnya — mereka yang benar-benar masuk ke ruang terbatas atau mengawasi dari luar pintu masuk, mengikuti rencana yang sudah disiapkan oleh jenjang ahli."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Lingkungan Kerja.",
+            "source": "Permenaker No. 5 Tahun 2018"
+        },
+        {
+            "type": "citation",
+            "text": "Pedoman Keselamatan dan Kesehatan Kerja di Ruang Terbatas (Confined Spaces).",
+            "source": "Kepdirjen PPK No. 113/DJPPK/IX/2006"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dua Peran dalam Satu Sertifikasi: Entrant dan Attendant"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Entrant: masuk ke ruang terbatas dan melaksanakan pekerjaan sesuai rencana masuk",
+                "Attendant: berjaga di luar titik masuk, memantau kondisi entrant, dan siap memberi sinyal darurat",
+                "Memahami penggunaan alat pelindung diri dan peralatan komunikasi selama bekerja",
+                "Mengenali tanda-tanda bahaya atmosfer dan kapan harus menghentikan pekerjaan"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Titik Awal Sebelum Jenjang Ahli"
+        },
+        {
+            "type": "paragraph",
+            "text": "Teknisi tidak menilai risiko atau menyusun rencana masuk — tugas itu ada di jenjang Ahli Muda, Ahli Madya, dan Ahli Utama. Teknisi menjalankan rencana yang sudah disiapkan. Banyak perusahaan mensyaratkan pengalaman sebagai teknisi sebelum seseorang mengambil sertifikasi jenjang ahli."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kapan Skema BNSP Menjadi Pilihan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Skema ini relevan ketika perusahaan atau klien meminta sertifikasi kompetensi BNSP untuk entrant dan attendant, ingin melakukan asesmen berbasis bukti, atau membangun matriks kompetensi kontraktor. Nama program yang mirip dengan jalur Kemnaker tidak berarti dokumennya saling menggantikan. Persyaratan tender, jenis sertifikat, masa berlaku, dan lembaga penerbit harus diperiksa sebelum pendaftaran."
+        },
+        {
+            "type": "paragraph",
+            "text": "Peserta perlu memahami bahaya atmosfer, isolasi energi, komunikasi, APD, kondisi penghentian kerja, dan tindakan darurat sesuai perannya. Namun teknisi bukan rescue team dan bukan ahli yang menyusun permit atau kajian menyeluruh. Perusahaan tetap membutuhkan peralatan deteksi terkalibrasi, ventilasi, standby person, rescue plan, serta pengawasan yang sesuai risiko."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Informasi untuk Menentukan Program dan Penawaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim jenis ruang terbatas, pekerjaan yang dilakukan, peran peserta, pengalaman serta bukti kerja, persyaratan klien, jumlah peserta dan shift, lokasi, dan tenggat mobilisasi. Tim PENA dapat membandingkan Teknisi K3 Ruang Terbatas BNSP dengan Teknisi Confined Space Kemnaker, memeriksa dokumen asesmen, serta menyampaikan jadwal dan biaya yang sesuai."
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk kelas perusahaan, sertakan prosedur entry dan contoh permit yang digunakan. Tim dapat memakai konteks itu untuk mengarahkan diskusi pada risiko aktual tanpa mengubah tanggung jawab perusahaan atas prosedur dan perlengkapan kerja."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Membangun tim ruang terbatas dari nol dan butuh tahu berapa teknisi vs ahli yang diperlukan? Tim kami dapat membantu merancang komposisi tim sesuai skala pekerjaan Anda."
+        }
+    ],
+    "related_offering_slug": "teknisi-ruang-terbatas",
+    "meta_title": "Apa itu Teknisi Ruang Terbatas? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Teknisi Ruang Terbatas? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

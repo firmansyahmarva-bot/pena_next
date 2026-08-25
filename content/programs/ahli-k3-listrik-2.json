@@ -1,0 +1,143 @@
+{
+    "id": "01kyfffhj7gmqc8rjhr576z7a9",
+    "type": "training",
+    "name": "Ahli K3 Listrik",
+    "slug": "ahli-k3-listrik-2",
+    "path": "/pelatihan/ahli-k3-listrik-2",
+    "title": "Ahli K3 Listrik",
+    "meta_title": "Sertifikasi Ahli K3 Listrik In-House Industri Kemnaker",
+    "meta_description": "Pelatihan Ahli K3 Listrik Kemnaker paket korporasi. Pengujian keselamatan kelistrikan pabrik, PUIL 2011, & sertifikasi resmi Kemnaker.",
+    "summary": "Ahli K3 Listrik penunjukan Kemnaker RI adalah program pelatihan dan sertifikasi K3 bidang kelistrikan (penunjukan Kemnaker RI) sesuai Permenaker No. 12 Tahun 2015 — kompetensi wajib bagi personel yang merencanakan, memasang, memeriksa, atau memelihara instalasi listrik di tempat kerja. Tersedia online & offline.",
+    "certification_body": "kemnaker",
+    "base_price": 21000000,
+    "duration": "17 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Listrik adalah salah satu sumber bahaya kerja paling serius di berbagai jenis tempat kerja: mulai dari perkantoran, pabrik, gedung bertingkat, hingga fasilitas industri dengan instalasi kelistrikan berkapasitas besar. Risiko sengatan listrik, kebakaran akibat hubung singkat, hingga ledakan pada instalasi listrik bertekanan tinggi menjadikan pengelolaan K3 di bidang kelistrikan sebagai kebutuhan wajib, bukan pilihan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Jalur penunjukan Kemnaker RI mengacu pada Peraturan Menteri Ketenagakerjaan Nomor 12 Tahun 2015 tentang Keselamatan dan Kesehatan Kerja Listrik di Tempat Kerja beserta perubahannya. Melalui jalur ini, peserta yang mengikuti pembinaan calon Ahli K3 Bidang Listrik dan dinyatakan lulus evaluasi akan memperoleh Sertifikat Pembinaan K3 dan Lisensi K3/Surat Keputusan Penunjukan sebagai Ahli K3 Bidang Listrik dari Menteri Ketenagakerjaan atau pejabat yang ditunjuk. Penunjukan ini memberikan kewenangan formal untuk melaksanakan tugas dan tanggung jawab Ahli K3 Listrik di perusahaan sebagaimana diatur dalam regulasi ketenagakerjaan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi kompetensi BNSP adalah skema yang berbeda, yang menilai kompetensi kerja seseorang berdasarkan standar kompetensi kerja nasional, dan diterbitkan oleh Lembaga Sertifikasi Profesi (LSP) berlisensi BNSP. Program ini berfokus pada jalur pembinaan dan penunjukan Kemnaker RI, sesuai dengan kebutuhan perusahaan yang wajib memiliki Ahli K3 Bidang Listrik yang diakui secara regulasi ketenagakerjaan, terutama bagi perusahaan dengan kapasitas pembangkit listrik tertentu yang diwajibkan memiliki tenaga ahli sesuai ketentuan Permenaker No. 12 Tahun 2015."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Siapa yang wajib dan perlu mengikuti program ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Teknisi, engineer, atau petugas kelistrikan di perusahaan yang menangani instalasi, perlengkapan, dan peralatan listrik",
+                "Perusahaan dengan instalasi pembangkit, transmisi, atau distribusi listrik yang membutuhkan penanggung jawab K3 kelistrikan sesuai ketentuan yang berlaku",
+                "HSE Officer atau Safety Engineer yang ingin memperluas kompetensi ke ranah spesialisasi kelistrikan",
+                "Kontraktor instalasi listrik dan perusahaan jasa K3 (PJK3) bidang kelistrikan",
+                "Perusahaan yang ingin memastikan kepatuhan terhadap ketentuan K3 listrik di tempat kerja sekaligus mengurangi risiko kecelakaan kerja akibat listrik"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Berdasarkan lingkup kerja yang diatur, seorang Ahli K3 Listrik bertanggung jawab dalam hal-hal berikut:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memastikan perencanaan, pemasangan, perubahan, dan pemeliharaan instalasi listrik dilakukan sesuai persyaratan K3 yang berlaku",
+                "Melakukan identifikasi bahaya dan penilaian risiko pada instalasi, perlengkapan, dan peralatan listrik di tempat kerja",
+                "Memastikan pemeriksaan dan pengujian instalasi listrik dilakukan secara berkala, baik pada saat pemasangan pertama maupun perubahan",
+                "Memberikan rekomendasi teknis terkait pengendalian bahaya listrik, termasuk sistem proteksi, pentanahan (grounding), dan alat pengaman",
+                "Menyusun dan mengawasi prosedur kerja aman untuk pekerjaan yang berkaitan dengan instalasi listrik, termasuk pekerjaan bertegangan dan pekerjaan di dekat instalasi bertegangan",
+                "Berkoordinasi dengan pengusaha/pengurus perusahaan dalam pelaksanaan program K3 listrik sebagai bagian dari sistem manajemen K3 perusahaan",
+                "Melakukan investigasi awal jika terjadi insiden yang berkaitan dengan instalasi listrik"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Memiliki Ahli K3 Listrik yang kompeten membantu perusahaan mengelola risiko kelistrikan secara sistematis, mengurangi potensi insiden fatal akibat listrik, serta mendukung kepatuhan terhadap ketentuan K3 kelistrikan yang berlaku. Bagi tenaga kerja, kompetensi ini membuka peluang karier sebagai penanggung jawab K3 kelistrikan di perusahaan maupun di perusahaan jasa K3 (PJK3) bidang kelistrikan."
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Peserta akan memahami berbagai potensi bahaya listrik yang umum ditemui di tempat kerja:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Sengatan listrik (electric shock) akibat kontak langsung maupun tidak langsung dengan bagian bertegangan",
+                "Kebakaran akibat hubung singkat, beban lebih (overload), atau kerusakan isolasi kabel",
+                "Busur listrik (arc flash) yang dapat menyebabkan luka bakar serius pada pekerja yang berada di dekat instalasi bertegangan tinggi",
+                "Bahaya pada pekerjaan pemeliharaan instalasi tanpa prosedur lockout-tagout yang memadai",
+                "Risiko pada instalasi penyalur petir yang tidak terawat dengan baik"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Materi pelatihan mencakup penerapan sistem pengendalian risiko kelistrikan, termasuk:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Prinsip proteksi terhadap kontak langsung dan tidak langsung",
+                "Sistem pentanahan (grounding) dan proteksi terhadap arus bocor",
+                "Prosedur isolasi energi (lockout-tagout) sebelum pekerjaan pemeliharaan atau perbaikan instalasi",
+                "Standar dan referensi teknis instalasi listrik yang berlaku di Indonesia sebagai acuan pemasangan yang aman",
+                "Program inspeksi dan pengujian berkala instalasi, perlengkapan, dan peralatan listrik",
+                "Penggunaan alat pelindung diri (APD) khusus untuk pekerjaan kelistrikan"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan disampaikan dalam dua kelompok materi sebagaimana lazim pada pembinaan K3 sesuai ketentuan yang berlaku: kelompok materi dasar (kebijakan dan dasar hukum K3 ketenagakerjaan) yang disampaikan oleh unsur pembina dari instansi ketenagakerjaan, serta kelompok materi inti dan penunjang (teknis kelistrikan dan penerapan K3 listrik) yang disampaikan oleh instruktur kompeten di bidangnya. Metodologi menggabungkan pemaparan teori, studi kasus insiden kelistrikan, diskusi teknis, serta evaluasi awal dan akhir pembinaan untuk mengukur pemahaman peserta."
+        },
+        {
+            "type": "paragraph",
+            "text": "Peserta yang telah mengikuti pembinaan secara penuh dan dinyatakan lulus evaluasi akan diusulkan untuk memperoleh Sertifikat Pembinaan K3 dan Lisensi/Surat Keputusan Penunjukan sebagai Ahli K3 Bidang Listrik dari Kementerian Ketenagakerjaan RI atau pejabat yang berwenang, sesuai prosedur dan ketentuan yang berlaku pada saat pelatihan dilaksanakan."
+        }
+    ],
+    "requirements": [
+        {
+            "type": "paragraph",
+            "text": "Persyaratan umum mengikuti ketentuan pembinaan calon Ahli K3 Bidang Listrik yang berlaku, meliputi latar belakang pendidikan/pengalaman kerja terkait bidang kelistrikan, kondisi kesehatan yang memadai untuk bekerja di lingkungan berisiko listrik, serta kelengkapan dokumen administratif seperti KTP, pas foto, ijazah, dan surat pengalaman kerja (jika dipersyaratkan)."
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP dan pas foto",
+                "Ijazah pendidikan terakhir",
+                "Surat pengalaman kerja (jika dipersyaratkan)"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Tim PENA Consultant akan membantu memastikan kelengkapan dokumen peserta sesuai ketentuan yang berlaku pada saat pendaftaran."
+        }
+    ],
+    "facilities": [
+        {
+            "type": "paragraph",
+            "text": "Peserta memperoleh materi pembinaan, instruktur yang berpengalaman di bidang K3 kelistrikan, sesi praktik/studi kasus, serta pendampingan proses hingga penerbitan sertifikat dan penunjukan."
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "paragraph",
+            "text": "Untuk informasi jadwal pembinaan, persyaratan lengkap, dan proses pendaftaran, calon peserta dapat menghubungi tim PENA Consultant melalui kontak resmi di penaconsultant.com."
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

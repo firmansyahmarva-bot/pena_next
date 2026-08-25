@@ -1,0 +1,96 @@
+{
+    "id": "01kyw9m2b1aeef156eba72rayf",
+    "title": "Syarat Pelatihan dan Sertifikasi Bahaya Gas H2S",
+    "slug": "syarat-penanganan-bahaya-gas-h2s",
+    "path": "/panduan/k3-teknis/syarat-penanganan-bahaya-gas-h2s",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat pelatihan atau sertifikasi H2S bergantung pada paparan, tugas peserta, skema BNSP yang diminta, pengalaman, bukti kerja, kesehatan, dan sistem keselamatan fasilitas.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Kebutuhan H2S tidak sama untuk semua pekerja. Awareness bagi orang yang sesekali memasuki area berbeda dari kompetensi operator, HSE, teknisi, responder, atau personel yang memakai detector dan pelindung pernapasan. Sebelum mendaftar, perusahaan perlu menjelaskan sumber H2S, area, tugas, kemungkinan paparan, alat yang digunakan, dan bukti sertifikasi yang diminta klien."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Calon dan Ruang Lingkup yang Perlu Dipetakan"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pekerja yang dapat memasuki area dengan potensi H2S",
+                "Operator, teknisi, HSE, inspeksi, atau emergency response sesuai tugas",
+                "Peserta sehat dan siap mengikuti praktik yang relevan",
+                "Calon asesmen BNSP dengan pengalaman atau bukti sesuai skema"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi kompetensi menuntut dokumen dan bukti; kelas awareness dapat memiliki persyaratan berbeda. Jangan menjanjikan bahwa satu program memenuhi seluruh fungsi. Authorized Gas Tester menguji atmosfer untuk permit-to-work, sedangkan pelatihan H2S berfokus pada bahaya spesifik. Tim rescue dan pengguna alat pernapasan juga dapat memerlukan kompetensi serta pemeriksaan kesehatan tambahan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dokumen dan Informasi Risiko"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah, CV, surat tugas, pas foto, dan surat sehat sesuai kebutuhan",
+                "Pengalaman, portofolio, atau bukti kerja untuk jalur asesmen",
+                "Sumber H2S, area, jenis operasi, detector, APD, dan prosedur alarm",
+                "Persyaratan tender/klien, jumlah peserta, shift, dan lokasi"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Bukti kerja dapat disamarkan untuk melindungi fasilitas, tetapi peran calon harus terlihat. Hindari mengirim hasil pengukuran sensitif tanpa kebutuhan. Tim cukup memerlukan konteks untuk mengarahkan program. Pastikan nama skema, penerbit, dan bentuk dokumen disebut lengkap dalam tender agar awareness tidak dibeli untuk kebutuhan sertifikasi kompetensi."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Yang Tidak Digantikan oleh Pelatihan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan tidak menggantikan risk assessment, monitoring atmosfer, kalibrasi, ventilasi, alarm, zoning, permit, evakuasi, muster point, rescue plan, SCBA, maupun prosedur medis. Pekerja tidak boleh mengandalkan bau sebagai alarm. Perusahaan perlu menentukan siapa yang menghentikan pekerjaan dan bagaimana komunikasi berjalan saat pembacaan atau kondisi berubah."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Penawaran Berdasarkan Paparan Nyata"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim sektor, sumber potensial H2S, tugas peserta, alat yang digunakan, persyaratan klien, jumlah shift, lokasi, dan target. Tim PENA akan memeriksa skema BNSP atau bentuk pelatihan yang sesuai, dokumen, jadwal, dan biaya. Untuk perusahaan, skenario dapat disesuaikan dengan kondisi fasilitas agar pertanyaan peserta dan tindakan darurat lebih relevan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan yang Sering Diajukan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah semua pekerja membutuhkan sertifikasi H2S yang sama? Tidak. Awareness, pengguna detector, responder, dan calon asesmen kompetensi memiliki kedalaman serta bukti berbeda. Kelompokkan peserta berdasarkan paparan dan tugas sebelum meminta harga."
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah pelatihan H2S menggantikan Authorized Gas Tester? Tidak. H2S berfokus pada bahaya spesifik, sedangkan AGT menguji serta mencatat atmosfer untuk kebutuhan izin kerja. Sebagian fasilitas memerlukan kedua kompetensi pada personel berbeda."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim tugas peserta dan persyaratan klien agar kebutuhan awareness, kompetensi H2S, dan AGT tidak tertukar."
+        }
+    ],
+    "related_offering_slug": "penanganan-bahaya-gas-h2s",
+    "meta_title": "Syarat Mengikuti Penanganan Bahaya Gas H2S — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Penanganan Bahaya Gas H2S resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan s",
+    "published_at": "2026-07-31"
+}

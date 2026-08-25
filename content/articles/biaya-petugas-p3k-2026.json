@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9m8jjxytg0z4sqt7ny68m",
+    "title": "Biaya Pelatihan Petugas P3K Kemnaker 2026",
+    "slug": "biaya-petugas-p3k-2026",
+    "path": "/panduan/sertifikasi-k3/biaya-petugas-p3k-2026",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Rincian biaya pelatihan Petugas P3K Kemnaker RI tahun 2026: biaya kelas publik, in-house corporate, buku panduan P3K, dan lisensi resmi.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Biaya pelatihan Petugas P3K Kemnaker RI tahun 2026 berkisar antara Rp 2.500.000 hingga Rp 3.800.000 per peserta untuk program 3 hari pembinaan intensif. Biaya sudah mencakup sertifikat resmi Kemnaker RI, Lisensi K3 Petugas P3K, buku pedoman saku P3K, dan paket seminar kit."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "PENA Consultant menyediakan paket in-house training di lokasi pabrik klien dengan simulasi skenario cedera riil tempat kerja."
+        }
+    ],
+    "related_offering_slug": "petugas-p3k",
+    "meta_title": "Biaya Petugas P3K 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Biaya Petugas P3K 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

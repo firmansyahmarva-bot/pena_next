@@ -1,0 +1,72 @@
+{
+    "id": "01kyhqmdmzf79yda1n85d3dqvn",
+    "title": "Panduan Sertifikasi K3: Kemnaker RI vs BNSP",
+    "slug": "panduan-sertifikasi-k3-kemnaker-vs-bnsp",
+    "path": "/panduan/sertifikasi-k3",
+    "role": "pillar",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Panduan komparasi lengkap antara sertifikasi K3 regulasi Kemnaker RI (SKP & Lisensi penunjukan) dan sertifikasi profesi BNSP (Garuda Emas standar SKKNI).",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Memilih jalur sertifikasi K3 yang tepat sangat menentukan kepatuhan hukum operasional perusahaan dan kekuatan portofolio profesional Anda di dunia industri."
+        },
+        {
+            "type": "citation",
+            "text": "Kerangka Regulasi dan Standar Kompetensi Profesi K3 Nasional.",
+            "source": "Kemnaker RI & BNSP"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tabel Komparasi Menyeluruh: Kemnaker RI vs BNSP"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Parameter Evaluasi",
+                "Sertifikasi Kemnaker RI",
+                "Sertifikasi BNSP (Badan Nasional Sertifikasi Profesi)"
+            ],
+            "rows": [
+                [
+                    "Dasar Hukum",
+                    "UU No. 1 Tahun 1970 & Permenaker Terkait",
+                    "UU No. 13 Tahun 2003 & SKKNI K3"
+                ],
+                [
+                    "Karakter Dokumen Output",
+                    "Sertifikat Pembinaan + SKP (Surat Keputusan Penunjukan) + Lisensi K3",
+                    "Sertifikat Kompetensi Kerja Nasional (Berlogo Burung Garuda Emas)"
+                ],
+                [
+                    "Kekuatan Legalitas di Tempat Kerja",
+                    "Wajib hukumnya untuk penunjukan struktural Sekretaris P2K3 & syarat audit SMK3",
+                    "Pengakuan standar kompetensi profesi perorangan berstandar nasional"
+                ],
+                [
+                    "Sifat Kepemilikan Kredensial",
+                    "Sertifikat milik individu; SKP & Lisensi terikat pada nama perusahaan tempat bekerja",
+                    "Sertifikat kompetensi melekat 100% pada individu profesional seumur hidup (resertifikasi 3 thn)"
+                ],
+                [
+                    "Metode Pelaksanaan",
+                    "Pelatihan intensif kurikulum Kemnaker (120 JP) + PKL + Ujian CAT Ditjen Binwasnaker",
+                    "Uji kompetensi / asesmen portofolio bukti kerja nyata (APL-01 & APL-02) bersama Asesor LSP"
+                ]
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kesimpulan Strategis: Pilih Kemnaker RI untuk memenuhi kewajiban hukum perusahaan Anda; pilih BNSP untuk portofolio kompetensi independen atau tender proyek."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-umum",
+    "meta_title": "Panduan Sertifikasi K3 Kemnaker Vs Bnsp K3 AI",
+    "meta_description": "Panduan komprehensif Panduan Sertifikasi K3 di Indonesia: Kemnaker RI vs BNSP. Pembahasan mendalam regulasi Kemnaker RI, BNSP, teknologi AI, & serti",
+    "published_at": "2026-07-27"
+}

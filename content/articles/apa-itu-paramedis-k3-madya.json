@@ -1,0 +1,46 @@
+{
+    "id": "01kyw9m0gtvamq1kb68fmcgbb3",
+    "title": "Apa Itu Paramedis K3 Madya?",
+    "slug": "apa-itu-paramedis-k3-madya",
+    "path": "/panduan/sertifikasi-k3/apa-itu-paramedis-k3-madya",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Paramedis K3 Madya adalah supervisor kesehatan kerja yang merancang program surveilans medis, analisis tren penyakit akibat kerja (PAK), dan ergonomi industri.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Paramedis K3 Madya memegang peran manajerial tingkat menengah dalam divisi Occupational Health, memimpin perancangan program pencegahan penyakit kerja, audit ergonomi stasiun kerja, dan evaluasi hasil MCU kumulatif ribuan pekerja."
+        },
+        {
+            "type": "citation",
+            "text": "Penyelenggaraan Pelayanan Kesehatan Kerja.",
+            "source": "Permenaker No. 03/MEN/1982"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kompetensi Utama Paramedis K3 Madya"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Menganalisis tren data hasil MCU untuk mendeteksi dini indikasi penyakit akibat kerja (gangguan pendengaran akibat bising, pneumokoniosis, dermatitis kontak).",
+                "Merancang program promosi kesehatan kerja (Health Promotion at Workplace: pencegahan obesitas, diabetes, hipertensi, dan berhenti merokok).",
+                "Mengembangkan sistem audit dan tata kelola sarana klinik perusahaan berstandar ISO 45001."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kualifikasi kepemimpinan strategis bagi perawat senior menuju posisi Occupational Health Coordinator."
+        }
+    ],
+    "related_offering_slug": "paramedis-k3-madya",
+    "meta_title": "Apa itu Paramedis K3 Madya? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Paramedis K3 Madya? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

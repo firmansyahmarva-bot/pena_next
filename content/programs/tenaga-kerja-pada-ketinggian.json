@@ -1,0 +1,212 @@
+{
+    "id": "01kywd3whg4wq78t0j3zxs6atb",
+    "type": "training",
+    "name": "Tenaga Kerja Pada Ketinggian (TKPK)",
+    "slug": "tenaga-kerja-pada-ketinggian",
+    "path": "/pelatihan/tenaga-kerja-pada-ketinggian",
+    "title": "Tenaga Kerja Pada Ketinggian (TKPK)",
+    "meta_title": "Tenaga Kerja Pada Ketinggian (TKPK)",
+    "meta_description": "Pembinaan Tenaga Kerja Pada Ketinggian Kemnaker RI. APD penahan jatuh full body harness, anchorage, & Permenaker 09/2016.",
+    "summary": "Tenaga Kerja Pada Ketinggian (TKPK) adalah program pembinaan K3 bekerja pada ketinggian Umum sesuai Permenaker No. 9 Tahun 2016 — kompetensi wajib bagi tenaga kerja yang bekerja pada ketinggian dengan potensi jatuh. Tersedia online & offline.",
+    "certification_body": "kemnaker",
+    "base_price": 6500000,
+    "duration": "5 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Bekerja pada ketinggian — di atap, menara, perancah, atau struktur tinggi lain — adalah salah satu aktivitas kerja dengan risiko fatalitas tertinggi jika tidak dikelola dengan benar. Permenaker No. 9 Tahun 2016 mewajibkan setiap tenaga kerja yang bekerja pada ketinggian dengan potensi jatuh untuk memiliki kompetensi dan lisensi K3 sesuai tingkat risiko pekerjaannya."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja dalam Pekerjaan pada Ketinggian.",
+            "source": "Permenaker No. 9 Tahun 2016"
+        },
+        {
+            "type": "paragraph",
+            "text": "Program tingkat \"Umum\" ini adalah jenjang dasar dari struktur kompetensi Permenaker No. 9/2016, mencakup pekerja yang secara rutin bekerja pada ketinggian sebagai bagian dari pekerjaannya (bukan tenaga ahli/teknisi khusus struktur bangunan tinggi) — mencakup sektor yang sangat luas: telekomunikasi (menara BTS), konstruksi, pemeliharaan gedung, minyak dan gas, hingga perkebunan/kehutanan yang menggunakan struktur tinggi."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini menyasar pekerja lapangan yang tugasnya rutin melibatkan ketinggian — teknisi menara telekomunikasi, pekerja pemeliharaan gedung, tukang atap, hingga pekerja konstruksi umum — yang membutuhkan lisensi K3 sesuai regulasi sebelum diizinkan bekerja pada ketinggian oleh perusahaan/kontraktor."
+        },
+        {
+            "type": "paragraph",
+            "text": "Jatuh dari ketinggian tetap menjadi salah satu penyebab kecelakaan fatal paling sering di sektor konstruksi dan telekomunikasi Indonesia — mayoritas kasus bukan karena kegagalan alat, melainkan kesalahan penggunaan alat pelindung jatuh atau prosedur kerja yang tidak diikuti. Banyak proyek dan kontrak kerja kini secara eksplisit mensyaratkan lisensi K3 ketinggian sebagai syarat masuk lokasi kerja (site access), menjadikan sertifikasi ini bukan sekadar kepatuhan administratif melainkan syarat praktis untuk bisa bekerja sama sekali di banyak proyek. Setelah menyelesaikan program, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memahami regulasi dan prinsip dasar bekerja aman pada ketinggian sesuai Permenaker No. 9 Tahun 2016",
+                "Menggunakan alat pelindung jatuh perorangan (full body harness, lanyard, anchor point) dan sistem angkur dengan benar",
+                "Menerapkan teknik akses dan positioning sesuai tingkat kompetensi (menaiki struktur, bergerak, dan bekerja pada posisi tergantung)",
+                "Mengidentifikasi bahaya jatuh di lokasi kerja dan menerapkan pengendaliannya sebelum memulai pekerjaan",
+                "Melaksanakan prosedur penyelamatan dasar apabila terjadi insiden gantung (suspension trauma) pada rekan kerja",
+                "Memenuhi kompetensi tenaga kerja pada ketinggian tingkat umum sesuai Permenaker No. 9 Tahun 2016"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kurikulum menekankan praktik penggunaan alat secara langsung — kompetensi ketinggian pada dasarnya adalah keterampilan yang harus otomatis dan benar setiap kali digunakan, karena kesalahan kecil bisa berakibat fatal:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Dasar hukum dan klasifikasi pekerjaan pada ketinggian sesuai Permenaker No. 9 Tahun 2016",
+                "Identifikasi bahaya jatuh dan hierarki pengendaliannya (eliminasi, substitusi, pengendalian struktural, APD)",
+                "Alat pelindung diri jatuh perorangan: jenis, inspeksi sebelum pakai, dan cara penggunaan yang benar",
+                "Sistem penahan jatuh dan titik angkur (anchor point) yang memenuhi standar",
+                "Teknik akses, perpindahan, dan bekerja pada posisi tergantung di berbagai jenis struktur",
+                "Dasar-dasar penyelamatan (rescue) pada kondisi darurat ketinggian",
+                "Praktik lapangan langsung pada struktur/menara simulasi dan evaluasi akhir"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal SMA/SMK sederajat",
+                "Sehat jasmani dan rohani, dinyatakan layak bekerja pada ketinggian melalui pemeriksaan kesehatan (termasuk tidak memiliki kondisi seperti vertigo atau gangguan jantung yang berisiko pada ketinggian)",
+                "Tidak memiliki fobia ketinggian yang menghambat pelaksanaan praktik lapangan",
+                "Ditugaskan oleh perusahaan/kontraktor yang mempekerjakan pada aktivitas ketinggian"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Pemeriksaan kesehatan sebelum praktik lapangan adalah bagian penting dari program ini, bukan formalitas — keselamatan peserta selama praktik pada struktur/menara simulasi bergantung pada kesiapan fisik yang sebenarnya."
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter, termasuk keterangan layak bekerja pada ketinggian",
+                "Surat tugas dari perusahaan/kontraktor (jika peserta utusan perusahaan)"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul pelatihan sesuai Permenaker No. 9 Tahun 2016",
+                "Instruktur praktisi berpengalaman kerja ketinggian di sektor konstruksi/telekomunikasi/migas",
+                "Peralatan pelindung jatuh standar untuk praktik langsung (full body harness, lanyard, anchor)",
+                "Struktur/menara simulasi untuk praktik akses dan positioning",
+                "Sertifikat dan lisensi K3 ketinggian tingkat umum"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir di halaman ini.",
+                "Terima penawaran resmi: jadwal dan biaya.",
+                "Lengkapi berkas administrasi, termasuk surat keterangan sehat.",
+                "Ikuti pelatihan teori dasar hukum dan identifikasi bahaya jatuh.",
+                "Ikuti praktik lapangan penggunaan alat pelindung jatuh dan teknik akses pada struktur simulasi.",
+                "Terima sertifikat dan lisensi K3 ketinggian tingkat umum."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": [
+        {
+            "id": "01kywdaxff9xed872et738wtrk",
+            "slug": "tenaga-kerja-pada-ketinggian-batch-14",
+            "batch_number": "14",
+            "start_date": "2026-08-03",
+            "end_date": "2026-08-07",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 6500000,
+            "promo_price": 3500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywdaxhvy9221t4ynqedk1w4",
+            "slug": "tenaga-kerja-pada-ketinggian-batch-15",
+            "batch_number": "15",
+            "start_date": "2026-09-07",
+            "end_date": "2026-09-11",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 6500000,
+            "promo_price": 3500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywdaxkxgeztb2vfb0rheevc",
+            "slug": "tenaga-kerja-pada-ketinggian-batch-16",
+            "batch_number": "16",
+            "start_date": "2026-10-05",
+            "end_date": "2026-10-09",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 6500000,
+            "promo_price": 3500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywdaxn75a7fx8njwpd1txpj",
+            "slug": "tenaga-kerja-pada-ketinggian-batch-17",
+            "batch_number": "17",
+            "start_date": "2026-11-02",
+            "end_date": "2026-11-06",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 6500000,
+            "promo_price": 3500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywdaxpfpmknhnmtt1kdxkfp",
+            "slug": "tenaga-kerja-pada-ketinggian-batch-18",
+            "batch_number": "18",
+            "start_date": "2026-12-07",
+            "end_date": "2026-12-11",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 6500000,
+            "promo_price": 3500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kywdaxqt80mc7d7w2b4r526z",
+            "slug": "tenaga-kerja-pada-ketinggian-batch-19",
+            "batch_number": "19",
+            "start_date": "2027-01-04",
+            "end_date": "2027-01-08",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 6500000,
+            "promo_price": 3500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}

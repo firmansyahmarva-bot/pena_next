@@ -1,0 +1,72 @@
+{
+    "id": "01kyw9mxyr5rqbazaw3kaqact4",
+    "title": "Perbedaan Auditor SMK3 BNSP vs Kemnaker RI",
+    "slug": "perbedaan-auditor-sistem-manajemen-k3-vs-auditor-sistem-manajemen-k3-2",
+    "path": "/panduan/smk3/perbedaan-auditor-sistem-manajemen-k3-vs-auditor-sistem-manajemen-k3-2",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Perbandingan komprehensif antara Auditor SMK3 BNSP (kompetensi profesi independen) dan Auditor SMK3 Kemnaker RI (penunjukan resmi PP 50/2012).",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Memahami perbedaan antara Auditor SMK3 Kemnaker RI dan Auditor SMK3 BNSP sangat krusial bagi manajemen perusahaan dan praktisi HSE untuk memastikan kepatuhan regulasi dan efektivitas tim audit internal."
+        },
+        {
+            "type": "citation",
+            "text": "Pedoman Penerapan dan Penilaian SMK3.",
+            "source": "PP No. 50 Tahun 2012 & SKKNI K3"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tabel Komparasi: Auditor SMK3 Kemnaker RI vs BNSP"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Parameter Evaluasi",
+                "Auditor SMK3 Kemnaker RI",
+                "Auditor SMK3 BNSP"
+            ],
+            "rows": [
+                [
+                    "Dasar Hukum",
+                    "PP No. 50 Tahun 2012 & Permenaker Terkait",
+                    "UU No. 13 Tahun 2003 & Standar Kompetensi Kerja Nasional (SKKNI)"
+                ],
+                [
+                    "Tujuan Utama",
+                    "Membentuk Tim Auditor Internal resmi perusahaan untuk audit 166 kriteria",
+                    "Memberikan pengakuan kompetensi profesi audit keselamatan kerja independen"
+                ],
+                [
+                    "Lembaga Penerbit",
+                    "Kementerian Ketenagakerjaan Republik Indonesia",
+                    "Badan Nasional Sertifikasi Profesi (BNSP)"
+                ],
+                [
+                    "Kewajiban Perusahaan",
+                    "Wajib dimiliki perusahaan yang menerapkan SMK3 PP 50/2012",
+                    "Sebagai portofolio kompetensi profesional individu"
+                ],
+                [
+                    "Format Pembinaan",
+                    "Pelatihan 4 hari + Studi Kasus + Evaluasi Pengawas Ketenagakerjaan",
+                    "Uji kompetensi / asesmen portofolio bukti kerja bersama Asesor LSP"
+                ]
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Rekomendasi: Ambil Auditor SMK3 Kemnaker RI untuk kepatuhan hukum audit internal perusahaan Anda, dan ambil Auditor SMK3 BNSP untuk memperkuat kredensial konsultan independen."
+        }
+    ],
+    "related_offering_slug": "auditor-sistem-manajemen-k3",
+    "meta_title": "Perbedaan Auditor Sistem Manajemen K3 dan Auditor Sistem",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Auditor Sistem Manajemen K3 dan Auditor Sistem Manajemen K3 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur L",
+    "published_at": "2026-07-31"
+}

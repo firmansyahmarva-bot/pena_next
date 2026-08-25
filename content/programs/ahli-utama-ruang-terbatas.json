@@ -1,0 +1,147 @@
+{
+    "id": "01kyfffhzgzwkxrhd3hpdc6a13",
+    "type": "training",
+    "name": "Ahli Utama Ruang Terbatas",
+    "slug": "ahli-utama-ruang-terbatas",
+    "path": "/pelatihan/ahli-utama-ruang-terbatas",
+    "title": "Ahli Utama Ruang Terbatas",
+    "meta_title": "Sertifikasi Ahli Utama Ruang Terbatas BNSP: Rescue & ERP",
+    "meta_description": "Uji kompetensi BNSP Ahli Utama K3 Ruang Terbatas. Perancangan skenario rescue, ventilasi purging ACH, sistem tripod retrieval, dan audit ERP.",
+    "summary": "Sertifikasi kompetensi Ahli Utama K3 Ruang Terbatas (Confined Space Rescue Commander & Program Manager) BNSP untuk komandan komando tanggap darurat dan perancang sistem — menguasai analisis perhitungan ventilasi (Air Changes per Hour / ACH), arsitektur skenario penyelamatan vertikal (Vertical/High-Angle Rescue), dan audit Emergency Response Plan (ERP) korporasi.",
+    "certification_body": "bnsp",
+    "base_price": 6500000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Ahli Utama K3 Ruang Terbatas adalah sertifikasi tingkat tertinggi BNSP berbasis SKKNI Sub-Bidang Penyelamatan & Manajemen Ruang Terbatas Senior. Personel tingkat Utama memegang komando tertinggi dalam penanganan tanggap darurat dan perancangan sistem keselamatan confined space."
+        },
+        {
+            "type": "paragraph",
+            "text": "Skema ini menyelaraskan pemenuhan regulasi Permenaker No. 11 Tahun 2023 dengan standar acuan penyelamatan teknis internasional NFPA 1670 & NFPA 1006 (Standard for Technical Rescuer Qualifications — Confined Space Search and Rescue)."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+            "source": "UU No. 13 Tahun 2003"
+        },
+        {
+            "type": "citation",
+            "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+            "source": "PP No. 23 Tahun 2004"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja di Ruang Terbatas.",
+            "source": "Permenaker No. 11 Tahun 2023"
+        },
+        {
+            "type": "citation",
+            "text": "Standard for Technical Rescuer Qualifications — Confined Space.",
+            "source": "NFPA 1006 / NFPA 1670"
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini mendidik perancang sistem & komandan rescue ruang terbatas. Setelah lulus asesmen, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Merancang dan menyusun dokumen Emergency Response Plan (ERP) khusus ruang terbatas untuk fasilitas manufaktur, refinery migas, dan pengolahan limbah industri",
+                "Menghitung laju aliran ventilasi purifikasi (Purging Ventilation Calculation) dan jumlah pergantian udara per jam (Air Changes per Hour / ACH) berdasarkan volume ruang terbatas yang kompleks",
+                "Memimpin dan mengeksekusi skenario penyelamatan darurat (Confined Space Rescue Operations): teknik Non-Entry Rescue (winch/tripod) dan Entry Rescue (High-Angle Hauling/Lowering System) menggunakan SCBA 300 bar",
+                "Membuat analisis bahaya tingkat lanjut (Job Hazard Analysis / JHA) untuk ruang terbatas kategori Izin Masuk Khusus (Permit-Required Confined Space)",
+                "Memimpin koordinasi dengan Tim Search and Rescue (SAR) eksternal, Rumah Sakit Rujukan, dan instansi pengawas ketenagakerjaan saat terjadi insiden",
+                "Memperoleh Sertifikat Kompetensi BNSP bersimbol Garuda skema Ahli Utama K3 Ruang Terbatas terlisensi"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Materi pelatihan penyelamatan & manajemen confined space senior:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul 1: Manajemen Risiko Strategis & Tata Kelola Program Ruang Terbatas Korporasi",
+                "Modul 2: Kalkulasi Teknik Ventilasi Industri (Purging Time, ACH, Ducting Pressure Drop, Mechanical Blower Selection)",
+                "Modul 3: Arsitektur & Teknik Penyelamatan Confined Space Advanced (Rigging System, Pulley Mechanical Advantage 3:1/4:1, Vertical Hauling)",
+                "Modul 4: Manajemen Komando Insiden (Incident Command System / ICS) & Simulasi Rescue Darurat SCBA",
+                "Modul 5: Audit Kepatuhan Regulasi Permenaker 11/2023 & Penyusunan Dokumen Standar Operasional Prosedur (SOP) Penyelamatan",
+                "Pelaksanaan Asesmen: Penilaian portofolio komandan rescue/rancangan ERP, uji tertulis perhitungan teknis, simulasi komando rescue di TUK, & wawancara lisan asesor BNSP"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Minimal S1 Teknik/K3/MIPA dengan pengalaman kerja di bidang K3/penyelamatan ruang terbatas minimal 3 tahun, ATAU D3 dengan pengalaman minimal 5 tahun",
+                "Memiliki sertifikat Ahli Muda Ruang Terbatas atau portofolio kepemimpinan tim rescue / perancangan ERP terverifikasi",
+                "Pasfoto formal latar belakang merah (3x4 & 4x6), KTP, & ijazah"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Kelengkapan administrasi yang umum dipersyaratkan untuk mengikuti program ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter",
+                "Surat rekomendasi/penugasan dari perusahaan (untuk peserta utusan perusahaan)",
+                "Curriculum vitae (untuk skema sertifikasi BNSP)"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan pendidikan minimum dan pengalaman kerja mengikuti ketentuan skema/penunjukan yang berlaku — tim kami akan memverifikasi kelengkapan Anda sebelum pendaftaran diproses."
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul dan materi pelatihan",
+                "Instruktur praktisi tersertifikasi di bidangnya",
+                "Ujian/asesmen sertifikasi",
+                "Sertifikat sesuai skema (Kemnaker RI atau BNSP)",
+                "Konsultasi pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir pendaftaran di halaman ini.",
+                "Terima penawaran resmi: jadwal, biaya, dan persyaratan program.",
+                "Lengkapi berkas administrasi dan lakukan konfirmasi pendaftaran.",
+                "Ikuti pelatihan dan ujian/asesmen sertifikasi.",
+                "Terima sertifikat dan lisensi/kartu kompetensi sesuai skema."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

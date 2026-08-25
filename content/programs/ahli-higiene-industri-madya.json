@@ -1,0 +1,130 @@
+{
+    "id": "01kyfffhwn5n17wt6v9nqz1w3p",
+    "type": "training",
+    "name": "Ahli Higiene Industri Madya",
+    "slug": "ahli-higiene-industri-madya",
+    "path": "/pelatihan/ahli-higiene-industri-madya",
+    "title": "Ahli Higiene Industri Madya",
+    "meta_title": "Ahli Higiene Industri Madya",
+    "meta_description": "Sertifikasi Ahli Higiene Industri Madya (HIMA) BNSP. Evaluasi NAB lingkungan kerja & desain ventilasi industri (LEV).",
+    "summary": "Tersedia online.",
+    "certification_body": "bnsp",
+    "base_price": 8500000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Bahaya kesehatan di tempat kerja tidak hanya bersumber dari kecelakaan fisik yang terlihat, tetapi juga dari faktor lingkungan kerja yang terhirup, terserap, atau terpapar secara terus-menerus. Paparan zat kimia beracun, tingkat kebisingan tinggi, getaran mesin, radiasi, hingga faktor ergonomi buruk menjadi pemicu utama timbulnya Penyakit Akibat Kerja (PAK) jangka panjang yang dapat melumpuhkan produktivitas."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Lingkungan Kerja.",
+            "source": "Permenaker No. 5 Tahun 2018"
+        },
+        {
+            "type": "citation",
+            "text": "Penetapan SKKNI Sektor Ketenagakerjaan Bidang Higiene Industri.",
+            "source": "Kepmenakertrans No. KEP.209/MEN/X/2008"
+        },
+        {
+            "type": "paragraph",
+            "text": "Permenaker No. 5 Tahun 2018 mewajibkan setiap perusahaan mengukur dan mengendalikan Nilai Ambang Batas (NAB) faktor fisika, kimia, biologi, ergonomi, dan psikologi kerja menggunakan personil yang kompeten."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Seorang Ahli Higiene Industri Madya (HIMA) bertugas mengantisipasi, merekognisi, mengevaluasi, dan mengendalikan (AREC) semua potensi bahaya kesehatan di lingkungan kerja. Program ini dirancang untuk mencetak praktisi K3 tingkat menengah-atas yang mampu mengelola program higiene industri secara mandiri, analitis, dan strategis."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sesuai SKKNI Bidang Higiene Industri (Kepmenaker 209/2008), profesi ini terbagi menjadi 3 tingkatan: Ahli Higiene Industri Muda (HIMU) menerapkan dasar-dasar higiene industri rutin berdasarkan prosedur kerja di bawah pengawasan; Ahli Higiene Industri Madya (HIMA) melaksanakan tugas secara mandiri, mengorganisasikan program, menganalisis data pengukuran, memecahkan persoalan kompleks, dan mengajukan rekomendasi teknis; dan Ahli Higiene Industri Utama (HIU) melakukan evaluasi strategis, sintesis kebijakan, serta memimpin manajemen higiene industri skala korporasi/multinasional."
+        },
+        {
+            "type": "paragraph",
+            "text": "Unit kompetensi HIMA mencakup kompetensi umum (kode etik profesi higiene industri, peraturan perundang-undangan K3 & lingkungan kerja), kompetensi inti (mengorganisasikan program higiene industri berbasis prinsip dasar, melaksanakan & mengorganisasikan Health Risk Assessment/HRA, investigasi & pemeriksaan risiko kesehatan di tempat kerja, pengendalian risiko bahaya faktor fisika/kimia/biologi/ergonomi, penentuan prioritas risiko kesehatan kerja), dan kompetensi khusus (pengelolaan & pengadaan peralatan pengukuran termasuk kalibrasi, evaluasi & modifikasi sistem informasi higiene industri, serta perancangan & evaluasi sistem ventilasi industri/local exhaust ventilation)."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bagi individu, sertifikasi ini membuka peluang karir tingkat manajerial sebagai Industrial Hygiene Manager, HSE Superintendent, atau Konsultan Lingkungan Kerja independen. Bagi perusahaan, sertifikasi ini memastikan hasil pengukuran K3 Lingkungan Kerja diakui secara legal, memenuhi kriteria audit SMK3/ISO 45001, serta mencegah kerugian besar akibat klaim Penyakit Akibat Kerja."
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Tahapan pelatihan dan asesmen BNSP:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pembekalan intensif: pendalaman metodologi Health Risk Assessment (HRA), prinsip kerja alat sampling (Sound Level Meter, Gas Detector, Dust Sampler), strategi kendali keteknikan (engineering control), serta perancangan sistem ventilasi industri",
+                "Pra-asesmen & bimbingan portofolio: penyiapan berkas bukti kerja mandiri sesuai unit kompetensi BNSP",
+                "Uji asesmen kompetensi: diuji langsung oleh asesor lisensi BNSP melalui verifikasi dokumen bukti kerja, ujian tertulis, dan sesi wawancara teknis"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Dalam sesi pembekalan, peserta diberikan teori dan simulasi metodologi penggunaan instrumen pengukuran seperti Sound Level Meter, Dosimeter, Lux Meter, dan Air Sampling Pump."
+        }
+    ],
+    "requirements": [
+        {
+            "type": "paragraph",
+            "text": "Mengacu pada ketentuan LSP BNSP, calon peserta HIMA harus memenuhi jalur kombinasi pendidikan dan pengalaman kerja:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "S1 K3/Teknik/Kesehatan Masyarakat: pengalaman kerja minimal 3 tahun di bidang K3/Higiene Industri",
+                "S1 non-teknik/non-K3: pengalaman kerja minimal 3 tahun di bidang K3",
+                "D3 teknik/non-teknik: pengalaman kerja minimal 5 tahun di bidang K3",
+                "SMA/SMK sederajat: pengalaman kerja minimal 10 tahun di bidang K3"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Sertifikat HIMU tidak diwajibkan secara mutlak sebelum mengambil HIMA jika kualifikasi pendidikan dan pengalaman kerja di atas sudah terpenuhi."
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Scan KTP & scan ijazah terakhir",
+                "Curriculum vitae (CV) detail yang mencantumkan riwayat pekerjaan di bidang K3",
+                "Surat keterangan pengalaman kerja/surat penugasan dari atasan",
+                "Laporan/portofolio pengukuran lingkungan kerja (contoh: laporan HRA, sampling debu/bising/gas) yang pernah dibuat",
+                "Pasfoto terbaru background merah"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Sertifikat Kompetensi BNSP Ahli Higiene Industri Madya (berlaku 3 tahun)",
+                "Sertifikat pelatihan PENA Consultant",
+                "Modul & softcopy materi lengkap (SOP sampling)",
+                "Grup networking Industrial Hygienist Indonesia"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "paragraph",
+            "text": "Hubungi tim PENA Consultant untuk konsultasi kesesuaian jalur pendidikan/pengalaman Anda, lalu ikuti tahapan pembekalan, bimbingan portofolio, dan uji asesmen BNSP di atas hingga penerbitan Sertifikat Kompetensi HIMA."
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

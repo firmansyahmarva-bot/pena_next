@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9n07n9ty5cmkwv3k9h9w5",
+    "title": "Perbedaan Operator Boiler Kelas 2 vs Operator Motor Diesel Genset",
+    "slug": "perbedaan-operator-boiler-kelas-2-vs-operator-motor-diesel-genset",
+    "path": "/panduan/k3-teknis/perbedaan-operator-boiler-kelas-2-vs-operator-motor-diesel-genset",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Perbedaan pengoperasian pesawat uap bejana tekan (Boiler) vs penggerak mula pembangkit listrik (Genset Diesel) sesuai Permenaker 01/1988 dan Permenaker 38/2016.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Operator Boiler Kelas 2 mengoperasikan ketel uap dengan kapasitas uap hingga 10 ton/jam (bahaya ledakan uap bertekanan), sedangkan Operator Motor Diesel Genset mengoperasikan mesin pembangkit tenaga listrik diesel (bahaya mekanis putaran poros, kebisingan, dan bahan bakar cair)."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Masing-masing mengantongi Buku Kerja Lisensi K3 Pesawat Tenaga dan Produksi (PTP) atau Pesawat Uap yang spesifik."
+        }
+    ],
+    "related_offering_slug": "operator-boiler-kelas-2",
+    "meta_title": "Perbedaan Operator Boiler Kelas 2 dan Operator Motor Die",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Operator Boiler Kelas 2 dan Operator Motor Diesel / Genset resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LO",
+    "published_at": "2026-07-31"
+}

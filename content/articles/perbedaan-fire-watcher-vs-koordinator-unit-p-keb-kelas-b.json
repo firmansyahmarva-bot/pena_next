@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9mwjwnfvkxc16mq118ryc",
+    "title": "Perbedaan Fire Watcher vs Koordinator Damkar Kelas B",
+    "slug": "perbedaan-fire-watcher-vs-koordinator-unit-p-keb-kelas-b",
+    "path": "/panduan/k3-teknis/perbedaan-fire-watcher-vs-koordinator-unit-p-keb-kelas-b",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Perbandingan peran Fire Watcher (pengawas siaga pekerjaan panas / hot work) dan Koordinator Unit Penanggulangan Kebakaran Kelas B (pemimpin regu per shift).",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Fire Watcher bertugas menjaga titik lokasi pengelasan atau pemotongan logam (hot work) secara real-time untuk memadamkan percikan api seketika. Koordinator Kelas B mengoordinasikan seluruh regu damkar dalam satu shift kerja pabrik."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Fire Watcher fokus pada satu titik pekerjaan panas, sedangkan Koordinator Kelas B mengendalikan kesiapsiagaan kebakaran seluruh fasilitas."
+        }
+    ],
+    "related_offering_slug": "fire-watcher",
+    "meta_title": "Perbedaan Fire Watcher dan Koordinator Unit P. Keb Kelas",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Fire Watcher dan Koordinator Unit P. Keb Kelas B resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermo",
+    "published_at": "2026-07-31"
+}

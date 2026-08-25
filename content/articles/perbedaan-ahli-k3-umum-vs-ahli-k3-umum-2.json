@@ -1,0 +1,137 @@
+{
+    "id": "01kyw9mx0m3s5068ygj73cdwbt",
+    "title": "Perbedaan Ahli K3 Umum Kemnaker vs BNSP",
+    "slug": "perbedaan-ahli-k3-umum-vs-ahli-k3-umum-2",
+    "path": "/panduan/sertifikasi-k3/perbedaan-ahli-k3-umum-vs-ahli-k3-umum-2",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Perbandingan mendalam Ahli K3 Umum Kemnaker RI vs Ahli K3 Umum BNSP: dasar hukum, status lisensi SKP, kekuatan hukum di mata auditor, fleksibilitas karier, dan panduan memilih jalur sertifikasi yang tepat.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Banyak profesional keselamatan kerja, lulusan baru, dan manajemen HR perusahaan yang bingung saat memilih antara sertifikasi Ahli K3 Umum Kemnaker RI dan Ahli K3 Umum BNSP (Badan Nasional Sertifikasi Profesi). Meskipun keduanya sama-sama kredibel di Indonesia, fungsi hukum, dokumen output, dan target peruntukannya memiliki perbedaan fundamental yang sangat signifikan."
+        },
+        {
+            "type": "citation",
+            "text": "Dasar hukum penunjukan Ahli K3 diatur dalam Permenaker 02/1992, sedangkan sertifikasi kompetensi profesi diatur dalam UU No. 13/2003 tentang Ketenagakerjaan dan SKKNI K3.",
+            "source": "Regulasi K3 Nasional"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tabel Matriks Perbandingan Komprehensif: Kemnaker vs BNSP"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Parameter Evaluasi",
+                "Ahli K3 Umum Kemnaker RI",
+                "Ahli K3 Umum BNSP"
+            ],
+            "rows": [
+                [
+                    "Lembaga Penerbit",
+                    "Kementerian Ketenagakerjaan RI (Regulator Pemerintah)",
+                    "Badan Nasional Sertifikasi Profesi / LSP Terlisensi (Badan Independen)"
+                ],
+                [
+                    "Dasar Hukum",
+                    "Permenaker No. 02/MEN/1992 & UU No. 1 Tahun 1970",
+                    "UU No. 13 Tahun 2003 & Standar Kompetensi Kerja Nasional (SKKNI)"
+                ],
+                [
+                    "Dokumen Output",
+                    "Sertifikat Pembinaan Kemnaker RI, SKP (Surat Keputusan Penunjukan), dan Lisensi Kewenangan Ahli K3",
+                    "Sertifikat Kompetensi Kerja Nasional (Berlogo Burung Garuda Emas)"
+                ],
+                [
+                    "Sifat Kepemilikan Dokumen",
+                    "Sertifikat melekat pada individu; SKP & Lisensi melekat pada perusahaan tempat bekerja",
+                    "Sertifikat kompetensi melekat 100% pada individu profesional"
+                ],
+                [
+                    "Masa Berlaku",
+                    "Sertifikat berlaku seumur hidup; SKP & Lisensi berlaku 3 tahun (wajib diperpanjang per 3 tahun)",
+                    "Sertifikat berlaku 3 tahun (diperpanjang melalui uji resertifikasi kompetensi)"
+                ],
+                [
+                    "Kewajiban Legalitas Perusahaan",
+                    "Wajib hukumnya untuk penunjukan Sekretaris P2K3 dan audit SMK3 PP 50/2012",
+                    "Bukan instrumen legalitas wajib penunjukan P2K3 menurut regulasi Kemnaker"
+                ],
+                [
+                    "Metode Pelaksanaan",
+                    "Pelatihan intensif 120 JP (12 hari) + PKL + Ujian Teori & Seminar",
+                    "Uji kompetensi / asesmen portofolio (1–3 hari) berbasis unit kompetensi SKKNI"
+                ],
+                [
+                    "Syarat Pengalaman",
+                    "D3 (min. 4 thn kerja) atau S1 (min. 2 thn kerja) untuk SKP; fresh grad boleh ikut pembinaan",
+                    "Wajib memiliki pengalaman kerja dan portofolio implementasi K3 riil di lapangan"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kapan Perusahaan dan Individu Wajib Memilih AK3U Kemnaker RI?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Anda WAJIB memilih sertifikasi Ahli K3 Umum Kemnaker RI jika berada dalam kondisi berikut:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Perusahaan tempat Anda bekerja mempekerjakan 100 orang atau lebih, atau memiliki potensi bahaya tinggi (kimia, pertambangan, konstruksi, migas), sehingga wajib membentuk Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3).",
+                "Perusahaan sedang mempersiapkan audit SMK3 Peraturan Pemerintah No. 50 Tahun 2012 atau audit sertifikasi ISO 45001 yang mewajibkan adanya personel dengan SKP resmi.",
+                "Anda ditunjuk secara struktural oleh manajemen sebagai Safety Officer internal / EHS Specialist penanggung jawab norma keselamatan kerja di plant atau proyek."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kapan Anda Lebih Tepat Memilih AK3U BNSP?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi Ahli K3 Umum BNSP adalah pilihan yang sangat ideal jika:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Anda berprofesi sebagai konsultan K3 independen, auditor lepas, atau tenaga ahli lepas (freelancer) yang tidak terikat pada satu entitas perusahaan tertentu.",
+                "Anda membutuhkan pembuktian kompetensi kerja berstandar SKKNI untuk keperluan tender proyek BUMN, multi-nasional, atau persyaratan kualifikasi vendor.",
+                "Anda ingin mendapatkan pengakuan kompetensi yang diakui dalam kerangka kesetaraan kerja regional (ASEAN Guiding Principles for Quality Assurance and Recognition of Competency)."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan Umum (FAQ) Seputar AK3U Kemnaker vs BNSP"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Apakah Fresh Graduate bisa mengambil AK3U Kemnaker? Ya. Fresh graduate diperbolehkan mengikuti pembinaan dan menerima Sertifikat Pembinaan Calon Ahli K3. Begitu Anda diterima kerja di suatu perusahaan, perusahaan tinggal mengajukan SKP & Lisensi ke Kemnaker.",
+                "Bisakah pemegang sertifikat BNSP ditunjuk sebagai Sekretaris P2K3? Menurut Permenaker 02/1992, penunjukan Sekretaris P2K3 mewajibkan adanya Surat Keputusan Penunjukan (SKP) dari Menaker RI, yang mensyaratkan sertifikat pembinaan Kemnaker RI.",
+                "Apakah lebih baik mengambil keduanya? Sangat dianjurkan bagi profesional karier HSE senior. Memiliki sertifikat Kemnaker menjamin pemenuhan regulasi nasional, sementara sertifikat BNSP Garuda Emas memperkuat portofolio kompetensi profesional Anda."
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kesimpulan: Pilih AK3U Kemnaker RI untuk legalitas operasional perusahaan, dan pilih AK3U BNSP untuk pembuktian portofolio keahlian profesional independen."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-umum",
+    "meta_title": "Perbedaan Ahli K3 Umum dan Ahli K3 Umum — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Ahli K3 Umum dan Ahli K3 Umum resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sert",
+    "published_at": "2026-07-31"
+}

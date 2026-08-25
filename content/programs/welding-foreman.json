@@ -1,0 +1,125 @@
+{
+    "id": "01kyfffj446qm0ryzmkrb90zzc",
+    "type": "training",
+    "name": "Welding Foreman",
+    "slug": "welding-foreman",
+    "path": "/pelatihan/welding-foreman",
+    "title": "Welding Foreman",
+    "meta_title": "Welding Foreman",
+    "meta_description": "Sertifikasi Welding Foreman BNSP. Pengawasan operasional regu pengelasan, fabrikasi baja, WPS, & standar kualitas las ISO 3834.",
+    "summary": "Tersedia online.",
+    "certification_body": "bnsp",
+    "base_price": 6000000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Kualitas hasil las yang buruk jarang terlihat langsung — cacat seperti porosity, undercut, atau incomplete fusion baru terungkap saat struktur dibebani atau pipa diuji tekan, dan saat itu biaya perbaikannya sudah jauh lebih mahal. Welding Foreman adalah sosok yang mencegah masalah itu terjadi sejak awal."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Kualifikasi Juru Las di Tempat Kerja.",
+            "source": "Permenaker No. PER.02/MEN/1982"
+        },
+        {
+            "type": "citation",
+            "text": "K3 Lingkungan Kerja.",
+            "source": "Permenaker No. 5 Tahun 2018"
+        },
+        {
+            "type": "paragraph",
+            "text": "Rujukan pengendalian bahaya di area kerja panas sering dilengkapi dengan standar internasional NFPA 51B tentang pencegahan kebakaran selama pengelasan, pemotongan, dan pekerjaan panas lainnya. Sertifikasi kompetensi okupasi Welding Foreman diterbitkan oleh Badan Nasional Sertifikasi Profesi (BNSP) melalui Lembaga Sertifikasi Profesi (LSP) yang berlisensi, mengacu pada Standar Kompetensi Kerja Nasional Indonesia (SKKNI) bidang las dan konstruksi serta jenjang kualifikasi dalam Kerangka Kualifikasi Nasional Indonesia (KKNI)."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Welding Foreman adalah pengawas atau pemimpin lapangan untuk tim pengelasan dan fabrikasi, bukan sekadar juru las (welder) senior. Tugasnya berada di persimpangan antara kompetensi teknis las, pengendalian K3 pekerjaan panas, dan kepemimpinan tim. Berbeda dari Welding Inspector yang berfokus pada verifikasi kualitas dan dokumentasi QA/QC, Welding Foreman lebih operasional: membagi pekerjaan, memastikan juru las yang bertugas memiliki kualifikasi yang sesuai, mengawasi disiplin K3 di area kerja, dan menjadi penghubung antara tim las dengan supervisor proyek serta tim HSE."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi ini ditujukan bagi leading hand atau juru las senior yang akan naik jabatan menjadi foreman, pengawas lapangan di perusahaan fabrikasi baja dan konstruksi struktur, personel galangan kapal (shipyard), tenaga kerja proyek EPC migas dan petrokimia, kontraktor piping dan pipeline, serta workshop maintenance pabrik yang rutin melakukan pengelasan perbaikan. Perusahaan yang mengikuti tender proyek migas, konstruksi baja, atau fabrikasi biasanya diwajibkan menunjukkan bukti bahwa tim lasnya dipimpin oleh foreman bersertifikat."
+        },
+        {
+            "type": "paragraph",
+            "text": "Dalam praktiknya, Welding Foreman bertanggung jawab merencanakan dan membagi tugas pengelasan sesuai Welding Procedure Specification (WPS) yang berlaku untuk setiap jenis sambungan; memastikan juru las yang ditugaskan memiliki kualifikasi dan Surat Izin Operator yang sesuai; melakukan pemeriksaan visual awal terhadap hasil las sebelum diserahkan ke tim NDT/QC; mengelola izin kerja panas (hot work permit) dan menempatkan petugas fire watch selama pekerjaan berlangsung; memastikan ventilasi dan pengendalian asap las (welding fume) memadai; mengoordinasikan penggunaan APD seperti welding helmet, apron kulit, sarung tangan las, dan respirator; mengelola logistik elektroda dan gas pelindung; serta melaporkan progres dan kendala teknis kepada supervisor proyek dan tim HSE."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi ini menjadi jalur promosi yang jelas dari juru las senior menuju posisi foreman atau supervisor pengelasan, sekaligus menjadi syarat yang sering diminta dalam tender proyek EPC, migas, dan konstruksi baja. Bagi perusahaan fabrikasi, memiliki foreman bersertifikat meningkatkan kredibilitas di mata klien dan mengurangi risiko rework akibat kesalahan prosedur las. Posisi foreman umumnya memiliki jenjang gaji yang lebih tinggi dibandingkan juru las pelaksana, sebanding dengan tanggung jawab tambahan dalam mengelola tim dan menjamin kualitas pekerjaan."
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Peserta akan mempelajari cara membaca dan menerapkan WPS/PQR, mengenal berbagai proses las beserta aplikasinya — SMAW, GTAW/TIG, GMAW/MIG, FCAW, dan SAW — serta cara mengidentifikasi cacat las umum secara visual sebelum tahap NDT. Materi K3 mencakup manajemen izin kerja panas, penempatan dan tugas fire watch, kebutuhan ventilasi area kerja, serta penggunaan APD sesuai jenis proses las. Materi kepemimpinan mencakup pembagian kerja tim, komunikasi dengan QA/QC dan HSE, penjadwalan pekerjaan agar sesuai target proyek, serta dasar-dasar pengenalan metode NDT (agar foreman memahami kapan hasil lasnya perlu diuji lebih lanjut)."
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul teknis pengelasan: jenis-jenis proses las, simbol las, pembacaan WPS/WPQR, dan identifikasi cacat las umum",
+                "Modul K3 pengelasan dan pekerjaan panas: sistem izin kerja panas, prosedur fire watch, ventilasi dan pengendalian asap las, serta pemilihan APD yang sesuai",
+                "Modul kepemimpinan dan supervisi lapangan: pembagian kerja tim las, komunikasi lintas fungsi, pelaporan progres, dan penanganan masalah di lapangan",
+                "Praktik dan simulasi: studi kasus lapangan serta latihan menghadapi uji kompetensi",
+                "Persiapan uji kompetensi BNSP: penyusunan portofolio, simulasi uji tulis, uji lisan/wawancara, dan observasi praktik oleh asesor"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Uji kompetensi dilaksanakan oleh asesor dari LSP berlisensi BNSP, meliputi uji tertulis, wawancara, serta observasi praktik/demonstrasi kerja di lapangan atau workshop."
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal SMK/SMA sederajat (jurusan teknik menjadi nilai tambah) atau D3/S1 teknik",
+                "Memiliki pengalaman kerja di bidang pengelasan atau fabrikasi",
+                "Dapat menunjukkan portofolio pekerjaan las sebelumnya"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Sangat dianjurkan sudah memiliki sertifikat juru las terlebih dahulu — pengalaman sebagai juru las membantu peserta memahami materi teknis dan lebih siap menghadapi uji kompetensi Welding Foreman."
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi ijazah",
+                "Fotokopi KTP",
+                "Pas foto",
+                "Portofolio atau sertifikat juru las yang pernah dimiliki",
+                "Surat keterangan kerja dari perusahaan"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "paragraph",
+            "text": "Pelatihan menggabungkan kelas teori, praktik dan simulasi lapangan, serta sesi persiapan menghadapi uji kompetensi, dipandu instruktur praktisi industri las dan K3 yang berpengalaman menangani proyek fabrikasi dan migas."
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "paragraph",
+            "text": "Peserta yang dinyatakan kompeten memperoleh Sertifikat Kompetensi BNSP okupasi Welding Foreman lengkap dengan nomor registrasi resmi yang berlaku secara nasional dan dapat diverifikasi melalui sistem BNSP — dapat digunakan sebagai bukti kualifikasi saat mengikuti tender proyek maupun melamar posisi supervisor las."
+        },
+        {
+            "type": "paragraph",
+            "text": "Calon peserta dapat menghubungi tim PENA Consultant untuk berkonsultasi mengenai kesiapan portofolio, jadwal pelatihan terdekat, dan proses pendaftaran uji kompetensi BNSP. PENA Consultant juga melayani in-house training bagi perusahaan yang ingin menyertifikasi beberapa foreman sekaligus."
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

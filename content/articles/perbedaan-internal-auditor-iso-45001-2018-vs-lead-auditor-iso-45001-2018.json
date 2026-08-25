@@ -1,0 +1,67 @@
+{
+    "id": "01kyw9mz01j2y5h75z0q2tk74k",
+    "title": "Perbedaan Internal Auditor vs Lead Auditor ISO 45001",
+    "slug": "perbedaan-internal-auditor-iso-45001-2018-vs-lead-auditor-iso-45001-2018",
+    "path": "/panduan/smk3/perbedaan-internal-auditor-iso-45001-2018-vs-lead-auditor-iso-45001-2018",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Perbedaan komprehensif antara Internal Auditor ISO 45001 (2 hari, evaluasi internal organisasi) dan Lead Auditor ISO 45001 (5 hari, 40 JP, sertifikasi pihak ketiga).",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Bagi praktisi HSE yang ingin mendalami standar internasional ISO 45001:2018, sangat penting untuk membedakan antara jalur Internal Auditor dan Lead Auditor agar investasi waktu dan biaya tepat sasaran."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tabel Perbandingan: Internal Auditor vs Lead Auditor ISO 45001"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Parameter",
+                "Internal Auditor ISO 45001",
+                "Lead Auditor ISO 45001"
+            ],
+            "rows": [
+                [
+                    "Durasi Kursus",
+                    "2 Hari (16 Jam Pelajaran)",
+                    "5 Hari Intensif (40 Jam Pelajaran)"
+                ],
+                [
+                    "Kewenangan Audit",
+                    "Melakukan audit internal (first-party) dan audit vendor/supplier (second-party)",
+                    "Memimpin tim audit sertifikasi pihak ketiga (third-party) atas nama Badan Sertifikasi"
+                ],
+                [
+                    "Standar Pengakuan",
+                    "Sertifikat Kompetensi Pelatihan dari Training Provider / PJK3",
+                    "Sertifikat Kelulusan Resmi Registrasi Auditor Internasional (IRCA / Exemplar Global)"
+                ],
+                [
+                    "Tingkat Kesulitan",
+                    "Tingkat Menengah (Checklist, NCR, & Klausul ISO 45001)",
+                    "Tingkat Lanjut (Ujian Tertulis 2 Jam, Continuous Assessment, Manajemen Tim Audit)"
+                ],
+                [
+                    "Target Sasaran",
+                    "Staf, Supervisor, dan Tim HSE internal perusahaan",
+                    "Manajer HSE Senior, Konsultan Manajemen, dan Calon Auditor Badan Sertifikasi"
+                ]
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Internal Auditor sangat ideal untuk memelihara sistem K3 di perusahaan Anda; Lead Auditor adalah kredensial emas untuk berkarier di tingkat global."
+        }
+    ],
+    "related_offering_slug": "internal-auditor-iso-45001-2018",
+    "meta_title": "Perbedaan Internal Auditor ISO 45001:2018 dan Lead Audit",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Internal Auditor ISO 45001:2018 dan Lead Auditor ISO 45001:2018 resmi Kemnaker RI dan BNSP. Persyaratan, prosed",
+    "published_at": "2026-07-31"
+}

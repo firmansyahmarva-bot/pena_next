@@ -1,0 +1,38 @@
+{
+    "id": "01kyhbn3d8h5dxsc0e1mk9mhh6",
+    "name": "Fasilitas Kesehatan",
+    "slug": "kesehatan",
+    "path": "/industri/kesehatan",
+    "description": "Rumah sakit dan fasilitas pelayanan kesehatan menghadapi bahaya kerja yang unik — biologi, kimia, dan ergonomi — dengan kerangka K3 tersendiri di luar regulasi K3 umum.",
+    "regulatory_context": [
+        {
+            "type": "paragraph",
+            "text": "K3 di fasilitas pelayanan kesehatan diatur secara khusus melalui:"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Rumah Sakit (K3RS).",
+            "source": "PMK No. 66 Tahun 2016"
+        },
+        {
+            "type": "paragraph",
+            "text": "Rumah sakit dan fasyankes wajib memiliki petugas/pengawas K3 yang memahami pengelolaan B3, limbah medis, dan pencegahan infeksi okupasional."
+        }
+    ],
+    "relevant_offering_slugs": [
+        "ahli-k3-kimia",
+        "pengawas-k3-rumah-sakit",
+        "petugas-k3-rumah-sakit",
+        "pengawas-k3-fasyankes",
+        "petugas-p3k-first-aid",
+        "petugas-p3k",
+        "paramedis-k3-muda",
+        "paramedis-k3-madya",
+        "paramedis-k3-utama"
+    ]
+}

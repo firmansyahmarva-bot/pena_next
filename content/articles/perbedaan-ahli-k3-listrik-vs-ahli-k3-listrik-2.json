@@ -1,0 +1,62 @@
+{
+    "id": "01kyw9mw35kz44r2r6vpxqqr2v",
+    "title": "Perbedaan Ahli K3 Listrik Kemnaker vs BNSP",
+    "slug": "perbedaan-ahli-k3-listrik-vs-ahli-k3-listrik-2",
+    "path": "/panduan/k3-teknis/perbedaan-ahli-k3-listrik-vs-ahli-k3-listrik-2",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Analisis komparasi antara Ahli K3 Listrik Kemnaker RI (SKP penunjukan resmi) dan Ahli K3 Listrik BNSP (sertifikasi profesi nasional berbasis SKKNI).",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Memilih antara Ahli K3 Listrik Kemnaker RI dan skema BNSP bergantung pada tujuan kepatuhan organisasi dan status kekaryawanan profesional."
+        },
+        {
+            "type": "citation",
+            "text": "K3 Listrik di Tempat Kerja — mewajibkan Ahli K3 Listrik untuk perusahaan dengan daya >200 kVA.",
+            "source": "Permenaker No. 12 Tahun 2015"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tabel Komparasi Kemnaker RI vs BNSP"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Parameter",
+                "Ahli K3 Listrik Kemnaker RI",
+                "Ahli K3 Listrik BNSP"
+            ],
+            "rows": [
+                [
+                    "Fokus Legalitas",
+                    "Pemenuhan regulasi wajib penunjukan perusahaan (SKP Menteri Ketenagakerjaan)",
+                    "Pengakuan standar kompetensi profesi perorangan berstandar SKKNI"
+                ],
+                [
+                    "Kewenangan Pengujian",
+                    "Berwenang mengesahkan pemeriksaan dan pengujian berkala instalasi listrik industri",
+                    "Menguji kompetensi teknis asesmen portofolio kelistrikan"
+                ],
+                [
+                    "Keterikatan Badan Usaha",
+                    "Memerlukan surat permohonan dari perusahaan tempat bekerja",
+                    "Melekat pada individu tanpa terikat satu badan usaha"
+                ]
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kemnaker RI mutlak untuk legalitas operasional pabrik, sedangkan BNSP ideal untuk konsultan dan auditor kelistrikan independen."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-listrik",
+    "meta_title": "Perbedaan Ahli K3 Listrik dan Ahli K3 Listrik — Guide 20",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Ahli K3 Listrik dan Ahli K3 Listrik resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, da",
+    "published_at": "2026-07-31"
+}

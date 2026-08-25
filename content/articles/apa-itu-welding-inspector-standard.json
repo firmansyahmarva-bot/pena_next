@@ -1,0 +1,62 @@
+{
+    "id": "01kyw9mqs1ggmssd0rfnewqxrp",
+    "title": "Apa Itu Welding Inspector Standard (WIS)?",
+    "slug": "apa-itu-welding-inspector-standard",
+    "path": "/panduan/sertifikasi-k3/apa-itu-welding-inspector-standard",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Panduan lengkap Welding Inspector Standard (WIS): inspeksi visual cacat las, verifikasi WPS/PQR, pemeriksaan NDT (PT, MT), dan regulasi ASME Sec IX / AWS D1.1.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Welding Inspector Standard (Inspektur Las Standar) adalah tenaga ahli kendali mutu (QC Inspector) yang bertanggung jawab mengawasi seluruh tahapan pengelasan sebelum (fit-up, bevel, preheat), selama (interpass temperature, arus, kawat las), dan sesudah pengelasan (visual inspection, dimensi capping, NDT)."
+        },
+        {
+            "type": "citation",
+            "text": "Non-destructive testing of welds — Visual testing of fusion-welded joints.",
+            "source": "ISO 17637 / AWS D1.1"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tugas Pemeriksaan Pengelasan Sesuai Tahapan Fabrikasi"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Tahapan Pengelasan",
+                "Item Pemeriksaan Kritis",
+                "Alat / Standar Acuan"
+            ],
+            "rows": [
+                [
+                    "Sebelum Pengelasan (Before Welding)",
+                    "Verifikasi WPS, kualifikasi welder (WQT), root gap, bevel angle, kebersihan sambungan",
+                    "Welding Gauge, Bevel Protector, Termometer Infrared"
+                ],
+                [
+                    "Selama Pengelasan (During Welding)",
+                    "Arus listrik (Ampere), tegangan (Volt), travel speed, polaritas, interpass cleaning",
+                    "Clamp Meter, Stop Watch, Pyrometer"
+                ],
+                [
+                    "Setelah Pengelasan (After Welding)",
+                    "Inspeksi visual undercut, porosity, crack, overlap, pengujian NDT (Liquid Penetrant / Magnetic Particle)",
+                    "Bridge Cam Gauge, Lux Meter, ASME Section V"
+                ]
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Welding Inspector Standard adalah figur sentral penjaminan mutu di industri fabrikasi bejana tekan, tangki timbun, dan jembatan baja."
+        }
+    ],
+    "related_offering_slug": "welding-inspector-standard",
+    "meta_title": "Apa itu Welding Inspector Standard? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Welding Inspector Standard? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifik",
+    "published_at": "2026-07-31"
+}

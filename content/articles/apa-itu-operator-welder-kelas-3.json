@@ -1,0 +1,32 @@
+{
+    "id": "01kyw9kzwvwqena2dare1148fk",
+    "title": "Apa Itu Juru Las (Welder) Kelas 3 Kemnaker?",
+    "slug": "apa-itu-operator-welder-kelas-3",
+    "path": "/panduan/sertifikasi-k3/apa-itu-operator-welder-kelas-3",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Juru Las (Welder) Kelas 3 adalah kualifikasi juru las dasar Kemnaker RI untuk pengelasan pelat posisi di bawah tangan (1G & 1F) pada konstruksi baja umum.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Juru Las Kelas 3 berwenang melakukan pengelasan pelat baja pada posisi flat (1G) dan sambungan sudut (1F) untuk konstruksi bangunan baja umum, rangka mesin, dan bejana yang tidak bertekanan tinggi."
+        },
+        {
+            "type": "citation",
+            "text": "Kualifikasi Juru Las di Tempat Kerja.",
+            "source": "Permenaker No. 02/MEN/1982"
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kualifikasi fondasi bagi teknisi las pemula untuk memulai karier resmi di industri fabrikasi."
+        }
+    ],
+    "related_offering_slug": "operator-welder-kelas-3",
+    "meta_title": "Apa itu Operator Welder Kelas 3? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Operator Welder Kelas 3? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi",
+    "published_at": "2026-07-31"
+}

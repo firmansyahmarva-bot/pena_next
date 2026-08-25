@@ -1,0 +1,102 @@
+{
+    "id": "01kyhqmdrmva2yddargjj32737",
+    "title": "12 Elemen SMK3 yang Wajib Diketahui Perusahaan",
+    "slug": "12-elemen-smk3-yang-wajib-diketahui",
+    "path": "/panduan/smk3/12-elemen-smk3-yang-wajib-diketahui",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Panduan lengkap 12 elemen Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) berdasarkan PP No. 50 Tahun 2012 beserta 166 kriteria audit pemenuhan tingkat lanjutan.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) di Indonesia diatur secara rigid melalui Peraturan Pemerintah No. 50 Tahun 2012. Dalam kerangka hukum ini, audit SMK3 dilakukan berdasarkan 12 elemen pemenuhan yang menjabarkan 5 prinsip dasar SMK3 (Komitmen & Kebijakan, Perencanaan, Pelaksanaan, Pemantauan & Evaluasi, serta Peninjauan & Peningkatan Kinerja)."
+        },
+        {
+            "type": "citation",
+            "text": "Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja — Lampiran II Pedoman Penilaian Penerapan SMK3.",
+            "source": "PP No. 50 Tahun 2012"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Daftar 12 Elemen Audit SMK3 PP 50/2012"
+        },
+        {
+            "type": "paragraph",
+            "text": "Berikut adalah perincian kedua belas elemen audit yang dinilai oleh Lembaga Audit SMK3 independen yang ditunjuk Kemnaker RI:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Elemen 1: Pembangunan dan Pemeliharaan Komitmen — kebijakan K3 tertulis, penunjukan personel K3, pembentukan P2K3, dan penyediaan anggaran",
+                "Elemen 2: Pembuatan dan Pendokumentasian Rencana K3 — identifikasi bahaya, penilaian risiko, pengendalian (HIRADC), serta pemenuhan regulasi",
+                "Elemen 3: Pengendalian Perancangan dan Kontrak — peninjauan aspek K3 pada desain instalasi baru dan seleksi kontraktor/vendor",
+                "Elemen 4: Pengendalian Dokumen — sistem persetujuan, distribusi, revisi, dan penyimpanan dokumen serta rekaman K3",
+                "Elemen 5: Pembelian dan Pengendalian Produk — verifikasi spesifikasi K3 pada pembelian barang, bahan kimia, dan peralatan mesin",
+                "Elemen 6: Keamanan Bekerja Berdasarkan SMK3 — prosedur operasional standar (SOP), izin kerja khusus (Permit to Work), dan pemeliharaan sarana pengaman",
+                "Elemen 7: Standar Pemantauan — inspeksi tempat kerja rutin, pengujian lingkungan kerja fisik/kimia, dan pemeliharaan alat ukur",
+                "Elemen 8: Pelaporan dan Perbaikan Kekurangan — mekanisme pelaporan bahaya, investigasi insiden, dan tindak lanjut tindakan korektif (CAPA)",
+                "Elemen 9: Pengelolaan Material dan Perpindahannya — penanganan bahan berbahaya dan beracun (B3), Safety Data Sheet (SDS), dan K3 pesawat angkat-angkut",
+                "Elemen 10: Pengumpulan dan Penggunaan Data — pencatatan statistik kecelakaan kerja (Frequency Rate, Severity Rate) dan audit internal",
+                "Elemen 11: Pemeriksaan SMK3 — pelaksanaan audit internal berkala oleh Auditor SMK3 bersertifikat Kemnaker RI",
+                "Elemen 12: Pengembangan Keterampilan dan Kemampuan — analisis kebutuhan pelatihan (TNA), pembinaan kompetensi K3 wajib, dan simulasi tanggap darurat"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kategori Tingkat Penerapan dan Kriteria Audit"
+        },
+        {
+            "type": "paragraph",
+            "text": "Tergantung pada skala dan tingkat risiko perusahaan, audit SMK3 dibagi menjadi 3 tingkatan penilaian:"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Tingkat Penerapan",
+                "Jumlah Kriteria Audit",
+                "Target Perusahaan"
+            ],
+            "rows": [
+                [
+                    "Tingkat Awal",
+                    "64 Kriteria Audit",
+                    "Perusahaan kecil / risiko rendah"
+                ],
+                [
+                    "Tingkat Transisi",
+                    "122 Kriteria Audit",
+                    "Perusahaan menengah / risiko sedang"
+                ],
+                [
+                    "Tingkat Lanjutan",
+                    "166 Kriteria Audit",
+                    "Perusahaan besar (≥100 pekerja) atau risiko tinggi (Migas, Tambang, Konstruksi, Kimia)"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tingkat Kelulusan dan Bendera Penghargaan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Hasil audit dinilai berdasarkan persentase kepatuhan kriteria: 0–59% (Tindakan Hukum), 60–84% (Sertifikat & Bendera Perak), dan 85–100% (Sertifikat & Bendera Emas Kemnaker RI)."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Menguasai 12 elemen SMK3 adalah kompetensi wajib bagi Auditor SMK3, Ahli K3 Umum, dan tim Compliance perusahaan untuk meraih predikat Bendera Emas."
+        }
+    ],
+    "related_offering_slug": "auditor-sistem-manajemen-k3",
+    "meta_title": "12 Elemen SMK3 yang Wajib Diketahui Perusahaan — Guide 2",
+    "meta_description": "Panduan teknis keselamatan 12 Elemen SMK3 yang Wajib Diketahui Perusahaan resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, d",
+    "published_at": "2026-07-27"
+}

@@ -1,0 +1,88 @@
+{
+    "id": "01kyw9m71ave3rcaprthyz9b38",
+    "title": "Apa Itu Petugas K3 Kimia Kemnaker?",
+    "slug": "apa-itu-petugas-k3-kimia",
+    "path": "/panduan/k3-teknis/apa-itu-petugas-k3-kimia",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Petugas K3 Kimia menjalankan penanganan harian bahan kimia berbahaya di lapangan — jenjang pelaksana yang bekerja di bawah arahan Ahli K3 Kimia sesuai Kepmenaker No. 187/MEN/1999.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Sama seperti K3 listrik dan ruang terbatas, pengendalian bahan kimia berbahaya juga punya dua jenjang: ahli yang menilai potensi bahaya dan menyusun dokumen pengendalian, dan petugas yang menjalankan penanganan harian di lapangan. Petugas K3 Kimia adalah jenjang pelaksana ini."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dasar Hukum"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Pengendalian Bahan Kimia Berbahaya di Tempat Kerja — termasuk kewajiban penunjukan Petugas dan Ahli K3 Kimia.",
+            "source": "Kepmenaker No. 187/MEN/1999"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tugas Harian Petugas K3 Kimia"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Menangani penyimpanan dan penggunaan bahan kimia sesuai prosedur dan label",
+                "Memastikan Lembar Data Keselamatan Bahan (LDKB/MSDS) tersedia dan mudah diakses pekerja",
+                "Memantau kondisi penyimpanan bahan kimia dan melaporkan penyimpangan",
+                "Menjalankan langkah awal tanggap darurat kimia sesuai prosedur yang ditetapkan"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Petugas vs Ahli K3 Kimia: Siapa Menangani Apa"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ahli K3 Kimia menyusun dokumen pengendalian bahaya besar/menengah dan menetapkan strategi pengendalian tingkat perusahaan. Petugas K3 Kimia menjalankan prosedur itu di lapangan sehari-hari — mengelola penyimpanan, memantau kepatuhan, dan menjadi kontak pertama saat ada penyimpangan. Perusahaan dengan bahan kimia berbahaya biasanya membutuhkan kombinasi keduanya, bukan salah satu saja."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kapan Perusahaan Membutuhkan Petugas K3 Kimia"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kebutuhan tidak ditentukan hanya oleh nama industrinya. Pabrik, laboratorium, gudang, rumah sakit, pengolahan air, manufaktur, dan fasilitas migas dapat sama-sama memiliki bahan kimia berbahaya. Perusahaan perlu melihat inventaris bahan, jumlah serta karakter bahayanya, cara penyimpanan, frekuensi penggunaan, jumlah area dan shift, kemudian mencocokkannya dengan kewajiban penunjukan personel."
+        },
+        {
+            "type": "paragraph",
+            "text": "Program cocok bagi personel produksi, warehouse, laboratorium, utility, HSE, atau emergency response yang menjalankan pengendalian harian. Pelatihan tidak menggantikan SDS/LDKB, label GHS, segregasi bahan, ventilasi, inspeksi, spill kit, APD, atau prosedur tumpahan. Bila peserta akan menyusun evaluasi dan strategi perusahaan, jenjang Ahli K3 Kimia mungkin lebih sesuai."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Informasi untuk Memeriksa Syarat dan Harga"
+        },
+        {
+            "type": "paragraph",
+            "text": "Siapkan daftar bahan dan SDS, jumlah area serta shift, jabatan dan pendidikan calon peserta, pengalaman menangani bahan kimia, jumlah peserta, lokasi, target audit, dan status Ahli atau Petugas yang sudah dimiliki. Tim PENA dapat memetakan kebutuhan Petugas K3 Kimia, memeriksa dokumen pembinaan Kemnaker, serta menyampaikan jadwal dan biaya resmi untuk kelas publik atau in-house."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Perusahaan Anda sudah punya Ahli K3 Kimia tapi belum ada Petugas K3 Kimia di lapangan, atau sebaliknya? Tim kami dapat membantu menilai kebutuhan kombinasi keduanya."
+        }
+    ],
+    "related_offering_slug": "petugas-k3-kimia",
+    "meta_title": "Apa itu Petugas K3 Kimia? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Petugas K3 Kimia? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

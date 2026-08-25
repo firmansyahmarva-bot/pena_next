@@ -1,0 +1,20 @@
+{
+    "id": "01kyw9p102yhk21mr1bkn4dtfb",
+    "name": "Makassar",
+    "slug": "makassar",
+    "path": "/cabang/makassar",
+    "is_physical": false,
+    "address": null,
+    "intro": [
+        {
+            "type": "paragraph",
+            "text": "Makassar, ibu kota Provinsi Sulawesi Selatan, adalah pusat industri dan logistik pertama di kawasan timur Indonesia — didukung Kawasan Industri Makassar (KIMA), kawasan industri tertua di kawasan timur nusantara, dan Pelabuhan Soekarno-Hatta yang menjadi pusat lalu lintas kargo terbesar di Sulawesi. Sektor makanan-minuman, pengolahan kayu, logam, kimia, dan tekstil beroperasi berdampingan di kawasan ini, menjadikan Makassar simpul manufaktur utama bagi kawasan timur Indonesia."
+        },
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyelenggarakan pelatihan dan sertifikasi K3 yang relevan untuk kebutuhan industri manufaktur dan logistik di Makassar dan sekitarnya — skema Kemnaker RI maupun BNSP, tersedia online maupun in-house."
+        }
+    ],
+    "service_areas": [],
+    "phone": null
+}

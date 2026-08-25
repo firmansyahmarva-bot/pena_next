@@ -1,0 +1,71 @@
+{
+    "id": "01kyw9kntjyjq29rw0g0c19ka8",
+    "title": "Apa Itu Investigasi Kecelakaan Kerja?",
+    "slug": "apa-itu-investigasi-kecelakaan",
+    "path": "/panduan/smk3/apa-itu-investigasi-kecelakaan",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "Investigasi Kecelakaan Kerja adalah proses sistematis untuk menemukan akar penyebab (root cause) insiden di tempat kerja guna mencegah kejadian serupa berulang, bukan untuk mencari kesalahan individu.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Investigasi Kecelakaan Kerja adalah salah satu pilar terpenting dalam Sistem Manajemen K3. Tujuan fundamental investigasi keselamatan kerja bukanlah mencari siapa yang bersalah (blaming culture), melainkan membongkar kelemahan sistem manajemen dan faktor pemicu (root cause) agar kecelakaan serupa tidak pernah terulang kembali di masa depan."
+        },
+        {
+            "type": "citation",
+            "text": "Tata Cara Pelaporan dan Pemeriksaan Kecelakaan Kerja.",
+            "source": "Permenaker No. 03/MEN/1998"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Metode Analisis Akar Penyebab (Root Cause Analysis / RCA)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Dalam pembinaan investigasi kecelakaan modern, peserta mempelajari metode analisis ilmiah:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Swiss Cheese Model (James Reason): Mengidentifikasi bagaimana kegagalan laten manajemen, pengawasan, dan kondisi prasyarat berbaris menembus lapisan pertahanan keselamatan",
+                "5-Why Analysis: Teknik penelusuran berulang \"Mengapa\" untuk menggali faktor sistemik di balik tindakan tidak aman",
+                "Fishbone / Ishikawa Diagram: Pemetaan faktor penyebab dari 6 aspek (Manusia, Mesin/Alat, Material, Metode, Lingkungan, Pengukuran)",
+                "Fault Tree Analysis (FTA) & SCAT (Systematic Cause Analysis Technique): Analisis logika grafis terhadap runtutan peristiwa kecelakaan berat/fatal"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tahapan Standar Penyelenggaraan Investigasi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Investigasi yang efektif mengikuti tahapan terstruktur:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "1. Tindakan Darurat & Pengamanan TKP: Evakuasi korban, isolasi area kejadian, dan mencegah bahaya sekunder",
+                "2. Pengumpulan Bukti Fisik & Digital: Foto, rekaman CCTV, logbook mesin, data SCADA, dan sampel material",
+                "3. Wawancara Saksi: Wawancara terpisah dengan saksi mata, korban (bila memungkinkan), dan supervisor",
+                "4. Analisis Runtutan Kejadian (Sequence of Events) dan Identifikasi Akar Penyebab",
+                "5. Penyusunan Rekomendasi Tindakan Korektif (CAPA) dengan prinsip SMART dan penyerahan laporan resmi formulir Kemnaker"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Investigasi kecelakaan kerja yang profesional mengubah tragedi menjadi pelajaran berharga untuk memperkuat ketahanan keselamatan perusahaan."
+        }
+    ],
+    "related_offering_slug": "investigasi-kecelakaan",
+    "meta_title": "Apa itu Investigasi Kecelakaan? — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Apa itu Investigasi Kecelakaan? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

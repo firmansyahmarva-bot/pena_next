@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9nmfh2q7nnzfk6egz3skm",
+    "name": "Umum / Lintas Sektor",
+    "slug": "umum",
+    "path": "/industri/umum",
+    "description": "K3 untuk sektor Umum / Lintas Sektor.",
+    "regulatory_context": [
+        {
+            "type": "paragraph",
+            "text": "Setiap perusahaan di Indonesia, lintas sektor, wajib memenuhi kewajiban dasar K3 sesuai UU No. 1 Tahun 1970 — termasuk memiliki Ahli K3 Umum yang ditunjuk sesuai Permenaker No. 02/MEN/1992."
+        },
+        {
+            "type": "citation",
+            "text": "Tata Cara Penunjukan, Kewajiban dan Wewenang Ahli Keselamatan dan Kesehatan Kerja.",
+            "source": "Permenaker No. 02/MEN/1992"
+        }
+    ],
+    "relevant_offering_slugs": [
+        "ahli-k3-umum",
+        "ahli-k3-umum-2",
+        "ahli-k3-umum-paket-ekonomis",
+        "ahli-k3-umum-fresh-graduate",
+        "petugas-k3",
+        "petugas-k3-kimia",
+        "petugas-k3-rumah-sakit"
+    ]
+}

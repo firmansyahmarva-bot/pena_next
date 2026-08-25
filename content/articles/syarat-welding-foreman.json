@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9mp29ncspdyet3m3hs1g6",
+    "title": "Syarat Mengikuti Pelatihan Welding Foreman",
+    "slug": "syarat-welding-foreman",
+    "path": "/panduan/sertifikasi-k3/syarat-welding-foreman",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Persyaratan sertifikasi Welding Foreman.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Pengalaman minimal 3 tahun sebagai juru las senior atau team leader fabrikasi logam."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Mencakup manajemen alur kerja, estimasi jam kerja pengelasan, dan K3 hot work."
+        }
+    ],
+    "related_offering_slug": "welding-foreman",
+    "meta_title": "Syarat Mengikuti Welding Foreman — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Welding Foreman resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi",
+    "published_at": "2026-07-31"
+}

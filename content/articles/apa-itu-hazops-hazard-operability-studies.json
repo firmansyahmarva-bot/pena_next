@@ -1,0 +1,85 @@
+{
+    "id": "01kyw9kgrcydjxxqmr15csmw3n",
+    "title": "Apa Itu HAZOPS (Hazard and Operability Study)?",
+    "slug": "apa-itu-hazops-hazard-operability-studies",
+    "path": "/panduan/smk3/apa-itu-hazops-hazard-operability-studies",
+    "role": "article",
+    "cluster": {
+        "name": "SMK3",
+        "slug": "smk3"
+    },
+    "summary": "HAZOPS (Hazard and Operability Study) adalah metodologi analisis risiko kualitatif terstruktur untuk mengidentifikasi potensi bahaya proses dan deviasi operasional pada industri kimia, migas, dan manufaktur.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Hazard and Operability Studies (HAZOPS) adalah teknik identifikasi bahaya dan analisis risiko proses (Process Safety Management / PSM) yang paling banyak digunakan di industri berisiko tinggi seperti kilang minyak, petrokimia, farmasi, pembangkit listrik, dan fasilitas pemrosesan gas. HAZOPS dirancang untuk mengidentifikasi potensi kegagalan operasional dan bahaya tersembunyi yang timbul dari deviasi parameter proses."
+        },
+        {
+            "type": "citation",
+            "text": "Hazard and operability studies (HAZOP studies) — Application guide.",
+            "source": "IEC 61882:2016"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Metodologi Analisis Menggunakan Kata Pandu (Guide Words)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Karakteristik khas HAZOPS adalah penggunaan kombinasi Kata Pandu (Guide Words) dan Parameter Proses untuk menelaah setiap titik simpul (Node) pada diagram pipa dan instrumen (P&ID):"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Kata Pandu (Guide Word)",
+                "Parameter Proses",
+                "Contoh Deviasi Operasional & Dampak Risiko"
+            ],
+            "rows": [
+                [
+                    "NO / NOT",
+                    "Aliran (Flow)",
+                    "Tidak ada aliran pendingin ➜ Reaktor mengalami panas berlebih (runaway reaction)"
+                ],
+                [
+                    "MORE",
+                    "Tekanan (Pressure)",
+                    "Tekanan berlebih ➜ Risiko overpressure dan ledakan bejana tekan"
+                ],
+                [
+                    "LESS",
+                    "Suhu (Temperature)",
+                    "Suhu terlalu rendah ➜ Terbentuknya kristalisasi / penyumbatan pipa gas"
+                ],
+                [
+                    "REVERSE",
+                    "Aliran (Flow)",
+                    "Aliran balik fluida kimia berbahaya ke tangki penyimpanan utilitas"
+                ],
+                [
+                    "AS WELL AS",
+                    "Komposisi",
+                    "Adanya kontaminan udara/oksigen di dalam tangki gas hidrokarbon mudah terbakar"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Komposisi Tim Multidisiplin HAZOPS"
+        },
+        {
+            "type": "paragraph",
+            "text": "Studi HAZOPS tidak dapat dilakukan perorangan, melainkan harus dipimpin oleh HAZOPS Leader / Facilitator bersertifikat dengan melibatkan tim multidisiplin: Process Engineer, Instrument & Control Engineer, Mechanical Engineer, HSE Specialist, dan Operator Senior."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Pelatihan HAZOPS membekali peserta keterampilan memimpin dan mendokumentasikan kajian keselamatan proses mutlak untuk proyek EPC dan industri kimia."
+        }
+    ],
+    "related_offering_slug": "hazops-hazard-operability-studies",
+    "meta_title": "Apa itu HAZOPS (Hazard & Operability Studies)? — Guide 2",
+    "meta_description": "Panduan teknis keselamatan Apa itu HAZOPS (Hazard & Operability Studies)? resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, d",
+    "published_at": "2026-07-31"
+}

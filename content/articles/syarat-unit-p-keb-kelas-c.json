@@ -1,0 +1,96 @@
+{
+    "id": "01kyw9mjt03t3aprcdv0bp1fh1",
+    "title": "Syarat Paket Unit Penanggulangan Kebakaran Kelas C",
+    "slug": "syarat-unit-p-keb-kelas-c",
+    "path": "/panduan/k3-teknis/syarat-unit-p-keb-kelas-c",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat Paket Unit Penanggulangan Kebakaran Kelas C perlu dihitung dari anggota regu, kesehatan, jenjang, shift, risiko, alat, komando, dan dokumen perusahaan.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Paket Unit Kelas C mendaftarkan anggota sebagai satu kebutuhan perusahaan, tetapi setiap peserta tetap harus layak dan memiliki dokumen sendiri. Tujuannya membentuk regu yang dapat bekerja bersama, bukan membeli sertifikat massal. Perusahaan perlu menentukan anggota, area, shift, personel cadangan, Koordinator Kelas B, dan hubungan dengan Kelas A sebelum jadwal disusun."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Persyaratan Anggota Unit"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Ditugaskan sebagai anggota Regu Kelas C",
+                "Sehat dan siap mengikuti praktik pemadaman",
+                "Memenuhi pengalaman/jenjang serta dokumen pembinaan aktif",
+                "Tersedia untuk latihan tim dan penempatan per shift"
+            ]
+        },
+        {
+            "type": "citation",
+            "text": "Unit Penanggulangan Kebakaran di Tempat Kerja.",
+            "source": "Kepmenaker No. 186/MEN/1999"
+        },
+        {
+            "type": "paragraph",
+            "text": "Satu daftar perusahaan tidak menggantikan verifikasi per orang. Sertifikat Kelas D atau pengalaman damkar perlu dilampirkan bila relevan. Jangan menganggap semua pekerja cocok untuk fungsi fisik dan taktis. Pemeriksaan kesehatan, kesiapan, komunikasi, serta kemampuan bekerja dalam komando penting untuk regu."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dokumen dan Peta Regu"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah, CV, pas foto, surat sehat, dan surat tugas setiap calon",
+                "Sertifikat jenjang sebelumnya bila ada",
+                "Daftar regu, area, shift, koordinator, dan cadangan",
+                "Profil bahaya, APAR/hidran, luas, dan target audit"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Paket unit bukan paket DCBA karena hanya mengisi Kelas C. Bila Kelas D, B, atau A belum tersedia, struktur masih belum lengkap. Pembagian angkatan harus menjaga fasilitas tetap memiliki personel tanggap darurat saat sebagian anggota mengikuti pembinaan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Sertifikasi Harus Diikuti Kesiapan Operasional"
+        },
+        {
+            "type": "paragraph",
+            "text": "Regu membutuhkan alat, inspeksi, drill, komunikasi, command system, evakuasi, dan batas respons. Sertifikat tidak membenarkan interior firefighting tanpa perlindungan serta prosedur. Perusahaan harus menetapkan kapan regu mundur dan menyerahkan penanganan kepada pemadam eksternal."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "FAQ dan Quotation Tim"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah paket unit lebih murah? Biaya bergantung jumlah, lokasi, jadwal, dan komponen resmi; minta quotation. Apakah satu orang cukup? Tidak disebut regu. Kirim struktur DCBA, jumlah anggota per shift, profil fasilitas, dokumen calon, lokasi, dan tenggat agar tim menghitung kebutuhan serta jadwal."
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah seluruh anggota harus berada dalam satu angkatan? Tidak selalu. Pembagian dapat disusun agar cakupan darurat tetap tersedia, tetapi regu perlu kesempatan berlatih bersama. Sampaikan jadwal shift dan personel cadangan sebelum rencana kelas dibuat."
+        },
+        {
+            "type": "paragraph",
+            "text": "Minta rincian dokumen yang diterbitkan untuk setiap peserta dan estimasi prosesnya. Perusahaan perlu menyimpan matriks masa berlaku agar turnover atau kedaluwarsa tidak kembali membuat regu kekurangan anggota."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim daftar regu per shift agar paket Unit Kelas C disusun berdasarkan kebutuhan nyata."
+        }
+    ],
+    "related_offering_slug": "unit-p-keb-kelas-c",
+    "meta_title": "Syarat Mengikuti Unit P. Keb Kelas C — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Unit P. Keb Kelas C resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifi",
+    "published_at": "2026-07-31"
+}

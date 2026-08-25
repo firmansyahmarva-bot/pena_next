@@ -1,0 +1,96 @@
+{
+    "id": "01kyw9mcjk6bpkkrwdyxbbek4w",
+    "title": "Syarat TKBT Tingkat II Kemnaker",
+    "slug": "syarat-tkbt-ii-tenaga-kerja-bangunan-tinggi",
+    "path": "/panduan/k3-teknis/syarat-tkbt-ii-tenaga-kerja-bangunan-tinggi",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat TKBT Tingkat II perlu diverifikasi dari jenjang/pengalaman sebelumnya, kompleksitas akses, kesehatan, kemampuan rescue, metode kerja, dan permintaan proyek.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "TKBT Tingkat II ditujukan untuk pekerjaan dengan kompleksitas serta tanggung jawab lebih tinggi, bukan sekadar pilihan agar sertifikat terlihat senior. Calon perlu menunjukkan dasar kompetensi, pengalaman, serta tugas yang melibatkan konfigurasi akses lebih sulit atau kemampuan tambahan. Metode kerja, anchor, struktur, perpindahan, potensi suspension, dan kebutuhan penyelamatan harus dijelaskan sebelum pendaftaran."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kriteria Calon Tingkat II"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memiliki kompetensi/pengalaman dasar yang relevan",
+                "Ditugaskan pada pekerjaan sesuai lingkup Tingkat II",
+                "Sehat dan siap untuk praktik dengan tuntutan lebih tinggi",
+                "Memenuhi dokumen pendidikan serta pengalaman pembinaan aktif"
+            ]
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja dalam Pekerjaan pada Ketinggian.",
+            "source": "Permenaker No. 9 Tahun 2016"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikat Tingkat I, pengalaman, dan uraian tugas perlu dilihat bersama. Tidak semua pengalaman di ketinggian setara. Operator gondola, scaffolder, dan pekerja rope access dapat menghadapi sistem berbeda. Tim PENA melakukan pre-check, sedangkan kelayakan resmi mengikuti penyelenggaraan dan aturan berlaku."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Berkas dan Bukti Pekerjaan"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah, CV, pas foto, surat sehat, dan surat tugas",
+                "Sertifikat tingkat dasar atau bukti pengalaman",
+                "Metode kerja, struktur, anchor, akses, dan rescue plan",
+                "Persyaratan proyek, jumlah peserta, lokasi, dan target"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Jangan menggunakan foto pekerjaan berisiko sebagai bukti tanpa konteks. Portofolio harus menunjukkan praktik aman dan peran calon. Informasi klien dapat disamarkan. Periksa nama dan masa berlaku berkas. Untuk perusahaan, petakan Tingkat I dan II per tugas agar anggaran tidak dihabiskan pada jenjang yang tidak diperlukan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Sistem Kerja Aman Tetap Wajib"
+        },
+        {
+            "type": "paragraph",
+            "text": "Pelatihan tidak menggantikan engineered anchor, inspeksi, fall restraint/arrest, izin, exclusion zone, pengawas, cuaca, rescue equipment, dan latihan penyelamatan. Kemampuan self-rescue bukan alasan bekerja sendirian. Rencana harus memperhitungkan suspension trauma dan akses bantuan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "FAQ dan Penawaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah bisa langsung Tingkat II? Jawabannya bergantung pada ketentuan serta bukti calon. Apakah Tingkat II sama dengan semua rope access? Tidak otomatis. Kirim sertifikat, CV, metode kerja, struktur, tugas, jumlah peserta, dan tenggat agar tim memeriksa jenjang, kelengkapan, jadwal, serta biaya resmi."
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah kemampuan rescue berarti pekerja boleh bekerja sendirian? Tidak. Rencana, komunikasi, personel pendukung, alat, akses bantuan, dan pengawasan tetap diperlukan. Kompetensi individu tidak menghapus kebutuhan sistem penyelamatan tim."
+        },
+        {
+            "type": "paragraph",
+            "text": "Periksa juga kesiapan fisik calon mendekati jadwal. Kondisi kesehatan dapat berubah; surat lama tidak boleh menjadi satu-satunya dasar bila pekerjaan dan praktik menuntut kemampuan yang lebih tinggi."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim bukti jenjang dan metode kerja untuk memeriksa kesiapan TKBT Tingkat II."
+        }
+    ],
+    "related_offering_slug": "tkbt-ii-tenaga-kerja-bangunan-tinggi",
+    "meta_title": "Syarat Mengikuti TKBT II (Tenaga Kerja Bangunan Tinggi) ",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti TKBT II (Tenaga Kerja Bangunan Tinggi) resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermogra",
+    "published_at": "2026-07-31"
+}

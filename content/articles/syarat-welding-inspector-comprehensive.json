@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9mq7wd62b917j2qdr5cc1",
+    "title": "Syarat Mengikuti Sertifikasi Welding Inspector Comprehensive",
+    "slug": "syarat-welding-inspector-comprehensive",
+    "path": "/panduan/sertifikasi-k3/syarat-welding-inspector-comprehensive",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Persyaratan sertifikasi Welding Inspector Comprehensive.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Disyaratkan telah memegang sertifikat Welding Inspector Standard atau memiliki pengalaman inspeksi las minimal 5 tahun di industri berat."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Uji evaluasi meliputi interpretasi film radiografi, evaluasi laporan UT, dan persetujuan WPS."
+        }
+    ],
+    "related_offering_slug": "welding-inspector-comprehensive",
+    "meta_title": "Syarat Mengikuti Welding Inspector Comprehensive — Guide",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Welding Inspector Comprehensive resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI,",
+    "published_at": "2026-07-31"
+}

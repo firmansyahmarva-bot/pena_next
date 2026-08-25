@@ -1,0 +1,95 @@
+{
+    "id": "01kyw9ma3bdnxgy1ym9qw9pgs5",
+    "title": "Jadwal Petugas Peran Kebakaran Kelas D 2026",
+    "slug": "jadwal-petugas-peran-kebakaran-kelas-d-2026",
+    "path": "/panduan/k3-teknis/jadwal-petugas-peran-kebakaran-kelas-d-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Panduan jadwal Petugas Peran Kebakaran Kelas D 2026 untuk menyusun batch Kemnaker, peserta per shift, praktik APAR, biaya, dan struktur perusahaan.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Jadwal Petugas Peran Kebakaran Kelas D 2026 seharusnya mengikuti pemetaan risiko, area, dan shift perusahaan. Program tercatat sebagai jenjang dasar Kemnaker berdurasi sekitar tiga hari. Tanggal aktif belum terverifikasi, dan Kelas D tidak sama dengan Regu Kelas C, Koordinator Kelas B, atau Ahli K3 Kebakaran Kelas A."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Jadwal Aktif, Bukan Tanggal Rekaan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Tiga hari tidak otomatis mencakup seluruh administrasi atau dokumen. Periksa tanggal, jam, lokasi, praktik, alat pemadam, kuota, status confirmed, dan rencana cuaca. Pastikan jumlah peserta tiap shift tetap memungkinkan respons awal ketika sebagian personel mengikuti pembinaan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Checklist Verifikasi Batch 2026"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Tanggal teori/praktik, lokasi, jam, APAR/bahan, kuota, minimum peserta, dan status",
+                "Calon per area dan shift, surat tugas, kesehatan, identitas, pengalaman, serta dokumen",
+                "Cakupan Kelas D, evaluasi, administrasi Kemnaker, fasilitas, dan estimasi dokumen",
+                "Biaya publik/in-house, alat dan bahan habis pakai, perjalanan, pajak, serta reschedule"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pre-check Peserta dan Bukti Kerja"
+        },
+        {
+            "type": "paragraph",
+            "text": "Petakan calon berdasarkan area dan shift, bukan hanya daftar nama dari HR. Peserta perlu memahami alarm, pelaporan, evakuasi, batas pemadaman awal, pemilihan APAR, dan kapan harus mundur. Pembinaan tidak menggantikan inspeksi APAR, jalur evakuasi, latihan berkala, atau komando darurat."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Batch Publik atau Pelatihan In-house?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Batch publik cocok untuk menutup gap kecil. In-house membantu melatih banyak pekerja dengan skenario perusahaan, tetapi area praktik, alat, bahan, izin, pengendalian asap/api, dan personel tanggap darurat cadangan harus direncanakan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan Harga, Syarat, dan Sertifikat"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah Kelas D cukup untuk membentuk regu? Tidak otomatis. Apakah tiga hari termasuk sertifikat? Tidak. Apakah semua pekerja harus ikut? Pemetaan kebutuhan diperlukan. Apakah praktik APAR termasuk? Pastikan quotation. Apakah dapat dibagi per shift? Dapat dibahas."
+        },
+        {
+            "type": "paragraph",
+            "text": "Rencanakan mundur dari target audit, tender, shutdown, atau mobilisasi. Sisihkan waktu untuk pemeriksaan syarat, koreksi dokumen, persetujuan anggaran, pendaftaran, pelaksanaan, evaluasi atau asesmen, perbaikan bila diperlukan, dan proses dokumen hasil. Tanggal selesai kelas bukan janji sertifikat, lisensi, atau keputusan kompeten langsung terbit. Simpan satu opsi tanggal cadangan dan jangan membeli tiket sebelum status batch, lokasi, serta minimum peserta dikonfirmasi tertulis."
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk permintaan perusahaan, tunjuk satu PIC yang mengendalikan daftar peserta, dokumen, PO, fasilitas praktik, komunikasi jadwal, dan reschedule. Quotation perlu menjelaskan harga per peserta atau paket, pajak, minimum peserta, alat dan bahan praktik, perjalanan, konsumsi, evaluasi, retake, penggantian nama, pembatalan, serta estimasi dokumen. Perbandingan seperti ini lebih berguna daripada memilih angka headline termurah."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Jadwal Aktif dan Quotation"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim jumlah pekerja per shift, area, risiko, struktur D-C-B-A, lokasi, fasilitas praktik, dan target audit. Tim PENA akan memberi jadwal Damkar Kelas D aktif dan quotation."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kalender batch 2026 belum terverifikasi dalam data program. Tim PENA akan memeriksa jadwal aktif, jalur, dan kesiapan peserta sebelum memberikan rekomendasi."
+        }
+    ],
+    "related_offering_slug": "petugas-peran-kebakaran-kelas-d",
+    "meta_title": "Jadwal Petugas Peran Kebakaran Kelas D 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Jadwal Petugas Peran Kebakaran Kelas D 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan ",
+    "published_at": "2026-07-31"
+}

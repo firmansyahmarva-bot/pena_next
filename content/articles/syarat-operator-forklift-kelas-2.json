@@ -1,0 +1,27 @@
+{
+    "id": "01kyw9kt2nrv7gwqr5hzgag3kp",
+    "title": "Syarat Mengikuti Pelatihan Operator Forklift Kelas 2",
+    "slug": "syarat-operator-forklift-kelas-2",
+    "path": "/panduan/sertifikasi-k3/syarat-operator-forklift-kelas-2",
+    "role": "article",
+    "cluster": {
+        "name": "Sertifikasi K3",
+        "slug": "sertifikasi-k3"
+    },
+    "summary": "Persyaratan pendaftaran sertifikasi SIO Operator Forklift Kelas 2 Kemnaker RI.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Persyaratan peserta: usia minimal 19 tahun, pendidikan minimal SLTP / SLTA / SMK sederajat, sehat jasmani (tidak buta warna), dan surat permohonan resmi dari perusahaan tempat bekerja."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Pelatihan meliputi materi teori 3 hari, simulasi P2H, dan uji praktik manuver zig-zag pallet di hadapan Pengawas Ketenagakerjaan."
+        }
+    ],
+    "related_offering_slug": "operator-forklift-kelas-2",
+    "meta_title": "Syarat Mengikuti Operator Forklift Kelas 2 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Operator Forklift Kelas 2 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan s",
+    "published_at": "2026-07-31"
+}

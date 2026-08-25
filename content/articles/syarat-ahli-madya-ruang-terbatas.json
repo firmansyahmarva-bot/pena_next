@@ -1,0 +1,92 @@
+{
+    "id": "01kyw9kbswnx0web78hszcfygc",
+    "title": "Syarat Ahli Madya K3 Ruang Terbatas BNSP",
+    "slug": "syarat-ahli-madya-ruang-terbatas",
+    "path": "/panduan/k3-teknis/syarat-ahli-madya-ruang-terbatas",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat mengikuti Ahli Madya K3 Ruang Terbatas: jenjang menengah skema BNSP, umumnya mensyaratkan pengalaman sebagai Ahli Muda sebelum mengambil sertifikasi ini.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Sebagai jenjang menengah dalam struktur ruang terbatas BNSP, Ahli Madya umumnya diambil setelah peserta punya pengalaman sebagai Ahli Muda — sejalan dengan pola jenjang karier K3 di Indonesia yang mensyaratkan pengalaman jenjang sebelumnya sebagai prasyarat."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Persyaratan Umum Peserta"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memiliki pengalaman kerja atau sertifikasi sebagai Ahli Muda K3 Ruang Terbatas",
+                "Bekerja atau ditugaskan pada operasi ruang terbatas dengan kompleksitas menengah-tinggi",
+                "Sehat jasmani dan rohani",
+                "Bersedia mengikuti seluruh sesi pelatihan dan uji kompetensi BNSP"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan pengalaman spesifik mengikuti ketentuan skema/unit kompetensi LSP penyelenggara — tim kami akan mengonfirmasi kelayakan Anda sebelum pendaftaran."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kelengkapan Berkas"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir",
+                "Bukti sertifikasi Ahli Muda K3 Ruang Terbatas (bila sudah dimiliki)",
+                "Curriculum vitae yang mencantumkan pengalaman ruang terbatas",
+                "Pas foto terbaru latar belakang merah"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kesetaraan Pengalaman Tidak Boleh Diasumsikan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ahli Madya adalah jenjang yang menuntut bukti pengelolaan risiko lebih kompleks. Sertifikat Ahli Muda membantu, tetapi asesor juga dapat memerlukan bukti pekerjaan sesuai skema: rencana entry, kajian bahaya, permit, pengujian atmosfer, pengawasan tim, atau evaluasi insiden. Pendidikan dan masa pengalaman harus diperiksa berdasarkan skema LSP yang aktif."
+        },
+        {
+            "type": "paragraph",
+            "text": "Program cocok bagi personel yang telah melewati fungsi dasar dan mendapat tanggung jawab koordinasi atau evaluasi. Teknisi entrant/attendant atau peserta tanpa portofolio pengelolaan confined space mungkin perlu memperkuat jenjang sebelumnya. Sertifikasi juga tidak menggantikan rescue plan, gas detector, isolasi, ventilasi, komunikasi, dan kewenangan perusahaan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pre-Assessment Sebelum Memesan Program"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim sertifikat lama, ijazah, CV, uraian tugas, bukti proyek ruang terbatas, jenis fasilitas, persyaratan klien, jumlah peserta, lokasi, dan target. Tim PENA akan memeriksa dokumen terhadap skema, mengidentifikasi bukti yang kurang, serta memberikan jadwal dan biaya. Untuk perusahaan, sertakan matriks jenjang agar Ahli Muda, Madya, Utama, dan teknisi tidak tertukar."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bukti proyek dapat disamarkan bila memuat informasi klien, tetapi tetap perlu menunjukkan jenis ruang, periode kerja, tanggung jawab, dan hasil pekerjaan calon. Susun berkas per peserta, bukan dicampur dalam satu folder tanpa label. Pre-assessment yang rapi mengurangi koreksi menjelang asesmen dan membantu perusahaan melihat gap kompetensi lebih awal."
+        },
+        {
+            "type": "paragraph",
+            "text": "Pastikan calon tersedia mengikuti seluruh tahapan dan memahami bahwa kelulusan bergantung pada hasil asesmen. Pembayaran program bukan jaminan kompeten; kekurangan bukti harus diperbaiki melalui proses yang sah."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Belum punya sertifikasi Ahli Muda tapi punya pengalaman ruang terbatas yang setara? Tim kami dapat membantu menilai kesetaraannya sebelum pendaftaran."
+        }
+    ],
+    "related_offering_slug": "ahli-madya-ruang-terbatas",
+    "meta_title": "Syarat Mengikuti Ahli Madya Ruang Terbatas — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Ahli Madya Ruang Terbatas resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan s",
+    "published_at": "2026-07-31"
+}

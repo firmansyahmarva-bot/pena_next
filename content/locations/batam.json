@@ -1,0 +1,20 @@
+{
+    "id": "01kyw9p1c3qz6mtj62v1ym8bha",
+    "name": "Batam",
+    "slug": "batam",
+    "path": "/cabang/batam",
+    "is_physical": false,
+    "address": null,
+    "intro": [
+        {
+            "type": "paragraph",
+            "text": "Batam, sebagai kawasan perdagangan bebas (FTZ) yang berbatasan langsung dengan Singapura, adalah salah satu basis industri elektronik, galangan kapal, dan fabrikasi lepas pantai (offshore) terbesar di Indonesia. Sektor industri kota ini berkembang sejak dekade 1970-an dari galangan kapal dan perminyakan lepas pantai, hingga berdirinya Batamindo Industrial Park (Muka Kuning) pada 1990 sebagai kawasan industri elektronik pertama dan terbesar di Batam."
+        },
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyelenggarakan pelatihan dan sertifikasi K3 yang relevan untuk kebutuhan industri elektronik, galangan kapal, dan fabrikasi lepas pantai di Batam dan sekitarnya — skema Kemnaker RI maupun BNSP, tersedia online maupun in-house."
+        }
+    ],
+    "service_areas": [],
+    "phone": null
+}

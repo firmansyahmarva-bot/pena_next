@@ -1,0 +1,87 @@
+{
+    "id": "01kyw9ks3c70enj411mke9yr0t",
+    "title": "Syarat Operator Crane Kelas 3 Kemnaker",
+    "slug": "syarat-operator-crane-kelas-3",
+    "path": "/panduan/k3-teknis/syarat-operator-crane-kelas-3",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat Operator Crane Kelas 3 ditentukan oleh jenis dan kapasitas crane, tugas nyata, pendidikan, pengalaman, kesehatan, surat penugasan, serta ketentuan lisensi Kemnaker.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Operator Crane Kelas 3 adalah jalur lisensi yang harus dicocokkan dengan alat, bukan dipilih karena dianggap kelas awal untuk semua crane. Mobile crane, overhead crane, tower crane, dan jenis lain memiliki karakter operasi berbeda. Kapasitas serta ruang lingkup pekerjaan perlu diverifikasi sebelum peserta didaftarkan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Persyaratan Umum Calon Operator"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Bekerja atau ditugaskan mengoperasikan jenis crane yang relevan dengan Kelas 3",
+                "Memiliki pendidikan dan pengalaman sesuai ketentuan pembinaan yang berlaku",
+                "Sehat jasmani dan rohani serta memiliki kemampuan visual dan koordinasi yang memadai",
+                "Bersedia mengikuti teori, praktik, evaluasi, dan aturan keselamatan selama pembinaan"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Permenaker No. 8 Tahun 2020 mengatur K3 pesawat angkat dan angkut. Rincian kelayakan tetap harus diperiksa dari dokumen serta alat. Pengalaman forklift, excavator, atau alat berat lain tidak otomatis setara dengan crane karena beban tergantung, radius ayun, stabilitas, load chart, rigging, dan komunikasi sinyal memiliki risiko khusus."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Berkas Peserta dan Spesifikasi Crane"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah, CV, pas foto, surat sehat, surat tugas, dan surat pengalaman",
+                "Foto nameplate, jenis/model, kapasitas maksimum, dan lokasi operasi crane",
+                "Uraian pekerjaan, lama pengalaman, serta bukti lisensi lama bila ada",
+                "Persyaratan tender atau klien yang menyebut kelas dan penerbit"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Pastikan nama konsisten dan dokumen terbaca. Foto nameplate lebih berguna daripada menyebut “crane kecil” atau “crane proyek”. Jika peserta mengoperasikan beberapa alat, sertakan semuanya. Tim harus menilai kelas dari tanggung jawab tertinggi yang sebenarnya dijalankan, bukan dari alat yang paling mudah memenuhi syarat."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Lisensi Operator Hanya Satu Bagian dari Lifting Safety"
+        },
+        {
+            "type": "paragraph",
+            "text": "Perusahaan tetap membutuhkan alat yang layak, pemeriksaan berkala, lift plan, rigger atau juru ikat, signalman, pengendalian area, inspeksi sling dan hook, batas cuaca, komunikasi, dan supervisi. Operator bersertifikat tidak dapat memperbaiki lift plan yang salah atau alat yang melebihi batas aman."
+        },
+        {
+            "type": "paragraph",
+            "text": "Jumlah operator perlu disesuaikan dengan shift, alat aktif, rotasi, cuti, dan proyek. Untuk mobilisasi tender, pastikan kelas, jenis crane, masa berlaku, dan bentuk dokumen benar-benar sama dengan persyaratan klien. Nama sertifikat yang mirip belum tentu diterima."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pre-Check Jadwal dan Penawaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim dokumen calon, pengalaman, foto nameplate, jenis dan kapasitas crane, lokasi, jumlah peserta, shift, serta tenggat. Tim PENA akan memeriksa kesesuaian Kelas 3, dokumen yang kurang, pilihan jadwal, durasi, dan biaya resmi. Pemeriksaan awal mencegah peserta membeli kelas yang tidak sesuai alat atau proyek."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim foto nameplate crane, kapasitas, dan pengalaman calon agar kelas lisensi dapat diperiksa sebelum pendaftaran."
+        }
+    ],
+    "related_offering_slug": "operator-crane-kelas-3",
+    "meta_title": "Syarat Mengikuti Operator Crane Kelas 3 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti Operator Crane Kelas 3 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sert",
+    "published_at": "2026-07-31"
+}

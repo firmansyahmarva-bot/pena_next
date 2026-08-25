@@ -1,0 +1,142 @@
+{
+    "id": "01kyfffhxhbrr3r0837yb7t8qv",
+    "type": "training",
+    "name": "Higiene Industri Muda (HIMU)",
+    "slug": "higiene-industri-muda-himu",
+    "path": "/pelatihan/higiene-industri-muda-himu",
+    "title": "Higiene Industri Muda (HIMU)",
+    "meta_title": "Sertifikasi Higiene Industri Muda HIMU BNSP: Uji Air & Gas",
+    "meta_description": "Uji kompetensi BNSP Higiene Industri Muda (HIMU). Pengoperasian alat sampling Sound Level Meter, Air Sampler, Impinger, Luxmeter sesuai Permenaker 05/2018.",
+    "summary": "Sertifikasi kompetensi Higiene Industri Muda (HIMU) BNSP untuk teknisi pengujian faktor lingkungan kerja di lapangan — menguasai pengoperasian alat ukur fisika, kimia, biologi, ergonomi, dan kalibrasi instrumen sesuai Permenaker No. 5 Tahun 2018.",
+    "certification_body": "bnsp",
+    "base_price": 7750000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi Higiene Industri Muda (HIMU) diselenggarakan berdasarkan SKKNI Bidang Higiene Industri Sub-Bidang Pengukuran & Sampling Lingkungan Kerja. Personel HIMU bertindak sebagai teknisi lapangan utama yang menjamin keandalan pengujian faktor bahaya lingkungan kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Penerapan pengujian lingkungan kerja diwajibkan oleh Permenaker No. 5 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja, di mana Pasal 2 dan Pasal 5 mengamanatkan bahwa seluruh tempat kerja wajib melakukan pengukuran dan pengujian faktor fisika, kimia, biologi, ergonomi, dan psikologi oleh personel terlisensi."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+            "source": "UU No. 13 Tahun 2003"
+        },
+        {
+            "type": "citation",
+            "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+            "source": "PP No. 23 Tahun 2004"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Lingkungan Kerja.",
+            "source": "Permenaker No. 5 Tahun 2018"
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini mendidik teknisi lapangan agar mampu melaksanakan sampling lingkungan kerja secara presisi. Setelah lulus asesmen, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Menguasai prosedur pengoperasian instrumen sampling fisik: Sound Level Meter (SLM) & Noise Dose Meter untuk pencahayaan dan kebisingan, Luxmeter untuk intensitas penerangan, serta WBGT Meter (Wet Bulb Globe Temperature) untuk iklim kerja panas",
+                "Melakukan sampling faktor kimia udara tempat kerja menggunakan High/Low Volume Air Sampler, Midget Impinger, Cyclone Sampler (debu respirabel), dan Gas Detector multiparameter (O2, CO, H2S, LEL)",
+                "Melaksanakan kalibrasi lapangan (field calibration) pra dan pasca sampling pada instrumen pengukuran debu dan gas dengan calibrator terverifikasi",
+                "Menyusun dokumen Chain of Custody (CoC) dan lembar data lapangan (field sampling sheet) untuk pengiriman sampel kimia/biologi ke laboratorium uji terakreditasi KAN",
+                "Melakukan identifikasi awal bahaya ergonomi (postur kerja RULA/REBA) dan faktor biologi (angka kuman udara/mikrobiologi)",
+                "Meraih Sertifikat Kompetensi BNSP bersimbol Garuda skema Higiene Industri Muda (HIMU) yang diakui secara nasional"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kurikulum pelatihan teknis sampling & asesmen BNSP:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul 1: Dasar-Dasar Higiene Industri & Pengawasan Permenaker No. 5 Tahun 2018",
+                "Modul 2: Teknik Pengukuran Faktor Fisik (Kebisingan SLM, Getaran, Pencahayaan Luxmeter, Iklim Kerja WBGT, Sinar UV)",
+                "Modul 3: Teknik Sampling Faktor Kimia Udara Tempat Kerja (Debu Total & Respirabel, Gas Beracun, Vapors, Midget Impinger & Air Sampler)",
+                "Modul 4: Kalibrasi Lapangan Instrumen Sampling & Dokumentasi CoC (Chain of Custody)",
+                "Modul 5: Pengenalan Sampling Biologi Udara & Evaluasi Ergonomi Lapangan",
+                "Pelaksanaan Asesmen: Penilaian portofolio teknik sampling, uji tertulis, observasi praktik penggunaan instrumen di Tempat Uji Kompetensi (TUK), & wawancara lisan asesor BNSP"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Minimal D3 Teknik/MIPA/Kesehatan Masyarakat (K3) dengan pengalaman kerja sampling lingkungan kerja minimal 1 tahun, ATAU SMA/SMK dengan pengalaman kerja minimal 3 tahun",
+                "Melengkapi dokumen portofolio teknis sampling (CV, contoh laporan sampling lapangan, kalibrasi alat, foto kerja)",
+                "Pasfoto formal latar belakang merah (3x4 & 4x6), KTP, & ijazah"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "paragraph",
+            "text": "Kelengkapan administrasi yang umum dipersyaratkan untuk mengikuti program ini:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP",
+                "Fotokopi ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat keterangan sehat dari dokter",
+                "Surat rekomendasi/penugasan dari perusahaan (untuk peserta utusan perusahaan)",
+                "Curriculum vitae (untuk skema sertifikasi BNSP)"
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Persyaratan pendidikan minimum dan pengalaman kerja mengikuti ketentuan skema/penunjukan yang berlaku — tim kami akan memverifikasi kelengkapan Anda sebelum pendaftaran diproses."
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul dan materi pelatihan",
+                "Instruktur praktisi tersertifikasi di bidangnya",
+                "Ujian/asesmen sertifikasi",
+                "Sertifikat sesuai skema (Kemnaker RI atau BNSP)",
+                "Konsultasi pasca-pelatihan"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir pendaftaran di halaman ini.",
+                "Terima penawaran resmi: jadwal, biaya, dan persyaratan program.",
+                "Lengkapi berkas administrasi dan lakukan konfirmasi pendaftaran.",
+                "Ikuti pelatihan dan ujian/asesmen sertifikasi.",
+                "Terima sertifikat dan lisensi/kartu kompetensi sesuai skema."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

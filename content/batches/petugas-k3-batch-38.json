@@ -1,0 +1,17 @@
+{
+    "id": "01kywb7xycpp6je5zxtde6s0da",
+    "slug": "petugas-k3-batch-38",
+    "path": "/jadwal/petugas-k3-batch-38",
+    "batch_number": "38",
+    "start_date": "2027-01-25",
+    "end_date": "2027-01-27",
+    "is_online": false,
+    "mode": "offline",
+    "normal_price": 4500000,
+    "promo_price": 2500000,
+    "offering_name": "Petugas K3",
+    "offering_slug": "petugas-k3",
+    "certification_body": "bnsp",
+    "location_name": "TUK Onsite",
+    "availability": "available"
+}

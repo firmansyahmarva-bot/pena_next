@@ -1,0 +1,100 @@
+{
+    "id": "01kyw9mbv8ytnkw0jjxyw4bh70",
+    "title": "Syarat TKBT Tingkat I Kemnaker",
+    "slug": "syarat-tkbt-i-tenaga-kerja-bangunan-tinggi",
+    "path": "/panduan/k3-teknis/syarat-tkbt-i-tenaga-kerja-bangunan-tinggi",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Syarat TKBT Tingkat I perlu menilai pekerjaan di ketinggian, metode akses, kesehatan, pengalaman, pendidikan, perlindungan jatuh, dan persyaratan proyek.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "TKBT Tingkat I bukan sertifikat umum untuk semua pekerjaan yang posisinya tinggi. Calon perlu dipetakan berdasarkan struktur, metode akses, posisi kerja, ketinggian, anchor, alat pelindung jatuh, tugas, dan persyaratan klien. Pengguna tangga, pekerja platform, operator scaffolding, serta rope access dapat membutuhkan kompetensi berbeda walaupun semuanya menghadapi risiko jatuh."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kesiapan Peserta"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Ditugaskan melakukan pekerjaan pada ketinggian sesuai lingkup TKBT I",
+                "Sehat dan dinyatakan siap untuk aktivitas terkait",
+                "Memenuhi pendidikan/pengalaman pembinaan yang berlaku",
+                "Siap menggunakan harness, lanyard, anchor, dan prosedur aman"
+            ]
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja dalam Pekerjaan pada Ketinggian.",
+            "source": "Permenaker No. 9 Tahun 2016"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kondisi kesehatan perlu dinilai secara layak karena pekerjaan dapat melibatkan keseimbangan, beban fisik, dan paparan ketinggian. Pengalaman harus sesuai metode kerja. Artikel ini tidak menetapkan diagnosis atau menjamin kelayakan. Persyaratan pendidikan, pengalaman, dan dokumen perlu dikonfirmasi pada pembinaan aktif."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dokumen dan Metode Kerja"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "KTP, ijazah, CV, pas foto, surat sehat, dan surat tugas",
+                "Uraian pengalaman pekerjaan ketinggian",
+                "Foto struktur, metode akses, ketinggian, anchor, dan APD",
+                "Matriks kompetensi serta tenggat proyek"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Foto atau metode kerja membantu membedakan TKBT I, Tingkat II, TKPK, scaffolding, dan kompetensi lain. Data proyek dapat disamarkan. Untuk kelas perusahaan, kelompokkan calon berdasarkan aktivitas dan shift; jangan mendaftarkan satu departemen ke program sama bila cara kerjanya berbeda."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pelatihan Tidak Menggantikan Fall-Protection System"
+        },
+        {
+            "type": "paragraph",
+            "text": "Perusahaan tetap membutuhkan perencanaan, anchor layak, inspeksi alat, guardrail, exclusion zone, izin kerja, pengawasan, cuaca, rescue plan, dan personel penyelamat. Sertifikat pekerja tidak membenarkan anchor improvisasi atau pekerjaan tanpa rencana penyelamatan."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "FAQ, Jadwal, dan Biaya"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah TKBT I sama dengan Operator Scaffolding? Tidak. Apakah setiap pekerjaan memerlukan Tingkat II? Tidak; tentukan dari kompleksitas serta persyaratan. Kirim metode kerja, foto struktur, tugas, kesehatan, pengalaman, jumlah peserta, lokasi, dan tenggat agar tim memeriksa tingkat, dokumen, jadwal, serta penawaran."
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah harness sendiri sudah cukup? Tidak. Sistem memerlukan anchor, konektor, metode restraint atau arrest yang benar, clearance, inspeksi, dan rescue. Pemilihan alat harus mengikuti kajian pekerjaan, bukan hanya perlengkapan yang tersedia di gudang."
+        },
+        {
+            "type": "paragraph",
+            "text": "Tanyakan pula masa berlaku, proses pembaruan, bentuk dokumen, dan waktu penerbitan sebelum menjanjikan mobilisasi. Jadwal proyek perlu memberi ruang untuk verifikasi peserta serta proses resmi setelah pembinaan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Catat hasil pre-check setiap calon."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kirim metode akses dan foto struktur untuk memastikan TKBT Tingkat I sesuai."
+        }
+    ],
+    "related_offering_slug": "tkbt-i-tenaga-kerja-bangunan-tinggi",
+    "meta_title": "Syarat Mengikuti TKBT I (Tenaga Kerja Bangunan Tinggi) —",
+    "meta_description": "Panduan teknis keselamatan Syarat Mengikuti TKBT I (Tenaga Kerja Bangunan Tinggi) resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermograp",
+    "published_at": "2026-07-31"
+}

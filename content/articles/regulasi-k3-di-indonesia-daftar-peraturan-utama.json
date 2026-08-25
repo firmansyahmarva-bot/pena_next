@@ -1,0 +1,87 @@
+{
+    "id": "01kyhqmdswh4273b6jpycye1rj",
+    "title": "Regulasi K3 di Indonesia: Daftar Peraturan & Undang-Undang Utama",
+    "slug": "regulasi-k3-di-indonesia-daftar-peraturan-utama",
+    "path": "/panduan/regulasi-k3",
+    "role": "pillar",
+    "cluster": {
+        "name": "Regulasi K3",
+        "slug": "regulasi-k3"
+    },
+    "summary": "Kompilasi hierarki dan daftar peraturan perundangan K3 utama yang berlaku di Indonesia dari Undang-Undang hingga Peraturan Menteri Ketenagakerjaan dan Kesehatan.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Penegakan keselamatan dan kesehatan kerja di Indonesia memiliki landasan hukum yang kuat, mengikat seluruh tempat kerja, dan memiliki sanksi hukum yang tegas bagi pihak yang melanggar."
+        },
+        {
+            "type": "citation",
+            "text": "Hierarki Peraturan Perundangan K3 Indonesia.",
+            "source": "Kompilasi Hukum Ketenagakerjaan Nasional"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Daftar Peraturan K3 Utama Berdasarkan Bidang Pengawasan"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "Bidang Norma K3",
+                "Nomor Regulasi Resmi",
+                "Substansi & Kewajiban Utama"
+            ],
+            "rows": [
+                [
+                    "Payung Hukum Utama",
+                    "UU No. 1 Tahun 1970",
+                    "Kewajiban syarat keselamatan kerja di seluruh tempat kerja darat, laut, dan udara"
+                ],
+                [
+                    "Sistem Manajemen K3",
+                    "PP No. 50 Tahun 2012",
+                    "Kewajiban penerapan SMK3 bagi perusahaan mempekerjakan ≥ 100 orang atau bahaya tinggi"
+                ],
+                [
+                    "K3 Lingkungan Kerja",
+                    "Permenaker No. 05 Tahun 2018",
+                    "Pengukuran faktor fisika, kimia, biologi, ergonomi, psikologi, dan Nilai Ambang Batas (NAB)"
+                ],
+                [
+                    "K3 Pesawat Angkat & Angkut",
+                    "Permenaker No. 08 Tahun 2020",
+                    "Syarat keselamatan crane, forklift, alat berat, dan lisensi SIO operator"
+                ],
+                [
+                    "K3 Instalasi Listrik",
+                    "Permenaker No. 12 Tahun 2015",
+                    "Standar instalasi listrik, sistem proteksi petir, dan lisensi Ahli/Teknisi K3 Listrik"
+                ],
+                [
+                    "K3 Bekerja Pada Ketinggian",
+                    "Permenaker No. 09 Tahun 2016",
+                    "Pencegahan jatuh, Full Body Harness 100% tie-off, dan lisensi TKBT/TKPK"
+                ],
+                [
+                    "K3 Pertolongan Pertama (P3K)",
+                    "Permenaker No. 15 Tahun 2008",
+                    "Rasio wajib petugas P3K, isi standar kotak P3K, dan lisensi petugas P3K"
+                ],
+                [
+                    "K3 Rumah Sakit & Fasyankes",
+                    "Permenkes No. 66/2016 & No. 52/2018",
+                    "Standar keselamatan fasilitas kesehatan, limbah B3 medis, dan proteksi radiasi"
+                ]
+            ]
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Kepatuhan terhadap regulasi di atas menjamin operasional perusahaan terbebas dari sanksi pidana dan menjaga produktivitas tenaga kerja secara berkelanjutan."
+        }
+    ],
+    "related_offering_slug": "auditor-sistem-manajemen-k3",
+    "meta_title": "Regulasi K3 Di Indonesia Daftar Peraturan Utama K3 AI",
+    "meta_description": "Panduan komprehensif Regulasi K3 di Indonesia: Daftar Peraturan Utama. Pembahasan mendalam regulasi Kemnaker RI, BNSP, teknologi AI, & sertifikasi K",
+    "published_at": "2026-07-27"
+}

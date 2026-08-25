@@ -1,0 +1,20 @@
+{
+    "id": "01kyw9p2a3b62zq122eg1masav",
+    "name": "Cilegon",
+    "slug": "cilegon",
+    "path": "/cabang/cilegon",
+    "is_physical": false,
+    "address": null,
+    "intro": [
+        {
+            "type": "paragraph",
+            "text": "Cilegon adalah salah satu pusat industri berat terpadat di Indonesia — rumah bagi kawasan baja dan petrokimia terbesar di Asia Tenggara, tempat PT Krakatau Steel, PT Chandra Asri Petrochemical, PT Asahimas Chemical, dan ratusan perusahaan manufaktur serta rantai pasoknya beroperasi berdampingan. Kepadatan industri kimia dan logam berat ini membuat Cilegon memiliki profil risiko K3 yang jauh lebih kompleks dibanding kota manufaktur ringan — melibatkan bahan kimia berbahaya, ruang terbatas, tekanan tinggi, dan proses bersuhu ekstrem sebagai bagian dari operasional harian."
+        },
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyelenggarakan pelatihan dan sertifikasi K3 — skema Kemnaker RI maupun BNSP — yang relevan untuk kebutuhan spesifik industri kimia, baja, dan petrokimia di Cilegon dan sekitarnya, tersedia secara online maupun in-house di lokasi perusahaan Anda."
+        }
+    ],
+    "service_areas": [],
+    "phone": null
+}

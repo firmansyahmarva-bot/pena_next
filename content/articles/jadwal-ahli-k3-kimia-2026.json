@@ -1,0 +1,86 @@
+{
+    "id": "01kyw9k72c5ca51m2y2mm1894m",
+    "title": "Jadwal Ahli K3 Kimia Kemnaker 2026",
+    "slug": "jadwal-ahli-k3-kimia-2026",
+    "path": "/panduan/k3-teknis/jadwal-ahli-k3-kimia-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Panduan mencari jadwal Ahli K3 Kimia Kemnaker 2026, memeriksa durasi, kelayakan, kuota, mode kelas, serta tanggal penerbitan tanpa jadwal rekaan.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Data program mengonfirmasi Ahli K3 Kimia melalui Kemnaker dengan durasi sekitar 12 hari untuk ahli K3 pabrik kimia dan B3. Namun tanggal batch 2026 belum tersimpan sebagai jadwal terverifikasi. Karena itu halaman ini tidak menampilkan kalender palsu; calon harus meminta tanggal aktif dan status kuota."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Status Jadwal dan Durasi Program"
+        },
+        {
+            "type": "paragraph",
+            "text": "Durasi 12 hari adalah perkiraan lama program, bukan tanggal mulai, janji kelas pasti berjalan, atau estimasi dokumen terbit. Rencana perusahaan perlu memasukkan pre-check, pendaftaran, pembinaan, evaluasi, dan proses administrasi setelah kelas."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Yang Harus Dikonfirmasi Sebelum Memesan Kursi"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Tanggal mulai/selesai, jam harian, zona waktu, dan mode",
+                "Kuota tersedia, minimum peserta, batas pendaftaran, dan status confirmed",
+                "Kelayakan pendidikan/pengalaman, surat tugas, kesehatan, dan dokumen",
+                "Biaya, fasilitas, evaluasi, reschedule, serta estimasi dokumen Kemnaker"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pilih Batch Publik atau Kelas Perusahaan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Batch publik cocok untuk sedikit peserta dan jadwal fleksibel. Kelas perusahaan dapat dipertimbangkan untuk kelompok, kasus kimia/B3 spesifik, dan kebutuhan shift, tetapi tanggal bergantung kesiapan peserta, instruktur, fasilitas, dan proses. Jangan menunda pre-check sampai kursi hampir penuh."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bila kebutuhan berasal dari tender atau klien, lampirkan klausul aslinya saat meminta jadwal. Nama program yang terlihat mirip dapat memiliki penerbit, asesmen, dan hasil dokumen berbeda. Verifikasi ini mencegah tim memilih batch tercepat tetapi salah jalur, lalu harus mengulang proses ketika mobilisasi sudah dekat."
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk rencana mobilisasi, jangan memakai tanggal promosi lama sebagai komitmen. Buat garis waktu mundur dari kebutuhan personel: pemeriksaan kelayakan, pengumpulan dokumen, konfirmasi kuota, purchase order, pelaksanaan, evaluasi, dan estimasi penerbitan. Sisakan buffer untuk koreksi dokumen atau perubahan jadwal. Minta konfirmasi tertulis mengenai tanggal mulai dan selesai, jam belajar, lokasi atau platform, batas pendaftaran, minimum peserta, kebijakan reschedule, kehadiran, evaluasi, biaya, serta dokumen hasil. Dengan begitu jadwal pelatihan benar-benar terhubung ke kebutuhan audit atau proyek."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pertanyaan Jadwal yang Sering Diajukan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah ada kalender pasti 2026? Minta jadwal aktif. Apakah 12 hari termasuk penerbitan? Tidak. Apakah tersedia online? Konfirmasikan mode batch. Apakah kelas pasti berjalan? Tanyakan status confirmed. Kapan mendaftar? Mulai dari pemeriksaan dokumen sebelum target audit."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Minta Jadwal Aktif dan Pre-check"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim data calon, proses kimia/B3, lokasi, mode, jumlah peserta, dan target audit. Tim PENA akan memeriksa kelayakan dan mengirim jadwal aktif beserta quotation."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Tanggal batch 2026 belum terverifikasi dalam data program. Tim PENA akan mengonfirmasi jadwal aktif; durasi program bukan janji tanggal mulai atau tanggal dokumen terbit."
+        }
+    ],
+    "related_offering_slug": "ahli-k3-kimia",
+    "meta_title": "Jadwal Ahli K3 Kimia 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Jadwal Ahli K3 Kimia 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikasi.",
+    "published_at": "2026-07-31"
+}

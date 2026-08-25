@@ -1,0 +1,56 @@
+{
+    "id": "01kyhbn36sfvc1t4asx781dhz3",
+    "name": "Konstruksi",
+    "slug": "konstruksi",
+    "path": "/industri/konstruksi",
+    "description": "Sektor konstruksi memiliki tingkat risiko kecelakaan kerja tertinggi di Indonesia — bekerja pada ketinggian, alat berat, dan struktur bangunan menuntut kepatuhan K3 yang ketat di setiap tahap proyek.",
+    "regulatory_context": [
+        {
+            "type": "paragraph",
+            "text": "Kewajiban K3 spesifik sektor konstruksi diatur melalui:"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja pada Konstruksi Bangunan.",
+            "source": "Permenaker No. 01/MEN/1980"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja pada Tempat Kegiatan Konstruksi.",
+            "source": "SKB Menaker–MenPU No. 174/1986–104/KPTS/1986"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja dalam Pekerjaan pada Ketinggian.",
+            "source": "Permenaker No. 9 Tahun 2016"
+        },
+        {
+            "type": "paragraph",
+            "text": "Setiap proyek konstruksi umumnya mempersyaratkan personel K3 konstruksi tersertifikasi, ahli/petugas bekerja pada ketinggian, dan operator alat berat berlisensi."
+        }
+    ],
+    "relevant_offering_slugs": [
+        "ahli-muda-k3-konstruksi",
+        "auditor-sistem-manajemen-k3",
+        "ahli-k3-penanggulangan-kebakaran-kelas-a",
+        "regu-penanggulangan-kebakaran-kelas-c",
+        "petugas-peran-kebakaran-kelas-d",
+        "koordinator-unit-p-keb-kelas-b",
+        "unit-p-keb-kelas-c",
+        "damkar-paralel-kelas-dcba",
+        "operator-boiler-kelas-2",
+        "operator-forklift-kelas-2",
+        "operator-crane-kelas-3",
+        "operator-scaffolding",
+        "operator-alat-berat",
+        "tkbt-i-tenaga-kerja-bangunan-tinggi",
+        "tkbt-ii-tenaga-kerja-bangunan-tinggi",
+        "ahli-k3-konstruksi",
+        "pipe-group-welder-welding-inspector-basic"
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "01kyw9mheq6dd5520a3mehq8qx",
+    "title": "Biaya Teknisi K3 Ruang Terbatas BNSP 2026",
+    "slug": "biaya-teknisi-ruang-terbatas-2026",
+    "path": "/panduan/k3-teknis/biaya-teknisi-ruang-terbatas-2026",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Biaya Teknisi K3 Ruang Terbatas BNSP 2026 harus mempertimbangkan asesmen, bukti entrant/attendant, alat praktik, peserta, lokasi, dan kebutuhan klien.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Data program mencatat jalur BNSP berdurasi sekitar tiga hari untuk teknisi confined space, namun tidak memiliki harga publik terverifikasi. Quotation harus menjelaskan persiapan, asesmen, administrasi LSP, dokumen, dan tindak lanjut. Program ini berbeda dari Teknisi Confined Space Kemnaker."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Faktor yang Menentukan Biaya 2026"
+        },
+        {
+            "type": "paragraph",
+            "text": "Biaya efektif mencakup penyusunan portofolio, waktu kerja, perjalanan, pemeriksaan kesehatan bila diminta, fasilitas entry, dan kemungkinan perbaikan bukti. Pengalaman harus nyata dan tidak boleh dibuat hanya untuk memenuhi asesmen."
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Persiapan dan asesmen kompetensi entrant/attendant",
+                "Administrasi LSP serta dokumen hasil",
+                "Review bukti, alat praktik, APD, materi, dan pajak",
+                "Perjalanan, akomodasi, retake, atau pelaksanaan kelompok"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Data untuk Meminta Quotation"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "CV, tugas, pengalaman, kesehatan, dan sertifikat terkait",
+                "Permit/log entry atau bukti kerja yang aman dibagikan",
+                "Jenis ruang, bahaya, peran, alat, dan persyaratan klien",
+                "Jumlah peserta, lokasi, mode, skema, dan target mobilisasi"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Bandingkan Penawaran dengan Ruang Lingkup Sama"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bandingkan skema dan unit BNSP yang sama. Tanyakan LSP, asesmen, retake, perbaikan bukti, dokumen, dan penerbitan. Sertifikat tidak menggantikan permit, isolasi, detector terkalibrasi, ventilasi, komunikasi, standby person, atau rescue."
+        },
+        {
+            "type": "paragraph",
+            "text": "Untuk pengadaan kelompok, minta simulasi dua skenario: kelas publik per peserta dan kelas perusahaan dengan seluruh biaya lokasi. Nilai juga apakah semua calon memenuhi syarat, apakah operasional dapat melepas mereka pada tanggal yang sama, dan apakah fasilitas praktik perusahaan memenuhi kebutuhan. Keputusan terbaik adalah opsi yang menghasilkan personel tepat guna pada saat dibutuhkan, bukan sekadar total invoice terendah."
+        },
+        {
+            "type": "paragraph",
+            "text": "Hitung biaya efektif, bukan hanya harga per kursi. Tambahkan pemeriksaan dokumen dan kesehatan, waktu kerja peserta, perjalanan, akomodasi, pengganti shift, fasilitas praktik, serta risiko jadwal ulang. Minta penawaran mencantumkan minimum peserta, pajak, termin, pembatalan, penggantian nama, retake atau evaluasi ulang, komponen yang dikecualikan, dan estimasi dokumen. Perbandingan ini mencegah harga awal yang murah berubah menjadi biaya tambahan setelah purchase order terbit. Pembayaran juga bukan jaminan kelulusan atau penerbitan instan; calon tetap harus memenuhi proses yang berlaku."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "FAQ Biaya dan Pendaftaran"
+        },
+        {
+            "type": "paragraph",
+            "text": "Apakah sama dengan Kemnaker? Tidak. Apakah AGT termasuk? Tidak otomatis. Apakah portofolio rahasia dapat disamarkan? Ya. Apakah retake termasuk? Harus tertulis. Apakah harga kelompok tersedia? Dapat dihitung."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dapatkan Penawaran yang Dapat Dipertanggungjawabkan"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kirim bukti calon, jenis ruang, peran, alat, klausul klien, peserta, lokasi, dan tenggat. Tim PENA akan memeriksa skema dan menyusun penawaran."
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Belum ada harga publik terverifikasi pada data program. Kirim kebutuhan dan dokumen calon agar tim PENA dapat memeriksa program, penerbit, kesiapan, dan komponen biaya sebelum invoice."
+        }
+    ],
+    "related_offering_slug": "teknisi-ruang-terbatas",
+    "meta_title": "Biaya Teknisi Ruang Terbatas 2026 — Guide 2026",
+    "meta_description": "Panduan teknis keselamatan Biaya Teknisi Ruang Terbatas 2026 resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, thermography AI, dan sertifikas",
+    "published_at": "2026-07-31"
+}

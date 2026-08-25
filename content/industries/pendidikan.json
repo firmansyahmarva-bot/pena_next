@@ -1,0 +1,26 @@
+{
+    "id": "01kyw9nm80hgsr8abm26sm0h1q",
+    "name": "Pendidikan",
+    "slug": "pendidikan",
+    "path": "/industri/pendidikan",
+    "description": "K3 untuk sektor Pendidikan.",
+    "regulatory_context": [
+        {
+            "type": "paragraph",
+            "text": "Institusi pendidikan dengan fasilitas laboratorium, bengkel, atau asrama tetap memerlukan petugas P3K dan kesiapsiagaan kebakaran sesuai kewajiban umum K3 di tempat kerja."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        }
+    ],
+    "relevant_offering_slugs": [
+        "pengkaji-teknis-proteksi-kebakaran",
+        "ahli-k3-penanggulangan-kebakaran-kelas-a",
+        "regu-penanggulangan-kebakaran-kelas-c",
+        "petugas-peran-kebakaran-kelas-d",
+        "petugas-p3k-first-aid",
+        "petugas-p3k"
+    ]
+}

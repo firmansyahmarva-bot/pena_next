@@ -1,0 +1,151 @@
+{
+    "id": "01kyfffhw83355ay3xabx122vb",
+    "type": "training",
+    "name": "Ahli Higiene Industri Muda",
+    "slug": "ahli-higiene-industri-muda",
+    "path": "/pelatihan/ahli-higiene-industri-muda",
+    "title": "Ahli Higiene Industri Muda",
+    "meta_title": "Ahli Higiene Industri Muda",
+    "meta_description": "Sertifikasi Ahli Higiene Industri Muda (HIMU) BNSP. Pengukuran faktor fisik kimia lingkungan kerja & Permenaker 05/2018.",
+    "summary": "Tersedia online.",
+    "certification_body": "bnsp",
+    "base_price": 7000000,
+    "duration": "3 hari",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Higiene industri adalah disiplin yang berfokus pada faktor bahaya di lingkungan kerja itu sendiri — kebisingan, debu, uap kimia, pencahayaan, getaran — yang dampaknya pada kesehatan pekerja sering baru terlihat bertahun-tahun kemudian jika tidak dipantau dan dikendalikan sejak awal. Permenaker No. 5 Tahun 2018 menetapkan kewajiban pengelolaan lingkungan kerja ini secara terukur, dengan Nilai Ambang Batas (NAB) sebagai rujukan kepatuhan."
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+            "source": "UU No. 1 Tahun 1970"
+        },
+        {
+            "type": "citation",
+            "text": "Keselamatan dan Kesehatan Kerja Lingkungan Kerja — faktor fisika, kimia, biologi, ergonomi, dan psikologi serta nilai ambang batasnya.",
+            "source": "Permenaker No. 5 Tahun 2018"
+        },
+        {
+            "type": "citation",
+            "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+            "source": "UU No. 13 Tahun 2003"
+        },
+        {
+            "type": "citation",
+            "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+            "source": "PP No. 23 Tahun 2004"
+        },
+        {
+            "type": "paragraph",
+            "text": "Jenjang Muda adalah tingkat pelaksana pengukuran dan pemantauan lingkungan kerja — mengumpulkan data faktor bahaya secara akurat menggunakan alat ukur standar, sebagai dasar bagi jenjang Madya/Utama untuk mengevaluasi dan merekomendasikan pengendalian yang lebih strategis."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Program ini menyasar staf HSE atau teknisi lingkungan kerja yang bertugas melakukan pengukuran faktor bahaya fisik, kimia, dan biologi di tempat kerja — langkah awal sebelum perusahaan bisa menilai kepatuhannya terhadap Nilai Ambang Batas (NAB)."
+        },
+        {
+            "type": "paragraph",
+            "text": "Klaim kepatuhan K3 tanpa data pengukuran lingkungan kerja yang valid mudah dipatahkan saat audit — banyak perusahaan yang yakin lingkungan kerjanya aman ternyata belum pernah melakukan pengukuran kebisingan atau debu secara terstandar, sehingga tidak punya bukti objektif atas klaimnya. Ahli Higiene Industri Muda mengisi kebutuhan dasar ini: memastikan data lingkungan kerja perusahaan benar-benar terukur, bukan sekadar diasumsikan aman."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sertifikasi ini juga menjadi fondasi karier menuju jenjang Madya dan Utama — pengalaman melakukan pengukuran langsung di berbagai jenis lingkungan kerja pada jenjang Muda adalah bekal praktis yang tidak tergantikan sebelum seseorang siap mengevaluasi dan merekomendasikan pengendalian pada jenjang yang lebih senior."
+        },
+        {
+            "type": "paragraph",
+            "text": "Penyakit akibat kerja (PAK) — gangguan pendengaran akibat kebisingan, penyakit paru akibat debu, atau gangguan otot-rangka akibat ergonomi buruk — umumnya berkembang perlahan selama bertahun-tahun paparan, berbeda dari kecelakaan kerja yang terjadi seketika. Karena efeknya tidak langsung terlihat, banyak perusahaan baru menyadari masalah higiene industri setelah muncul klaim kompensasi pekerja atau temuan pemeriksaan kesehatan berkala yang mengkhawatirkan — pengukuran rutin oleh Ahli Higiene Industri adalah cara mendeteksi risiko ini jauh sebelum berubah menjadi penyakit permanen. Setelah menyelesaikan program, peserta mampu:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Memahami prinsip antisipasi, rekognisi, evaluasi, dan pengendalian (AREP) bahaya lingkungan kerja",
+                "Melakukan pengukuran faktor fisika (kebisingan, pencahayaan, getaran, iklim kerja) menggunakan alat ukur standar",
+                "Melakukan pengambilan sampel faktor kimia dan biologi lingkungan kerja sesuai prosedur",
+                "Membandingkan hasil pengukuran dengan Nilai Ambang Batas (NAB) yang berlaku",
+                "Mendokumentasikan dan melaporkan hasil pengukuran secara akurat kepada jenjang higiene industri yang lebih tinggi",
+                "Lulus asesmen kompetensi higiene industri jenjang Muda sesuai unit SKKNI"
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "paragraph",
+            "text": "Kurikulum berimbang antara pemahaman prinsip higiene industri dan keterampilan teknis penggunaan alat ukur, karena jenjang Muda dinilai dari akurasi pengukuran yang dihasilkan, bukan sekadar pemahaman konsep:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Dasar-dasar higiene industri dan regulasi Permenaker No. 5 Tahun 2018",
+                "Faktor bahaya fisika: kebisingan, pencahayaan, getaran, dan iklim kerja (tekanan panas/dingin)",
+                "Faktor bahaya kimia dan biologi lingkungan kerja serta teknik pengambilan sampel dasar",
+                "Penggunaan dan kalibrasi dasar alat ukur lingkungan kerja (sound level meter, lux meter, dan alat sejenis)",
+                "Teknik penentuan titik dan durasi pengukuran yang representatif terhadap paparan pekerja sesungguhnya",
+                "Perbandingan hasil pengukuran terhadap Nilai Ambang Batas (NAB) yang berlaku per jenis bahaya",
+                "Dokumentasi dan pelaporan hasil pengukuran lingkungan kerja secara sistematis",
+                "Asesmen kompetensi sesuai unit SKKNI jenjang Muda"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Pendidikan minimal D3/S1 teknik, kesehatan lingkungan, atau K3",
+                "Ditugaskan oleh perusahaan sebagai calon pelaksana pengukuran lingkungan kerja",
+                "Sehat jasmani dan rohani",
+                "Bersedia mengikuti sesi praktik lapangan menggunakan alat ukur lingkungan kerja secara langsung"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Fotokopi KTP dan ijazah pendidikan terakhir",
+                "Pas foto terbaru latar belakang merah",
+                "Surat tugas dari perusahaan sebagai calon pelaksana pengukuran lingkungan kerja"
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "paragraph",
+            "text": "Fasilitas program berfokus pada pengenalan alat ukur nyata, karena kompetensi ini dinilai dari keterampilan teknis penggunaannya:"
+        },
+        {
+            "type": "list",
+            "style": "bullet",
+            "items": [
+                "Modul higiene industri sesuai Permenaker No. 5 Tahun 2018",
+                "Instruktur praktisi berpengalaman pengukuran lingkungan kerja lintas sektor industri",
+                "Praktik langsung menggunakan alat ukur lingkungan kerja standar (sound level meter, lux meter, dan sejenisnya)",
+                "Simulasi penentuan titik dan durasi pengukuran yang representatif",
+                "Uji kompetensi (asesmen) BNSP dan sertifikat"
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "style": "number",
+            "items": [
+                "Hubungi tim kami melalui WhatsApp atau formulir di halaman ini.",
+                "Terima penawaran resmi: jadwal dan biaya.",
+                "Lengkapi berkas administrasi.",
+                "Ikuti pelatihan teori dasar higiene industri dan regulasi terkait.",
+                "Ikuti praktik pengukuran lingkungan kerja menggunakan alat ukur standar.",
+                "Ikuti uji kompetensi (asesmen) BNSP jenjang Muda.",
+                "Terima sertifikat kompetensi Ahli Higiene Industri Muda."
+            ]
+        }
+    ],
+    "hero_media": null,
+    "batches": []
+}

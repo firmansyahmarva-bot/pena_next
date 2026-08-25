@@ -1,0 +1,32 @@
+{
+    "id": "01kyw9mxd4e79gje05tsehse6h",
+    "title": "Perbedaan Ahli Madya vs Ahli Muda Ruang Terbatas",
+    "slug": "perbedaan-ahli-madya-ruang-terbatas-vs-ahli-muda-ruang-terbatas",
+    "path": "/panduan/k3-teknis/perbedaan-ahli-madya-ruang-terbatas-vs-ahli-muda-ruang-terbatas",
+    "role": "article",
+    "cluster": {
+        "name": "K3 Teknis",
+        "slug": "k3-teknis"
+    },
+    "summary": "Perbandingan kompetensi, tanggung jawab supervisi, dan izin masuk confined space antara Ahli Madya dan Ahli Muda Ruang Terbatas.",
+    "body": [
+        {
+            "type": "paragraph",
+            "text": "Pekerjaan di ruang terbatas (confined space) memiliki bahaya gas beracun, kekurangan oksigen, dan keterbatasan jalan keluar. Ahli Muda bertindak sebagai pengawas lapangan (entry supervisor) harian, sedangkan Ahli Madya memegang kewenangan teknis perancangan prosedur isolasi energi dan sistem ventilasi mekanis."
+        },
+        {
+            "type": "citation",
+            "text": "Petunjuk Teknis Bekerja di Ruang Terbatas.",
+            "source": "Kepdirjen Binwasnaker No. Kep. 113/DJPPK/IX/2006"
+        },
+        {
+            "type": "callout",
+            "variant": "info",
+            "text": "Ahli Madya Ruang Terbatas berwenang menandatangani surat izin masuk (Confined Space Entry Permit) untuk pekerjaan berisiko tinggi."
+        }
+    ],
+    "related_offering_slug": "ahli-madya-ruang-terbatas",
+    "meta_title": "Perbedaan Ahli Madya Ruang Terbatas dan Ahli Muda Ruang ",
+    "meta_description": "Panduan teknis keselamatan Perbedaan Ahli Madya Ruang Terbatas dan Ahli Muda Ruang Terbatas resmi Kemnaker RI dan BNSP. Persyaratan, prosedur LOTO, ",
+    "published_at": "2026-07-31"
+}
