@@ -84,6 +84,10 @@
         {
             "type": "callout",
             "text": "Ingin mengambil sertifikasi resmi? Ikuti program Pelatihan Ahli K3 Umum Kemnaker RI di PENA Consultant dengan jadwal batch terbaru dan biaya terjangkau."
+        },
+        {
+            "type": "callout",
+            "text": "Untuk referensi kurikulum, modul praktikum rigger, dan jadwal pembinaan teknis eksternal, Anda juga dapat meninjau rujukan <a href=\"https://wahanatotalita.com/pelatihan/pelatihan-k3-operator-crane-kelas-3-sertifikasi-kemnaker-ri/\" target=\"_blank\" rel=\"noopener\" class=\"text-primary-700 font-bold underline hover:text-primary-900\">pelatihan K3 operator crane kelas 3 sertifikasi Kemnaker RI</a> resmi."
         }
     ],
     "related_offering_slug": "operator-crane-kelas-3",
