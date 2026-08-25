@@ -16,18 +16,21 @@ export default function TrustLogoBar() {
   return (
     <section className="py-10 bg-white border-b border-slate-200">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <p className="text-center text-xs font-bold tracking-widest text-slate-400 uppercase mb-8">
+        <p className="text-center text-xs font-bold tracking-widest text-slate-700 uppercase mb-8">
           DIPERCAYA OLEH 500+ PERUSAHAAN BUMN, MULTINASIONAL &amp; KONTRAKTOR K3
         </p>
 
         <div className="flex flex-wrap items-center justify-center gap-8 sm:gap-12">
           {clientLogos.map((client, idx) => (
-            <div key={idx} className="flex items-center justify-center h-10 w-28 sm:w-32 opacity-70 hover:opacity-100 transition-opacity">
+            <div key={idx} className="flex items-center justify-center h-10 w-28 sm:w-32 opacity-80 hover:opacity-100 transition-opacity">
               <img
                 src={client.src}
-                alt={client.name}
-                className="max-h-8 sm:max-h-10 max-w-full object-contain filter grayscale hover:grayscale-0 transition-all duration-300"
+                alt={`Logo Klien ${client.name}`}
+                width={128}
+                height={40}
+                decoding="async"
                 loading="lazy"
+                className="max-h-8 sm:max-h-10 max-w-full object-contain filter grayscale hover:grayscale-0 transition-all duration-300"
               />
             </div>
           ))}

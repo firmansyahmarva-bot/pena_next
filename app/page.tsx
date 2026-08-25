@@ -10,15 +10,13 @@ export default function HomePage() {
   const allPrograms = getPrograms();
   const featuredPrograms = allPrograms.slice(0, 6);
   const upcomingBatches = getBatches().slice(0, 6);
-  const industries = getIndustries().slice(0, 6);
   const latestGuides = getArticles().slice(0, 4);
-  const testimonials = getTestimonials().slice(0, 3);
 
   return (
     <div>
       {/* Hero Section */}
       <section className="relative bg-gradient-to-b from-primary-950 via-slate-900 to-slate-950 text-white pt-16 pb-24 overflow-hidden border-b border-slate-800">
-        <div className="absolute inset-0 opacity-15 bg-[radial-gradient(#22c55e_1px,transparent_1px)] [background-size:20px_20px]"></div>
+        <div className="absolute inset-0 opacity-15 bg-[radial-gradient(#22c55e_1px,transparent_1px)] [background-size:20px_20px] pointer-events-none"></div>
         
         {/* Glow Spheres */}
         <div className="absolute top-1/4 left-1/2 -translate-x-1/2 w-96 h-96 bg-primary-600/20 rounded-full blur-3xl pointer-events-none"></div>
@@ -28,8 +26,8 @@ export default function HomePage() {
             {/* Left Hero Copy */}
             <div className="lg:col-span-7 space-y-6">
               <div className="inline-flex items-center gap-2 bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-xs sm:text-sm font-bold px-4 py-1.5 rounded-full">
-                <Shield className="w-4 h-4 text-emerald-400" />
-                PJK3 Resmi Kemnaker RI (SKP. 5/124/AS.02.04/I/2023) &amp; Lisensi BNSP RI
+                <Shield className="w-4 h-4 text-emerald-400 shrink-0" />
+                <span>PJK3 Resmi Kemnaker RI &bull; Lisensi BNSP RI</span>
               </div>
 
               <h1 className="text-3xl sm:text-5xl lg:text-6xl font-black tracking-tight leading-[1.15]">
@@ -45,7 +43,8 @@ export default function HomePage() {
                   href={getWaLink('Halo Admin PENA Consultant, saya ingin konsultasi pendaftaran pelatihan K3 batch 2026.')}
                   target="_blank"
                   rel="noopener nofollow"
-                  className="bg-gradient-to-r from-emerald-500 via-emerald-600 to-primary-700 hover:from-emerald-600 hover:to-primary-800 text-white font-black text-base px-8 py-4 rounded-xl shadow-xl hover:shadow-emerald-500/25 transition-all flex items-center gap-2.5 group"
+                  aria-label="Daftar Pelatihan Batch 2026 via WhatsApp"
+                  className="bg-gradient-to-r from-emerald-600 via-emerald-700 to-primary-800 hover:from-emerald-700 hover:to-primary-900 text-white font-black text-base px-8 py-4 rounded-xl shadow-xl hover:shadow-emerald-500/25 transition-all flex items-center gap-2.5 group cursor-pointer"
                 >
                   <span>Daftar Batch 2026 Sekarang</span>
                   <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
@@ -78,7 +77,7 @@ export default function HomePage() {
 
                 <div className="space-y-4">
                   <div className="p-4 bg-slate-900/80 rounded-xl border border-slate-700/60">
-                    <h3 className="font-bold text-base text-white">Pembinaan Ahli K3 Umum Kemnaker RI</h3>
+                    <h2 className="font-bold text-base text-white">Pembinaan Ahli K3 Umum Kemnaker RI</h2>
                     <div className="flex items-center gap-4 text-xs text-slate-300 mt-2">
                       <span className="flex items-center gap-1"><Calendar className="w-3.5 h-3.5 text-primary-400" /> Batch 21 (12 Hari)</span>
                       <span className="flex items-center gap-1">🌐 Online Zoom</span>
@@ -86,7 +85,7 @@ export default function HomePage() {
                   </div>
 
                   <div className="p-4 bg-slate-900/80 rounded-xl border border-slate-700/60">
-                    <h3 className="font-bold text-base text-white">Sertifikasi Ahli K3 Konstruksi BNSP</h3>
+                    <h2 className="font-bold text-base text-white">Sertifikasi Ahli K3 Konstruksi BNSP</h2>
                     <div className="flex items-center gap-4 text-xs text-slate-300 mt-2">
                       <span className="flex items-center gap-1"><Calendar className="w-3.5 h-3.5 text-primary-400" /> Batch 14 (3 Hari)</span>
                       <span className="flex items-center gap-1">📍 Onsite / Blended</span>
@@ -99,9 +98,10 @@ export default function HomePage() {
                     href={getWaLink('Halo Admin PENA Consultant, saya ingin menanyakan jadwal batch terdekat.')}
                     target="_blank"
                     rel="noopener nofollow"
-                    className="w-full block text-center bg-gradient-to-r from-amber-400 to-amber-500 hover:from-amber-500 text-slate-950 font-black py-3 rounded-xl text-sm transition-all shadow-md"
+                    aria-label="Cek Kuota & Jadwal Lengkap Batch 2026"
+                    className="w-full block text-center bg-amber-500 hover:bg-amber-600 text-slate-950 font-black text-sm py-3 rounded-xl transition-all shadow-md cursor-pointer"
                   >
-                    💬 Konsultasi Jadwal &amp; Biaya Batch via WA
+                    Cek Kuota &amp; Jadwal Lengkap →
                   </a>
                 </div>
               </div>
@@ -110,149 +110,93 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Trust Logo Bar */}
+      {/* Trust Client Logos */}
       <TrustLogoBar />
 
       {/* Featured Programs Section */}
-      <section className="py-20 bg-slate-50">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex flex-col md:flex-row md:items-end justify-between mb-12">
-            <div>
-              <span className="text-xs uppercase font-extrabold tracking-widest text-primary-700 block mb-2">
-                KATALOG UNGGULAN RESMI
-              </span>
-              <h2 className="text-2xl sm:text-4xl font-black text-slate-900">
-                Program Pelatihan K3 Paling Populer
-              </h2>
-            </div>
-            <Link
-              href="/pelatihan"
-              className="mt-4 md:mt-0 inline-flex items-center gap-1.5 font-bold text-sm text-primary-700 hover:text-primary-800"
-            >
-              Lihat Seluruh 70+ Program <ArrowRight className="w-4 h-4" />
-            </Link>
+      <section className="py-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-10">
+        <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4">
+          <div>
+            <span className="text-xs font-bold uppercase tracking-wider text-primary-700 bg-primary-50 px-3 py-1 rounded-md">
+              PROGRAM UNGGULAN
+            </span>
+            <h2 className="text-2xl sm:text-4xl font-black text-slate-900 mt-2">
+              Sertifikasi K3 Paling Diminati
+            </h2>
+            <p className="text-sm text-slate-600 mt-1">
+              Program pembinaan resmi dengan kelulusan tertinggi dan instruktur praktisi berpengalaman.
+            </p>
           </div>
+          <Link
+            href="/pelatihan"
+            className="text-xs sm:text-sm font-bold text-primary-700 hover:text-primary-800 flex items-center gap-1 shrink-0"
+          >
+            Lihat Semua Program ({allPrograms.length}) →
+          </Link>
+        </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {featuredPrograms.map((p) => (
-              <OfferingCard key={p.slug} program={p} />
-            ))}
-          </div>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">
+          {featuredPrograms.map((prog) => (
+            <OfferingCard key={prog.slug} program={prog} />
+          ))}
         </div>
       </section>
 
-      {/* Why Choose Us: 4 Value Propositions */}
-      <section className="py-20 bg-white border-y border-slate-200">
+      {/* Corporate In-House Quote Generator Section */}
+      <section className="py-12 bg-slate-100 border-y border-slate-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center max-w-3xl mx-auto mb-16">
-            <span className="text-xs uppercase font-extrabold tracking-widest text-primary-700 block mb-2">
-              KEUNGGULAN UTAMA
-            </span>
-            <h2 className="text-2xl sm:text-4xl font-black text-slate-900">
-              Mengapa Memilih PENA Consultant?
-            </h2>
-            <p className="text-slate-600 mt-3 text-sm sm:text-base">
-              Kami menjamin legalitas sertifikat resmi, materi praktis berstandar industri, dan pendampingan pasca-pelatihan.
-            </p>
-          </div>
-
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
-            <div className="p-6 rounded-2xl bg-slate-50 border border-slate-200 space-y-3">
-              <div className="w-12 h-12 rounded-xl bg-emerald-100 text-emerald-800 flex items-center justify-center">
-                <Shield className="w-6 h-6" />
-              </div>
-              <h3 className="text-lg font-bold text-slate-900">100% Terakreditasi Resmi</h3>
-              <p className="text-xs text-slate-600 leading-relaxed">
-                PJK3 berlisensi resmi Kemnaker RI dan Tempat Uji Kompetensi (TUK) LSP BNSP dengan sertifikat asli dan terdaftar di Teman K3.
-              </p>
-            </div>
-
-            <div className="p-6 rounded-2xl bg-slate-50 border border-slate-200 space-y-3">
-              <div className="w-12 h-12 rounded-xl bg-blue-100 text-blue-800 flex items-center justify-center">
-                <Users className="w-6 h-6" />
-              </div>
-              <h3 className="text-lg font-bold text-slate-900">Instruktur Praktisi Ahli</h3>
-              <p className="text-xs text-slate-600 leading-relaxed">
-                Dibimbing langsung oleh praktisi K3 senior dari industri Migas, Pertambangan, Konstruksi, dan Pengawas Ketenagakerjaan.
-              </p>
-            </div>
-
-            <div className="p-6 rounded-2xl bg-slate-50 border border-slate-200 space-y-3">
-              <div className="w-12 h-12 rounded-xl bg-amber-100 text-amber-800 flex items-center justify-center">
-                <Calendar className="w-6 h-6" />
-              </div>
-              <h3 className="text-lg font-bold text-slate-900">Jadwal Pasti Running</h3>
-              <p className="text-xs text-slate-600 leading-relaxed">
-                Jadwal pelatihan public batch dibuka setiap bulan tanpa takut di-reschedule, serta opsi in-house dengan tanggal fleksibel.
-              </p>
-            </div>
-
-            <div className="p-6 rounded-2xl bg-slate-50 border border-slate-200 space-y-3">
-              <div className="w-12 h-12 rounded-xl bg-purple-100 text-purple-800 flex items-center justify-center">
-                <Award className="w-6 h-6" />
-              </div>
-              <h3 className="text-lg font-bold text-slate-900">Alumni Network &amp; Karir</h3>
-              <p className="text-xs text-slate-600 leading-relaxed">
-                Akses ke grup komunitas 15.000+ alumni K3 untuk sharing regulasi, info lowongan kerja HSE, dan konsultasi berkelanjutan.
-              </p>
-            </div>
-          </div>
+          <CorporateQuoteForm />
         </div>
       </section>
 
-      {/* Upcoming Batches Table (Google Position 0 Semantic Table) */}
-      <section className="py-20 bg-slate-50">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center max-w-2xl mx-auto mb-12">
-            <span className="text-xs uppercase font-extrabold tracking-widest text-primary-700 block mb-2">
-              JADWAL KALENDER
-            </span>
-            <h2 className="text-2xl sm:text-4xl font-black text-slate-900">
-              Jadwal Batch Pembinaan Terdekat 2026
-            </h2>
-            <p className="text-slate-600 mt-2 text-sm">
-              Daftar sebelum kuota batch terpenuhi untuk mendapatkan slot ujian sertifikasi resmi.
-            </p>
-          </div>
+      {/* Upcoming Batches Table */}
+      <section className="py-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-8">
+        <div>
+          <span className="text-xs font-bold uppercase tracking-wider text-primary-700 bg-primary-50 px-3 py-1 rounded-md">
+            AGENDA RESMI
+          </span>
+          <h2 className="text-2xl sm:text-4xl font-black text-slate-900 mt-2">
+            Jadwal Pelatihan K3 2026
+          </h2>
+          <p className="text-sm text-slate-600 mt-1">
+            Pilih tanggal pelaksanaan yang sesuai dengan jadwal kerja Anda. Kuota terbatas tiap batch.
+          </p>
+        </div>
 
-          <div className="overflow-x-auto rounded-xl border border-slate-200 shadow-sm bg-white">
-            <table className="w-full text-left text-sm text-slate-700">
-              <thead className="bg-slate-100 text-slate-900 uppercase text-xs font-bold border-b border-slate-200">
-                <tr>
-                  <th scope="col" className="px-6 py-4">Program Pelatihan</th>
-                  <th scope="col" className="px-6 py-4">Sertifikasi</th>
-                  <th scope="col" className="px-6 py-4">Tanggal Batch</th>
-                  <th scope="col" className="px-6 py-4">Metode Pelaksanaan</th>
-                  <th scope="col" className="px-6 py-4">Biaya Investasi</th>
-                  <th scope="col" className="px-6 py-4">Aksi</th>
+        <div className="bg-white rounded-2xl border border-slate-200 overflow-hidden shadow-sm">
+          <div className="overflow-x-auto">
+            <table className="w-full text-left border-collapse text-xs sm:text-sm">
+              <thead>
+                <tr className="bg-slate-900 text-white font-bold">
+                  <th className="py-3.5 px-4 sm:px-6">Program Pembinaan</th>
+                  <th className="py-3.5 px-4">Batch</th>
+                  <th className="py-3.5 px-4">Tanggal Mulai</th>
+                  <th className="py-3.5 px-4">Metode</th>
+                  <th className="py-3.5 px-4 sm:px-6 text-right">Aksi</th>
                 </tr>
               </thead>
-              <tbody className="divide-y divide-slate-200">
+              <tbody className="divide-y divide-slate-100">
                 {upcomingBatches.map((b) => (
-                  <tr key={b.id} className="hover:bg-slate-50 transition-colors">
-                    <td className="px-6 py-4 font-bold text-slate-900">
+                  <tr key={b.slug} className="hover:bg-slate-50 transition-colors">
+                    <td className="py-4 px-4 sm:px-6 font-bold text-slate-900">
                       <Link href={`/jadwal/${b.slug}`} className="hover:text-primary-700">
-                        {b.offering_name}
+                        {b.offering_name || `Pelatihan K3 Batch ${b.batch_number}`}
                       </Link>
                     </td>
-                    <td className="px-6 py-4 font-semibold text-emerald-800">
-                      {b.certification_body === 'kemnaker' ? '🛡️ Kemnaker RI' : '🦅 BNSP RI'}
+                    <td className="py-4 px-4 text-slate-600 font-medium">Batch {b.batch_number}</td>
+                    <td className="py-4 px-4 text-slate-600">{b.start_date || 'TBA 2026'}</td>
+                    <td className="py-4 px-4">
+                      <span className="inline-block text-[11px] font-bold bg-slate-100 text-slate-700 px-2 py-0.5 rounded">
+                        {b.mode || 'Blended / Online'}
+                      </span>
                     </td>
-                    <td className="px-6 py-4 font-medium">
-                      {b.start_date}
-                    </td>
-                    <td className="px-6 py-4">
-                      {b.is_online ? '🌐 Online Zoom' : `📍 ${b.location_name}`}
-                    </td>
-                    <td className="px-6 py-4 font-black text-slate-900">
-                      {b.normal_price ? `Rp ${b.normal_price.toLocaleString('id-ID')}` : 'Hubungi Admin'}
-                    </td>
-                    <td className="px-6 py-4">
+                    <td className="py-4 px-4 sm:px-6 text-right">
                       <Link
                         href={`/jadwal/${b.slug}`}
-                        className="inline-flex items-center text-xs font-bold text-primary-700 bg-primary-50 hover:bg-primary-600 hover:text-white px-3 py-1.5 rounded-lg transition-colors"
+                        aria-label={`Detail Jadwal Batch ${b.batch_number}`}
+                        className="text-xs font-bold text-primary-700 bg-primary-50 hover:bg-primary-600 hover:text-white px-3 py-1.5 rounded-lg transition-all"
                       >
-                        Detail &amp; Daftar →
+                        Detail Batch
                       </Link>
                     </td>
                   </tr>
@@ -260,67 +204,56 @@ export default function HomePage() {
               </tbody>
             </table>
           </div>
-
-          <div className="text-center mt-8">
-            <Link
-              href="/jadwal"
-              className="inline-flex items-center gap-2 bg-slate-900 hover:bg-slate-800 text-white font-bold text-sm px-7 py-3.5 rounded-xl transition-all shadow"
-            >
-              Lihat Kalender Lengkap Batch 2026 →
-            </Link>
-          </div>
         </div>
       </section>
 
-      {/* Corporate Quotation Calculator RFQ Section */}
-      <section className="py-20 bg-slate-950">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <CorporateQuoteForm />
-        </div>
-      </section>
-
-      {/* Latest Guides & Articles */}
-      <section className="py-20 bg-white border-t border-slate-200">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex flex-col md:flex-row md:items-end justify-between mb-12">
+      {/* Knowledge Base & Guides */}
+      <section className="py-16 bg-slate-900 text-white border-t border-slate-800">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-8">
+          <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4">
             <div>
-              <span className="text-xs uppercase font-extrabold tracking-widest text-primary-700 block mb-2">
-                EDUKASI &amp; REGULASI K3
+              <span className="text-xs font-bold uppercase tracking-wider text-emerald-400 bg-emerald-950 px-3 py-1 rounded-md border border-emerald-800">
+                KNOWLEDGE BASE K3
               </span>
-              <h2 className="text-2xl sm:text-4xl font-black text-slate-900">
-                Panduan &amp; Artikel K3 Terpopuler
+              <h2 className="text-2xl sm:text-4xl font-black text-white mt-2">
+                Panduan, Regulasi &amp; Edukasi K3
               </h2>
+              <p className="text-sm text-slate-300 mt-1">
+                Artikel referensi praktisi keselamatan kerja, regulasi Kemnaker, dan tips implementasi SMK3.
+              </p>
             </div>
             <Link
               href="/panduan"
-              className="mt-4 md:mt-0 inline-flex items-center gap-1.5 font-bold text-sm text-primary-700 hover:text-primary-800"
+              className="text-xs sm:text-sm font-bold text-emerald-400 hover:text-emerald-300 flex items-center gap-1 shrink-0"
             >
-              Lihat 320+ Panduan Lengkap <ArrowRight className="w-4 h-4" />
+              Lihat 320+ Artikel Panduan →
             </Link>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-            {latestGuides.map((art) => (
-              <article key={art.slug} className="bg-slate-50 p-5 rounded-xl border border-slate-200 hover:border-primary-500 hover:shadow-md transition-all flex flex-col justify-between">
-                <div>
-                  <span className="text-[10px] font-bold uppercase text-primary-700 bg-primary-100/60 px-2 py-0.5 rounded inline-block mb-2.5">
-                    {art.cluster?.name || 'PANDUAN K3'}
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+            {latestGuides.map((article) => (
+              <Link
+                key={article.slug}
+                href={`/panduan/${article.slug}`}
+                className="bg-slate-800/80 p-5 rounded-2xl border border-slate-700/80 hover:border-emerald-500 hover:shadow-lg transition-all flex flex-col justify-between space-y-4 group"
+              >
+                <div className="space-y-2">
+                  <span className="text-[10px] font-bold text-amber-400 uppercase tracking-wider">
+                    {article.cluster?.name || 'Panduan K3'}
                   </span>
-                  <h3 className="font-bold text-sm text-slate-900 line-clamp-2 mb-2 leading-snug">
-                    <Link href={`/panduan/${art.slug}`} className="hover:text-primary-700">
-                      {art.title}
-                    </Link>
+                  <h3 className="text-sm font-bold text-white group-hover:text-emerald-300 transition-colors line-clamp-2">
+                    {article.title}
                   </h3>
-                  {art.summary && (
-                    <p className="text-xs text-slate-500 line-clamp-2 mb-4 leading-relaxed">
-                      {art.summary}
+                  {article.summary && (
+                    <p className="text-xs text-slate-300 line-clamp-2 leading-relaxed">
+                      {article.summary}
                     </p>
                   )}
                 </div>
-                <Link href={`/panduan/${art.slug}`} className="text-xs font-bold text-primary-700 hover:underline pt-2 border-t border-slate-200">
-                  Baca Panduan →
-                </Link>
-              </article>
+                <span className="text-xs text-emerald-400 font-bold flex items-center gap-1">
+                  Baca Selengkapnya →
+                </span>
+              </Link>
             ))}
           </div>
         </div>
