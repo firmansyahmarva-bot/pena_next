@@ -6,6 +6,16 @@ const nextConfig = {
   },
   async redirects() {
     return [
+      {
+        source: '/tryout-k3',
+        destination: '/pelatihan/ahli-k3-umum/tryout',
+        permanent: true,
+      },
+      {
+        source: '/tryout',
+        destination: '/pelatihan/ahli-k3-umum/tryout',
+        permanent: true,
+      },
       // Article / Blog Legacy Paths -> /panduan/:slug
       {
         source: '/artikel/:slug*',
