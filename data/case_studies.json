@@ -1,0 +1,2423 @@
+[
+    {
+        "id": "01m0vnh2bnen6z9rps3abd67xc",
+        "title": "Penerapan SMK3 PP 50/2012 & Peraihan Bendera Emas pada Kontraktor EPC Nasional",
+        "slug": "penerapan-smk3-pp-50-2012-kontraktor-epc",
+        "client_org_id": "01m0vnfathkf0j056pz60pebdm",
+        "client_anonymized": false,
+        "problem": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Klien merupakan kontraktor EPC berskala besar yang mengelola berbagai proyek infrastruktur strategis nasional dengan total lebih dari 1.200 tenaga kerja multi-site. Perusahaan menghadapi tantangan standardisasi prosedur K3 antarsite proyek, pemenuhan 166 kriteria audit SMK3 tingkat lanjutan, dan kebutuhan sertifikasi Auditor Internal SMK3 sebelum menghadapi audit eksternal dari Lembaga Audit yang ditunjuk Kemnaker RI."
+                    }
+                }
+            ]
+        },
+        "intervention": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PENA Consultant menyusun program pendampingan komprehensif selama 3 bulan: pelaksanaan GAP Analysis 12 elemen SMK3 PP 50/2012, pembinaan 25 personel internal menjadi Auditor SMK3 bersertifikat, perumusan Standard Operating Procedure (SOP) risiko tinggi, serta simulasi audit (mock audit) dengan kriteria penilaian ketat."
+                    }
+                }
+            ]
+        },
+        "outcome": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Perusahaan berhasil meraih sertifikat SMK3 tingkat lanjutan dengan predikat Bendera Emas (skor pencapaian 92,5%). Seluruh rekomendasi perbaikan (CAPA) terselesaikan sebelum batas waktu, dan tercapai 1.500.000 jam kerja selamat tanpa kecelakaan kerja fatal (Zero LTI)."
+                    }
+                }
+            ]
+        },
+        "outcome_metrics": {
+            "Skor Audit SMK3": "92.5% (Bendera Emas)",
+            "Jam Kerja Selamat": "1.500.000 Jam",
+            "Auditor Internal Tersertifikasi": "25 Personel",
+            "Insiden Fatal": "0 Insiden"
+        },
+        "location_id": null,
+        "industry_id": null,
+        "delivered_at": "2025-11-15T00:00:00.000000Z",
+        "consent_ref": "corporate_client_consent",
+        "status": "published",
+        "page_id": "01m0vnh2d4y3rdhwq7ck74cret",
+        "published_at": "2026-08-25T05:15:44.000000Z",
+        "updated_content_at": "2026-08-25T05:15:44.000000Z",
+        "lock_version": 0,
+        "created_at": "2026-08-25T05:15:44.000000Z",
+        "updated_at": "2026-08-25T05:15:44.000000Z",
+        "offerings": [
+            {
+                "id": "01kyfffhfhfe3sx4kenn53s49w",
+                "type": "training",
+                "category_id": "01kyfffk2aqjgmebfnsz1mhx54",
+                "name": "Ahli K3 Umum",
+                "slug": "ahli-k3-umum",
+                "summary": "Program Pembinaan & Sertifikasi Ahli K3 Umum (AK3U) resmi Kemnaker RI berdasarkan Permenaker No. 02/MEN/1992 & UU No. 1 Tahun 1970. Pembinaan 12 hari kerja dengan lisensi SKP & Sertifikat Pembinaan Kemnaker RI resmi. Tersedia kelas Blended Learning Online Zoom & Tatap Muka TUK.",
+                "certification_body": "kemnaker",
+                "credential": null,
+                "pricing_model": "per_person",
+                "base_price": 7500000,
+                "duration": "12 hari",
+                "legal_basis": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Ahli K3 Umum (AK3U) adalah jabatan yang secara eksplisit disyaratkan oleh peraturan perundang-undangan Indonesia sejak 1970, bukan sekadar gelar pelatihan. UU No. 1 Tahun 1970 mewajibkan setiap tempat kerja dengan potensi bahaya tertentu untuk mempekerjakan atau menunjuk Ahli Keselamatan dan Kesehatan Kerja yang berwenang mengawasi ditaatinya ketentuan K3. Permenaker No. 02/MEN/1992 menjabarkan mekanisme penunjukan itu secara rinci: siapa yang berhak diusulkan, prosedur pengajuan ke Kemnaker RI, serta kewajiban dan wewenang yang melekat begitu Surat Keputusan Penunjukan (SKP) terbit."
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+                                "source": "UU No. 1 Tahun 1970"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Tata Cara Penunjukan, Kewajiban dan Wewenang Ahli Keselamatan dan Kesehatan Kerja.",
+                                "source": "Permenaker No. 02/MEN/1992"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) — wajib bagi perusahaan dengan ≥100 pekerja atau tingkat bahaya tinggi.",
+                                "source": "PP No. 50 Tahun 2012"
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Ketiga regulasi ini saling melengkapi: UU No. 1/1970 menetapkan kewajiban dasarnya, Permenaker 02/1992 mengatur siapa yang boleh menjabat dan bagaimana penunjukannya, sedangkan PP No. 50/2012 menempatkan peran Ahli K3 Umum di dalam kerangka SMK3 perusahaan — auditor SMK3 akan memeriksa apakah perusahaan telah menunjuk Ahli K3 Umum sesuai kewajibannya sebagai salah satu kriteria penilaian."
+                            }
+                        }
+                    ]
+                },
+                "objectives": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Program dua belas hari ini dirancang untuk mengubah peserta — biasanya staf HSE, teknik, atau operasional yang ditugaskan perusahaan — menjadi personel yang layak mendapat penunjukan resmi Kemnaker RI sebagai Ahli K3 Umum. Cakupannya jauh lebih luas daripada pelatihan K3 dasar biasa, karena begitu SKP terbit, peserta memikul kewenangan hukum untuk mengawasi seluruh aspek K3 di perusahaan penunjuknya."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Di lapangan, kebutuhan akan Ahli K3 Umum bersertifikasi Kemnaker RI terus tinggi karena posisi ini adalah salah satu dari sedikit jabatan K3 yang secara eksplisit disebut dalam UU No. 1 Tahun 1970 dan menjadi rujukan wajib dalam banyak persyaratan tender, audit klien, serta pengurusan Sertifikat SMK3. Perusahaan skala menengah-besar, kontraktor migas, manufaktur, dan konstruksi umumnya mensyaratkan minimal satu Ahli K3 Umum berpenunjukan Kemnaker RI aktif di organisasinya — menjadikan sertifikasi ini salah satu kredensial K3 paling dicari di pasar kerja Indonesia, baik untuk penempatan internal maupun pengembangan karier menuju posisi HSE Manager atau HSE Officer senior. Setelah menyelesaikan program, peserta mampu:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Memahami dan menafsirkan peraturan perundang-undangan K3 — mulai dari UU No. 1/1970 hingga peraturan turunannya — serta menerapkannya secara konkret pada kondisi kerja nyata di perusahaan, bukan sekadar menghafal pasal",
+                                    "Menjalankan peran Ahli K3 Umum secara penuh: memimpin identifikasi bahaya (hazard identification), menilai tingkat risiko, dan menetapkan pengendalian yang proporsional terhadap tingkat risiko tersebut",
+                                    "Membina dan menjalankan Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3) sebagai forum kerja sama pengusaha dan pekerja dalam mengelola program K3 perusahaan secara terstruktur",
+                                    "Menerapkan, mendokumentasikan, dan mengaudit elemen-elemen Sistem Manajemen K3 (SMK3) sesuai 12 elemen dan 166 kriteria PP No. 50 Tahun 2012, termasuk menyiapkan perusahaan menghadapi audit eksternal",
+                                    "Melakukan investigasi kecelakaan kerja secara sistematis — dari pengumpulan bukti, analisis akar penyebab, hingga penyusunan laporan dan rekomendasi pencegahan berulang",
+                                    "Menyusun dan membaca statistik kecelakaan kerja (frequency rate, severity rate) sebagai alat ukur kinerja K3 perusahaan dari waktu ke waktu"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "scope": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Kurikulum mengacu langsung pada silabus resmi pembinaan calon Ahli K3 Umum Kemnaker RI, disampaikan melalui kombinasi kelas teori, diskusi kasus, praktik/observasi lapangan, dan seminar akhir sebelum ujian tertulis. Materi disusun berlapis, dari dasar hukum hingga pengawasan teknis per bidang:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Kebijakan dan dasar hukum K3 — kerangka regulasi nasional dan bagaimana ia diturunkan ke kewajiban operasional perusahaan",
+                                    "Kelembagaan dan keahlian K3 — struktur P2K3, peran Ahli K3, dan Perusahaan Jasa K3 (PJK3) yang berwenang melakukan pemeriksaan/pengujian teknis",
+                                    "Sistem Manajemen K3 (SMK3) dan auditnya — penerapan 12 elemen PP No. 50/2012 dan simulasi penilaian kriteria audit",
+                                    "Pengawasan norma K3 mekanik — pesawat angkat-angkut, pesawat tenaga produksi, dan kewajiban lisensi operatornya",
+                                    "Pengawasan norma K3 pesawat uap dan bejana tekan — bahaya tekanan dan panas pada boiler serta bejana bertekanan",
+                                    "Pengawasan norma K3 listrik — bahaya sengatan listrik, kebakaran akibat instalasi, dan standar PUIL",
+                                    "Pengawasan norma K3 penanggulangan kebakaran — sistem proteksi aktif/pasif dan organisasi tanggap darurat",
+                                    "Pengawasan norma K3 konstruksi bangunan — bahaya spesifik proyek konstruksi: ketinggian, galian, dan alat berat",
+                                    "Kesehatan kerja, lingkungan kerja, dan bahan berbahaya — pengendalian paparan fisik, kimia, dan biologis di tempat kerja",
+                                    "Statistik, pelaporan, dan analisis kecelakaan kerja — termasuk praktik investigasi pada studi kasus nyata",
+                                    "Praktik kerja lapangan (PKL) dan seminar — peserta mempresentasikan hasil observasi K3 di lokasi kerja sungguhan sebagai syarat kelulusan"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "requirements": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Program ini bersifat penunjukan resmi, sehingga persyaratannya lebih ketat dibanding pelatihan kompetensi biasa:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Pendidikan minimal Sarjana (S1) dengan pengalaman kerja di bidang K3 paling sedikit 2 tahun, ATAU Sarjana Muda/D3 dengan pengalaman paling sedikit 4 tahun, ATAU SLTA/sederajat dengan pengalaman paling sedikit 12 tahun — kombinasi pendidikan dan pengalaman ini mengikuti Permenaker No. 02/MEN/1992 Pasal 4",
+                                    "Ditugaskan dan diusulkan secara tertulis oleh perusahaan tempat bekerja — SKP terbit atas nama perusahaan pengusul, bukan atas nama pribadi peserta, sehingga dokumen penugasan dari perusahaan wajib disertakan",
+                                    "Sehat jasmani dan rohani, dibuktikan dengan surat keterangan dokter",
+                                    "Bersedia mengikuti pembinaan penuh selama 12 hari kerja (termasuk praktik lapangan) dan lulus ujian tertulis di akhir program — kehadiran penuh dipersyaratkan karena materi bersifat kumulatif"
+                                ]
+                            }
+                        },
+                        {
+                            "type": "callout",
+                            "data": {
+                                "variant": "info",
+                                "text": "Kombinasi pendidikan dan pengalaman kerja di atas adalah syarat penunjukan resmi, bukan syarat pelatihan biasa — tim kami akan memverifikasi kelayakan Anda terlebih dahulu sebelum pendaftaran diproses, agar SKP Anda tidak berisiko ditolak Kemnaker RI karena syarat administratif tidak terpenuhi."
+                            }
+                        }
+                    ]
+                },
+                "documents": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Karena SKP terbit atas nama perusahaan pengusul, berkas administrasi program ini lebih lengkap dibanding sertifikasi kompetensi biasa:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Surat penugasan/rekomendasi resmi dari perusahaan yang mengusulkan penunjukan — dokumen inti yang membedakan proses ini dari pendaftaran individu biasa",
+                                    "Fotokopi ijazah pendidikan terakhir (sesuai kombinasi pendidikan-pengalaman pada bagian Persyaratan)",
+                                    "Curriculum vitae yang mencantumkan pengalaman kerja di bidang K3, untuk verifikasi kelayakan sebelum diajukan ke Kemnaker RI",
+                                    "Fotokopi KTP dan pas foto terbaru latar belakang merah",
+                                    "Surat keterangan sehat dari dokter"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "facilities": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Fasilitas program ini disesuaikan dengan bobot materi 12 hari dan kebutuhan praktik kerja lapangan:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Modul pembinaan resmi mengikuti silabus Kemnaker RI",
+                                    "Instruktur praktisi bersertifikat, sebagian aktif sebagai auditor SMK3 atau ahli K3 senior di industri",
+                                    "Sesi praktik kerja lapangan (PKL) di lokasi kerja nyata sebagai bagian wajib kurikulum",
+                                    "Ujian tertulis akhir dan pengurusan penerbitan SKP ke Kemnaker RI",
+                                    "Pendampingan konsultasi pasca-pembinaan untuk pertanyaan implementasi di tempat kerja"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "registration_procedure": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Proses pendaftaran memiliki satu langkah tambahan dibanding program sertifikasi biasa: verifikasi kelayakan penunjukan di awal, agar perusahaan tidak mengajukan SKP yang berisiko ditolak."
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "number",
+                                "items": [
+                                    "Hubungi tim kami melalui WhatsApp atau formulir di halaman ini untuk konsultasi awal.",
+                                    "Tim kami memverifikasi kelayakan kombinasi pendidikan dan pengalaman kerja calon peserta sesuai Permenaker No. 02/MEN/1992.",
+                                    "Perusahaan menerbitkan surat penugasan/rekomendasi resmi untuk calon peserta.",
+                                    "Lengkapi berkas administrasi dan konfirmasi jadwal batch.",
+                                    "Ikuti pembinaan 12 hari (kelas, praktik lapangan, seminar) dan ujian tertulis akhir.",
+                                    "SKP Ahli K3 Umum terbit dari Kemnaker RI atas nama perusahaan pengusul."
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "status": "published",
+                "page_id": "01kyffghn42kfgg4pt4abvt518",
+                "published_at": "2026-07-26T15:08:18.000000Z",
+                "updated_content_at": null,
+                "lock_version": 0,
+                "created_at": "2026-07-26T15:07:46.000000Z",
+                "updated_at": "2026-08-10T20:02:59.000000Z",
+                "featured": true,
+                "hero_media_id": null,
+                "pivot": {
+                    "case_study_id": "01m0vnh2bnen6z9rps3abd67xc",
+                    "offering_id": "01kyfffhfhfe3sx4kenn53s49w"
+                }
+            },
+            {
+                "id": "01kyfffhnzgqq5t1zrp7xytdz9",
+                "type": "training",
+                "category_id": "01kyfffk52vpa91yx2xkaq8wxw",
+                "name": "Auditor Sistem Manajemen K3",
+                "slug": "auditor-sistem-manajemen-k3",
+                "summary": "Tersedia online.",
+                "certification_body": "bnsp",
+                "credential": null,
+                "pricing_model": "per_person",
+                "base_price": 4500000,
+                "duration": "3 hari",
+                "legal_basis": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) adalah kewajiban bagi perusahaan di Indonesia yang mempekerjakan tenaga kerja dalam jumlah tertentu atau memiliki tingkat risiko bahaya tinggi, sebagaimana diatur dalam Peraturan Pemerintah Nomor 50 Tahun 2012 tentang Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja. Agar penerapan SMK3 di suatu perusahaan benar-benar berjalan efektif — bukan sekadar dokumen di atas kertas — dibutuhkan proses audit yang sistematis untuk menilai kesesuaian pelaksanaan SMK3 terhadap kriteria yang berlaku. Di sinilah peran seorang Auditor SMK3 menjadi krusial."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Auditor SMK3 adalah individu yang memiliki kompetensi untuk menilai penerapan sistem manajemen K3 di suatu perusahaan atau tempat kerja, dengan merujuk pada 12 elemen dan kriteria audit SMK3 sebagaimana tercantum dalam Lampiran PP No. 50 Tahun 2012. Audit ini mencakup seluruh aspek manajemen keselamatan kerja, mulai dari komitmen manajemen puncak, perencanaan K3, pengendalian risiko, hingga tinjauan ulang dan peningkatan kinerja."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Penting untuk dipahami bahwa terdapat dua ranah yang berkaitan namun berbeda: audit eksternal resmi untuk penerbitan sertifikat SMK3 perusahaan (termasuk peringkat bendera emas/perak) dilakukan oleh Lembaga Audit SMK3 yang ditunjuk dan diawasi oleh Kementerian Ketenagakerjaan, dengan auditor yang terdaftar pada lembaga tersebut. Sementara itu, sertifikasi kompetensi individu Auditor SMK3 melalui BNSP (Badan Nasional Sertifikasi Profesi) membuktikan bahwa seseorang memiliki pengetahuan, keterampilan, dan sikap kerja yang memenuhi standar kompetensi kerja nasional dalam bidang audit SMK3. Sertifikasi BNSP ini sangat relevan bagi praktisi K3 internal perusahaan, auditor internal, konsultan K3, maupun calon auditor yang ingin membangun jenjang karier di bidang audit sistem manajemen keselamatan kerja."
+                            }
+                        }
+                    ]
+                },
+                "objectives": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Program ini cocok untuk:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Petugas K3, Ahli K3 Umum, atau HSE Officer yang bertanggung jawab melakukan audit internal SMK3 di perusahaannya",
+                                    "Manajer atau supervisor HSE yang perlu memastikan efektivitas penerapan SMK3 di unit kerjanya",
+                                    "Konsultan K3 dan praktisi independen yang ingin memperluas layanan ke bidang audit sistem manajemen",
+                                    "Calon auditor yang ingin membangun kompetensi formal sebelum bergabung dengan lembaga audit atau berkarier sebagai auditor SMK3",
+                                    "Perusahaan yang ingin menyiapkan tim internal agar lebih siap menghadapi audit eksternal SMK3"
+                                ]
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Seorang auditor SMK3 bertanggung jawab untuk:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Merencanakan kegiatan audit, termasuk menentukan ruang lingkup, kriteria, dan jadwal audit berdasarkan kategori risiko dan kompleksitas perusahaan",
+                                    "Mengumpulkan bukti audit melalui tinjauan dokumen, observasi lapangan, dan wawancara dengan manajemen serta pekerja di berbagai level",
+                                    "Mengidentifikasi dan mengklasifikasikan temuan ketidaksesuaian (non-conformity), baik kategori minor, mayor, maupun kritikal, secara objektif dan berbasis bukti — bukan opini",
+                                    "Menyampaikan hasil temuan dalam rapat pembukaan dan penutupan audit secara profesional dan komunikatif",
+                                    "Menyusun laporan audit yang jelas, akurat, dan dapat ditindaklanjuti oleh pihak yang diaudit (auditee)",
+                                    "Memverifikasi tindakan perbaikan dan pencegahan (corrective and preventive action) yang diambil perusahaan atas temuan audit",
+                                    "Menjaga independensi, objektivitas, dan kerahasiaan selama proses audit berlangsung"
+                                ]
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Kompetensi audit SMK3 memberi nilai langsung bagi perusahaan: perusahaan dapat membangun tim auditor internal yang mampu mendeteksi kesenjangan penerapan K3 sebelum berkembang menjadi insiden, mempersiapkan diri lebih matang sebelum menjalani audit eksternal, serta memastikan tindakan perbaikan benar-benar dijalankan dan diverifikasi. Bagi individu, kompetensi ini membuka peluang berkarier sebagai auditor internal, konsultan K3, maupun mendukung jenjang karier menuju auditor pada lembaga audit SMK3. Perusahaan yang menerapkan SMK3 secara serius umumnya melihat penurunan insiden kerja, peningkatan kepatuhan regulasi, dan penguatan reputasi di mata klien serta mitra bisnis — terutama di sektor yang mensyaratkan SMK3 sebagai bagian dari kualifikasi tender atau kontrak kerja."
+                            }
+                        }
+                    ]
+                },
+                "scope": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Tahapan pelaksanaan audit SMK3 yang dipelajari peserta:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "number",
+                                "items": [
+                                    "Persiapan audit — memahami profil perusahaan, ruang lingkup usaha, jumlah tenaga kerja, dan tingkat risiko bahaya untuk menentukan pendekatan audit yang sesuai",
+                                    "Rapat pembukaan (opening meeting) — auditor menjelaskan tujuan, ruang lingkup, metodologi, dan jadwal audit kepada pihak auditee",
+                                    "Pengumpulan bukti audit — melalui peninjauan dokumen (kebijakan K3, prosedur, catatan pelatihan, hasil inspeksi), observasi langsung di lapangan, dan wawancara dengan berbagai level organisasi mulai dari manajemen puncak hingga pekerja operasional",
+                                    "Identifikasi dan analisis temuan — membandingkan kondisi aktual dengan kriteria/elemen SMK3 yang berlaku, lalu mengategorikan ketidaksesuaian",
+                                    "Rapat penutupan (closing meeting) — menyampaikan hasil temuan sementara kepada manajemen dan memberi kesempatan klarifikasi",
+                                    "Penyusunan laporan audit — mendokumentasikan seluruh proses, bukti, dan temuan secara sistematis",
+                                    "Tindak lanjut — auditee menyusun dan melaksanakan tindakan perbaikan, yang kemudian dapat diverifikasi kembali oleh auditor atau pihak berwenang"
+                                ]
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Kurikulum pelatihan mencakup:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Dasar hukum dan kerangka regulasi SMK3 di Indonesia (PP No. 50 Tahun 2012 dan peraturan pelaksana terkait)",
+                                    "Prinsip dan filosofi audit sistem manajemen (perbedaan audit, inspeksi, dan pengawasan)",
+                                    "12 elemen kriteria audit SMK3 dan interpretasinya dalam konteks operasional perusahaan",
+                                    "Teknik pengumpulan bukti audit: telaah dokumen, observasi lapangan, dan teknik wawancara audit",
+                                    "Klasifikasi temuan (minor, mayor, kritikal) dan penyusunan laporan ketidaksesuaian (NCR)",
+                                    "Teknik komunikasi audit: rapat pembukaan, penyampaian temuan, dan penanganan resistensi auditee",
+                                    "Penyusunan laporan audit yang efektif dan dapat ditindaklanjuti",
+                                    "Simulasi/praktik audit untuk mengasah kemampuan analisis dan pengambilan keputusan auditor"
+                                ]
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Pelatihan disampaikan melalui kombinasi pemaparan materi oleh instruktur berpengalaman di bidang K3 dan audit sistem manajemen, diskusi studi kasus dari kondisi riil di lapangan, serta simulasi audit agar peserta terbiasa dengan dinamika proses audit sesungguhnya — termasuk cara menggali bukti, menyusun pertanyaan wawancara, dan menyampaikan temuan secara konstruktif kepada auditee."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Peserta yang mengikuti seluruh rangkaian pelatihan dan dinyatakan memenuhi syarat akan mengikuti uji kompetensi pada skema Auditor SMK3 yang diselenggarakan oleh Lembaga Sertifikasi Profesi (LSP) berlisensi BNSP. Uji kompetensi umumnya terdiri dari penilaian pengetahuan (tertulis/lisan) dan penilaian keterampilan/simulasi sesuai unit kompetensi yang dipersyaratkan dalam skema. Peserta yang dinyatakan kompeten akan memperoleh sertifikat kompetensi BNSP sebagai bukti formal bahwa yang bersangkutan memiliki kemampuan melakukan audit SMK3 sesuai standar kompetensi kerja nasional."
+                            }
+                        }
+                    ]
+                },
+                "requirements": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Persyaratan umum peserta meliputi latar belakang pendidikan dan/atau pengalaman kerja di bidang K3 sesuai dengan ketentuan skema sertifikasi yang berlaku, serta kelengkapan dokumen administratif seperti KTP, pas foto, ijazah, dan bukti pengalaman kerja/portofolio di bidang K3 (jika dipersyaratkan oleh skema)."
+                            }
+                        },
+                        {
+                            "type": "callout",
+                            "data": {
+                                "variant": "info",
+                                "text": "[VERIFIKASI PENA] Persyaratan detail dapat berbeda mengikuti pembaruan skema BNSP — tim PENA Consultant akan membantu memastikan kelengkapan dokumen peserta sebelum pelaksanaan uji kompetensi."
+                            }
+                        }
+                    ]
+                },
+                "documents": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Fotokopi KTP dan pas foto",
+                                    "Fotokopi ijazah pendidikan terakhir",
+                                    "Bukti pengalaman kerja/portofolio di bidang K3 (jika dipersyaratkan oleh skema)"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "facilities": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Peserta mendapatkan materi pelatihan, pendampingan instruktur berpengalaman, sesi simulasi audit, serta pendampingan administratif menuju uji kompetensi BNSP."
+                            }
+                        }
+                    ]
+                },
+                "registration_procedure": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Calon peserta dapat menghubungi tim PENA Consultant melalui kontak resmi di website penaconsultant.com untuk mendapatkan informasi jadwal pelatihan terdekat, kelengkapan dokumen yang dibutuhkan, serta konsultasi kesesuaian program dengan kebutuhan perusahaan atau individu. Tim kami akan membantu proses pendaftaran, verifikasi dokumen, hingga pendampingan sampai pelaksanaan uji kompetensi."
+                            }
+                        }
+                    ]
+                },
+                "status": "published",
+                "page_id": "01kyffghv9pt7hdn3wmbp5yx0p",
+                "published_at": "2026-07-26T15:08:19.000000Z",
+                "updated_content_at": null,
+                "lock_version": 0,
+                "created_at": "2026-07-26T15:07:46.000000Z",
+                "updated_at": "2026-08-05T05:58:15.000000Z",
+                "featured": false,
+                "hero_media_id": null,
+                "pivot": {
+                    "case_study_id": "01m0vnh2bnen6z9rps3abd67xc",
+                    "offering_id": "01kyfffhnzgqq5t1zrp7xytdz9"
+                }
+            }
+        ]
+    },
+    {
+        "id": "01m0vnh2dqbzzfk5qpsv374rrk",
+        "title": "Pengendalian Bahaya Gas H2S & Keselamatan Ruang Terbatas di Fasilitas Pengolahan Migas",
+        "slug": "pengendalian-gas-h2s-ruang-terbatas-fasilitas-migas",
+        "client_org_id": "01kywajjanppq3vzpvkrhj29cv",
+        "client_anonymized": false,
+        "problem": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Pada masa Turnaround (TAR) berkala fasilitas pengolahan migas, lebih dari 300 teknisi dan kontraktor harus melakukan pembersihan, perbaikan, dan pengelasan di dalam bejana proses (process vessels), kolom distilasi, dan tangki timbun yang memiliki potensi bahaya akumulasi gas asam (H2S) dan defisiensi oksigen."
+                    }
+                }
+            ]
+        },
+        "intervention": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PENA Consultant menggelar pelatihan in-house intensif untuk sertifikasi Authorized Gas Tester (AGT) Level 2 dan Teknisi Ruang Terbatas (Confined Space Entry Supervisor). Pelatihan mencakup kalibrasi gas detector 4-in-1, teknik ventilasi mekanik purge-and-ventilate, penggunaan Self-Contained Breathing Apparatus (SCBA), dan simulasi rescue darurat."
+                    }
+                }
+            ]
+        },
+        "outcome": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Sebanyak 45 personel kunci lulus sertifikasi resmi dan bertindak sebagai Gas Tester serta Safety Standby selama 21 hari masa TAR. Pekerjaan perbaikan di 48 unit confined space berhasil diselesaikan tanpa ada satupun insiden paparan gas beracun maupun henti kerja darurat."
+                    }
+                }
+            ]
+        },
+        "outcome_metrics": {
+            "Personel Tersertifikasi AGT": "45 Personel",
+            "Durasi Turnaround": "21 Hari",
+            "Unit Vessel Selesai": "48 Tangki & Vessel",
+            "Insiden Keracunan Gas": "0 Kasus"
+        },
+        "location_id": null,
+        "industry_id": null,
+        "delivered_at": "2025-09-20T00:00:00.000000Z",
+        "consent_ref": "corporate_client_consent",
+        "status": "published",
+        "page_id": "01m0vnh2f6q723w8f8rkp4pzyt",
+        "published_at": "2026-08-25T05:15:44.000000Z",
+        "updated_content_at": "2026-08-25T05:15:44.000000Z",
+        "lock_version": 0,
+        "created_at": "2026-08-25T05:15:44.000000Z",
+        "updated_at": "2026-08-25T05:15:44.000000Z",
+        "offerings": [
+            {
+                "id": "01kyfffhk9kg0e0j44yqybwj7p",
+                "type": "training",
+                "category_id": "01kyfffk33ygbdh6ydf4grfcba",
+                "name": "Ahli K3 Kimia",
+                "slug": "ahli-k3-kimia",
+                "summary": "Ahli K3 Kimia adalah program pembinaan Ahli K3 Kimia sesuai Kepmenaker No. 187/MEN/1999 tentang pengendalian bahan kimia berbahaya — kompetensi wajib bagi perusahaan yang menyimpan atau menggunakan bahan kimia berbahaya di atas nilai ambang kuantitas. Tersedia online & offline.",
+                "certification_body": "kemnaker",
+                "credential": null,
+                "pricing_model": "per_person",
+                "base_price": 15000000,
+                "duration": "12 hari",
+                "legal_basis": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Bahan kimia berbahaya — mudah terbakar, korosif, beracun, atau reaktif — menuntut pengelolaan yang berbeda dari bahaya kerja umum, karena kegagalan penanganannya bisa berujung pada kebakaran besar, ledakan, atau paparan yang berdampak jangka panjang pada kesehatan pekerja. Kepmenaker No. 187/MEN/1999 secara khusus mewajibkan perusahaan yang menyimpan atau menggunakan bahan kimia berbahaya di atas nilai ambang kuantitas tertentu untuk menunjuk Ahli K3 Kimia yang bertanggung jawab atas pengendaliannya."
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+                                "source": "UU No. 1 Tahun 1970"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Pengendalian Bahan Kimia Berbahaya di Tempat Kerja — termasuk kewajiban penunjukan Petugas dan Ahli K3 Kimia.",
+                                "source": "Kepmenaker No. 187/MEN/1999"
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Kepmenaker No. 187/MEN/1999 membagi instalasi berdasarkan potensi bahaya (bahaya besar atau bahaya menengah) — klasifikasi ini menentukan kewajiban spesifik perusahaan, termasuk penyusunan dokumen pengendalian bahaya besar dan frekuensi pelaporan. Ahli K3 Kimia adalah personel yang berwenang menyusun dan menjaga kepatuhan dokumen-dokumen tersebut atas nama perusahaan."
+                            }
+                        }
+                    ]
+                },
+                "objectives": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Program ini menyasar personel yang menangani gudang bahan kimia, laboratorium, atau proses produksi yang melibatkan bahan kimia berbahaya — umumnya staf HSE, QA/QC, atau engineer proses di industri manufaktur, farmasi, dan petrokimia."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Kesalahan pengelolaan bahan kimia adalah salah satu penyebab insiden kerja dengan konsekuensi terberat — kebakaran gudang B3, kebocoran gas, atau ledakan proses seringkali berakar pada lemahnya sistem informasi bahaya (LDKB/MSDS yang tidak mutakhir) atau penyimpanan yang tidak sesuai kompatibilitas kimia. Ahli K3 Kimia bersertifikat menjadi lapisan pertahanan utama perusahaan terhadap risiko ini, sekaligus personel yang paling sering diminta hadir saat audit klien atau asuransi meninjau fasilitas penyimpanan B3. Setelah menyelesaikan program, peserta mampu:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Memahami regulasi pengendalian bahan kimia berbahaya dan klasifikasi potensi bahaya instalasi (besar/menengah) sesuai Kepmenaker No. 187/MEN/1999",
+                                    "Menyusun dan mengelola Lembar Data Keselamatan Bahan (LDKB/MSDS) serta label sesuai Sistem Harmonisasi Global (GHS)",
+                                    "Menetapkan potensi bahaya instalasi dan menyusun dokumen pengendalian bahaya besar bila dipersyaratkan",
+                                    "Merencanakan tanggap darurat kimia: skenario kebocoran, tumpahan, dan paparan, termasuk koordinasi dengan tim tanggap darurat perusahaan",
+                                    "Mengendalikan paparan bahan kimia pada pekerja melalui hierarki pengendalian dan program pemantauan lingkungan kerja",
+                                    "Menjalankan tugas dan kewajiban pelaporan sesuai penunjukannya sebagai Ahli K3 Kimia"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "scope": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Kurikulum menggabungkan pengetahuan teknis bahan kimia dengan kewajiban administratif regulasi, karena keduanya sama-sama diuji dalam praktik sehari-hari peran ini:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Dasar hukum pengendalian bahan kimia berbahaya dan klasifikasi potensi bahaya instalasi",
+                                    "Klasifikasi, sifat fisik-kimia, dan bahaya bahan kimia (mudah terbakar, korosif, toksik, reaktif)",
+                                    "Lembar Data Keselamatan Bahan (LDKB/MSDS), pelabelan, dan Sistem Harmonisasi Global (GHS)",
+                                    "Penyimpanan bahan kimia: kompatibilitas, segregasi, dan desain gudang B3",
+                                    "Penanganan dan transportasi bahan kimia berbahaya di lingkungan kerja",
+                                    "Penilaian dan pengendalian paparan pekerja; pemantauan lingkungan kerja",
+                                    "Perencanaan dan prosedur tanggap darurat kimia, termasuk simulasi skenario kebocoran/tumpahan",
+                                    "Penyusunan dokumen pengendalian bahaya besar dan pelaporan berkala"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "requirements": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Karena tanggung jawabnya menyangkut keputusan teknis atas bahan berbahaya, program ini mensyaratkan latar belakang yang relevan:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Pendidikan minimal D3/S1 bidang teknik, kimia, atau sains terapan yang relevan dengan proses/bahan kimia di tempat kerja",
+                                    "Memiliki penugasan atau pengalaman kerja pada fasilitas yang menyimpan/menggunakan bahan kimia berbahaya",
+                                    "Ditugaskan secara tertulis oleh perusahaan sebagai calon Ahli K3 Kimia",
+                                    "Sehat jasmani dan rohani"
+                                ]
+                            }
+                        },
+                        {
+                            "type": "callout",
+                            "data": {
+                                "variant": "info",
+                                "text": "Latar belakang pendidikan teknis/kimia disyaratkan karena peran ini menyangkut keputusan pengendalian bahaya yang berdampak langsung pada keselamatan fasilitas — tim kami akan memverifikasi kesesuaian latar belakang Anda sebelum pendaftaran diproses."
+                            }
+                        }
+                    ]
+                },
+                "documents": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Fotokopi KTP dan ijazah pendidikan terakhir (D3/S1 teknik, kimia, atau sains terapan)",
+                                    "Pas foto terbaru latar belakang merah",
+                                    "Surat penugasan dari perusahaan sebagai calon Ahli K3 Kimia",
+                                    "Surat keterangan sehat dari dokter"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "facilities": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Modul teknis pengendalian bahan kimia berbahaya sesuai Kepmenaker No. 187/MEN/1999",
+                                    "Instruktur praktisi berpengalaman di industri kimia/petrokimia",
+                                    "Studi kasus penyusunan LDKB/MSDS dan simulasi tanggap darurat kimia",
+                                    "Sertifikat dan konsultasi pasca-pelatihan seputar dokumen pengendalian bahaya besar"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "registration_procedure": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "number",
+                                "items": [
+                                    "Hubungi tim kami melalui WhatsApp atau formulir di halaman ini.",
+                                    "Tim kami mengonfirmasi kesesuaian latar belakang pendidikan/pengalaman Anda dengan proses kimia di tempat kerja.",
+                                    "Terima penawaran resmi: jadwal dan biaya.",
+                                    "Lengkapi berkas administrasi dan surat penugasan perusahaan.",
+                                    "Ikuti pelatihan teori dan studi kasus penyusunan dokumen pengendalian bahaya.",
+                                    "Terima sertifikat Ahli K3 Kimia."
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "status": "published",
+                "page_id": "01kyffghrzp28gz41gadr70m84",
+                "published_at": "2026-07-26T15:08:19.000000Z",
+                "updated_content_at": null,
+                "lock_version": 0,
+                "created_at": "2026-07-26T15:07:46.000000Z",
+                "updated_at": "2026-08-05T04:59:59.000000Z",
+                "featured": true,
+                "hero_media_id": null,
+                "pivot": {
+                    "case_study_id": "01m0vnh2dqbzzfk5qpsv374rrk",
+                    "offering_id": "01kyfffhk9kg0e0j44yqybwj7p"
+                }
+            },
+            {
+                "id": "01kyfffhz6w6xmy8rehdrykwjb",
+                "type": "training",
+                "category_id": "01kyfffk3w6mtjr6hfvvg5n1yz",
+                "name": "Ahli Madya Ruang Terbatas",
+                "slug": "ahli-madya-ruang-terbatas",
+                "summary": "Tersedia online.",
+                "certification_body": "bnsp",
+                "credential": null,
+                "pricing_model": "per_person",
+                "base_price": 5500000,
+                "duration": "3 hari",
+                "legal_basis": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Ruang terbatas termasuk salah satu lingkungan kerja paling mematikan justru karena terlihat sederhana: tangki kosong, sumur, gorong-gorong, atau silo yang tampak aman untuk dimasuki ternyata bisa kekurangan oksigen atau mengandung gas beracun dalam hitungan detik. Pola yang berulang di banyak kasus fatal adalah \"rescuer becomes victim\" — penolong yang masuk tanpa prosedur justru ikut menjadi korban."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Kompetensi Petugas Madya Ruang Terbatas semula diatur melalui Kepdirjen Pembinaan Pengawasan Ketenagakerjaan No. KEP.113/DJPPK/IX/2006, dengan jenjang Utama diatur menyusul melalui Surat Edaran No. SE.01/DJPPK/I/2011."
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Keselamatan dan Kesehatan Kerja di Ruang Terbatas.",
+                                "source": "Permenaker No. 11 Tahun 2023"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+                                "source": "UU No. 1 Tahun 1970"
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Permenaker No. 11 Tahun 2023 secara resmi meleburkan jenjang Petugas Madya dan Petugas Utama Ruang Terbatas menjadi satu lisensi tunggal: Teknisi K3 Ruang Terbatas. Lisensi Madya dan Utama yang diterbitkan sebelum aturan ini berlaku dinyatakan otomatis beralih menjadi Lisensi K3 Teknisi K3 Ruang Terbatas. Karena istilah \"Ahli Madya\"/\"Petugas Madya Ruang Terbatas\" tetap banyak dicari dan digunakan di dunia kerja — termasuk dalam persyaratan tender dan lowongan kerja — PENA Consultant tetap menggunakan istilah ini untuk memudahkan pencarian, sembari memastikan seluruh materi dan proses sertifikasi mengikuti ketentuan terbaru dalam Permenaker No. 11 Tahun 2023."
+                            }
+                        }
+                    ]
+                },
+                "objectives": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Ruang terbatas (confined space) didefinisikan sebagai ruangan dengan akses masuk dan keluar yang terbatas, tidak dirancang untuk tempat kerja secara terus-menerus, dan berpotensi mengandung bahaya seperti defisiensi oksigen, gas beracun atau mudah terbakar, maupun risiko engulfment. Berdasarkan Permenaker No. 11 Tahun 2023, ruang terbatas dikelompokkan menjadi empat jenis: tangki dan/atau bejana (termasuk pesawat uap, dapur/tungku, silo, cerobong), ruang bawah tanah seperti sumur dan gorong-gorong, ruang dalam struktur bangunan, serta ruang lain dengan ventilasi terbatas. Jenjang Madya adalah jenjang menengah yang berwenang mengoordinasikan entry, mengesahkan izin masuk, dan mengawasi tim di lapangan."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Kompetensi ini dibutuhkan oleh personel di industri migas dan petrokimia yang menangani tangki, vessel, dan perpipaan; sektor pertambangan dengan terowongan dan silo; pengolahan air dan limbah dengan bak, sumur, dan gorong-gorong; manufaktur dengan tangki proses dan silo penyimpanan; galangan kapal dengan ruang kapal dan ballast tank; serta proyek konstruksi dan utilitas bawah tanah. Jenjang Madya khususnya diperuntukkan bagi personel yang berperan sebagai pengawas atau koordinator entry — bukan sekadar entrant atau attendant — sehingga cocok untuk HSE officer, safety coordinator, dan supervisor lapangan."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Personel dengan kompetensi ini bertanggung jawab mengidentifikasi dan mengklasifikasikan ruang terbatas di area kerja; menerbitkan dan mengesahkan izin masuk (entry permit) sebelum pekerjaan dimulai; melakukan pengukuran atmosfer — kadar oksigen, gas mudah terbakar (LEL), dan gas beracun — sebelum dan selama pekerjaan berlangsung; menentukan kebutuhan ventilasi atau purging sebelum entry diizinkan; mengoordinasikan peran entrant, attendant, dan tim rescue agar komunikasi tetap terjaga; memastikan APD dan alat komunikasi memadai; menghentikan pekerjaan segera bila kondisi berubah tidak aman; menyiapkan dan memimpin prosedur tanggap darurat apabila terjadi insiden; serta mendokumentasikan seluruh proses entry sebagai bagian dari kepatuhan terhadap Permenaker No. 11 Tahun 2023."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Personel dengan sertifikasi ini menempati posisi krusial dalam tim HSE untuk setiap pekerjaan yang melibatkan ruang terbatas, sekaligus menjadi syarat wajib pada banyak tender proyek migas dan pertambangan. Sertifikasi ini membuka jenjang karier menuju posisi Confined Space Supervisor, Confined Space Coordinator, atau lanjut ke sertifikasi Ahli K3."
+                            }
+                        }
+                    ]
+                },
+                "scope": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Materi pelatihan mencakup klasifikasi ruang terbatas dan identifikasi bahaya seperti defisiensi/kelebihan oksigen, gas beracun dan mudah terbakar, risiko engulfment, serta suhu ekstrem; teknik pengukuran dan kalibrasi alat deteksi gas; penyusunan dan pengesahan sistem izin kerja masuk; komunikasi dan pengawasan multi-pihak antara entrant, attendant, dan supervisor; dasar-dasar rescue non-entry maupun entry rescue; serta penggunaan APD khusus ruang terbatas seperti breathing apparatus, full body harness, tripod, dan winch."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Pelatihan berlangsung sekitar 4–5 hari, mencakup:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Peraturan perundang-undangan K3 ruang terbatas, termasuk pembaruan Permenaker No. 11 Tahun 2023",
+                                    "Dasar-dasar bahaya ruang terbatas dan pengenalan bahan kimia berbahaya yang mungkin ditemukan di dalamnya",
+                                    "Teknik pengukuran dan deteksi gas menggunakan alat multi-gas detector",
+                                    "Sistem izin kerja masuk (permit to enter) dan prosedur pengendalian bahaya",
+                                    "Dasar-dasar rescue ruang terbatas dan koordinasi tim tanggap darurat",
+                                    "Praktik lapangan berupa simulasi entry dan rescue menggunakan unit ruang terbatas, ditutup dengan evaluasi tertulis dan uji praktik"
+                                ]
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Personel jenjang Madya juga berperan penting saat pekerjaan ruang terbatas beririsan dengan pekerjaan panas — misalnya pengelasan di dalam tangki — karena harus memastikan kadar oksigen dan gas mudah terbakar tetap terpantau sepanjang durasi hot work berlangsung, bukan hanya pada saat pengukuran awal."
+                            }
+                        }
+                    ]
+                },
+                "requirements": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Pendidikan minimal SMA/SMK sederajat",
+                                    "Pengalaman kerja pada kegiatan industri yang berhubungan dengan ruang terbatas (umumnya minimal 2 tahun)",
+                                    "Sehat jasmani dan rohani, termasuk bebas dari kondisi klaustrofobia yang dapat mengganggu kinerja di ruang sempit"
+                                ]
+                            }
+                        },
+                        {
+                            "type": "callout",
+                            "data": {
+                                "variant": "info",
+                                "text": "Pengalaman atau pemahaman dasar K3 ruang terbatas sebelumnya tidak selalu wajib, namun akan sangat membantu peserta mengikuti materi jenjang lanjutan ini dengan lebih optimal."
+                            }
+                        }
+                    ]
+                },
+                "documents": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Fotokopi ijazah",
+                                    "Fotokopi KTP",
+                                    "Pas foto",
+                                    "Surat keterangan kerja dari perusahaan",
+                                    "Surat keterangan sehat dari dokter"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "facilities": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Pelatihan menggabungkan kelas teori dengan praktik simulasi menggunakan unit ruang terbatas fisik dan alat deteksi gas sungguhan, dipandu instruktur berpengalaman dari kalangan praktisi K3 industri migas dan pertambangan."
+                            }
+                        }
+                    ]
+                },
+                "registration_procedure": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Peserta yang dinyatakan kompeten memperoleh Sertifikat dan Lisensi K3 dari Kemnaker RI setingkat kompetensi Madya, mengikuti kerangka Lisensi Teknisi K3 Ruang Terbatas sesuai Permenaker No. 11 Tahun 2023 — dokumen penting saat audit K3 perusahaan, tender proyek migas dan tambang, maupun pemeriksaan pengawas ketenagakerjaan."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Calon peserta dapat menghubungi tim PENA Consultant untuk konsultasi jadwal, melengkapi dokumen administrasi, mengikuti sesi teori dan simulasi lapangan, hingga menempuh evaluasi akhir. In-house training tersedia bagi perusahaan yang ingin menyertifikasi timnya langsung di lokasi kerja."
+                            }
+                        }
+                    ]
+                },
+                "status": "published",
+                "page_id": "01kyffgj3177dkkt73hd2y1n0a",
+                "published_at": "2026-07-26T15:08:19.000000Z",
+                "updated_content_at": null,
+                "lock_version": 0,
+                "created_at": "2026-07-26T15:07:46.000000Z",
+                "updated_at": "2026-08-05T15:46:00.000000Z",
+                "featured": false,
+                "hero_media_id": null,
+                "pivot": {
+                    "case_study_id": "01m0vnh2dqbzzfk5qpsv374rrk",
+                    "offering_id": "01kyfffhz6w6xmy8rehdrykwjb"
+                }
+            },
+            {
+                "id": "01kyfffhzz13trc66h08gtmvhq",
+                "type": "training",
+                "category_id": "01kyfffk3w6mtjr6hfvvg5n1yz",
+                "name": "Authorized Gas Tester",
+                "slug": "authorized-gas-tester",
+                "summary": "Tersedia online.",
+                "certification_body": "bnsp",
+                "credential": null,
+                "pricing_model": "per_person",
+                "base_price": 3200000,
+                "duration": "3 hari",
+                "legal_basis": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Sebelum pekerjaan panas (hot work) atau memasuki ruang terbatas dapat diizinkan berlangsung, atmosfer kerja wajib diuji dan dinyatakan aman oleh personel yang berwenang — bukan diasumsikan aman berdasarkan pengamatan visual. Authorized Gas Tester adalah peran yang secara khusus diberi kewenangan menguji dan menyatakan atmosfer aman sebelum izin kerja (permit-to-work) diterbitkan."
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+                                "source": "UU No. 1 Tahun 1970"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+                                "source": "UU No. 13 Tahun 2003"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+                                "source": "PP No. 23 Tahun 2004"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Keselamatan dan Kesehatan Kerja Lingkungan Kerja.",
+                                "source": "Permenaker No. 5 Tahun 2018"
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Peran ini sangat kritis di industri migas, petrokimia, dan pekerjaan ruang terbatas — kesalahan pengujian gas (baik karena alat tidak dikalibrasi maupun kesalahan interpretasi hasil) adalah salah satu penyebab utama insiden fatal di sektor-sektor tersebut, menjadikan sertifikasi ini bukan formalitas melainkan gerbang keselamatan yang harus benar-benar dikuasai."
+                            }
+                        }
+                    ]
+                },
+                "objectives": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Program ini menyasar personel yang bertanggung jawab menguji atmosfer kerja sebelum izin kerja diterbitkan — umumnya petugas HSE, teknisi ruang terbatas, atau personel sistem izin kerja panas (hot work permit) di industri migas dan petrokimia."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Sistem izin kerja aman (permit-to-work) di industri berisiko tinggi sepenuhnya bergantung pada kualitas pengujian atmosfer di tahap awal — jika data yang dimasukkan ke dalam sistem PTW keliru, seluruh lapisan pengendalian berikutnya dibangun di atas asumsi yang salah. Authorized Gas Tester adalah titik kontrol pertama yang menentukan apakah sebuah pekerjaan berisiko tinggi benar-benar aman untuk dimulai."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Kompetensi ini menuntut lebih dari sekadar bisa menyalakan alat deteksi gas — pengujian yang keliru sering terjadi bukan karena alat rusak, melainkan karena kesalahan penempatan titik uji (tidak mewakili kondisi sebenarnya di area kerja), kalibrasi yang kedaluwarsa, atau interpretasi hasil yang terlalu longgar terhadap ambang batas aman. Program ini secara khusus melatih kedisiplinan prosedural yang mencegah kesalahan semacam ini, karena di sinilah sebagian besar insiden akibat pengujian gas yang tidak memadai sebenarnya berakar. Setelah menyelesaikan program, peserta mampu:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Memahami karakteristik dan bahaya gas di area kerja: mudah terbakar, beracun, dan asfiksia (kekurangan oksigen)",
+                                    "Mengoperasikan dan mengkalibrasi alat deteksi gas (gas detector) sesuai prosedur pabrikan",
+                                    "Melaksanakan pengujian atmosfer secara sistematis sebelum penerbitan izin kerja",
+                                    "Menginterpretasikan hasil pengujian dan menentukan kelayakan atmosfer untuk pekerjaan panas/ruang terbatas",
+                                    "Mengintegrasikan hasil pengujian gas dengan sistem izin kerja aman (permit-to-work) perusahaan",
+                                    "Menerapkan prosedur tanggap darurat apabila hasil pengujian menunjukkan kondisi berbahaya"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "scope": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Kurikulum berfokus pada ketelitian prosedural — setiap langkah pengujian gas dilatih berulang hingga menjadi kebiasaan yang konsisten, bukan sekadar dipahami secara teori:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Sifat dan bahaya gas: mudah terbakar (flammable), beracun (toxic), dan asfiksia (oxygen deficiency/enrichment)",
+                                    "Prinsip kerja, jenis, dan kalibrasi gas detector (single-gas dan multi-gas) sebelum digunakan",
+                                    "Prosedur pengujian atmosfer sebelum pekerjaan panas dan sebelum memasuki ruang terbatas, termasuk penentuan titik uji yang representatif",
+                                    "Interpretasi hasil pengujian dan penentuan batas aman (lower explosive limit, threshold limit value)",
+                                    "Integrasi hasil pengujian dengan sistem izin kerja aman (permit-to-work) perusahaan",
+                                    "Tanggap darurat dan praktik lapangan pengujian gas pada skenario nyata"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "requirements": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Pendidikan minimal SMA/SMK sederajat, diutamakan pengalaman kerja di industri migas/petrokimia",
+                                    "Ditugaskan oleh perusahaan sebagai calon petugas pengujian gas berwenang",
+                                    "Sehat jasmani dan rohani",
+                                    "Bersedia mengikuti pelatihan praktik penggunaan gas detector secara berulang hingga prosedurnya dikuasai secara konsisten"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "documents": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Fotokopi KTP dan ijazah pendidikan terakhir",
+                                    "Pas foto terbaru latar belakang merah",
+                                    "Surat tugas dari perusahaan sebagai calon petugas pengujian gas berwenang"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "facilities": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Fasilitas program menekankan pengulangan praktik hingga prosedur pengujian benar-benar melekat, bukan sekadar pemahaman satu kali:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Modul pengujian gas sesuai kebutuhan industri migas/petrokimia",
+                                    "Instruktur praktisi berpengalaman sistem izin kerja aman (permit-to-work)",
+                                    "Gas detector (single-gas dan multi-gas) untuk praktik pengujian atmosfer langsung",
+                                    "Simulasi skenario pengujian sebelum hot work dan sebelum masuk ruang terbatas",
+                                    "Uji kompetensi dan sertifikat Authorized Gas Tester"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "registration_procedure": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "number",
+                                "items": [
+                                    "Hubungi tim kami melalui WhatsApp atau formulir di halaman ini.",
+                                    "Terima penawaran resmi: jadwal dan biaya.",
+                                    "Lengkapi berkas administrasi.",
+                                    "Ikuti pelatihan teori sifat dan bahaya gas di area kerja.",
+                                    "Ikuti praktik penggunaan dan kalibrasi gas detector.",
+                                    "Ikuti uji kompetensi pengujian atmosfer pada skenario nyata.",
+                                    "Terima sertifikat Authorized Gas Tester."
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "status": "published",
+                "page_id": "01kyffgj41j7m7d7w1hspc3348",
+                "published_at": "2026-07-26T15:08:19.000000Z",
+                "updated_content_at": null,
+                "lock_version": 0,
+                "created_at": "2026-07-26T15:07:46.000000Z",
+                "updated_at": "2026-08-05T05:25:18.000000Z",
+                "featured": false,
+                "hero_media_id": null,
+                "pivot": {
+                    "case_study_id": "01m0vnh2dqbzzfk5qpsv374rrk",
+                    "offering_id": "01kyfffhzz13trc66h08gtmvhq"
+                }
+            }
+        ]
+    },
+    {
+        "id": "01m0vnh2fnfnw8ps6vedfqetzn",
+        "title": "Standardisasi Sistem Proteksi Jatuh & Scaffolding pada Proyek Gedung Bertingkat",
+        "slug": "standardisasi-proteksi-jatuh-scaffolding-gedung-bertingkat",
+        "client_org_id": "01m0vnfawc1xm4cwyzr9bsq3je",
+        "client_anonymized": false,
+        "problem": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Pembangunan gedung komersial 35 lantai di kawasan pusat bisnis melibatkan pekerjaan berisiko jatuh tinggi pada pemasangan fasad kaca, scaffolding gantung (suspended scaffold), dan instalasi formwork baja di ketinggian lebih dari 100 meter dari permukaan tanah."
+                    }
+                }
+            ]
+        },
+        "intervention": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PENA Consultant menyelenggarakan pelatihan sertifikasi Tenaga Kerja Bangunan Tinggi (TKBT Tingkat 2) dan Operator Scaffolding Kemnaker RI langsung di lokasi proyek (on-site). Pembinaan berfokus pada inspeksi kelayakan full body harness, shock absorber, anchor point berstandar EN 795, dan prosedur scaffolding tagging (Green/Red Tag)."
+                    }
+                }
+            ]
+        },
+        "outcome": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Sebanyak 60 teknisi dan pengawas scaffolding mendapatkan lisensi resmi. Seluruh pekerjaan fasad gedung setinggi 35 lantai diselesaikan tepat waktu dengan kepatuhan 100% terhadap Permenaker No. 09 Tahun 2016 tanpa terjadi insiden jatuh dari ketinggian."
+                    }
+                }
+            ]
+        },
+        "outcome_metrics": {
+            "Ketinggian Struktur": "35 Lantai (130 Meter)",
+            "Pekerja Tersertifikasi TKBT": "60 Orang",
+            "Kepatuhan Fall Protection": "100%",
+            "Insiden Jatuh Ketinggian": "0 Insiden"
+        },
+        "location_id": null,
+        "industry_id": null,
+        "delivered_at": "2025-07-10T00:00:00.000000Z",
+        "consent_ref": "corporate_client_consent",
+        "status": "published",
+        "page_id": "01m0vnh2gsx61emv646vfb36az",
+        "published_at": "2026-08-25T05:15:44.000000Z",
+        "updated_content_at": "2026-08-25T05:15:44.000000Z",
+        "lock_version": 0,
+        "created_at": "2026-08-25T05:15:44.000000Z",
+        "updated_at": "2026-08-25T05:15:44.000000Z",
+        "offerings": [
+            {
+                "id": "01kyfffj2dc9te458jzxx0ypnf",
+                "type": "training",
+                "category_id": "01kyfffk44bb2f9j4w8yk8kcn8",
+                "name": "Operator Scaffolding",
+                "slug": "operator-scaffolding",
+                "summary": "Operator Scaffolding (Perancah) adalah program pelatihan dan sertifikasi kompetensi pemasangan dan pembongkaran perancah yang aman (skema BNSP) — dirancang agar peserta kompeten dan tersertifikasi secara nasional pada bidang tersebut. Tersedia online & offline.",
+                "certification_body": "kemnaker",
+                "credential": null,
+                "pricing_model": "per_person",
+                "base_price": 5500000,
+                "duration": "5 hari",
+                "legal_basis": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Sebagian besar kecelakaan kerja di ketinggian bukan disebabkan oleh peralatan yang buruk, melainkan oleh perancah yang dipasang tanpa mengikuti prosedur K3 yang benar: base plate tidak rata, ikatan ke struktur (tie-in) terlewat, atau papan platform yang tidak dikunci dengan baik."
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+                                "source": "UU No. 1 Tahun 1970"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "K3 pada Konstruksi Bangunan.",
+                                "source": "Permenaker No. PER.01/MEN/1980"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "K3 dalam Pekerjaan pada Ketinggian.",
+                                "source": "Permenaker No. 9 Tahun 2016"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "K3 pada Tempat Kegiatan Konstruksi.",
+                                "source": "SKB Menaker–MenPU No. 174/MEN/1986–104/KPTS/1986"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Sertifikasi Kompetensi K3 Bidang Konstruksi Bangunan.",
+                                "source": "Kepdirjen Binwasnaker No. 20 Tahun 2004"
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Perusahaan yang mempekerjakan teknisi perancah tanpa lisensi resmi berisiko menghadapi sanksi pengawasan ketenagakerjaan sekaligus menanggung risiko hukum bila terjadi kecelakaan kerja."
+                            }
+                        }
+                    ]
+                },
+                "objectives": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Operator Scaffolding — dalam istilah regulasi resmi disebut Teknisi K3 Perancah — adalah tenaga kerja yang dilatih dan disertifikasi khusus untuk mencegah kegagalan perancah, mulai dari perencanaan, pemasangan, pemeriksaan, hingga pembongkaran perancah secara aman. Istilah \"Operator Scaffolding\" adalah sebutan umum di lapangan, sedangkan sebutan resmi dalam peraturan ketenagakerjaan adalah Teknisi K3 Perancah (Scaffolder) — keduanya merujuk pada profesi yang sama, berbeda dari Supervisor Perancah yang memiliki lisensi terpisah untuk mengawasi beberapa tim teknisi sekaligus dan menyetujui desain perancah yang kompleks."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Pelatihan ini relevan bagi pekerja proyek konstruksi gedung dan infrastruktur, kontraktor dan subkontraktor jasa perancah, perusahaan EPC dan fabrikasi baja, industri migas dan petrokimia yang rutin melakukan shutdown/turnaround, galangan kapal, pembangkit listrik, perusahaan maintenance gedung bertingkat dan fasad, kontraktor menara telekomunikasi, hingga penyedia jasa event dan panggung. HSE Officer dan supervisor lapangan juga perlu memahami materi ini untuk mengawasi subkontraktor perancah, sementara pemilik perusahaan jasa konstruksi membutuhkan tim bersertifikat untuk memenuhi syarat tender proyek EPC dan migas."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Dalam pekerjaan sehari-hari, seorang Teknisi K3 Perancah bertanggung jawab merencanakan tata letak perancah sesuai kebutuhan dan kapasitas beban (ringan, sedang, atau berat); memilih komponen yang tepat seperti base plate, jack base, standard, ledger, transom, bracing, papan platform, toe board, dan guard rail; memasang perancah secara sistematis dari bawah ke atas dengan pengikatan (tie-in) ke struktur bangunan secara berkala; memasang titik jangkar untuk alat pelindung jatuh; melakukan pemeriksaan sebelum digunakan dan memberi tagging (hijau aman digunakan, kuning penggunaan terbatas, merah dilarang digunakan); melaksanakan inspeksi berkala sesuai Permenaker No. 9/2016 — sebelum digunakan, setiap 7 hari, setelah modifikasi, dan setelah cuaca buruk; mengisi register/log inspeksi; serta membongkar perancah dari atas ke bawah secara terkendali."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Bagi individu, sertifikasi ini membuka akses ke posisi teknisi perancah bersertifikat dengan daya tawar lebih tinggi, serta menjadi batu loncatan menuju jenjang Supervisor Perancah. Bagi perusahaan, memiliki tim bersertifikat berarti memenuhi syarat wajib banyak tender EPC dan migas, mengurangi risiko kecelakaan kerja dan klaim asuransi, serta memperkuat reputasi keselamatan di mata klien dan mitra bisnis."
+                            }
+                        }
+                    ]
+                },
+                "scope": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Peserta akan menguasai identifikasi jenis dan material perancah, perhitungan dasar kapasitas beban, urutan pemasangan dan pembongkaran yang aman, penerapan sistem tagging, penyusunan checklist inspeksi, penggunaan APD untuk bekerja di ketinggian (full body harness, lanyard, helm dengan tali dagu), serta pemahaman dasar mengenai kondisi kesehatan yang melarang seseorang bekerja di ketinggian — seperti hipertensi tak terkontrol, epilepsi, vertigo, dan gangguan keseimbangan — sebagaimana diatur dalam Permenaker No. 9/2016."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Kurikulum disusun dalam tiga kelompok materi selama sekitar 4–5 hari efektif:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Kelompok dasar: peraturan perundang-undangan K3 umum, K3 konstruksi bangunan, dan K3 pekerjaan pada ketinggian",
+                                    "Kelompok inti: jenis dan komponen perancah, perhitungan pembebanan, prosedur pemasangan yang aman, prosedur pemeriksaan dan tagging, prosedur pembongkaran, K3 bekerja di ketinggian dan penggunaan APD, serta dasar penanganan keadaan darurat",
+                                    "Kelompok penunjang: praktik lapangan langsung memasang dan membongkar unit perancah, simulasi inspeksi, serta evaluasi akhir berupa ujian tertulis dan uji praktik"
+                                ]
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Penilaian kelulusan terdiri atas ujian tertulis mengenai regulasi dan pengetahuan teknis, serta uji praktik berupa demonstrasi pemasangan, inspeksi, dan pembongkaran perancah yang dinilai langsung oleh penguji."
+                            }
+                        }
+                    ]
+                },
+                "requirements": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Pendidikan minimal SMA/SMK sederajat",
+                                    "Usia produktif, sehat jasmani dan rohani dengan surat keterangan sehat dari dokter",
+                                    "Tidak memiliki kondisi yang membahayakan bekerja di ketinggian"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "documents": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Fotokopi KTP",
+                                    "Fotokopi ijazah terakhir",
+                                    "Pas foto dengan latar belakang merah",
+                                    "Surat pengantar atau surat keterangan kerja dari perusahaan bagi peserta yang diutus"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "facilities": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "PENA Consultant menyediakan kelas dengan format publik, in-house untuk perusahaan, maupun blended (teori daring dan praktik tatap muka):"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Modul dan training kit",
+                                    "Unit perancah untuk praktik langsung",
+                                    "Instruktur berpengalaman di bidang K3 konstruksi dan ketinggian",
+                                    "Pendampingan hingga peserta dinyatakan kompeten"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "registration_procedure": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Peserta yang dinyatakan kompeten memperoleh Sertifikat dan Lisensi K3 dari Kemnaker RI, disertai Surat Izin Operator (SIO) yang umumnya berlaku 3 tahun dan dapat diperpanjang tanpa mengulang seluruh pelatihan selama masih aktif."
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "number",
+                                "items": [
+                                    "Hubungi tim PENA Consultant melalui formulir atau kontak yang tersedia.",
+                                    "Lengkapi dokumen persyaratan.",
+                                    "Konfirmasi jadwal pelatihan terdekat (kelas publik atau in-house).",
+                                    "Ikuti sesi teori dan praktik.",
+                                    "Ikuti ujian akhir.",
+                                    "Sertifikat dan lisensi diterbitkan setelah seluruh proses administrasi Kemnaker RI selesai."
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "status": "published",
+                "page_id": "01kyffgj73sycwyycsxpa72hc0",
+                "published_at": "2026-07-26T15:08:19.000000Z",
+                "updated_content_at": null,
+                "lock_version": 0,
+                "created_at": "2026-07-26T15:07:46.000000Z",
+                "updated_at": "2026-08-05T15:45:59.000000Z",
+                "featured": false,
+                "hero_media_id": null,
+                "pivot": {
+                    "case_study_id": "01m0vnh2fnfnw8ps6vedfqetzn",
+                    "offering_id": "01kyfffj2dc9te458jzxx0ypnf"
+                }
+            },
+            {
+                "id": "01kyfffj3736hfe2094xrmft3w",
+                "type": "training",
+                "category_id": "01kyfffk44bb2f9j4w8yk8kcn8",
+                "name": "TKBT II (Tenaga Kerja Bangunan Tinggi)",
+                "slug": "tkbt-ii-tenaga-kerja-bangunan-tinggi",
+                "summary": "Pembinaan dan sertifikasi Lisensi K3 Tenaga Kerja Bangunan Tinggi (TKBT) Tingkat 2 Kemnaker RI — menguasai teknik bekerja di ketinggian pada struktur bangunan/scaffolding, penggunaan Full Body Harness dual lanyard, pengujian Anchorage Point, dan penahan jatuh (Fall Arrester System) sesuai Permenaker No. 09 Tahun 2016.",
+                "certification_body": "bnsp",
+                "credential": null,
+                "pricing_model": "per_person",
+                "base_price": 5750000,
+                "duration": "3 hari",
+                "legal_basis": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Pembinaan TKBT Tingkat 2 diselenggarakan berdasarkan Permenaker No. 09 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja dalam Pekerjaan Pada Ketinggian. Regulasi ini menetapkan kewajiban sertifikasi bagi personel yang bekerja pada tempat kerja tinggi untuk mencegah bahaya jatuh dari ketinggian."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Kualifikasi TKBT Tingkat II memegang peranan vital dalam pekerjaan konstruksi, maintenance gedung, pemasangan struktur baja, dan perancah."
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+                                "source": "UU No. 1 Tahun 1970"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+                                "source": "UU No. 13 Tahun 2003"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Keselamatan dan Kesehatan Kerja dalam Pekerjaan Pada Ketinggian.",
+                                "source": "Permenaker No. 09 Tahun 2016"
+                            }
+                        }
+                    ]
+                },
+                "objectives": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Program ini mendidik teknisi bekerja di ketinggian yang mengutamakan keselamatan. Setelah lulus pembinaan, peserta mampu:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Menguasai prosedur K3 bekerja aman di ketinggian (Working at Height) pada struktur bangunan, konstruksi baja, dan scaffolding",
+                                    "Melakukan pemeriksaan pre-use APD ketinggian: Full Body Harness, Energy Absorber Lanyard, Fall Arrester, Karabiner, dan Work Positioning Lanyard",
+                                    "Memasang dan memverifikasi kekuatan Titik Tambat (Anchorage Point) serta Lifeline vertikal/horizontal",
+                                    "Menerapkan metode pergerakan bergerak (climbing movement) dengan sistem 100% Tie-Off (dual lanyard hooks)",
+                                    "Meraih Buku Kerja dan Lisensi K3 Kemnaker RI resmi TKBT Tingkat 2"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "scope": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Kurikulum pembinaan K3 ketinggian & uji praktikum Kemnaker RI:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Modul 1: Peraturan K3 Bekerja Pada Ketinggian sesuai Permenaker No. 09 Tahun 2016",
+                                    "Modul 2: Identifikasi Bahaya Jatuh, Perhitungan Clearance Distance, & Factor Fall (Faktor Jatuh)",
+                                    "Modul 3: Pemilihan, Inspeksi, & Perawatan Peralatan Penahan Jatuh (Fall Arrest System)",
+                                    "Modul 4: Pengoperasian Platform Kerja (Scaffolding, Gondola, MEWP) & Prosedur Tanggap Darurat Non-Rope Rescue",
+                                    "Modul Praktik: Praktik pemakaian harness, simulasi 100% tie-off di tower/struktur TUK, pengujian anchor, & Ujian Teori Kemnaker RI"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "requirements": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Minimal SD/SMP/SMA sederajat",
+                                    "Sehat jasmani dan rohani, dibuktikan dengan Surat Keterangan Sehat dari dokter (bebas vertigo dan penyakit jantung/epilepsi)",
+                                    "Pasfoto formal latar belakang merah (3x4 & 4x6), KTP, & ijazah"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "documents": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Kelengkapan administrasi yang umum dipersyaratkan untuk mengikuti program ini:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Fotokopi KTP",
+                                    "Fotokopi ijazah pendidikan terakhir",
+                                    "Pas foto terbaru latar belakang merah",
+                                    "Surat keterangan sehat dari dokter",
+                                    "Surat rekomendasi/penugasan dari perusahaan (untuk peserta utusan perusahaan)",
+                                    "Curriculum vitae (untuk skema sertifikasi BNSP)"
+                                ]
+                            }
+                        },
+                        {
+                            "type": "callout",
+                            "data": {
+                                "variant": "info",
+                                "text": "Persyaratan pendidikan minimum dan pengalaman kerja mengikuti ketentuan skema/penunjukan yang berlaku — tim kami akan memverifikasi kelengkapan Anda sebelum pendaftaran diproses."
+                            }
+                        }
+                    ]
+                },
+                "facilities": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Modul dan materi pelatihan",
+                                    "Instruktur praktisi tersertifikasi di bidangnya",
+                                    "Ujian/asesmen sertifikasi",
+                                    "Sertifikat sesuai skema (Kemnaker RI atau BNSP)",
+                                    "Konsultasi pasca-pelatihan"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "registration_procedure": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "number",
+                                "items": [
+                                    "Hubungi tim kami melalui WhatsApp atau formulir pendaftaran di halaman ini.",
+                                    "Terima penawaran resmi: jadwal, biaya, dan persyaratan program.",
+                                    "Lengkapi berkas administrasi dan lakukan konfirmasi pendaftaran.",
+                                    "Ikuti pelatihan dan ujian/asesmen sertifikasi.",
+                                    "Terima sertifikat dan lisensi/kartu kompetensi sesuai skema."
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "status": "published",
+                "page_id": "01kyffgj82vd7k1325z2ywv946",
+                "published_at": "2026-07-26T15:08:19.000000Z",
+                "updated_content_at": null,
+                "lock_version": 0,
+                "created_at": "2026-07-26T15:07:46.000000Z",
+                "updated_at": "2026-08-10T14:30:36.000000Z",
+                "featured": false,
+                "hero_media_id": null,
+                "pivot": {
+                    "case_study_id": "01m0vnh2fnfnw8ps6vedfqetzn",
+                    "offering_id": "01kyfffj3736hfe2094xrmft3w"
+                }
+            },
+            {
+                "id": "01kyfffj3ex7f5w38g8radbrq4",
+                "type": "training",
+                "category_id": "01kyfffk4vppzr20rnm9g4cq12",
+                "name": "Ahli K3 Konstruksi",
+                "slug": "ahli-k3-konstruksi",
+                "summary": "Program Pembinaan & Sertifikasi Ahli K3 Konstruksi resmi Kemnaker RI berdasarkan Permenaker No. 01/MEN/1980 & Permenaker No. 21/2019. Pembinaan 14 hari kerja mencakup HIRADC konstruksi, perancah scaffolding, keselamatan kerja di ketinggian, dan audit SMK3 proyek.",
+                "certification_body": "bnsp",
+                "credential": null,
+                "pricing_model": "per_person",
+                "base_price": 6500000,
+                "duration": "3 hari",
+                "legal_basis": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Proyek konstruksi menghimpun hampir semua kategori bahaya kerja sekaligus — bekerja di ketinggian, galian, alat berat, listrik sementara, dan perancah — dalam lingkungan yang terus berubah setiap tahap pekerjaan. Permenaker No. 01/MEN/1980 dan SKB Menaker–MenPU No. 174/1986–104/KPTS/1986 menetapkan kewajiban K3 khusus pada kegiatan konstruksi, termasuk keberadaan personel K3 konstruksi yang kompeten di setiap proyek berisiko."
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+                                "source": "UU No. 1 Tahun 1970"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Keselamatan dan Kesehatan Kerja pada Konstruksi Bangunan.",
+                                "source": "Permenaker No. 01/MEN/1980"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Keselamatan dan Kesehatan Kerja pada Tempat Kegiatan Konstruksi.",
+                                "source": "SKB Menaker–MenPU No. 174/1986–104/KPTS/1986"
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Ahli K3 Konstruksi adalah jenjang tertinggi personel K3 pada proyek konstruksi — bertanggung jawab menyusun Rencana K3 Kontrak (RK3K), mengawasi kepatuhan seluruh subkontraktor, dan menjadi pihak yang berhadapan langsung dengan pengawas ketenagakerjaan maupun auditor K3 klien selama proyek berjalan."
+                            }
+                        }
+                    ]
+                },
+                "objectives": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Program ini menyasar personel senior HSE proyek, site manager, atau engineer yang akan memegang tanggung jawab K3 penuh atas sebuah proyek konstruksi — dari tahap perencanaan hingga serah terima."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Klien besar dan pemerintah kini rutin mensyaratkan keberadaan Ahli K3 Konstruksi bersertifikat sebagai syarat tender maupun syarat pencairan termin proyek — menjadikan kredensial ini bukan sekadar kepatuhan, melainkan syarat komersial langsung bagi kontraktor untuk memenangkan dan menjalankan proyek. Setelah menyelesaikan program, peserta mampu:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Memahami regulasi K3 konstruksi dan kelembagaannya di tingkat proyek (organisasi K3 proyek, P2K3 proyek)",
+                                    "Mengidentifikasi bahaya spesifik pekerjaan konstruksi: ketinggian, galian, alat berat, perancah, dan listrik sementara",
+                                    "Menyusun Rencana K3 Kontrak (RK3K) sesuai persyaratan proyek dan klien",
+                                    "Melakukan inspeksi K3 konstruksi rutin dan memimpin safety talk/toolbox meeting proyek",
+                                    "Mengawasi kepatuhan K3 seluruh subkontraktor yang bekerja di lokasi proyek",
+                                    "Menjalankan peran Ahli K3 Konstruksi sesuai kewenangan penunjukan"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "scope": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Peraturan K3 konstruksi dan kelembagaan K3 di tingkat proyek",
+                                    "Manajemen risiko pekerjaan konstruksi dari tahap perencanaan hingga eksekusi",
+                                    "K3 pekerjaan ketinggian, galian, perancah, dan alat berat di lingkungan proyek",
+                                    "Sistem izin kerja (permit-to-work) dan inspeksi K3 proyek",
+                                    "Penyusunan Rencana K3 Kontrak (RK3K) dan dokumen K3 proyek lainnya",
+                                    "Tanggap darurat proyek konstruksi dan koordinasi lintas subkontraktor",
+                                    "Studi kasus proyek nyata dan evaluasi akhir"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "requirements": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Pendidikan minimal D3/S1 teknik (sipil, arsitektur, atau bidang terkait konstruksi)",
+                                    "Memiliki pengalaman kerja di proyek konstruksi, diutamakan pada posisi HSE/site management",
+                                    "Ditugaskan secara tertulis oleh perusahaan/kontraktor sebagai calon Ahli K3 Konstruksi",
+                                    "Sehat jasmani dan rohani"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "documents": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Fotokopi KTP dan ijazah pendidikan terakhir (D3/S1 teknik)",
+                                    "Pas foto terbaru latar belakang merah",
+                                    "Curriculum vitae yang mencantumkan pengalaman kerja proyek konstruksi",
+                                    "Surat penugasan dari perusahaan/kontraktor",
+                                    "Surat keterangan sehat dari dokter"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "facilities": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Modul K3 konstruksi sesuai Permenaker No. 01/MEN/1980 dan SKB terkait",
+                                    "Instruktur praktisi berpengalaman sebagai Ahli K3 Konstruksi/HSE proyek",
+                                    "Studi kasus proyek konstruksi nyata dan simulasi penyusunan RK3K",
+                                    "Sertifikat dan konsultasi pasca-pelatihan seputar dokumen K3 proyek"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "registration_procedure": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "number",
+                                "items": [
+                                    "Hubungi tim kami melalui WhatsApp atau formulir di halaman ini.",
+                                    "Tim kami mengonfirmasi kesesuaian latar belakang dan pengalaman proyek Anda.",
+                                    "Terima penawaran resmi: jadwal dan biaya.",
+                                    "Lengkapi berkas administrasi dan surat penugasan.",
+                                    "Ikuti pelatihan teori, studi kasus proyek, dan simulasi penyusunan RK3K.",
+                                    "Terima sertifikat Ahli K3 Konstruksi."
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "status": "published",
+                "page_id": "01kyffgj8e0gs67atayvqq796f",
+                "published_at": "2026-07-26T15:08:19.000000Z",
+                "updated_content_at": null,
+                "lock_version": 0,
+                "created_at": "2026-07-26T15:07:46.000000Z",
+                "updated_at": "2026-08-10T20:05:18.000000Z",
+                "featured": false,
+                "hero_media_id": null,
+                "pivot": {
+                    "case_study_id": "01m0vnh2fnfnw8ps6vedfqetzn",
+                    "offering_id": "01kyfffj3ex7f5w38g8radbrq4"
+                }
+            }
+        ]
+    },
+    {
+        "id": "01m0vnh2hafbn4drk40da8qd88",
+        "title": "Program Higiene Industri & Pengendalian Debu Silika pada Smelter Nikel",
+        "slug": "program-higiene-industri-pengendalian-debu-smelter-nikel",
+        "client_org_id": "01m0vnfazy23ehyy5n32cj7392",
+        "client_anonymized": false,
+        "problem": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Fasilitas peleburan logam nikel menghadapi konsentrasi debu respirabel dan iklim kerja panas tinggi di area rotary kiln dan electric furnace yang mendekati Nilai Ambang Batas (NAB), berisiko menimbulkan keluhan pernapasan dan kelelahan panas (heat exhaustion) bagi 350 pekerja operasional."
+                    }
+                }
+            ]
+        },
+        "intervention": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Tim Ahli Higiene Industri Utama PENA Consultant melakukan survei kuantitatif lingkungan kerja (Permenaker 05/2018), merumuskan rekomendasi rekayasa ventilasi Local Exhaust Ventilation (LEV), serta melatih tim K3 internal dalam pembinaan Ahli Higiene Industri Muda (HIMU) dan respirator fit testing."
+                    }
+                }
+            ]
+        },
+        "outcome": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Konsentrasi debu di area kerja turun hingga 65% di bawah NAB, indeks stres panas terkendali melalui jadwal rotasi kerja baru, dan perusahaan meraih penghargaan Zero Accident dari Kementerian Ketenagakerjaan RI."
+                    }
+                }
+            ]
+        },
+        "outcome_metrics": {
+            "Penurunan Paparan Debu": "65% di Bawah NAB",
+            "Tenaga Kerja Terlindungi": "350 Pekerja",
+            "Audit Lingkungan Kerja": "100% Memenuhi Standar",
+            "Penghargaan K3": "Zero Accident Award"
+        },
+        "location_id": null,
+        "industry_id": null,
+        "delivered_at": "2025-05-18T00:00:00.000000Z",
+        "consent_ref": "corporate_client_consent",
+        "status": "published",
+        "page_id": "01m0vnh2jbt5shp513w05es45z",
+        "published_at": "2026-08-25T05:15:44.000000Z",
+        "updated_content_at": "2026-08-25T05:15:44.000000Z",
+        "lock_version": 0,
+        "created_at": "2026-08-25T05:15:44.000000Z",
+        "updated_at": "2026-08-25T05:15:44.000000Z",
+        "offerings": [
+            {
+                "id": "01kyfffhw83355ay3xabx122vb",
+                "type": "training",
+                "category_id": "01kyfffk3qt66as0t3der1p84q",
+                "name": "Ahli Higiene Industri Muda",
+                "slug": "ahli-higiene-industri-muda",
+                "summary": "Tersedia online.",
+                "certification_body": "bnsp",
+                "credential": null,
+                "pricing_model": "per_person",
+                "base_price": 7000000,
+                "duration": "3 hari",
+                "legal_basis": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Higiene industri adalah disiplin yang berfokus pada faktor bahaya di lingkungan kerja itu sendiri — kebisingan, debu, uap kimia, pencahayaan, getaran — yang dampaknya pada kesehatan pekerja sering baru terlihat bertahun-tahun kemudian jika tidak dipantau dan dikendalikan sejak awal. Permenaker No. 5 Tahun 2018 menetapkan kewajiban pengelolaan lingkungan kerja ini secara terukur, dengan Nilai Ambang Batas (NAB) sebagai rujukan kepatuhan."
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+                                "source": "UU No. 1 Tahun 1970"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Keselamatan dan Kesehatan Kerja Lingkungan Kerja — faktor fisika, kimia, biologi, ergonomi, dan psikologi serta nilai ambang batasnya.",
+                                "source": "Permenaker No. 5 Tahun 2018"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+                                "source": "UU No. 13 Tahun 2003"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+                                "source": "PP No. 23 Tahun 2004"
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Jenjang Muda adalah tingkat pelaksana pengukuran dan pemantauan lingkungan kerja — mengumpulkan data faktor bahaya secara akurat menggunakan alat ukur standar, sebagai dasar bagi jenjang Madya/Utama untuk mengevaluasi dan merekomendasikan pengendalian yang lebih strategis."
+                            }
+                        }
+                    ]
+                },
+                "objectives": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Program ini menyasar staf HSE atau teknisi lingkungan kerja yang bertugas melakukan pengukuran faktor bahaya fisik, kimia, dan biologi di tempat kerja — langkah awal sebelum perusahaan bisa menilai kepatuhannya terhadap Nilai Ambang Batas (NAB)."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Klaim kepatuhan K3 tanpa data pengukuran lingkungan kerja yang valid mudah dipatahkan saat audit — banyak perusahaan yang yakin lingkungan kerjanya aman ternyata belum pernah melakukan pengukuran kebisingan atau debu secara terstandar, sehingga tidak punya bukti objektif atas klaimnya. Ahli Higiene Industri Muda mengisi kebutuhan dasar ini: memastikan data lingkungan kerja perusahaan benar-benar terukur, bukan sekadar diasumsikan aman."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Sertifikasi ini juga menjadi fondasi karier menuju jenjang Madya dan Utama — pengalaman melakukan pengukuran langsung di berbagai jenis lingkungan kerja pada jenjang Muda adalah bekal praktis yang tidak tergantikan sebelum seseorang siap mengevaluasi dan merekomendasikan pengendalian pada jenjang yang lebih senior."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Penyakit akibat kerja (PAK) — gangguan pendengaran akibat kebisingan, penyakit paru akibat debu, atau gangguan otot-rangka akibat ergonomi buruk — umumnya berkembang perlahan selama bertahun-tahun paparan, berbeda dari kecelakaan kerja yang terjadi seketika. Karena efeknya tidak langsung terlihat, banyak perusahaan baru menyadari masalah higiene industri setelah muncul klaim kompensasi pekerja atau temuan pemeriksaan kesehatan berkala yang mengkhawatirkan — pengukuran rutin oleh Ahli Higiene Industri adalah cara mendeteksi risiko ini jauh sebelum berubah menjadi penyakit permanen. Setelah menyelesaikan program, peserta mampu:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Memahami prinsip antisipasi, rekognisi, evaluasi, dan pengendalian (AREP) bahaya lingkungan kerja",
+                                    "Melakukan pengukuran faktor fisika (kebisingan, pencahayaan, getaran, iklim kerja) menggunakan alat ukur standar",
+                                    "Melakukan pengambilan sampel faktor kimia dan biologi lingkungan kerja sesuai prosedur",
+                                    "Membandingkan hasil pengukuran dengan Nilai Ambang Batas (NAB) yang berlaku",
+                                    "Mendokumentasikan dan melaporkan hasil pengukuran secara akurat kepada jenjang higiene industri yang lebih tinggi",
+                                    "Lulus asesmen kompetensi higiene industri jenjang Muda sesuai unit SKKNI"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "scope": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Kurikulum berimbang antara pemahaman prinsip higiene industri dan keterampilan teknis penggunaan alat ukur, karena jenjang Muda dinilai dari akurasi pengukuran yang dihasilkan, bukan sekadar pemahaman konsep:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Dasar-dasar higiene industri dan regulasi Permenaker No. 5 Tahun 2018",
+                                    "Faktor bahaya fisika: kebisingan, pencahayaan, getaran, dan iklim kerja (tekanan panas/dingin)",
+                                    "Faktor bahaya kimia dan biologi lingkungan kerja serta teknik pengambilan sampel dasar",
+                                    "Penggunaan dan kalibrasi dasar alat ukur lingkungan kerja (sound level meter, lux meter, dan alat sejenis)",
+                                    "Teknik penentuan titik dan durasi pengukuran yang representatif terhadap paparan pekerja sesungguhnya",
+                                    "Perbandingan hasil pengukuran terhadap Nilai Ambang Batas (NAB) yang berlaku per jenis bahaya",
+                                    "Dokumentasi dan pelaporan hasil pengukuran lingkungan kerja secara sistematis",
+                                    "Asesmen kompetensi sesuai unit SKKNI jenjang Muda"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "requirements": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Pendidikan minimal D3/S1 teknik, kesehatan lingkungan, atau K3",
+                                    "Ditugaskan oleh perusahaan sebagai calon pelaksana pengukuran lingkungan kerja",
+                                    "Sehat jasmani dan rohani",
+                                    "Bersedia mengikuti sesi praktik lapangan menggunakan alat ukur lingkungan kerja secara langsung"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "documents": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Fotokopi KTP dan ijazah pendidikan terakhir",
+                                    "Pas foto terbaru latar belakang merah",
+                                    "Surat tugas dari perusahaan sebagai calon pelaksana pengukuran lingkungan kerja"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "facilities": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Fasilitas program berfokus pada pengenalan alat ukur nyata, karena kompetensi ini dinilai dari keterampilan teknis penggunaannya:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Modul higiene industri sesuai Permenaker No. 5 Tahun 2018",
+                                    "Instruktur praktisi berpengalaman pengukuran lingkungan kerja lintas sektor industri",
+                                    "Praktik langsung menggunakan alat ukur lingkungan kerja standar (sound level meter, lux meter, dan sejenisnya)",
+                                    "Simulasi penentuan titik dan durasi pengukuran yang representatif",
+                                    "Uji kompetensi (asesmen) BNSP dan sertifikat"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "registration_procedure": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "number",
+                                "items": [
+                                    "Hubungi tim kami melalui WhatsApp atau formulir di halaman ini.",
+                                    "Terima penawaran resmi: jadwal dan biaya.",
+                                    "Lengkapi berkas administrasi.",
+                                    "Ikuti pelatihan teori dasar higiene industri dan regulasi terkait.",
+                                    "Ikuti praktik pengukuran lingkungan kerja menggunakan alat ukur standar.",
+                                    "Ikuti uji kompetensi (asesmen) BNSP jenjang Muda.",
+                                    "Terima sertifikat kompetensi Ahli Higiene Industri Muda."
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "status": "published",
+                "page_id": "01kyffgj0tec6txxxm766dtyer",
+                "published_at": "2026-07-26T15:08:19.000000Z",
+                "updated_content_at": null,
+                "lock_version": 0,
+                "created_at": "2026-07-26T15:07:46.000000Z",
+                "updated_at": "2026-08-05T05:25:18.000000Z",
+                "featured": false,
+                "hero_media_id": null,
+                "pivot": {
+                    "case_study_id": "01m0vnh2hafbn4drk40da8qd88",
+                    "offering_id": "01kyfffhw83355ay3xabx122vb"
+                }
+            },
+            {
+                "id": "01kyfffhwn5n17wt6v9nqz1w3p",
+                "type": "training",
+                "category_id": "01kyfffk3qt66as0t3der1p84q",
+                "name": "Ahli Higiene Industri Madya",
+                "slug": "ahli-higiene-industri-madya",
+                "summary": "Tersedia online.",
+                "certification_body": "bnsp",
+                "credential": null,
+                "pricing_model": "per_person",
+                "base_price": 8500000,
+                "duration": "3 hari",
+                "legal_basis": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Bahaya kesehatan di tempat kerja tidak hanya bersumber dari kecelakaan fisik yang terlihat, tetapi juga dari faktor lingkungan kerja yang terhirup, terserap, atau terpapar secara terus-menerus. Paparan zat kimia beracun, tingkat kebisingan tinggi, getaran mesin, radiasi, hingga faktor ergonomi buruk menjadi pemicu utama timbulnya Penyakit Akibat Kerja (PAK) jangka panjang yang dapat melumpuhkan produktivitas."
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+                                "source": "UU No. 1 Tahun 1970"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Keselamatan dan Kesehatan Kerja Lingkungan Kerja.",
+                                "source": "Permenaker No. 5 Tahun 2018"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Penetapan SKKNI Sektor Ketenagakerjaan Bidang Higiene Industri.",
+                                "source": "Kepmenakertrans No. KEP.209/MEN/X/2008"
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Permenaker No. 5 Tahun 2018 mewajibkan setiap perusahaan mengukur dan mengendalikan Nilai Ambang Batas (NAB) faktor fisika, kimia, biologi, ergonomi, dan psikologi kerja menggunakan personil yang kompeten."
+                            }
+                        }
+                    ]
+                },
+                "objectives": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Seorang Ahli Higiene Industri Madya (HIMA) bertugas mengantisipasi, merekognisi, mengevaluasi, dan mengendalikan (AREC) semua potensi bahaya kesehatan di lingkungan kerja. Program ini dirancang untuk mencetak praktisi K3 tingkat menengah-atas yang mampu mengelola program higiene industri secara mandiri, analitis, dan strategis."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Sesuai SKKNI Bidang Higiene Industri (Kepmenaker 209/2008), profesi ini terbagi menjadi 3 tingkatan: Ahli Higiene Industri Muda (HIMU) menerapkan dasar-dasar higiene industri rutin berdasarkan prosedur kerja di bawah pengawasan; Ahli Higiene Industri Madya (HIMA) melaksanakan tugas secara mandiri, mengorganisasikan program, menganalisis data pengukuran, memecahkan persoalan kompleks, dan mengajukan rekomendasi teknis; dan Ahli Higiene Industri Utama (HIU) melakukan evaluasi strategis, sintesis kebijakan, serta memimpin manajemen higiene industri skala korporasi/multinasional."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Unit kompetensi HIMA mencakup kompetensi umum (kode etik profesi higiene industri, peraturan perundang-undangan K3 & lingkungan kerja), kompetensi inti (mengorganisasikan program higiene industri berbasis prinsip dasar, melaksanakan & mengorganisasikan Health Risk Assessment/HRA, investigasi & pemeriksaan risiko kesehatan di tempat kerja, pengendalian risiko bahaya faktor fisika/kimia/biologi/ergonomi, penentuan prioritas risiko kesehatan kerja), dan kompetensi khusus (pengelolaan & pengadaan peralatan pengukuran termasuk kalibrasi, evaluasi & modifikasi sistem informasi higiene industri, serta perancangan & evaluasi sistem ventilasi industri/local exhaust ventilation)."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Bagi individu, sertifikasi ini membuka peluang karir tingkat manajerial sebagai Industrial Hygiene Manager, HSE Superintendent, atau Konsultan Lingkungan Kerja independen. Bagi perusahaan, sertifikasi ini memastikan hasil pengukuran K3 Lingkungan Kerja diakui secara legal, memenuhi kriteria audit SMK3/ISO 45001, serta mencegah kerugian besar akibat klaim Penyakit Akibat Kerja."
+                            }
+                        }
+                    ]
+                },
+                "scope": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Tahapan pelatihan dan asesmen BNSP:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Pembekalan intensif: pendalaman metodologi Health Risk Assessment (HRA), prinsip kerja alat sampling (Sound Level Meter, Gas Detector, Dust Sampler), strategi kendali keteknikan (engineering control), serta perancangan sistem ventilasi industri",
+                                    "Pra-asesmen & bimbingan portofolio: penyiapan berkas bukti kerja mandiri sesuai unit kompetensi BNSP",
+                                    "Uji asesmen kompetensi: diuji langsung oleh asesor lisensi BNSP melalui verifikasi dokumen bukti kerja, ujian tertulis, dan sesi wawancara teknis"
+                                ]
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Dalam sesi pembekalan, peserta diberikan teori dan simulasi metodologi penggunaan instrumen pengukuran seperti Sound Level Meter, Dosimeter, Lux Meter, dan Air Sampling Pump."
+                            }
+                        }
+                    ]
+                },
+                "requirements": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Mengacu pada ketentuan LSP BNSP, calon peserta HIMA harus memenuhi jalur kombinasi pendidikan dan pengalaman kerja:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "S1 K3/Teknik/Kesehatan Masyarakat: pengalaman kerja minimal 3 tahun di bidang K3/Higiene Industri",
+                                    "S1 non-teknik/non-K3: pengalaman kerja minimal 3 tahun di bidang K3",
+                                    "D3 teknik/non-teknik: pengalaman kerja minimal 5 tahun di bidang K3",
+                                    "SMA/SMK sederajat: pengalaman kerja minimal 10 tahun di bidang K3"
+                                ]
+                            }
+                        },
+                        {
+                            "type": "callout",
+                            "data": {
+                                "variant": "info",
+                                "text": "Sertifikat HIMU tidak diwajibkan secara mutlak sebelum mengambil HIMA jika kualifikasi pendidikan dan pengalaman kerja di atas sudah terpenuhi."
+                            }
+                        }
+                    ]
+                },
+                "documents": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Scan KTP & scan ijazah terakhir",
+                                    "Curriculum vitae (CV) detail yang mencantumkan riwayat pekerjaan di bidang K3",
+                                    "Surat keterangan pengalaman kerja/surat penugasan dari atasan",
+                                    "Laporan/portofolio pengukuran lingkungan kerja (contoh: laporan HRA, sampling debu/bising/gas) yang pernah dibuat",
+                                    "Pasfoto terbaru background merah"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "facilities": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Sertifikat Kompetensi BNSP Ahli Higiene Industri Madya (berlaku 3 tahun)",
+                                    "Sertifikat pelatihan PENA Consultant",
+                                    "Modul & softcopy materi lengkap (SOP sampling)",
+                                    "Grup networking Industrial Hygienist Indonesia"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "registration_procedure": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Hubungi tim PENA Consultant untuk konsultasi kesesuaian jalur pendidikan/pengalaman Anda, lalu ikuti tahapan pembekalan, bimbingan portofolio, dan uji asesmen BNSP di atas hingga penerbitan Sertifikat Kompetensi HIMA."
+                            }
+                        }
+                    ]
+                },
+                "status": "published",
+                "page_id": "01kyffgj14sktt537ak70bbr6q",
+                "published_at": "2026-07-26T15:08:19.000000Z",
+                "updated_content_at": null,
+                "lock_version": 0,
+                "created_at": "2026-07-26T15:07:46.000000Z",
+                "updated_at": "2026-08-05T08:35:05.000000Z",
+                "featured": false,
+                "hero_media_id": null,
+                "pivot": {
+                    "case_study_id": "01m0vnh2hafbn4drk40da8qd88",
+                    "offering_id": "01kyfffhwn5n17wt6v9nqz1w3p"
+                }
+            },
+            {
+                "id": "01kyfffhxhbrr3r0837yb7t8qv",
+                "type": "training",
+                "category_id": "01kyfffk3qt66as0t3der1p84q",
+                "name": "Higiene Industri Muda (HIMU)",
+                "slug": "higiene-industri-muda-himu",
+                "summary": "Sertifikasi kompetensi Higiene Industri Muda (HIMU) BNSP untuk teknisi pengujian faktor lingkungan kerja di lapangan — menguasai pengoperasian alat ukur fisika, kimia, biologi, ergonomi, dan kalibrasi instrumen sesuai Permenaker No. 5 Tahun 2018.",
+                "certification_body": "bnsp",
+                "credential": null,
+                "pricing_model": "per_person",
+                "base_price": 7750000,
+                "duration": "3 hari",
+                "legal_basis": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Sertifikasi Higiene Industri Muda (HIMU) diselenggarakan berdasarkan SKKNI Bidang Higiene Industri Sub-Bidang Pengukuran & Sampling Lingkungan Kerja. Personel HIMU bertindak sebagai teknisi lapangan utama yang menjamin keandalan pengujian faktor bahaya lingkungan kerja."
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Penerapan pengujian lingkungan kerja diwajibkan oleh Permenaker No. 5 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja, di mana Pasal 2 dan Pasal 5 mengamanatkan bahwa seluruh tempat kerja wajib melakukan pengukuran dan pengujian faktor fisika, kimia, biologi, ergonomi, dan psikologi oleh personel terlisensi."
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Undang-Undang Keselamatan Kerja — dasar seluruh kewajiban K3 di tempat kerja di Indonesia.",
+                                "source": "UU No. 1 Tahun 1970"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Undang-Undang Ketenagakerjaan — dasar hukum sertifikasi kompetensi kerja nasional.",
+                                "source": "UU No. 13 Tahun 2003"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Badan Nasional Sertifikasi Profesi — lembaga negara yang melisensi sertifikasi kompetensi berbasis SKKNI.",
+                                "source": "PP No. 23 Tahun 2004"
+                            }
+                        },
+                        {
+                            "type": "citation",
+                            "data": {
+                                "text": "Keselamatan dan Kesehatan Kerja Lingkungan Kerja.",
+                                "source": "Permenaker No. 5 Tahun 2018"
+                            }
+                        }
+                    ]
+                },
+                "objectives": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Program ini mendidik teknisi lapangan agar mampu melaksanakan sampling lingkungan kerja secara presisi. Setelah lulus asesmen, peserta mampu:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Menguasai prosedur pengoperasian instrumen sampling fisik: Sound Level Meter (SLM) & Noise Dose Meter untuk pencahayaan dan kebisingan, Luxmeter untuk intensitas penerangan, serta WBGT Meter (Wet Bulb Globe Temperature) untuk iklim kerja panas",
+                                    "Melakukan sampling faktor kimia udara tempat kerja menggunakan High/Low Volume Air Sampler, Midget Impinger, Cyclone Sampler (debu respirabel), dan Gas Detector multiparameter (O2, CO, H2S, LEL)",
+                                    "Melaksanakan kalibrasi lapangan (field calibration) pra dan pasca sampling pada instrumen pengukuran debu dan gas dengan calibrator terverifikasi",
+                                    "Menyusun dokumen Chain of Custody (CoC) dan lembar data lapangan (field sampling sheet) untuk pengiriman sampel kimia/biologi ke laboratorium uji terakreditasi KAN",
+                                    "Melakukan identifikasi awal bahaya ergonomi (postur kerja RULA/REBA) dan faktor biologi (angka kuman udara/mikrobiologi)",
+                                    "Meraih Sertifikat Kompetensi BNSP bersimbol Garuda skema Higiene Industri Muda (HIMU) yang diakui secara nasional"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "scope": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Kurikulum pelatihan teknis sampling & asesmen BNSP:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Modul 1: Dasar-Dasar Higiene Industri & Pengawasan Permenaker No. 5 Tahun 2018",
+                                    "Modul 2: Teknik Pengukuran Faktor Fisik (Kebisingan SLM, Getaran, Pencahayaan Luxmeter, Iklim Kerja WBGT, Sinar UV)",
+                                    "Modul 3: Teknik Sampling Faktor Kimia Udara Tempat Kerja (Debu Total & Respirabel, Gas Beracun, Vapors, Midget Impinger & Air Sampler)",
+                                    "Modul 4: Kalibrasi Lapangan Instrumen Sampling & Dokumentasi CoC (Chain of Custody)",
+                                    "Modul 5: Pengenalan Sampling Biologi Udara & Evaluasi Ergonomi Lapangan",
+                                    "Pelaksanaan Asesmen: Penilaian portofolio teknik sampling, uji tertulis, observasi praktik penggunaan instrumen di Tempat Uji Kompetensi (TUK), & wawancara lisan asesor BNSP"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "requirements": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Minimal D3 Teknik/MIPA/Kesehatan Masyarakat (K3) dengan pengalaman kerja sampling lingkungan kerja minimal 1 tahun, ATAU SMA/SMK dengan pengalaman kerja minimal 3 tahun",
+                                    "Melengkapi dokumen portofolio teknis sampling (CV, contoh laporan sampling lapangan, kalibrasi alat, foto kerja)",
+                                    "Pasfoto formal latar belakang merah (3x4 & 4x6), KTP, & ijazah"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "documents": {
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "data": {
+                                "text": "Kelengkapan administrasi yang umum dipersyaratkan untuk mengikuti program ini:"
+                            }
+                        },
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Fotokopi KTP",
+                                    "Fotokopi ijazah pendidikan terakhir",
+                                    "Pas foto terbaru latar belakang merah",
+                                    "Surat keterangan sehat dari dokter",
+                                    "Surat rekomendasi/penugasan dari perusahaan (untuk peserta utusan perusahaan)",
+                                    "Curriculum vitae (untuk skema sertifikasi BNSP)"
+                                ]
+                            }
+                        },
+                        {
+                            "type": "callout",
+                            "data": {
+                                "variant": "info",
+                                "text": "Persyaratan pendidikan minimum dan pengalaman kerja mengikuti ketentuan skema/penunjukan yang berlaku — tim kami akan memverifikasi kelengkapan Anda sebelum pendaftaran diproses."
+                            }
+                        }
+                    ]
+                },
+                "facilities": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "bullet",
+                                "items": [
+                                    "Modul dan materi pelatihan",
+                                    "Instruktur praktisi tersertifikasi di bidangnya",
+                                    "Ujian/asesmen sertifikasi",
+                                    "Sertifikat sesuai skema (Kemnaker RI atau BNSP)",
+                                    "Konsultasi pasca-pelatihan"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "registration_procedure": {
+                    "blocks": [
+                        {
+                            "type": "list",
+                            "data": {
+                                "style": "number",
+                                "items": [
+                                    "Hubungi tim kami melalui WhatsApp atau formulir pendaftaran di halaman ini.",
+                                    "Terima penawaran resmi: jadwal, biaya, dan persyaratan program.",
+                                    "Lengkapi berkas administrasi dan lakukan konfirmasi pendaftaran.",
+                                    "Ikuti pelatihan dan ujian/asesmen sertifikasi.",
+                                    "Terima sertifikat dan lisensi/kartu kompetensi sesuai skema."
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "status": "published",
+                "page_id": "01kyffgj1reng241b941wv77qm",
+                "published_at": "2026-07-26T15:08:19.000000Z",
+                "updated_content_at": null,
+                "lock_version": 0,
+                "created_at": "2026-07-26T15:07:46.000000Z",
+                "updated_at": "2026-08-10T13:33:02.000000Z",
+                "featured": false,
+                "hero_media_id": null,
+                "pivot": {
+                    "case_study_id": "01m0vnh2hafbn4drk40da8qd88",
+                    "offering_id": "01kyfffhxhbrr3r0837yb7t8qv"
+                }
+            }
+        ]
+    }
+]

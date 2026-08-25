@@ -1,0 +1,1805 @@
+[
+    {
+        "id": "01kywajg9ykrmfwhvrt3qb4549",
+        "name": "Freeport Indonesia (PTFI)",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:07.000000Z",
+        "updated_at": "2026-07-31T14:52:08.000000Z",
+        "slug": "freeport-indonesia",
+        "sector": "Minyak, Gas & Energi",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PT Freeport Indonesia (PTFI) mengoperasikan tambang Grasberg di Mimika, Papua — salah satu deposit tembaga dan emas terbesar di dunia, kini beralih ke metode penambangan bawah tanah skala besar (block caving) di Grasberg Block Cave dan Deep Ore Zone setelah operasi tambang terbuka berakhir. Sejak divestasi 2018, mayoritas saham PTFI (51%) dimiliki MIND ID, holding BUMN pertambangan Indonesia."
+                    }
+                },
+                {
+                    "type": "citation",
+                    "data": {
+                        "text": "PTFI mengoperasikan tambang bawah tanah Grasberg Block Cave dan DOZ di Papua; MIND ID memiliki 51% saham PTFI sejak divestasi 2018.",
+                        "source": "Riset profil PT Freeport Indonesia, 2026"
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Operasi tambang bawah tanah skala besar memerlukan standar K3 pertambangan yang ketat — ventilasi, ruang terbatas, alat berat, dan bekerja di ketinggian pada infrastruktur tambang — menjadikan kompetensi K3 bersertifikat kebutuhan operasional inti, bukan sekadar kepatuhan administratif."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Umum",
+            "Listrik",
+            "Ruang Terbatas",
+            "Confined Space",
+            "Alat Berat",
+            "Ketinggian",
+            "Higiene"
+        ],
+        "page_id": "01kywajgdnrbtk3em2xxjqvkhc",
+        "published_at": "2026-07-31T14:52:08.000000Z",
+        "updated_content_at": "2026-07-31T14:52:08.000000Z"
+    },
+    {
+        "id": "01kywajh3nx8k2c02xfyer7732",
+        "name": "Chevron Pacific Indonesia",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:08.000000Z",
+        "updated_at": "2026-07-31T14:52:08.000000Z",
+        "slug": "chevron-pacific-indonesia",
+        "sector": "Minyak, Gas & Energi",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Chevron Pacific Indonesia mengoperasikan ladang minyak Blok Rokan di Riau selama beberapa dekade di bawah Kontrak Kerja Sama dengan Pertamina, sebelum operatorship blok tersebut resmi beralih ke PT Pertamina Hulu Rokan pada Agustus 2021. Chevron kini melanjutkan sejumlah operasi migas lain di Indonesia, termasuk proyek laut dalam (Indonesia Deepwater Development) di lepas pantai Kalimantan Timur."
+                    }
+                },
+                {
+                    "type": "citation",
+                    "data": {
+                        "text": "Operatorship Blok Rokan beralih dari Chevron Pacific Indonesia ke Pertamina Hulu Rokan pada Agustus 2021, setelah beroperasi di bawah Chevron selama beberapa dekade sebelumnya.",
+                        "source": "Riset sejarah operasi migas Blok Rokan, 2026"
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Operasi hulu migas — baik ladang darat maupun proyek laut dalam — melibatkan risiko ruang terbatas, gas mudah terbakar, dan bejana tekan yang diatur ketat dalam regulasi K3 migas nasional."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Migas",
+            "Umum",
+            "Listrik",
+            "Ruang Terbatas",
+            "Confined Space",
+            "Bejana Tekan",
+            "Gas"
+        ],
+        "page_id": "01kywajh50md5rexc7t65v75ve",
+        "published_at": "2026-07-31T14:52:08.000000Z",
+        "updated_content_at": "2026-07-31T14:52:08.000000Z"
+    },
+    {
+        "id": "01kywajh7a75df4vcrqnx6kqcj",
+        "name": "BP Indonesia",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:08.000000Z",
+        "updated_at": "2026-07-31T14:52:08.000000Z",
+        "slug": "bp-indonesia",
+        "sector": "Minyak, Gas & Energi",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "BP Indonesia mengoperasikan Kilang Tangguh LNG di Teluk Bintuni, Papua Barat — salah satu proyek gas alam cair terbesar di Indonesia, memasok kebutuhan energi domestik dan ekspor ke pasar Asia Pasifik."
+                    }
+                },
+                {
+                    "type": "citation",
+                    "data": {
+                        "text": "BP Indonesia mengoperasikan Kilang Tangguh LNG di Teluk Bintuni, Papua Barat, salah satu proyek LNG terbesar nasional.",
+                        "source": "Riset profil operasi BP Indonesia, 2026"
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Fasilitas LNG berskala besar memerlukan standar K3 gas dan proses yang ketat — penanganan gas mudah terbakar, ruang terbatas pada tangki dan bejana proses, serta sistem proteksi kebakaran yang komprehensif."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Migas",
+            "Umum",
+            "Listrik",
+            "Ruang Terbatas",
+            "Confined Space",
+            "Bejana Tekan",
+            "Gas",
+            "Kebakaran"
+        ],
+        "page_id": "01kywajh8fcy46fz6f9e3trk35",
+        "published_at": "2026-07-31T14:52:08.000000Z",
+        "updated_content_at": "2026-07-31T14:52:08.000000Z"
+    },
+    {
+        "id": "01kywajhak0818ddac8xy7dz63",
+        "name": "Total E&P Indonesie",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:08.000000Z",
+        "updated_at": "2026-07-31T14:52:08.000000Z",
+        "slug": "total-ep-indonesie",
+        "sector": "Minyak, Gas & Energi",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Total E&P Indonesie mengoperasikan Blok Mahakam di lepas pantai Kalimantan Timur selama beberapa dekade sebelum operatorship blok tersebut beralih ke PT Pertamina Hulu Mahakam pada awal 2018. Total E&P Indonesie tetap memegang kepentingan di sejumlah aset migas Indonesia, termasuk kepemilikan saham di Kilang LNG Badak, Bontang."
+                    }
+                },
+                {
+                    "type": "citation",
+                    "data": {
+                        "text": "Total E&P Indonesie memegang 10% saham PT Badak NGL (Kilang LNG Badak, Bontang), setelah sebelumnya mengoperasikan Blok Mahakam hingga 2018.",
+                        "source": "Riset kepemilikan saham Badak NGL, 2026"
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Operasi hulu migas lepas pantai dan fasilitas LNG memerlukan kompetensi K3 gas, ruang terbatas, dan bejana tekan yang bersertifikat sesuai standar industri migas nasional."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Migas",
+            "Umum",
+            "Listrik",
+            "Ruang Terbatas",
+            "Confined Space",
+            "Bejana Tekan",
+            "Gas"
+        ],
+        "page_id": "01kywajhbwgj8f8w970158srrz",
+        "published_at": "2026-07-31T14:52:08.000000Z",
+        "updated_content_at": "2026-07-31T14:52:08.000000Z"
+    },
+    {
+        "id": "01kywajhe4hdw2sdzjfb5q236d",
+        "name": "ConocoPhillips Indonesia",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:09.000000Z",
+        "updated_at": "2026-07-31T14:52:09.000000Z",
+        "slug": "conocophillips-indonesia",
+        "sector": "Minyak, Gas & Energi",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "ConocoPhillips Indonesia menjadi salah satu operator hulu migas yang beroperasi di wilayah kerja Laut Natuna Selatan, memasok gas alam untuk kebutuhan domestik dan ekspor kawasan Asia Tenggara."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Operasi produksi gas lepas pantai memerlukan standar K3 migas yang ketat — penanganan gas bertekanan tinggi, ruang terbatas pada fasilitas produksi terapung dan platform, serta instalasi kelistrikan pada peralatan produksi."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Migas",
+            "Umum",
+            "Listrik",
+            "Ruang Terbatas",
+            "Confined Space",
+            "Bejana Tekan",
+            "Gas"
+        ],
+        "page_id": "01kywajhf7kmrc5026hq4y5wqh",
+        "published_at": "2026-07-31T14:52:09.000000Z",
+        "updated_content_at": "2026-07-31T14:52:09.000000Z"
+    },
+    {
+        "id": "01kywajhjf76nmxsjyp08ht02j",
+        "name": "CNOOC SES Ltd",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:09.000000Z",
+        "updated_at": "2026-07-31T14:52:09.000000Z",
+        "slug": "cnooc-ses",
+        "sector": "Minyak, Gas & Energi",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "CNOOC SES Ltd (South East Sumatra) mengoperasikan blok migas lepas pantai di Laut Jawa, sebelah timur laut Jakarta — salah satu wilayah kerja migas lepas pantai tertua di Indonesia, dengan puluhan platform produksi yang terhubung ke fasilitas pengolahan di darat."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Operasi lepas pantai dengan puluhan platform produksi memerlukan kompetensi K3 migas yang konsisten di setiap titik — ruang terbatas, bejana tekan, dan instalasi kelistrikan pada infrastruktur produksi yang tersebar luas."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Migas",
+            "Umum",
+            "Listrik",
+            "Ruang Terbatas",
+            "Confined Space",
+            "Bejana Tekan",
+            "Gas"
+        ],
+        "page_id": "01kywajhkpkzhww0f27yz5rat5",
+        "published_at": "2026-07-31T14:52:09.000000Z",
+        "updated_content_at": "2026-07-31T14:52:09.000000Z"
+    },
+    {
+        "id": "01kywajhns2g5r4wp734qsc463",
+        "name": "Inpex Corporation",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:09.000000Z",
+        "updated_at": "2026-07-31T14:52:09.000000Z",
+        "slug": "inpex-corporation",
+        "sector": "Minyak, Gas & Energi",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Inpex Corporation, perusahaan energi asal Jepang, mengembangkan Blok Masela (Lapangan Gas Abadi) di Laut Arafura, Maluku — salah satu proyek gas laut dalam terbesar yang sedang dikembangkan di Indonesia bagian timur."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Pengembangan proyek gas laut dalam berskala besar memerlukan standar K3 migas yang ketat sejak tahap konstruksi — ruang terbatas, bejana tekan, dan instalasi kelistrikan pada fasilitas produksi terapung."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Migas",
+            "Umum",
+            "Listrik",
+            "Ruang Terbatas",
+            "Confined Space",
+            "Bejana Tekan",
+            "Gas"
+        ],
+        "page_id": "01kywajhq5r06x3yw9y0vdm2bc",
+        "published_at": "2026-07-31T14:52:09.000000Z",
+        "updated_content_at": "2026-07-31T14:52:09.000000Z"
+    },
+    {
+        "id": "01kywajhtqp86yghrev79tfbpz",
+        "name": "Star Energy",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:09.000000Z",
+        "updated_at": "2026-07-31T14:52:09.000000Z",
+        "slug": "star-energy",
+        "sector": "Minyak, Gas & Energi",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Star Energy Geothermal adalah produsen energi panas bumi terbesar di Indonesia, mengoperasikan tiga lapangan geothermal — Wayang Windu, Salak, dan Darajat di Jawa Barat — dengan total kapasitas pembangkitan bruto sekitar 886 MW, bermitra dengan Pertamina Geothermal Energy dan PLN."
+                    }
+                },
+                {
+                    "type": "citation",
+                    "data": {
+                        "text": "Star Energy Geothermal mengoperasikan Wayang Windu (230,5 MW), Salak (201 MW), dan Darajat (219,5 MW) — total kapasitas bruto sekitar 886 MW, produsen panas bumi swasta terbesar di Indonesia.",
+                        "source": "Riset kapasitas Star Energy Geothermal, 2026"
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Fasilitas panas bumi mengoperasikan sistem uap dan bejana tekan bertekanan tinggi, turbin, serta instalasi kelistrikan skala pembangkit — memerlukan kompetensi K3 boiler, bejana tekan, dan kelistrikan yang bersertifikat."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Umum",
+            "Listrik",
+            "Bejana Tekan",
+            "Boiler",
+            "Ketinggian",
+            "Kebakaran"
+        ],
+        "page_id": "01kywajhvtjhjq91bh8mqm7fc6",
+        "published_at": "2026-07-31T14:52:09.000000Z",
+        "updated_content_at": "2026-07-31T14:52:09.000000Z"
+    },
+    {
+        "id": "01kywajhxm10n17zjefw91r310",
+        "name": "VICO Indonesia",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:09.000000Z",
+        "updated_at": "2026-07-31T14:52:09.000000Z",
+        "slug": "vico-indonesia",
+        "sector": "Minyak, Gas & Energi",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "VICO Indonesia memproduksi minyak dan gas alam dari enam lapangan di Kalimantan Timur — Badak, Mutiara, Semberah, Pamaguan, Nilam, dan Lampake — dengan gas yang dialirkan ke Kilang LNG Badak di Bontang melalui jaringan pipa."
+                    }
+                },
+                {
+                    "type": "citation",
+                    "data": {
+                        "text": "VICO Indonesia memproduksi gas dari enam lapangan di Kalimantan Timur, memasok Kilang LNG Badak, Bontang, dan turut menjadi pemegang saham (20%) fasilitas tersebut.",
+                        "source": "Riset profil operasi VICO Indonesia, 2026"
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Operasi produksi gas hulu memerlukan kompetensi K3 migas — ruang terbatas pada fasilitas produksi, bejana tekan, dan penanganan gas bertekanan tinggi sesuai standar industri."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Migas",
+            "Umum",
+            "Listrik",
+            "Ruang Terbatas",
+            "Confined Space",
+            "Bejana Tekan",
+            "Gas"
+        ],
+        "page_id": "01kywajhznhb17fvgzkkjncga2",
+        "published_at": "2026-07-31T14:52:09.000000Z",
+        "updated_content_at": "2026-07-31T14:52:09.000000Z"
+    },
+    {
+        "id": "01kywajj1yx2e4q4f9kjd86rz2",
+        "name": "ENI Indonesia",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:09.000000Z",
+        "updated_at": "2026-07-31T14:52:09.000000Z",
+        "slug": "eni-indonesia",
+        "sector": "Minyak, Gas & Energi",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "ENI Indonesia, perusahaan energi asal Italia, mengembangkan proyek gas laut dalam di lepas pantai Kalimantan Timur, termasuk Lapangan Jangkrik di Blok Muara Bakau, salah satu proyek gas laut dalam signifikan di Indonesia."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Proyek gas laut dalam memerlukan standar K3 migas yang ketat pada fasilitas produksi terapung — ruang terbatas, bejana tekan, dan instalasi kelistrikan skala industri."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Migas",
+            "Umum",
+            "Listrik",
+            "Ruang Terbatas",
+            "Confined Space",
+            "Bejana Tekan",
+            "Gas"
+        ],
+        "page_id": "01kywajj3168crpwrj6e93jn38",
+        "published_at": "2026-07-31T14:52:09.000000Z",
+        "updated_content_at": "2026-07-31T14:52:09.000000Z"
+    },
+    {
+        "id": "01kywajj4x0771p3fbgrn14d5z",
+        "name": "MedcoEnergi",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:09.000000Z",
+        "updated_at": "2026-07-31T14:52:09.000000Z",
+        "slug": "medcoenergi",
+        "sector": "Minyak, Gas & Energi",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PT Medco Energi Internasional Tbk adalah perusahaan energi nasional dengan portofolio migas (termasuk Blok Corridor di Sumatra Selatan dan Laut Natuna Selatan) serta kepentingan di sektor pertambangan dan pembangkit listrik, menjadikannya salah satu grup energi terintegrasi terbesar milik nasional."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Portofolio yang mencakup migas hulu, pertambangan, dan pembangkit listrik memerlukan kompetensi K3 lintas sektor — mulai dari ruang terbatas dan bejana tekan pada fasilitas migas hingga alat berat pada operasi pertambangan."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Migas",
+            "Umum",
+            "Listrik",
+            "Ruang Terbatas",
+            "Confined Space",
+            "Bejana Tekan",
+            "Gas",
+            "Alat Berat"
+        ],
+        "page_id": "01kywajj5ys8dt84y4w2fe1r94",
+        "published_at": "2026-07-31T14:52:09.000000Z",
+        "updated_content_at": "2026-07-31T14:52:09.000000Z"
+    },
+    {
+        "id": "01kywajj7t812s6jjy0n7jfnf6",
+        "name": "Badak LNG",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:09.000000Z",
+        "updated_at": "2026-07-31T14:52:09.000000Z",
+        "slug": "badak-lng",
+        "sector": "Minyak, Gas & Energi",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PT Badak NGL (Badak LNG) mengoperasikan kilang LNG di Bontang, Kalimantan Timur, dengan 8 train berkapasitas produksi hingga 22,5 juta metrik ton per tahun — menjadikannya produsen LNG terbesar di Indonesia sejak diresmikan pada 1977. Sahamnya dimiliki Pertamina Group (70%), VICO Indonesia (20%), dan Total E&P Indonesie (10%)."
+                    }
+                },
+                {
+                    "type": "citation",
+                    "data": {
+                        "text": "Kilang LNG Badak di Bontang memiliki 8 train dengan kapasitas hingga 22,5 juta ton LNG per tahun, produsen LNG terbesar di Indonesia sejak 1977.",
+                        "source": "PT Badak NGL, riset 2026"
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Fasilitas LNG berskala besar memerlukan standar K3 gas dan proses yang sangat ketat — penanganan gas cair bersuhu ekstrem rendah, ruang terbatas, bejana tekan, dan sistem proteksi kebakaran komprehensif."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Migas",
+            "Umum",
+            "Listrik",
+            "Ruang Terbatas",
+            "Confined Space",
+            "Bejana Tekan",
+            "Gas",
+            "Kebakaran"
+        ],
+        "page_id": "01kywajj8vz5sz5sx16pta55tv",
+        "published_at": "2026-07-31T14:52:09.000000Z",
+        "updated_content_at": "2026-07-31T14:52:09.000000Z"
+    },
+    {
+        "id": "01kywajjanppq3vzpvkrhj29cv",
+        "name": "Pertamina (Persero)",
+        "type": "partner",
+        "logo_media_id": "01m0vnfaytzj6mnk5j1ymyhrbx",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:09.000000Z",
+        "updated_at": "2026-08-25T05:14:47.000000Z",
+        "slug": "pertamina-persero",
+        "sector": "Minyak, Gas & Energi",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PT Pertamina (Persero) adalah perusahaan energi nasional terintegrasi — mencakup eksplorasi dan produksi migas hulu, kilang pengolahan, distribusi BBM dan gas, hingga jaringan SPBU di seluruh Indonesia. Sebagai BUMN energi terbesar, operasional Pertamina mencakup hampir seluruh rantai nilai migas nasional."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Rantai nilai migas yang lengkap — dari hulu hingga hilir — memerlukan kompetensi K3 migas di setiap simpul: ruang terbatas dan bejana tekan pada kilang, gas dan kebakaran pada fasilitas distribusi, serta kelistrikan pada seluruh infrastruktur operasional."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Migas",
+            "Umum",
+            "Listrik",
+            "Ruang Terbatas",
+            "Confined Space",
+            "Bejana Tekan",
+            "Boiler",
+            "Gas",
+            "Kebakaran"
+        ],
+        "page_id": "01kywajjbszzhr69qd2w29127g",
+        "published_at": "2026-07-31T14:52:10.000000Z",
+        "updated_content_at": "2026-07-31T14:52:10.000000Z"
+    },
+    {
+        "id": "01kywajjfxadwcq6w16x8gskv6",
+        "name": "PLN (Persero)",
+        "type": "partner",
+        "logo_media_id": "01m0vnfay2t1mq7771844x1pj4",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:10.000000Z",
+        "updated_at": "2026-08-25T05:14:47.000000Z",
+        "slug": "pln-persero",
+        "sector": "Minyak, Gas & Energi",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PT PLN (Persero) adalah perusahaan listrik negara yang memegang kendali atas pembangkitan, transmisi, dan distribusi tenaga listrik di hampir seluruh wilayah Indonesia, mengoperasikan ribuan pembangkit dan jaringan transmisi dari Sabang hingga Merauke."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Operasional kelistrikan skala nasional memerlukan kompetensi K3 listrik tegangan tinggi yang konsisten di seluruh jaringan — bekerja di ketinggian pada menara transmisi, bejana tekan dan boiler pada pembangkit termal, serta proteksi kebakaran pada seluruh fasilitas."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Umum",
+            "Listrik",
+            "Ketinggian",
+            "Bejana Tekan",
+            "Boiler",
+            "Kebakaran"
+        ],
+        "page_id": "01kywajjgx8tvr6xbxb9fv2f6f",
+        "published_at": "2026-07-31T14:52:10.000000Z",
+        "updated_content_at": "2026-07-31T14:52:10.000000Z"
+    },
+    {
+        "id": "01kywajjjpvqq0dcs5yhfwf2nv",
+        "name": "PT PJB (Pembangkitan Jawa-Bali)",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:10.000000Z",
+        "updated_at": "2026-07-31T14:52:10.000000Z",
+        "slug": "pt-pjb",
+        "sector": "Minyak, Gas & Energi",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PT Pembangkitan Jawa-Bali (PJB), anak usaha PLN berdiri sejak 1995, mengoperasikan 29 pusat pembangkit listrik tersebar di Jawa dan Bali — mencakup PLTA, PLTU, dan pembangkit termal lain — dengan total kapasitas terpasang lebih dari 7.000 MW."
+                    }
+                },
+                {
+                    "type": "citation",
+                    "data": {
+                        "text": "PT PJB mengoperasikan 29 pusat pembangkit listrik di Jawa-Bali dengan total kapasitas terpasang sekitar 7.054 MW (2020).",
+                        "source": "PT Pembangkitan Jawa-Bali, riset 2026"
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Operasi pembangkit termal skala besar memerlukan kompetensi K3 boiler dan bejana tekan bertekanan tinggi, bekerja di ketinggian pada struktur pembangkit, dan instalasi kelistrikan tegangan tinggi."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Umum",
+            "Listrik",
+            "Bejana Tekan",
+            "Boiler",
+            "Ketinggian",
+            "Kebakaran"
+        ],
+        "page_id": "01kywajjksgngwnh2nasrngp77",
+        "published_at": "2026-07-31T14:52:10.000000Z",
+        "updated_content_at": "2026-07-31T14:52:10.000000Z"
+    },
+    {
+        "id": "01kywajjrnd8098pd1dc0cgg2q",
+        "name": "Adaro Energy",
+        "type": "partner",
+        "logo_media_id": "01m0vnfbbh3w8v3fn3vp0yxj1w",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:10.000000Z",
+        "updated_at": "2026-08-25T05:14:48.000000Z",
+        "slug": "adaro-energy",
+        "sector": "Pertambangan & Industri Berat",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PT Adaro Energy Indonesia Tbk adalah salah satu produsen batu bara termal terbesar di Indonesia, mengoperasikan tambang Tutupan di Kalimantan Selatan, dengan diversifikasi bisnis ke sektor pemurnian aluminium melalui proyek smelter di Kalimantan Utara."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Operasi tambang batu bara terbuka skala besar memerlukan kompetensi K3 alat berat yang konsisten — penggalian, pengangkutan, dan pengendalian debu untuk kesehatan pernapasan pekerja (higiene industri)."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Umum",
+            "Listrik",
+            "Alat Berat",
+            "Higiene",
+            "Ruang Terbatas",
+            "Confined Space"
+        ],
+        "page_id": "01kywajjvvk2p0qrknpphakdyw",
+        "published_at": "2026-07-31T14:52:10.000000Z",
+        "updated_content_at": "2026-07-31T14:52:10.000000Z"
+    },
+    {
+        "id": "01kywajk3fhkmrqf7z1e3p99xw",
+        "name": "PT Indonesia Asahan Aluminium (INALUM)",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:10.000000Z",
+        "updated_at": "2026-07-31T14:52:10.000000Z",
+        "slug": "inalum",
+        "sector": "Pertambangan & Industri Berat",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PT Indonesia Asahan Aluminium (INALUM), BUMN yang 100% dimiliki Pemerintah Indonesia, mengoperasikan smelter aluminium di Kuala Tanjung, Kabupaten Batu Bara, Sumatera Utara — produsen aluminium terbesar di Indonesia, memanfaatkan tenaga air Sungai Asahan yang bersumber dari Danau Toba sebagai energi utama."
+                    }
+                },
+                {
+                    "type": "citation",
+                    "data": {
+                        "text": "INALUM mengoperasikan smelter aluminium di Kuala Tanjung dengan kapasitas menuju 600.000 ton per tahun, ditenagai PLTA Sungai Asahan.",
+                        "source": "PT Indonesia Asahan Aluminium (Persero), riset 2026"
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Proses peleburan aluminium melibatkan bejana tekan dan instalasi kelistrikan arus tinggi (elektrolisis), serta penanganan bahan kimia proses — memerlukan kompetensi K3 kelistrikan dan kimia yang bersertifikat."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Umum",
+            "Listrik",
+            "Kimia",
+            "Bejana Tekan",
+            "Alat Berat"
+        ],
+        "page_id": "01kywajk56hg2z4vsj8qeyz12t",
+        "published_at": "2026-07-31T14:52:10.000000Z",
+        "updated_content_at": "2026-07-31T14:52:10.000000Z"
+    },
+    {
+        "id": "01kywajk98vt1smw4rrmt6g4nf",
+        "name": "PT Krakatau Steel",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:10.000000Z",
+        "updated_at": "2026-07-31T14:52:10.000000Z",
+        "slug": "krakatau-steel",
+        "sector": "Pertambangan & Industri Berat",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PT Krakatau Steel (Persero) Tbk adalah produsen baja terintegrasi milik negara terbesar di Indonesia, berlokasi di Cilegon, Banten, mengoperasikan fasilitas produksi baja hulu-hilir di dalam Kawasan Industri Krakatau Steel seluas lebih dari 900 hektare."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Produksi baja terintegrasi melibatkan proses bersuhu ekstrem tinggi, pengelasan dan fabrikasi struktur baja skala besar, serta bejana tekan dan boiler pada lini produksi — memerlukan kompetensi K3 juru las dan kelistrikan industri berat."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Umum",
+            "Listrik",
+            "Welder",
+            "Welding",
+            "Bejana Tekan",
+            "Boiler",
+            "Alat Berat"
+        ],
+        "page_id": "01kywajkampczqw14k7ryrnees",
+        "published_at": "2026-07-31T14:52:10.000000Z",
+        "updated_content_at": "2026-07-31T14:52:10.000000Z"
+    },
+    {
+        "id": "01kywajkcr563f5xy85vc560z4",
+        "name": "PT Smelting",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:11.000000Z",
+        "updated_at": "2026-07-31T14:52:11.000000Z",
+        "slug": "pt-smelting",
+        "sector": "Pertambangan & Industri Berat",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PT Smelting, berlokasi di Gresik, Jawa Timur, adalah smelter tembaga pertama di Indonesia — beroperasi sejak 1996 sebagai usaha patungan PT Freeport Indonesia dan Mitsubishi Materials Corporation, memurnikan konsentrat tembaga dari tambang Freeport di Papua menjadi katoda tembaga berkapasitas 300.000 ton per tahun."
+                    }
+                },
+                {
+                    "type": "citation",
+                    "data": {
+                        "text": "PT Smelting mengolah 1 juta ton konsentrat tembaga menjadi 300.000 ton katoda tembaga per tahun, smelter tembaga pertama di Indonesia sejak 1996.",
+                        "source": "PT Smelting / riset industri Gresik, 2026"
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Proses peleburan dan pemurnian tembaga melibatkan suhu ekstrem tinggi, penanganan bahan kimia proses, dan bejana tekan — memerlukan kompetensi K3 kimia dan kelistrikan industri yang ketat."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Umum",
+            "Listrik",
+            "Kimia",
+            "Bejana Tekan",
+            "Boiler",
+            "Higiene"
+        ],
+        "page_id": "01kywajkdzev3k7h0gpqrkvdga",
+        "published_at": "2026-07-31T14:52:11.000000Z",
+        "updated_content_at": "2026-07-31T14:52:11.000000Z"
+    },
+    {
+        "id": "01kywajkg4epr4s57b27ppbbv7",
+        "name": "Holcim Indonesia (PT Solusi Bangun Indonesia)",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:11.000000Z",
+        "updated_at": "2026-07-31T14:52:11.000000Z",
+        "slug": "holcim-indonesia",
+        "sector": "Pertambangan & Industri Berat",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Holcim Indonesia — kini beroperasi dengan nama PT Solusi Bangun Indonesia Tbk setelah 80,6% sahamnya diakuisisi Semen Indonesia Group pada 2019 — adalah salah satu produsen semen terbesar di Indonesia, mengoperasikan pabrik dan tambang bahan baku semen di berbagai wilayah."
+                    }
+                },
+                {
+                    "type": "citation",
+                    "data": {
+                        "text": "Semen Indonesia mengakuisisi 80,6% saham Holcim Indonesia pada 2019, dan perusahaan berganti nama menjadi PT Solusi Bangun Indonesia Tbk.",
+                        "source": "Riset akuisisi Holcim Indonesia, 2026"
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Produksi semen melibatkan tambang bahan baku (alat berat), tanur pembakaran bersuhu ekstrem, bejana tekan dan boiler, serta paparan debu semen yang memerlukan pengendalian higiene industri yang konsisten."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Umum",
+            "Listrik",
+            "Bejana Tekan",
+            "Boiler",
+            "Alat Berat",
+            "Higiene"
+        ],
+        "page_id": "01kywajkhbxxjx9w553jy863m4",
+        "published_at": "2026-07-31T14:52:11.000000Z",
+        "updated_content_at": "2026-07-31T14:52:11.000000Z"
+    },
+    {
+        "id": "01kywajkkn2kadc501d5h42ke8",
+        "name": "Bank Mandiri",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:11.000000Z",
+        "updated_at": "2026-07-31T14:52:11.000000Z",
+        "slug": "bank-mandiri",
+        "sector": "Perbankan & Keuangan",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PT Bank Mandiri (Persero) Tbk adalah bank BUMN terbesar di Indonesia berdasarkan aset, mengoperasikan jaringan kantor cabang, gedung perkantoran, dan pusat data di seluruh Indonesia."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Operasional gedung perkantoran dan pusat data berskala besar memerlukan sistem K3 kelistrikan, proteksi kebakaran, dan fasilitas P3K yang konsisten di seluruh jaringan cabang dan fasilitas pendukung."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Umum",
+            "Listrik",
+            "Kebakaran",
+            "P3K"
+        ],
+        "page_id": "01kywajkmy82n8qa45wb6hrgdj",
+        "published_at": "2026-07-31T14:52:11.000000Z",
+        "updated_content_at": "2026-07-31T14:52:11.000000Z"
+    },
+    {
+        "id": "01kywajkpn7efw9etsncs59n1w",
+        "name": "BRI",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:11.000000Z",
+        "updated_at": "2026-07-31T14:52:11.000000Z",
+        "slug": "bri",
+        "sector": "Perbankan & Keuangan",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PT Bank Rakyat Indonesia (Persero) Tbk adalah bank BUMN dengan jaringan unit kerja terluas di Indonesia, mencakup ribuan unit dan kantor cabang hingga ke wilayah pedesaan, didukung fasilitas gedung perkantoran dan pusat operasional besar."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Jaringan fasilitas fisik yang luas memerlukan standar K3 kelistrikan, proteksi kebakaran, dan fasilitas P3K yang konsisten di setiap titik operasional."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Umum",
+            "Listrik",
+            "Kebakaran",
+            "P3K"
+        ],
+        "page_id": "01kywajkqpc3x1sbyv2sw1zf74",
+        "published_at": "2026-07-31T14:52:11.000000Z",
+        "updated_content_at": "2026-07-31T14:52:11.000000Z"
+    },
+    {
+        "id": "01kywajksr52hqqnth1gy3sy0n",
+        "name": "BTN",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:11.000000Z",
+        "updated_at": "2026-07-31T14:52:11.000000Z",
+        "slug": "btn",
+        "sector": "Perbankan & Keuangan",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PT Bank Tabungan Negara (Persero) Tbk adalah bank BUMN yang menjadi pemimpin pasar pembiayaan perumahan (KPR) di Indonesia, mengoperasikan jaringan kantor cabang dan gedung perkantoran di berbagai kota."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Operasional gedung perkantoran dan fasilitas cabang memerlukan kepatuhan K3 kelistrikan, sistem proteksi kebakaran, dan fasilitas P3K yang konsisten."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Umum",
+            "Listrik",
+            "Kebakaran",
+            "P3K"
+        ],
+        "page_id": "01kywajktxtjkf9t3g80w4eb3r",
+        "published_at": "2026-07-31T14:52:11.000000Z",
+        "updated_content_at": "2026-07-31T14:52:11.000000Z"
+    },
+    {
+        "id": "01kywajkwkxtgn393fsxh4e36x",
+        "name": "Pupuk Kaltim",
+        "type": "partner",
+        "logo_media_id": "01m0vnfb3y0p344asks39pc8ak",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:11.000000Z",
+        "updated_at": "2026-08-25T05:14:47.000000Z",
+        "slug": "pupuk-kaltim",
+        "sector": "Industri & Manufaktur",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PT Pupuk Kalimantan Timur (Pupuk Kaltim), anggota holding Pupuk Indonesia, adalah produsen pupuk urea dan amonia terbesar di Indonesia, berlokasi di Bontang, Kalimantan Timur — dekat dengan pasokan gas alam dari lapangan-lapangan produksi Kalimantan Timur sebagai bahan baku utama."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Produksi pupuk berbasis amonia melibatkan penanganan gas dan bahan kimia berbahaya, bejana tekan dan boiler bertekanan tinggi, serta pekerjaan di ruang terbatas pada reaktor proses — memerlukan kompetensi K3 kimia yang ketat."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Umum",
+            "Listrik",
+            "Kimia",
+            "Ruang Terbatas",
+            "Confined Space",
+            "Bejana Tekan",
+            "Boiler",
+            "Gas"
+        ],
+        "page_id": "01kywajkxfss34x66hq8q996fq",
+        "published_at": "2026-07-31T14:52:11.000000Z",
+        "updated_content_at": "2026-07-31T14:52:11.000000Z"
+    },
+    {
+        "id": "01kywajkyyczqbyp52szt558fa",
+        "name": "Pupuk Kujang",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:11.000000Z",
+        "updated_at": "2026-07-31T14:52:11.000000Z",
+        "slug": "pupuk-kujang",
+        "sector": "Industri & Manufaktur",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PT Pupuk Kujang, anggota holding Pupuk Indonesia, memproduksi pupuk urea dan amonia di Cikampek, Jawa Barat, memasok kebutuhan pupuk untuk wilayah Jawa Barat dan Banten."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Sama seperti produsen pupuk berbasis amonia lainnya, operasional pabrik memerlukan kompetensi K3 kimia, bejana tekan dan boiler, serta kompetensi ruang terbatas pada reaktor proses produksi."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Umum",
+            "Listrik",
+            "Kimia",
+            "Ruang Terbatas",
+            "Confined Space",
+            "Bejana Tekan",
+            "Boiler",
+            "Gas"
+        ],
+        "page_id": "01kywajkzs9v6cepsm0eckbf8r",
+        "published_at": "2026-07-31T14:52:11.000000Z",
+        "updated_content_at": "2026-07-31T14:52:11.000000Z"
+    },
+    {
+        "id": "01kywajm1f811gk1pq88xc2ex5",
+        "name": "Pusri",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:11.000000Z",
+        "updated_at": "2026-07-31T14:52:11.000000Z",
+        "slug": "pusri",
+        "sector": "Industri & Manufaktur",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PT Pupuk Sriwidjaja Palembang (PUSRI), berdiri sejak 1959 sebagai pelopor produsen pupuk urea nasional, kini berada di bawah holding Pupuk Indonesia dan mengoperasikan pabrik pupuk urea, NPK, dan amonia di Palembang, Sumatera Selatan."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Produksi pupuk berbasis amonia skala besar memerlukan kompetensi K3 kimia, bejana tekan dan boiler bertekanan tinggi, serta ruang terbatas pada tangki dan reaktor proses."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Umum",
+            "Listrik",
+            "Kimia",
+            "Ruang Terbatas",
+            "Confined Space",
+            "Bejana Tekan",
+            "Boiler",
+            "Gas"
+        ],
+        "page_id": "01kywajm2b4n488zzsq1s4qt7v",
+        "published_at": "2026-07-31T14:52:11.000000Z",
+        "updated_content_at": "2026-07-31T14:52:11.000000Z"
+    },
+    {
+        "id": "01kywajm3ph5pj9xffjahxrzvw",
+        "name": "Biofarma",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:11.000000Z",
+        "updated_at": "2026-07-31T14:52:11.000000Z",
+        "slug": "biofarma",
+        "sector": "Industri & Manufaktur",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PT Bio Farma (Persero) adalah BUMN produsen vaksin dan produk biologi tertua di Indonesia, berlokasi di Bandung, Jawa Barat — memproduksi vaksin untuk program imunisasi nasional dan ekspor ke lebih dari 150 negara."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Produksi vaksin dan produk biologi memerlukan standar K3 laboratorium dan farmasi yang ketat — ruang produksi steril, penanganan bahan kimia dan biologis, serta higiene industri pada tingkat kepatuhan tertinggi mengingat produk yang dihasilkan langsung dikonsumsi untuk kesehatan publik."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Umum",
+            "Listrik",
+            "Kimia",
+            "Higiene",
+            "P3K"
+        ],
+        "page_id": "01kywajm4pvctaa0xqyyv7bdjj",
+        "published_at": "2026-07-31T14:52:11.000000Z",
+        "updated_content_at": "2026-07-31T14:52:11.000000Z"
+    },
+    {
+        "id": "01kywajm70rej1pgx34zxkrjrf",
+        "name": "Peruri",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:11.000000Z",
+        "updated_at": "2026-07-31T14:52:11.000000Z",
+        "slug": "peruri",
+        "sector": "Industri & Manufaktur",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Perum Percetakan Uang Republik Indonesia (Peruri) adalah BUMN yang mencetak uang rupiah, dokumen sekuriti negara, dan produk cetak bernilai tinggi lainnya, dengan fasilitas produksi di Karawang, Jawa Barat, dan Jakarta."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Fasilitas percetakan sekuriti bernilai tinggi mengoperasikan mesin cetak presisi dan penanganan bahan kimia tinta, memerlukan kepatuhan K3 kelistrikan, kimia, dan proteksi kebakaran yang konsisten."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Umum",
+            "Listrik",
+            "Kimia",
+            "Kebakaran",
+            "P3K"
+        ],
+        "page_id": "01kywajm83bxdsbp4dre1dvyc5",
+        "published_at": "2026-07-31T14:52:11.000000Z",
+        "updated_content_at": "2026-07-31T14:52:11.000000Z"
+    },
+    {
+        "id": "01kywajmadjfk6t7qskxkhxstn",
+        "name": "Sucofindo",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:11.000000Z",
+        "updated_at": "2026-07-31T14:52:12.000000Z",
+        "slug": "sucofindo",
+        "sector": "Jasa & Inspeksi",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PT Sucofindo (Persero) adalah BUMN jasa survei, inspeksi, dan sertifikasi tertua di Indonesia (berdiri 1956), melayani sektor pertambangan, migas, industri, dan perdagangan dengan layanan inspeksi teknis, pengujian laboratorium, dan sertifikasi sistem manajemen."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Personel inspeksi Sucofindo bekerja langsung di lapangan lintas sektor berisiko tinggi — pertambangan, migas, industri berat — sehingga kompetensi K3 umum, ruang terbatas, dan bejana tekan menjadi kebutuhan operasional inti bagi tim inspeksi itu sendiri, bukan hanya objek yang diinspeksi."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Umum",
+            "Listrik",
+            "Ruang Terbatas",
+            "Confined Space",
+            "Bejana Tekan",
+            "Boiler",
+            "Higiene"
+        ],
+        "page_id": "01kywajmbkvrnanz9wn8w6mygj",
+        "published_at": "2026-07-31T14:52:12.000000Z",
+        "updated_content_at": "2026-07-31T14:52:12.000000Z"
+    },
+    {
+        "id": "01kywajmdbd4e6b74x5axtn9a3",
+        "name": "Halliburton Indonesia",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:12.000000Z",
+        "updated_at": "2026-07-31T14:52:12.000000Z",
+        "slug": "halliburton-indonesia",
+        "sector": "Jasa & Inspeksi",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Halliburton Indonesia adalah bagian dari salah satu perusahaan jasa ladang minyak (oilfield services) terbesar di dunia, menyediakan layanan pengeboran, penyemenan sumur, dan teknologi produksi migas untuk operator hulu migas di seluruh Indonesia."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Jasa ladang minyak melibatkan pekerjaan lapangan langsung pada rig pengeboran dan fasilitas produksi — ruang terbatas, bejana tekan, dan pengoperasian alat berat — menjadikan kompetensi K3 migas kebutuhan operasional harian bagi kru lapangan."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Migas",
+            "Umum",
+            "Listrik",
+            "Ruang Terbatas",
+            "Confined Space",
+            "Bejana Tekan",
+            "Alat Berat"
+        ],
+        "page_id": "01kywajmekg6cpybdteb5yqt25",
+        "published_at": "2026-07-31T14:52:12.000000Z",
+        "updated_content_at": "2026-07-31T14:52:12.000000Z"
+    },
+    {
+        "id": "01kywajmgmpqzzg8qyqv8ca08n",
+        "name": "Schlumberger Indonesia",
+        "type": "partner",
+        "logo_media_id": null,
+        "logo_consent_ref": null,
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-07-31T14:52:12.000000Z",
+        "updated_at": "2026-07-31T14:52:12.000000Z",
+        "slug": "schlumberger-indonesia",
+        "sector": "Jasa & Inspeksi",
+        "profile": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Schlumberger Indonesia (kini beroperasi dengan nama global SLB) adalah salah satu perusahaan jasa teknologi ladang minyak terbesar di dunia, menyediakan layanan evaluasi formasi, pengeboran, dan produksi untuk operator migas di seluruh wilayah kerja Indonesia."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Sama seperti penyedia jasa ladang minyak lainnya, kru lapangan Schlumberger bekerja langsung pada rig dan fasilitas produksi migas — memerlukan kompetensi K3 ruang terbatas, bejana tekan, dan alat berat yang bersertifikat."
+                    }
+                }
+            ]
+        },
+        "industry_keywords": [
+            "Migas",
+            "Umum",
+            "Listrik",
+            "Ruang Terbatas",
+            "Confined Space",
+            "Bejana Tekan",
+            "Alat Berat"
+        ],
+        "page_id": "01kywajmhrj8e1wfwtv8yf1b5d",
+        "published_at": "2026-07-31T14:52:12.000000Z",
+        "updated_content_at": "2026-07-31T14:52:12.000000Z"
+    },
+    {
+        "id": "01m0vnfathkf0j056pz60pebdm",
+        "name": "PT Wijaya Karya (Persero) Tbk (WIKA)",
+        "type": "client",
+        "logo_media_id": "01m0vnfasr03jfbr0xpgrqy420",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:47.000000Z",
+        "updated_at": "2026-08-25T05:14:47.000000Z",
+        "slug": "wijaya-karya-wika",
+        "sector": "Konstruksi & Infrastruktur BUMN",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    },
+    {
+        "id": "01m0vnfavjy3wx6tt10hsh9h39",
+        "name": "PT Waskita Karya (Persero) Tbk",
+        "type": "client",
+        "logo_media_id": "01m0vnfav7z937bp98z63ks1c6",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:47.000000Z",
+        "updated_at": "2026-08-25T05:14:47.000000Z",
+        "slug": "waskita-karya",
+        "sector": "Konstruksi & Infrastruktur BUMN",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    },
+    {
+        "id": "01m0vnfawc1xm4cwyzr9bsq3je",
+        "name": "PT Total Bangun Persada Tbk",
+        "type": "client",
+        "logo_media_id": "01m0vnfaw4aqdwvs293he6y6gm",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:47.000000Z",
+        "updated_at": "2026-08-25T05:14:47.000000Z",
+        "slug": "total-bangun-persada",
+        "sector": "Konstruksi Gedung Bertingkat & EPC",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    },
+    {
+        "id": "01m0vnfaxefck71e1mytbxg683",
+        "name": "PT Jaya Konstruksi Manggala Pratama Tbk",
+        "type": "client",
+        "logo_media_id": "01m0vnfax4g8rk80g5ge2y993q",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:47.000000Z",
+        "updated_at": "2026-08-25T05:14:47.000000Z",
+        "slug": "jaya-konstruksi",
+        "sector": "Konstruksi & Infrastruktur",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    },
+    {
+        "id": "01m0vnfazy23ehyy5n32cj7392",
+        "name": "PT Aneka Tambang Tbk (ANTAM)",
+        "type": "client",
+        "logo_media_id": "01m0vnfazmrf9m0mm18sbfbxej",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:47.000000Z",
+        "updated_at": "2026-08-25T05:14:47.000000Z",
+        "slug": "pt-antam",
+        "sector": "Pertambangan & Hilirisasi Mineral",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    },
+    {
+        "id": "01m0vnfb0szyc6005aa6p9rkdw",
+        "name": "PT Unilever Indonesia Tbk",
+        "type": "client",
+        "logo_media_id": "01m0vnfb0f0xjnjgaf78bystq8",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:47.000000Z",
+        "updated_at": "2026-08-25T05:14:47.000000Z",
+        "slug": "unilever-indonesia",
+        "sector": "Manufaktur FMCG & Consumer Goods",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    },
+    {
+        "id": "01m0vnfb1xtgrpvbtsrm45z8yn",
+        "name": "PT Petrokimia Gresik",
+        "type": "client",
+        "logo_media_id": "01m0vnfb1h853r2pgvsajea0sr",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:47.000000Z",
+        "updated_at": "2026-08-25T05:14:47.000000Z",
+        "slug": "petrokimia-gresik",
+        "sector": "Industri Pupuk & Kimia",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    },
+    {
+        "id": "01m0vnfb350yc1xvxt73ds3snj",
+        "name": "PT Kereta Api Indonesia (Persero) (KAI)",
+        "type": "client",
+        "logo_media_id": "01m0vnfb2tr2pp72e7wr23atq3",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:47.000000Z",
+        "updated_at": "2026-08-25T05:14:47.000000Z",
+        "slug": "pt-kai",
+        "sector": "Transportasi & Logistik Perkeretaapian",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    },
+    {
+        "id": "01m0vnfb5vdz9f54c1389tjm9w",
+        "name": "PT Sumber Alfaria Trijaya Tbk (Alfamart)",
+        "type": "client",
+        "logo_media_id": "01m0vnfb4m3hvgavjmp3brvnvv",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:47.000000Z",
+        "updated_at": "2026-08-25T05:14:47.000000Z",
+        "slug": "alfamart",
+        "sector": "Ritel & Distribusi Logistik Nasional",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    },
+    {
+        "id": "01m0vnfb6n3epmzb800kagtsvn",
+        "name": "Universitas Gadjah Mada (UGM)",
+        "type": "client",
+        "logo_media_id": "01m0vnfb6c3apv8eg6g9hgnerp",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:47.000000Z",
+        "updated_at": "2026-08-25T05:14:47.000000Z",
+        "slug": "universitas-gadjah-mada",
+        "sector": "Pendidikan Tinggi & Riset Nasional",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    },
+    {
+        "id": "01m0vnfb7hgmsqkynredgv6ry0",
+        "name": "Universitas Negeri Yogyakarta (UNY)",
+        "type": "client",
+        "logo_media_id": "01m0vnfb78nj4hgrmjpzaa5vba",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:47.000000Z",
+        "updated_at": "2026-08-25T05:14:47.000000Z",
+        "slug": "universitas-negeri-yogyakarta",
+        "sector": "Pendidikan Tinggi & Vokasi",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    },
+    {
+        "id": "01m0vnfb8n1q9bzf0185ggrhjc",
+        "name": "Universitas Brawijaya",
+        "type": "client",
+        "logo_media_id": "01m0vnfb84jqjh751a9kg3db89",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:47.000000Z",
+        "updated_at": "2026-08-25T05:14:47.000000Z",
+        "slug": "universitas-brawijaya",
+        "sector": "Pendidikan Tinggi",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    },
+    {
+        "id": "01m0vnfb9gedvg8aepk76xf21s",
+        "name": "PT Indah Kiat Pulp & Paper Tbk (Sinarmas)",
+        "type": "client",
+        "logo_media_id": "01m0vnfb972zzvddwda55g3y38",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:47.000000Z",
+        "updated_at": "2026-08-25T05:14:47.000000Z",
+        "slug": "indah-kiat-pulp-paper",
+        "sector": "Industri Pulp, Kertas & Manufaktur",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    },
+    {
+        "id": "01m0vnfba7sybk16rpt16m3ny3",
+        "name": "PT Pamapersada Nusantara (PAMA)",
+        "type": "client",
+        "logo_media_id": "01m0vnfb9zzd6j6qydwacravwr",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:48.000000Z",
+        "updated_at": "2026-08-25T05:14:48.000000Z",
+        "slug": "pamapersada-nusantara",
+        "sector": "Kontraktor Pertambangan Batubara Terbesar",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    },
+    {
+        "id": "01m0vnfbb0e1mzbevnkb5rqam0",
+        "name": "PT Telekomunikasi Selular (Telkomsel)",
+        "type": "client",
+        "logo_media_id": "01m0vnfbarrttqq4my3xvj13pj",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:48.000000Z",
+        "updated_at": "2026-08-25T05:14:48.000000Z",
+        "slug": "telkomsel",
+        "sector": "Telekomunikasi & Jaringan Digital",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    },
+    {
+        "id": "01m0vnfbd5bzr4th586p5j5606",
+        "name": "Politeknik Negeri Jember (Polije)",
+        "type": "client",
+        "logo_media_id": "01m0vnfbc7e7baaxztrrt3jwtq",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:48.000000Z",
+        "updated_at": "2026-08-25T05:14:48.000000Z",
+        "slug": "politeknik-negeri-jember",
+        "sector": "Pendidikan Vokasi Terapan",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    },
+    {
+        "id": "01m0vnfbeacyfkkn47vxxzz60q",
+        "name": "Samsung C&T Corporation Indonesia",
+        "type": "client",
+        "logo_media_id": "01m0vnfbdzcsw8tthfmdr3yz1f",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:48.000000Z",
+        "updated_at": "2026-08-25T05:14:48.000000Z",
+        "slug": "samsung-cnt",
+        "sector": "Konstruksi EPC Multinasional",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    },
+    {
+        "id": "01m0vnfbfdvfjd6cjmrm9bp1jb",
+        "name": "PetroChina International Companies in Indonesia",
+        "type": "client",
+        "logo_media_id": "01m0vnfbf1t339kg8cenzwq4t0",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:48.000000Z",
+        "updated_at": "2026-08-25T05:14:48.000000Z",
+        "slug": "petrochina-indonesia",
+        "sector": "Eksplorasi & Produksi Migas",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    },
+    {
+        "id": "01m0vnfbgjpcvp22r1qbsyb9gq",
+        "name": "PT New Armada (Nasmoco Group)",
+        "type": "client",
+        "logo_media_id": "01m0vnfbg7w92jekzew5eyvcpx",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:48.000000Z",
+        "updated_at": "2026-08-25T05:14:48.000000Z",
+        "slug": "nasmoco-new-armada",
+        "sector": "Otomotif, Karoseri & Manufaktur",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    },
+    {
+        "id": "01m0vnfbhgyezcy669c67v6tbr",
+        "name": "PT KAJ Properti Indonesia",
+        "type": "client",
+        "logo_media_id": "01m0vnfbh5yamca3s2t1nw52t3",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:48.000000Z",
+        "updated_at": "2026-08-25T05:14:48.000000Z",
+        "slug": "kaj-properti",
+        "sector": "Pengembang Properti & Konstruksi",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    },
+    {
+        "id": "01m0vnfbje5an98d5r866fdf3c",
+        "name": "PT Semen Indonesia (Persero) Tbk (SIG)",
+        "type": "client",
+        "logo_media_id": "01m0vnfbj1d6s4tz7nv118zy20",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:48.000000Z",
+        "updated_at": "2026-08-25T05:14:48.000000Z",
+        "slug": "semen-indonesia-sig",
+        "sector": "Bahan Bangunan & Semen BUMN",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    },
+    {
+        "id": "01m0vnfbkk7hjhxydhps5hjjsc",
+        "name": "PT Barata Indonesia (Persero)",
+        "type": "client",
+        "logo_media_id": "01m0vnfbk62kyk9tpr5n0teqf4",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:48.000000Z",
+        "updated_at": "2026-08-25T05:14:48.000000Z",
+        "slug": "barata-indonesia",
+        "sector": "Manufaktur Alat Berat & Pabrikasi Baja",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    },
+    {
+        "id": "01m0vnfbmrw0y531z08xsx5rae",
+        "name": "PT Pindad (Persero)",
+        "type": "client",
+        "logo_media_id": "01m0vnfbmetw07rm5f22yt0p68",
+        "logo_consent_ref": "client_consent",
+        "website": null,
+        "same_as": null,
+        "status": "published",
+        "created_at": "2026-08-25T05:14:48.000000Z",
+        "updated_at": "2026-08-25T05:14:48.000000Z",
+        "slug": "pt-pindad",
+        "sector": "Industri Pertahanan & Alat Berat BUMN",
+        "profile": null,
+        "industry_keywords": null,
+        "page_id": null,
+        "published_at": null,
+        "updated_content_at": null
+    }
+]

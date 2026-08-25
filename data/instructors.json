@@ -1,0 +1,308 @@
+[
+    {
+        "id": "01kyw9k3t6kxsssy4j1njjw7ep",
+        "role": "author",
+        "name": "Tim PENA Consultant",
+        "slug": "tim-pena-consultant",
+        "credentials": null,
+        "bio": null,
+        "photo_media_id": null,
+        "same_as": null,
+        "status": "published",
+        "page_id": null,
+        "published_at": "2026-07-31T14:34:59.000000Z",
+        "updated_content_at": null,
+        "lock_version": 0,
+        "created_at": "2026-07-31T14:34:59.000000Z",
+        "updated_at": "2026-07-31T14:34:59.000000Z",
+        "user_id": null
+    },
+    {
+        "id": "01m0vngebm56w00p3vgfa11a2k",
+        "role": "instructor",
+        "name": "Ir. Bambang Sugiarto, M.T., IPU",
+        "slug": "ir-bambang-sugiarto-mt-ipu",
+        "credentials": {
+            "blocks": [
+                {
+                    "type": "list",
+                    "data": {
+                        "style": "bullet",
+                        "items": [
+                            "Lead Auditor SMK3 Kemnaker RI (Reg. No. 0482/SKP/AK3/2018)",
+                            "Ahli Utama K3 Konstruksi BNSP & Asesor Kompetensi LSP K3",
+                            "Anggota Persatuan Insinyur Indonesia (PII) Badan Kejuruan Sipil",
+                            "Instruktur Senior Pembinaan Ahli K3 Umum & Audit SMK3 PP 50/2012"
+                        ]
+                    }
+                }
+            ]
+        },
+        "bio": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Ir. Bambang Sugiarto adalah praktisi dan konsultan senior keselamatan kerja konstruksi dan sistem manajemen K3 dengan lebih dari 20 tahun pengalaman di proyek EPC, infrastruktur jalan tol, dan pembangunan gedung bertingkat tinggi BUMN."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Sebagai Lead Auditor SMK3 independen berlisensi Kemnaker RI, beliau telah memimpin audit kepatuhan SMK3 di lebih dari 150 perusahaan manufaktur, migas, dan kontraktor nasional. Di PENA Consultant, beliau memandu modul kepatuhan regulasi, investigasi insiden, dan audit sistem manajemen K3."
+                    }
+                }
+            ]
+        },
+        "photo_media_id": null,
+        "same_as": null,
+        "status": "published",
+        "page_id": "01m0vngec18bhewer707nv7h4h",
+        "published_at": "2026-08-25T05:15:23.000000Z",
+        "updated_content_at": "2026-08-25T05:15:23.000000Z",
+        "lock_version": 0,
+        "created_at": "2026-08-25T05:15:23.000000Z",
+        "updated_at": "2026-08-25T05:15:23.000000Z",
+        "user_id": null
+    },
+    {
+        "id": "01m0vngecjf8skrbx5mv8e1aze",
+        "role": "instructor",
+        "name": "Dr. dr. Anindita Kusuma, Sp.Ok",
+        "slug": "dr-dr-anindita-kusuma-sp-ok",
+        "credentials": {
+            "blocks": [
+                {
+                    "type": "list",
+                    "data": {
+                        "style": "bullet",
+                        "items": [
+                            "Dokter Spesialis Kedokteran Okupasi (Sp.Ok) — Universitas Indonesia",
+                            "Dokter Pemeriksa Kesehatan Tenaga Kerja SKP Kemnaker RI",
+                            "Asesor Paramedis Hyperkes & K3 Rumah Sakit BNSP",
+                            "Konsultan Ergonomi & Penyakit Akibat Kerja (PAK)"
+                        ]
+                    }
+                }
+            ]
+        },
+        "bio": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Dr. dr. Anindita Kusuma adalah dokter spesialis kedokteran kerja (okupasi) yang berfokus pada pencegahan penyakit akibat kerja (PAK), surveilans kesehatan tenaga kerja, dan manajemen K3 di fasilitas pelayanan kesehatan serta rumah sakit."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Beliau berpengalaman merancang program promotif dan preventif kesehatan kerja di sektor manufaktur kimia dan pertambangan. Di PENA Consultant, dr. Anindita mengampu pembinaan Dokter Hyperkes, Paramedis K3, Petugas P3K di Tempat Kerja, dan K3 Rumah Sakit Permenkes 66/2016."
+                    }
+                }
+            ]
+        },
+        "photo_media_id": null,
+        "same_as": null,
+        "status": "published",
+        "page_id": "01m0vngect2wthg67pam0sf35q",
+        "published_at": "2026-08-25T05:15:23.000000Z",
+        "updated_content_at": "2026-08-25T05:15:23.000000Z",
+        "lock_version": 0,
+        "created_at": "2026-08-25T05:15:23.000000Z",
+        "updated_at": "2026-08-25T05:15:23.000000Z",
+        "user_id": null
+    },
+    {
+        "id": "01m0vnged2qknt9dv7evd7r11k",
+        "role": "instructor",
+        "name": "Hendro Prasetyo, S.T., M.Sc",
+        "slug": "hendro-prasetyo-st-msc",
+        "credentials": {
+            "blocks": [
+                {
+                    "type": "list",
+                    "data": {
+                        "style": "bullet",
+                        "items": [
+                            "Ahli K3 Kimia Kemnaker RI & Authorized Gas Tester (AGT) Level 2",
+                            "Spesialis Process Safety Management (PSM) & HAZOPS Leader",
+                            "Certified Chemical Safety Officer BNSP",
+                            "Eks-Process Safety Engineer di Fasilitas Pengolahan Hulu Migas"
+                        ]
+                    }
+                }
+            ]
+        },
+        "bio": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Hendro Prasetyo memiliki pengalaman lebih dari 15 tahun di industri hulu dan hilir minyak & gas bumi serta petrokimia. Memiliki keahlian mendalam dalam studi HAZOPS, identifikasi bahaya kimia kuantitatif (QRA), dan keselamatan pekerjaan ruang terbatas (confined space entry)."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Di PENA Consultant, beliau menjadi instruktur utama untuk program Ahli K3 Kimia, Petugas K3 Kimia, Authorized Gas Tester, dan mitigasi bahaya gas beracun H2S."
+                    }
+                }
+            ]
+        },
+        "photo_media_id": null,
+        "same_as": null,
+        "status": "published",
+        "page_id": "01m0vngedb8zwf38wnjxecamnn",
+        "published_at": "2026-08-25T05:15:23.000000Z",
+        "updated_content_at": "2026-08-25T05:15:23.000000Z",
+        "lock_version": 0,
+        "created_at": "2026-08-25T05:15:23.000000Z",
+        "updated_at": "2026-08-25T05:15:23.000000Z",
+        "user_id": null
+    },
+    {
+        "id": "01m0vngednv2hnzghjavg9wpym",
+        "role": "instructor",
+        "name": "Raden Wijaya, S.T., CWI",
+        "slug": "raden-wijaya-st-cwi",
+        "credentials": {
+            "blocks": [
+                {
+                    "type": "list",
+                    "data": {
+                        "style": "bullet",
+                        "items": [
+                            "Certified Welding Inspector (CWI) — AWS D1.1 & ASME Section IX",
+                            "Inspektur Bejana Tekan & Boiler Kemnaker RI",
+                            "International Welding Technologist (IWT) — IIW Standard",
+                            "Asesor Kompetensi Uji Las LSP Pengelasan Logam"
+                        ]
+                    }
+                }
+            ]
+        },
+        "bio": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Raden Wijaya adalah praktisi metalurgi dan inspeksi pengelasan dengan rekam jejak panjang di industri fabrikasi boiler, bejana tekan, tangki timbun, dan jalur pipa transmisi gas. Beliau menguasai penyusunan WPS/PQR, failure analysis sambungan las, dan pengujian tak rusak (NDT)."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Di PENA Consultant, beliau memimpin program pembinaan Welding Inspector Standard & Comprehensive, Welder Kelas 1/2/3, serta sertifikasi teknisi bejana tekan dan ketel uap."
+                    }
+                }
+            ]
+        },
+        "photo_media_id": null,
+        "same_as": null,
+        "status": "published",
+        "page_id": "01m0vngedybncvfb5bhwnbreqw",
+        "published_at": "2026-08-25T05:15:23.000000Z",
+        "updated_content_at": "2026-08-25T05:15:23.000000Z",
+        "lock_version": 0,
+        "created_at": "2026-08-25T05:15:23.000000Z",
+        "updated_at": "2026-08-25T05:15:23.000000Z",
+        "user_id": null
+    },
+    {
+        "id": "01m0vngee7ghymxdpx2t9hwcwh",
+        "role": "instructor",
+        "name": "Drs. H. Mulyono, M.Kes",
+        "slug": "drs-h-mulyono-mkes",
+        "credentials": {
+            "blocks": [
+                {
+                    "type": "list",
+                    "data": {
+                        "style": "bullet",
+                        "items": [
+                            "Ahli Higiene Industri Utama (HIU) — BNSP (SKKNI)",
+                            "Magister Kesehatan Kerja — FKM Universitas Gadjah Mada",
+                            "Spesialis Pengukuran Lingkungan Kerja Fisik, Kimia, & Ergonomi",
+                            "Pakar Penilaian Kualitas Udara Dalam Ruang (IAQ) & Pengendalian Kebisingan"
+                        ]
+                    }
+                }
+            ]
+        },
+        "bio": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Drs. H. Mulyono adalah akademisi dan praktisi senior higiene industri dengan pengalaman lebih dari 25 tahun dalam pengujian dan evaluasi faktor bahaya lingkungan kerja di pabrik peleburan logam, tekstil, dan industri otomotif."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Beliau mendalami implementasi Permenaker No. 05 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja. Di PENA Consultant, beliau membimbing kelas Ahli Higiene Industri Muda (HIMU), Madya (HIMA), dan Utama (HIU)."
+                    }
+                }
+            ]
+        },
+        "photo_media_id": null,
+        "same_as": null,
+        "status": "published",
+        "page_id": "01m0vngeejqgy12qksa20dpjbx",
+        "published_at": "2026-08-25T05:15:23.000000Z",
+        "updated_content_at": "2026-08-25T05:15:23.000000Z",
+        "lock_version": 0,
+        "created_at": "2026-08-25T05:15:23.000000Z",
+        "updated_at": "2026-08-25T05:15:23.000000Z",
+        "user_id": null
+    },
+    {
+        "id": "01m0vngeez22q6fnqzwd5hvnsn",
+        "role": "instructor",
+        "name": "Farhan Pratama, S.T., CSP",
+        "slug": "farhan-pratama-st-csp",
+        "credentials": {
+            "blocks": [
+                {
+                    "type": "list",
+                    "data": {
+                        "style": "bullet",
+                        "items": [
+                            "Tenaga Kerja Pada Ketinggian Tingkat 3 (TKPK 3 / Rope Access Supervisor) Kemnaker RI",
+                            "Certified Scaffolding Inspector & Rigging Supervisor",
+                            "Instruktur Authorized Fall Protection & Confined Space Rescue",
+                            "Eks-HSE Specialist di Proyek Telekomunikasi & Offshore Tower"
+                        ]
+                    }
+                }
+            ]
+        },
+        "bio": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Farhan Pratama adalah instruktur spesialis pekerjaan berisiko tinggi (high-risk work) yang berfokus pada teknik akses tali (rope access), perancangan sistem penahan jatuh, inspeksi scaffolding, dan penyelamatan darurat di ruang terbatas."
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Di PENA Consultant, beliau mengampu pelatihan teknis TKBT 1 & 2, TKPK 1–3, Operator Scaffolding, serta pelatihan tanggap darurat dan simulasi evakuasi korban ketinggian."
+                    }
+                }
+            ]
+        },
+        "photo_media_id": null,
+        "same_as": null,
+        "status": "published",
+        "page_id": "01m0vngef9526ek3zv1ybs0exg",
+        "published_at": "2026-08-25T05:15:24.000000Z",
+        "updated_content_at": "2026-08-25T05:15:24.000000Z",
+        "lock_version": 0,
+        "created_at": "2026-08-25T05:15:23.000000Z",
+        "updated_at": "2026-08-25T05:15:24.000000Z",
+        "user_id": null
+    }
+]
