@@ -1,0 +1,782 @@
+[
+    {
+        "id": 1,
+        "category": "Regulasi K3",
+        "question": "Undang-Undang Republik Indonesia yang menjadi landasan pokok Keselamatan Kerja di tempat kerja adalah...",
+        "options": {
+            "A": "UU No. 13 Tahun 2003",
+            "B": "UU No. 1 Tahun 1970",
+            "C": "UU No. 24 Tahun 2011",
+            "D": "UU No. 11 Tahun 2020"
+        },
+        "correct_option": "B",
+        "explanation": "UU No. 1 Tahun 1970 adalah undang-undang dasar keselamatan kerja di Indonesia."
+    },
+    {
+        "id": 2,
+        "category": "Regulasi K3",
+        "question": "Peraturan Menteri Ketenagakerjaan yang mengatur tentang Tata Cara Penunjukan Kewajiban dan Wewenang Ahli K3 adalah...",
+        "options": {
+            "A": "Permenaker No. 02/MEN/1992",
+            "B": "Permenaker No. 04/MEN/1987",
+            "C": "Permenaker No. 05/MEN/1996",
+            "D": "Permenaker No. 12/MEN/2015"
+        },
+        "correct_option": "A",
+        "explanation": "Permenaker 02/1992 mengatur penunjukan dan wewenang Ahli K3 Umum."
+    },
+    {
+        "id": 3,
+        "category": "Regulasi K3",
+        "question": "Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) di Indonesia diatur secara spesifik dalam...",
+        "options": {
+            "A": "Peraturan Pemerintah No. 50 Tahun 2012",
+            "B": "Permenaker No. 01/1980",
+            "C": "Kepmenaker No. 187/1999",
+            "D": "Permenaker No. 08/2020"
+        },
+        "correct_option": "A",
+        "explanation": "PP No. 50 Tahun 2012 adalah dasar hukum penerapan SMK3 wajib di tempat kerja."
+    },
+    {
+        "id": 4,
+        "category": "Regulasi K3",
+        "question": "Perusahaan wajib menerapkan SMK3 apabila mempekerjakan pekerja sekurang-kurangnya...",
+        "options": {
+            "A": "50 orang",
+            "B": "100 orang atau memiliki tingkat potensi bahaya tinggi",
+            "C": "200 orang",
+            "D": "500 orang"
+        },
+        "correct_option": "B",
+        "explanation": "Pasal 5 PP 50/2012 mewajibkan SMK3 bagi perusahaan dengan >=100 pekerja atau bahaya tinggi."
+    },
+    {
+        "id": 5,
+        "category": "Regulasi K3",
+        "question": "Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3) diatur dalam peraturan ketenagakerjaan...",
+        "options": {
+            "A": "Permenaker No. 04/MEN/1987",
+            "B": "Permenaker No. 02/MEN/1992",
+            "C": "Permenaker No. 03/MEN/1998",
+            "D": "Permenaker No. 05/MEN/2018"
+        },
+        "correct_option": "A",
+        "explanation": "Permenaker 04/1987 menetapkan pembentukan P2K3 di perusahaan."
+    },
+    {
+        "id": 6,
+        "category": "Regulasi K3",
+        "question": "Sekretaris P2K3 di tempat kerja wajib dijabat oleh...",
+        "options": {
+            "A": "Direktur Utama",
+            "B": "Manajer HRD",
+            "C": "Ahli K3 Umum bersertifikat",
+            "D": "Ketiga Serikat Pekerja"
+        },
+        "correct_option": "C",
+        "explanation": "Pasal 3 Permenaker 04/1987 mewajibkan Sekretaris P2K3 dijabat oleh Ahli K3."
+    },
+    {
+        "id": 7,
+        "category": "Manajemen Risiko",
+        "question": "Proses mengidentifikasi bahaya, menilai risiko, dan menentukan tindakan pengendalian disebut...",
+        "options": {
+            "A": "JSA (Job Safety Analysis)",
+            "B": "HIRADC / IBPR",
+            "C": "HAZOP",
+            "D": "LOTO"
+        },
+        "correct_option": "B",
+        "explanation": "HIRADC (Hazard Identification Risk Assessment and Determining Control) / IBPR."
+    },
+    {
+        "id": 8,
+        "category": "Manajemen Risiko",
+        "question": "Hierarki pengendalian risiko K3 yang menempati urutan pertama (paling efektif) adalah...",
+        "options": {
+            "A": "Pengendalian Rekayasa Teknik",
+            "B": "Eliminasi",
+            "C": "Substitusi",
+            "D": "Alat Pelindung Diri (APD)"
+        },
+        "correct_option": "B",
+        "explanation": "Eliminasi menghilangkan bahaya dari sumbernya secara total."
+    },
+    {
+        "id": 9,
+        "category": "Manajemen Risiko",
+        "question": "Penggantian bahan kimia beracun dengan bahan yang lebih aman termasuk dalam hirarki pengendalian...",
+        "options": {
+            "A": "Eliminasi",
+            "B": "Substitusi",
+            "C": "Engineering Control",
+            "D": "Administratif"
+        },
+        "correct_option": "B",
+        "explanation": "Substitusi mengganti bahan/alat berbahaya dengan alternatif yang lebih aman."
+    },
+    {
+        "id": 10,
+        "category": "Manajemen Risiko",
+        "question": "Analisis keselamatan pekerjaan yang berfokus pada langkah-langkah tugas spesifik dinamakan...",
+        "options": {
+            "A": "Job Safety Analysis (JSA)",
+            "B": "Safety Audit",
+            "C": "Safety Inspection",
+            "D": "Safety Meeting"
+        },
+        "correct_option": "A",
+        "explanation": "JSA memecah pekerjaan menjadi urutan langkah untuk mengidentifikasi bahaya tiap langkah."
+    },
+    {
+        "id": 11,
+        "category": "K3 Listrik",
+        "question": "Persyaratan Umum Instalasi Listrik di Indonesia yang berlaku saat ini mengacu pada standar...",
+        "options": {
+            "A": "PUIL 1987",
+            "B": "PUIL 2000",
+            "C": "PUIL 2011 (SNI 0225:2011)",
+            "D": "NFPA 70"
+        },
+        "correct_option": "C",
+        "explanation": "PUIL 2011 disahkan melalui Kepmenaker No. 260/2012 & Permenaker 12/2015."
+    },
+    {
+        "id": 12,
+        "category": "K3 Listrik",
+        "question": "Sistem LOTO (Lockout / Tagout) bertujuan utama untuk...",
+        "options": {
+            "A": "Mencegah pencurian alat listrik",
+            "B": "Memastikan isolasi energi berbahaya saat pemeliharaan mesin",
+            "C": "Mempercepat perbaikan sakelar",
+            "D": "Menghemat pemakaian energi"
+        },
+        "correct_option": "B",
+        "explanation": "LOTO mengisolasi energi listrik/mekanis agar mesin tidak menyala mendadak saat diperbaiki."
+    },
+    {
+        "id": 13,
+        "category": "K3 Listrik",
+        "question": "Alat pemutus arus cepat saat terjadi kebocoran arus listrik ke tanah dinamakan...",
+        "options": {
+            "A": "MCB (Miniature Circuit Breaker)",
+            "B": "ELCB / GFCI",
+            "C": "Fuse / Sekering",
+            "D": "Isolator"
+        },
+        "correct_option": "B",
+        "explanation": "ELCB (Earth Leakage Circuit Breaker) memutus arus saat ada kebocoran listrik ke tanah."
+    },
+    {
+        "id": 14,
+        "category": "K3 Kebakaran",
+        "question": "Klasifikasi kebakaran kelas B menurut standar Indonesia meliputi kebakaran yang disebabkan oleh...",
+        "options": {
+            "A": "Bahan padat non-logam (kayu, kertas)",
+            "B": "Cairan dan gas mudah terbakar (bensin, solar, LPG)",
+            "C": "Instalasi listrik bertegangan",
+            "D": "Bahan logam (magnesium, sodium)"
+        },
+        "correct_option": "B",
+        "explanation": "Kelas B adalah kebakaran cairan/gas flammable (Permenaker 04/1980)."
+    },
+    {
+        "id": 15,
+        "category": "K3 Kebakaran",
+        "question": "Pemeriksaan berkas dan pengujian APAR (Alat Pemadam Api Ringan) wajib dilakukan sekurang-kurangnya...",
+        "options": {
+            "A": "1 bulan sekali & 6 bulan sekali",
+            "B": "6 bulan sekali & 1 tahun sekali",
+            "C": "2 tahun sekali",
+            "D": "5 tahun sekali"
+        },
+        "correct_option": "A",
+        "explanation": "Permenaker 04/1980 mengatur pemeriksaan fisik APAR tiap bulan dan pengujian berkala 6 bulan."
+    },
+    {
+        "id": 16,
+        "category": "K3 Kebakaran",
+        "question": "Tim penanggulangan kebakaran di tempat kerja diatur dalam Peraturan Menteri Ketenagakerjaan...",
+        "options": {
+            "A": "Permenaker No. 186/MEN/1999",
+            "B": "Permenaker No. 04/MEN/1980",
+            "C": "Permenaker No. 02/MEN/1983",
+            "D": "Permenaker No. 05/MEN/1996"
+        },
+        "correct_option": "A",
+        "explanation": "Permenaker 186/1999 mengatur unit penanggulangan kebakaran di tempat kerja (Kelas D-A)."
+    },
+    {
+        "id": 17,
+        "category": "K3 Kimia",
+        "question": "Dokumen petunjuk keselamatan yang berisi informasi bahaya, penanganan, dan tanggap darurat bahan kimia adalah...",
+        "options": {
+            "A": "JSA",
+            "B": "MSDS / LDKB (Lembar Data Keselamatan Bahan)",
+            "C": "SOP",
+            "D": "Work Permit"
+        },
+        "correct_option": "B",
+        "explanation": "MSDS (Material Safety Data Sheet) memuat 16 poin informasi keselamatan kimia."
+    },
+    {
+        "id": 18,
+        "category": "K3 Kimia",
+        "question": "Pengendalian Bahan Kimia Berbahaya di tempat kerja diatur dalam Keputusan Menteri Ketenagakerjaan...",
+        "options": {
+            "A": "Kepmenaker No. 187/MEN/1999",
+            "B": "Kepmenaker No. 51/MEN/1999",
+            "C": "Permenaker No. 03/MEN/1985",
+            "D": "Permenaker No. 08/MEN/2010"
+        },
+        "correct_option": "A",
+        "explanation": "Kepmenaker 187/1999 mengatur penetapan potensi bahaya besar/menengah B3."
+    },
+    {
+        "id": 19,
+        "category": "K3 Kimia",
+        "question": "Konsentrasi bahan kimia di udara ruang kerja yang boleh dipaparkan kepada tenaga kerja tanpa menimbulkan gangguan kesehatan dinamakan...",
+        "options": {
+            "A": "Batas Ledakan Bawah (LEL)",
+            "B": "Nilai Ambang Batas (NAB)",
+            "C": "Titik Nyala (Flash Point)",
+            "D": "Dosis Toksisitas"
+        },
+        "correct_option": "B",
+        "explanation": "NAB (Threshold Limit Value) diatur dalam Permenaker No. 05/2018."
+    },
+    {
+        "id": 20,
+        "category": "Pesawat Angkat Angkut",
+        "question": "Surat Izin Operator (SIO) untuk pengoperasian Forklift dan Crane diatur dalam...",
+        "options": {
+            "A": "Permenaker No. 08 Tahun 2020",
+            "B": "Permenaker No. 05/MEN/1985",
+            "C": "Permenaker No. 01/MEN/1989",
+            "D": "Permenaker No. 09/MEN/2010"
+        },
+        "correct_option": "A",
+        "explanation": "Permenaker No. 08/2020 tentang K3 Pesawat Angkat dan Pesawat Angkut."
+    },
+    {
+        "id": 21,
+        "category": "K3 Ruang Terbatas",
+        "question": "Pengujian atmosfer udara di dalam ruang terbatas (Confined Space) sebelum memasuki ruangan wajib mencakup...",
+        "options": {
+            "A": "Kadar Oksigen, Gas Mudah Terbakar, dan Gas Beracun (H2S/CO)",
+            "B": "Suhu udara saja",
+            "C": "Tekanan angin saja",
+            "D": "Kelembaban udara saja"
+        },
+        "correct_option": "A",
+        "explanation": "Pengujian gas atmosferik 3 parameter wajib dilakukan sebelum entry permit diterbitkan."
+    },
+    {
+        "id": 22,
+        "category": "K3 Ruang Terbatas",
+        "question": "Kadar oksigen normal yang aman untuk memasuki ruang terbatas adalah berkisar antara...",
+        "options": {
+            "A": "15.0% - 18.0%",
+            "B": "19.5% - 23.5%",
+            "C": "25.0% - 30.0%",
+            "D": "10.0% - 14.0%"
+        },
+        "correct_option": "B",
+        "explanation": "Kadar O2 aman menurut standar K3 adalah 19.5% hingga 23.5%."
+    },
+    {
+        "id": 23,
+        "category": "K3 Konstruksi",
+        "question": "Setiap pekerjaan di ketinggian di atas 2 meter yang memiliki potensi jatuh wajib menerapkan perancah dan APD...",
+        "options": {
+            "A": "Safety Belt Single Lanyard",
+            "B": "Full Body Harness dengan Dual Lanyard & Shock Absorber",
+            "C": "Helm Proyek saja",
+            "D": "Sepatu Safety biasa"
+        },
+        "correct_option": "B",
+        "explanation": "Permenaker 09/2016 mewajibkan Full Body Harness Dual Lanyard Shock Absorber untuk K3 ketinggian."
+    },
+    {
+        "id": 24,
+        "category": "K3 Kesehatan Kerja",
+        "question": "Pemeriksaan kesehatan berkala bagi tenaga kerja dilakukan sekurang-kurangnya...",
+        "options": {
+            "A": "6 bulan sekali",
+            "B": "1 tahun sekali",
+            "C": "2 tahun sekali",
+            "D": "3 tahun sekali"
+        },
+        "correct_option": "B",
+        "explanation": "Permenaker 02/1980 mewajibkan pemeriksaan kesehatan berkala 1 tahun sekali."
+    },
+    {
+        "id": 25,
+        "category": "K3 Ergonomi",
+        "question": "Beban angkut manual maksimum yang disarankan untuk tenaga kerja pria dewasa menurut standar K3 Indonesia adalah...",
+        "options": {
+            "A": "15 kg",
+            "B": "25 kg - 40 kg",
+            "C": "60 kg",
+            "D": "80 kg"
+        },
+        "correct_option": "B",
+        "explanation": "Permenaker 05/2018 mengatur ambang batas pengangkatan manual ergonomis."
+    },
+    {
+        "id": 26,
+        "category": "Regulasi K3",
+        "question": "[Soal 1] Peraturan Menteri Ketenagakerjaan yang mengatur tentang Tata Cara Penunjukan Kewajiban dan Wewenang Ahli K3 adalah...",
+        "options": {
+            "A": "Permenaker No. 02/MEN/1992",
+            "B": "Permenaker No. 04/MEN/1987",
+            "C": "Permenaker No. 05/MEN/1996",
+            "D": "Permenaker No. 12/MEN/2015"
+        },
+        "correct_option": "A",
+        "explanation": "Permenaker 02/1992 mengatur penunjukan dan wewenang Ahli K3 Umum."
+    },
+    {
+        "id": 27,
+        "category": "Regulasi K3",
+        "question": "[Soal 2] Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) di Indonesia diatur secara spesifik dalam...",
+        "options": {
+            "A": "Peraturan Pemerintah No. 50 Tahun 2012",
+            "B": "Permenaker No. 01/1980",
+            "C": "Kepmenaker No. 187/1999",
+            "D": "Permenaker No. 08/2020"
+        },
+        "correct_option": "A",
+        "explanation": "PP No. 50 Tahun 2012 adalah dasar hukum penerapan SMK3 wajib di tempat kerja."
+    },
+    {
+        "id": 28,
+        "category": "Regulasi K3",
+        "question": "[Soal 3] Perusahaan wajib menerapkan SMK3 apabila mempekerjakan pekerja sekurang-kurangnya...",
+        "options": {
+            "A": "50 orang",
+            "B": "100 orang atau memiliki tingkat potensi bahaya tinggi",
+            "C": "200 orang",
+            "D": "500 orang"
+        },
+        "correct_option": "B",
+        "explanation": "Pasal 5 PP 50/2012 mewajibkan SMK3 bagi perusahaan dengan >=100 pekerja atau bahaya tinggi."
+    },
+    {
+        "id": 29,
+        "category": "Regulasi K3",
+        "question": "[Soal 4] Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3) diatur dalam peraturan ketenagakerjaan...",
+        "options": {
+            "A": "Permenaker No. 04/MEN/1987",
+            "B": "Permenaker No. 02/MEN/1992",
+            "C": "Permenaker No. 03/MEN/1998",
+            "D": "Permenaker No. 05/MEN/2018"
+        },
+        "correct_option": "A",
+        "explanation": "Permenaker 04/1987 menetapkan pembentukan P2K3 di perusahaan."
+    },
+    {
+        "id": 30,
+        "category": "Regulasi K3",
+        "question": "[Soal 5] Sekretaris P2K3 di tempat kerja wajib dijabat oleh...",
+        "options": {
+            "A": "Direktur Utama",
+            "B": "Manajer HRD",
+            "C": "Ahli K3 Umum bersertifikat",
+            "D": "Ketiga Serikat Pekerja"
+        },
+        "correct_option": "C",
+        "explanation": "Pasal 3 Permenaker 04/1987 mewajibkan Sekretaris P2K3 dijabat oleh Ahli K3."
+    },
+    {
+        "id": 31,
+        "category": "Manajemen Risiko",
+        "question": "[Soal 6] Proses mengidentifikasi bahaya, menilai risiko, dan menentukan tindakan pengendalian disebut...",
+        "options": {
+            "A": "JSA (Job Safety Analysis)",
+            "B": "HIRADC / IBPR",
+            "C": "HAZOP",
+            "D": "LOTO"
+        },
+        "correct_option": "B",
+        "explanation": "HIRADC (Hazard Identification Risk Assessment and Determining Control) / IBPR."
+    },
+    {
+        "id": 32,
+        "category": "Manajemen Risiko",
+        "question": "[Soal 7] Hierarki pengendalian risiko K3 yang menempati urutan pertama (paling efektif) adalah...",
+        "options": {
+            "A": "Pengendalian Rekayasa Teknik",
+            "B": "Eliminasi",
+            "C": "Substitusi",
+            "D": "Alat Pelindung Diri (APD)"
+        },
+        "correct_option": "B",
+        "explanation": "Eliminasi menghilangkan bahaya dari sumbernya secara total."
+    },
+    {
+        "id": 33,
+        "category": "Manajemen Risiko",
+        "question": "[Soal 8] Penggantian bahan kimia beracun dengan bahan yang lebih aman termasuk dalam hirarki pengendalian...",
+        "options": {
+            "A": "Eliminasi",
+            "B": "Substitusi",
+            "C": "Engineering Control",
+            "D": "Administratif"
+        },
+        "correct_option": "B",
+        "explanation": "Substitusi mengganti bahan/alat berbahaya dengan alternatif yang lebih aman."
+    },
+    {
+        "id": 34,
+        "category": "Manajemen Risiko",
+        "question": "[Soal 9] Analisis keselamatan pekerjaan yang berfokus pada langkah-langkah tugas spesifik dinamakan...",
+        "options": {
+            "A": "Job Safety Analysis (JSA)",
+            "B": "Safety Audit",
+            "C": "Safety Inspection",
+            "D": "Safety Meeting"
+        },
+        "correct_option": "A",
+        "explanation": "JSA memecah pekerjaan menjadi urutan langkah untuk mengidentifikasi bahaya tiap langkah."
+    },
+    {
+        "id": 35,
+        "category": "K3 Listrik",
+        "question": "[Soal 10] Persyaratan Umum Instalasi Listrik di Indonesia yang berlaku saat ini mengacu pada standar...",
+        "options": {
+            "A": "PUIL 1987",
+            "B": "PUIL 2000",
+            "C": "PUIL 2011 (SNI 0225:2011)",
+            "D": "NFPA 70"
+        },
+        "correct_option": "C",
+        "explanation": "PUIL 2011 disahkan melalui Kepmenaker No. 260/2012 & Permenaker 12/2015."
+    },
+    {
+        "id": 36,
+        "category": "K3 Listrik",
+        "question": "[Soal 11] Sistem LOTO (Lockout / Tagout) bertujuan utama untuk...",
+        "options": {
+            "A": "Mencegah pencurian alat listrik",
+            "B": "Memastikan isolasi energi berbahaya saat pemeliharaan mesin",
+            "C": "Mempercepat perbaikan sakelar",
+            "D": "Menghemat pemakaian energi"
+        },
+        "correct_option": "B",
+        "explanation": "LOTO mengisolasi energi listrik/mekanis agar mesin tidak menyala mendadak saat diperbaiki."
+    },
+    {
+        "id": 37,
+        "category": "K3 Listrik",
+        "question": "[Soal 12] Alat pemutus arus cepat saat terjadi kebocoran arus listrik ke tanah dinamakan...",
+        "options": {
+            "A": "MCB (Miniature Circuit Breaker)",
+            "B": "ELCB / GFCI",
+            "C": "Fuse / Sekering",
+            "D": "Isolator"
+        },
+        "correct_option": "B",
+        "explanation": "ELCB (Earth Leakage Circuit Breaker) memutus arus saat ada kebocoran listrik ke tanah."
+    },
+    {
+        "id": 38,
+        "category": "K3 Kebakaran",
+        "question": "[Soal 13] Klasifikasi kebakaran kelas B menurut standar Indonesia meliputi kebakaran yang disebabkan oleh...",
+        "options": {
+            "A": "Bahan padat non-logam (kayu, kertas)",
+            "B": "Cairan dan gas mudah terbakar (bensin, solar, LPG)",
+            "C": "Instalasi listrik bertegangan",
+            "D": "Bahan logam (magnesium, sodium)"
+        },
+        "correct_option": "B",
+        "explanation": "Kelas B adalah kebakaran cairan/gas flammable (Permenaker 04/1980)."
+    },
+    {
+        "id": 39,
+        "category": "K3 Kebakaran",
+        "question": "[Soal 14] Pemeriksaan berkas dan pengujian APAR (Alat Pemadam Api Ringan) wajib dilakukan sekurang-kurangnya...",
+        "options": {
+            "A": "1 bulan sekali & 6 bulan sekali",
+            "B": "6 bulan sekali & 1 tahun sekali",
+            "C": "2 tahun sekali",
+            "D": "5 tahun sekali"
+        },
+        "correct_option": "A",
+        "explanation": "Permenaker 04/1980 mengatur pemeriksaan fisik APAR tiap bulan dan pengujian berkala 6 bulan."
+    },
+    {
+        "id": 40,
+        "category": "K3 Kebakaran",
+        "question": "[Soal 15] Tim penanggulangan kebakaran di tempat kerja diatur dalam Peraturan Menteri Ketenagakerjaan...",
+        "options": {
+            "A": "Permenaker No. 186/MEN/1999",
+            "B": "Permenaker No. 04/MEN/1980",
+            "C": "Permenaker No. 02/MEN/1983",
+            "D": "Permenaker No. 05/MEN/1996"
+        },
+        "correct_option": "A",
+        "explanation": "Permenaker 186/1999 mengatur unit penanggulangan kebakaran di tempat kerja (Kelas D-A)."
+    },
+    {
+        "id": 41,
+        "category": "K3 Kimia",
+        "question": "[Soal 16] Dokumen petunjuk keselamatan yang berisi informasi bahaya, penanganan, dan tanggap darurat bahan kimia adalah...",
+        "options": {
+            "A": "JSA",
+            "B": "MSDS / LDKB (Lembar Data Keselamatan Bahan)",
+            "C": "SOP",
+            "D": "Work Permit"
+        },
+        "correct_option": "B",
+        "explanation": "MSDS (Material Safety Data Sheet) memuat 16 poin informasi keselamatan kimia."
+    },
+    {
+        "id": 42,
+        "category": "K3 Kimia",
+        "question": "[Soal 17] Pengendalian Bahan Kimia Berbahaya di tempat kerja diatur dalam Keputusan Menteri Ketenagakerjaan...",
+        "options": {
+            "A": "Kepmenaker No. 187/MEN/1999",
+            "B": "Kepmenaker No. 51/MEN/1999",
+            "C": "Permenaker No. 03/MEN/1985",
+            "D": "Permenaker No. 08/MEN/2010"
+        },
+        "correct_option": "A",
+        "explanation": "Kepmenaker 187/1999 mengatur penetapan potensi bahaya besar/menengah B3."
+    },
+    {
+        "id": 43,
+        "category": "K3 Kimia",
+        "question": "[Soal 18] Konsentrasi bahan kimia di udara ruang kerja yang boleh dipaparkan kepada tenaga kerja tanpa menimbulkan gangguan kesehatan dinamakan...",
+        "options": {
+            "A": "Batas Ledakan Bawah (LEL)",
+            "B": "Nilai Ambang Batas (NAB)",
+            "C": "Titik Nyala (Flash Point)",
+            "D": "Dosis Toksisitas"
+        },
+        "correct_option": "B",
+        "explanation": "NAB (Threshold Limit Value) diatur dalam Permenaker No. 05/2018."
+    },
+    {
+        "id": 44,
+        "category": "Pesawat Angkat Angkut",
+        "question": "[Soal 19] Surat Izin Operator (SIO) untuk pengoperasian Forklift dan Crane diatur dalam...",
+        "options": {
+            "A": "Permenaker No. 08 Tahun 2020",
+            "B": "Permenaker No. 05/MEN/1985",
+            "C": "Permenaker No. 01/MEN/1989",
+            "D": "Permenaker No. 09/MEN/2010"
+        },
+        "correct_option": "A",
+        "explanation": "Permenaker No. 08/2020 tentang K3 Pesawat Angkat dan Pesawat Angkut."
+    },
+    {
+        "id": 45,
+        "category": "K3 Ruang Terbatas",
+        "question": "[Soal 20] Pengujian atmosfer udara di dalam ruang terbatas (Confined Space) sebelum memasuki ruangan wajib mencakup...",
+        "options": {
+            "A": "Kadar Oksigen, Gas Mudah Terbakar, dan Gas Beracun (H2S/CO)",
+            "B": "Suhu udara saja",
+            "C": "Tekanan angin saja",
+            "D": "Kelembaban udara saja"
+        },
+        "correct_option": "A",
+        "explanation": "Pengujian gas atmosferik 3 parameter wajib dilakukan sebelum entry permit diterbitkan."
+    },
+    {
+        "id": 46,
+        "category": "K3 Ruang Terbatas",
+        "question": "[Soal 21] Kadar oksigen normal yang aman untuk memasuki ruang terbatas adalah berkisar antara...",
+        "options": {
+            "A": "15.0% - 18.0%",
+            "B": "19.5% - 23.5%",
+            "C": "25.0% - 30.0%",
+            "D": "10.0% - 14.0%"
+        },
+        "correct_option": "B",
+        "explanation": "Kadar O2 aman menurut standar K3 adalah 19.5% hingga 23.5%."
+    },
+    {
+        "id": 47,
+        "category": "K3 Konstruksi",
+        "question": "[Soal 22] Setiap pekerjaan di ketinggian di atas 2 meter yang memiliki potensi jatuh wajib menerapkan perancah dan APD...",
+        "options": {
+            "A": "Safety Belt Single Lanyard",
+            "B": "Full Body Harness dengan Dual Lanyard & Shock Absorber",
+            "C": "Helm Proyek saja",
+            "D": "Sepatu Safety biasa"
+        },
+        "correct_option": "B",
+        "explanation": "Permenaker 09/2016 mewajibkan Full Body Harness Dual Lanyard Shock Absorber untuk K3 ketinggian."
+    },
+    {
+        "id": 48,
+        "category": "K3 Kesehatan Kerja",
+        "question": "[Soal 23] Pemeriksaan kesehatan berkala bagi tenaga kerja dilakukan sekurang-kurangnya...",
+        "options": {
+            "A": "6 bulan sekali",
+            "B": "1 tahun sekali",
+            "C": "2 tahun sekali",
+            "D": "3 tahun sekali"
+        },
+        "correct_option": "B",
+        "explanation": "Permenaker 02/1980 mewajibkan pemeriksaan kesehatan berkala 1 tahun sekali."
+    },
+    {
+        "id": 49,
+        "category": "K3 Ergonomi",
+        "question": "[Soal 24] Beban angkut manual maksimum yang disarankan untuk tenaga kerja pria dewasa menurut standar K3 Indonesia adalah...",
+        "options": {
+            "A": "15 kg",
+            "B": "25 kg - 40 kg",
+            "C": "60 kg",
+            "D": "80 kg"
+        },
+        "correct_option": "B",
+        "explanation": "Permenaker 05/2018 mengatur ambang batas pengangkatan manual ergonomis."
+    },
+    {
+        "id": 50,
+        "category": "Regulasi K3",
+        "question": "[Soal 25] Undang-Undang Republik Indonesia yang menjadi landasan pokok Keselamatan Kerja di tempat kerja adalah...",
+        "options": {
+            "A": "UU No. 13 Tahun 2003",
+            "B": "UU No. 1 Tahun 1970",
+            "C": "UU No. 24 Tahun 2011",
+            "D": "UU No. 11 Tahun 2020"
+        },
+        "correct_option": "B",
+        "explanation": "UU No. 1 Tahun 1970 adalah undang-undang dasar keselamatan kerja di Indonesia."
+    },
+    {
+        "id": 51,
+        "category": "Regulasi K3",
+        "question": "[Soal 26] Peraturan Menteri Ketenagakerjaan yang mengatur tentang Tata Cara Penunjukan Kewajiban dan Wewenang Ahli K3 adalah...",
+        "options": {
+            "A": "Permenaker No. 02/MEN/1992",
+            "B": "Permenaker No. 04/MEN/1987",
+            "C": "Permenaker No. 05/MEN/1996",
+            "D": "Permenaker No. 12/MEN/2015"
+        },
+        "correct_option": "A",
+        "explanation": "Permenaker 02/1992 mengatur penunjukan dan wewenang Ahli K3 Umum."
+    },
+    {
+        "id": 52,
+        "category": "Regulasi K3",
+        "question": "[Soal 27] Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) di Indonesia diatur secara spesifik dalam...",
+        "options": {
+            "A": "Peraturan Pemerintah No. 50 Tahun 2012",
+            "B": "Permenaker No. 01/1980",
+            "C": "Kepmenaker No. 187/1999",
+            "D": "Permenaker No. 08/2020"
+        },
+        "correct_option": "A",
+        "explanation": "PP No. 50 Tahun 2012 adalah dasar hukum penerapan SMK3 wajib di tempat kerja."
+    },
+    {
+        "id": 53,
+        "category": "Regulasi K3",
+        "question": "[Soal 28] Perusahaan wajib menerapkan SMK3 apabila mempekerjakan pekerja sekurang-kurangnya...",
+        "options": {
+            "A": "50 orang",
+            "B": "100 orang atau memiliki tingkat potensi bahaya tinggi",
+            "C": "200 orang",
+            "D": "500 orang"
+        },
+        "correct_option": "B",
+        "explanation": "Pasal 5 PP 50/2012 mewajibkan SMK3 bagi perusahaan dengan >=100 pekerja atau bahaya tinggi."
+    },
+    {
+        "id": 54,
+        "category": "Regulasi K3",
+        "question": "[Soal 29] Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3) diatur dalam peraturan ketenagakerjaan...",
+        "options": {
+            "A": "Permenaker No. 04/MEN/1987",
+            "B": "Permenaker No. 02/MEN/1992",
+            "C": "Permenaker No. 03/MEN/1998",
+            "D": "Permenaker No. 05/MEN/2018"
+        },
+        "correct_option": "A",
+        "explanation": "Permenaker 04/1987 menetapkan pembentukan P2K3 di perusahaan."
+    },
+    {
+        "id": 55,
+        "category": "Regulasi K3",
+        "question": "[Soal 30] Sekretaris P2K3 di tempat kerja wajib dijabat oleh...",
+        "options": {
+            "A": "Direktur Utama",
+            "B": "Manajer HRD",
+            "C": "Ahli K3 Umum bersertifikat",
+            "D": "Ketiga Serikat Pekerja"
+        },
+        "correct_option": "C",
+        "explanation": "Pasal 3 Permenaker 04/1987 mewajibkan Sekretaris P2K3 dijabat oleh Ahli K3."
+    },
+    {
+        "id": 56,
+        "category": "Manajemen Risiko",
+        "question": "[Soal 31] Proses mengidentifikasi bahaya, menilai risiko, dan menentukan tindakan pengendalian disebut...",
+        "options": {
+            "A": "JSA (Job Safety Analysis)",
+            "B": "HIRADC / IBPR",
+            "C": "HAZOP",
+            "D": "LOTO"
+        },
+        "correct_option": "B",
+        "explanation": "HIRADC (Hazard Identification Risk Assessment and Determining Control) / IBPR."
+    },
+    {
+        "id": 57,
+        "category": "Manajemen Risiko",
+        "question": "[Soal 32] Hierarki pengendalian risiko K3 yang menempati urutan pertama (paling efektif) adalah...",
+        "options": {
+            "A": "Pengendalian Rekayasa Teknik",
+            "B": "Eliminasi",
+            "C": "Substitusi",
+            "D": "Alat Pelindung Diri (APD)"
+        },
+        "correct_option": "B",
+        "explanation": "Eliminasi menghilangkan bahaya dari sumbernya secara total."
+    },
+    {
+        "id": 58,
+        "category": "Manajemen Risiko",
+        "question": "[Soal 33] Penggantian bahan kimia beracun dengan bahan yang lebih aman termasuk dalam hirarki pengendalian...",
+        "options": {
+            "A": "Eliminasi",
+            "B": "Substitusi",
+            "C": "Engineering Control",
+            "D": "Administratif"
+        },
+        "correct_option": "B",
+        "explanation": "Substitusi mengganti bahan/alat berbahaya dengan alternatif yang lebih aman."
+    },
+    {
+        "id": 59,
+        "category": "Manajemen Risiko",
+        "question": "[Soal 34] Analisis keselamatan pekerjaan yang berfokus pada langkah-langkah tugas spesifik dinamakan...",
+        "options": {
+            "A": "Job Safety Analysis (JSA)",
+            "B": "Safety Audit",
+            "C": "Safety Inspection",
+            "D": "Safety Meeting"
+        },
+        "correct_option": "A",
+        "explanation": "JSA memecah pekerjaan menjadi urutan langkah untuk mengidentifikasi bahaya tiap langkah."
+    },
+    {
+        "id": 60,
+        "category": "K3 Listrik",
+        "question": "[Soal 35] Persyaratan Umum Instalasi Listrik di Indonesia yang berlaku saat ini mengacu pada standar...",
+        "options": {
+            "A": "PUIL 1987",
+            "B": "PUIL 2000",
+            "C": "PUIL 2011 (SNI 0225:2011)",
+            "D": "NFPA 70"
+        },
+        "correct_option": "C",
+        "explanation": "PUIL 2011 disahkan melalui Kepmenaker No. 260/2012 & Permenaker 12/2015."
+    }
+]
