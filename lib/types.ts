@@ -75,9 +75,17 @@ export interface Location {
   path: string;
   is_physical: boolean;
   address: string | null;
-  intro: StructuredBlock[];
-  service_areas: string[];
   phone: string | null;
+  meta_title?: string;
+  meta_description?: string;
+  tagline?: string;
+  service_areas?: string[];
+  key_industries?: string[];
+  top_programs?: string[];
+  target_queries?: string[];
+  tuk_facilities?: string[];
+  intro: StructuredBlock[];
+  faqs?: Array<{ question: string; answer: string }>;
 }
 
 export interface ScheduleBatch {

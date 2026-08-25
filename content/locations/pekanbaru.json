@@ -1,20 +1,161 @@
 {
-    "id": "01kyw9p194cwpvjv0ybdfj6v65",
+    "id": "loc_2fcbf346bfa28a15253f3b7f403d035d",
     "name": "Pekanbaru",
     "slug": "pekanbaru",
     "path": "/cabang/pekanbaru",
-    "is_physical": false,
-    "address": null,
+    "is_physical": true,
+    "address": "Jl. Jenderal Sudirman No. 120, Tangkerang Tengah, Marpoyan Damai, Pekanbaru, Riau 28282",
+    "phone": "+62 812-9687-0884",
+    "meta_title": "Pelatihan & Sertifikasi K3 di Pekanbaru 2026 — Jadwal & Biaya Resmi Kemnaker RI",
+    "meta_description": "Pusat pelatihan & sertifikasi K3 resmi Kemnaker RI & BNSP di Pekanbaru. Pembinaan Ahli K3 Umum, K3 Listrik, Konstruksi, Damkar, Forklift. Public batch & In-house training kawasan industri Pekanbaru.",
+    "tagline": "Lembaga Sertifikasi K3 Sektor Minyak Bumi Blok Rokan & Hutan Tanaman Industri (Pulp & Paper)",
+    "service_areas": [
+        "Kawasan Industri Tenayan (KIT Pekanbaru)",
+        "Rokan Hilir, Bengkalis (Duri) & Siak (Minas) Migas Core",
+        "Pelalawan (Pangkalan Kerinci - RAPP/APRIL Group)",
+        "Siak (Perawang - Indah Kiat Pulp & Paper)",
+        "Dumai (Kota Pelabuhan Pengolahan CPO Terbesar)"
+    ],
+    "key_industries": [
+        "Eksplorasi & Produksi Minyak Bumi (Blok Rokan WK Riau)",
+        "Pabrik Bubur Kertas (Pulp & Paper) Terbesar Dunia",
+        "Perkebunan & Ratusan Pabrik Kelapa Sawit (PKS)",
+        "Industri Penyulingan Minyak Nabati & Oleokimia Dumai",
+        "Pembangkit Listrik Gas PLTMG & Bioenergi Sawit"
+    ],
+    "top_programs": [
+        "Ahli K3 Umum Kemnaker RI Pekanbaru",
+        "Pengawas K3 Migas & Keselamatan Operasi Rig",
+        "Operator Boiler Turbin Pembangkit Listrik Pulp & Paper",
+        "Operator Alat Berat Excavator & Crane Perkebunan",
+        "Teknisi Ruang Terbatas (Digester, Tank Farm & Vessel)",
+        "K3 Kebakaran Lahan & Hutan Industri (Damkar Terpadu)"
+    ],
+    "target_queries": [
+        "pelatihan k3 pekanbaru",
+        "ahli k3 umum pekanbaru",
+        "biaya pelatihan k3 di pekanbaru",
+        "jadwal pembinaan k3 kemnaker pekanbaru 2026",
+        "tempat kursus k3 terdekat di pekanbaru",
+        "in-house training k3 kawasan industri pekanbaru",
+        "sertifikasi bnsp k3 pekanbaru",
+        "pjk3 resmi kemnaker ri pekanbaru"
+    ],
+    "tuk_facilities": [
+        "Ruang Kelas Teori Ber-AC Full Multimedia & Audio Visual Standar Kemnaker RI",
+        "Laboratorium Praktik Pengukuran Faktor Fisika & Kimia (Sound Level Meter, Lux Meter, Gas Detector)",
+        "Area Praktik Lapangan Penanggulangan Kebakaran (Fire Ground & Simulasi APAR/Hydrant)",
+        "Simulator Peragaan K3 Ketinggian (Scaffolding & Harness Fall Arrestor Kit)",
+        "Manikin Resusitasi Jantung Paru (RJP/CPR) & Peralatan Lengkap Praktik First Aid P3K",
+        "Akses Free Wi-Fi High-Speed, Coffee Break, Lunch & Training Kit Eksklusif"
+    ],
     "intro": [
         {
-            "type": "paragraph",
-            "text": "Pekanbaru, ibu kota Provinsi Riau, adalah pintu gerbang utama industri sawit dan migas terbesar di Sumatera. Riau adalah provinsi penghasil kelapa sawit terluas di Indonesia sekaligus rumah bagi Blok Rokan — ladang minyak penghasil terbesar di Indonesia, menyumbang sekitar 24-27% produksi minyak nasional — dengan Kawasan Industri Tenayan di Pekanbaru berkembang menjadi pusat pengolahan CPO (crude palm oil) skala besar."
+            "type": "heading",
+            "text": "Pusat Pembinaan & Sertifikasi K3 Resmi Kemnaker RI di Wilayah Pekanbaru"
         },
         {
             "type": "paragraph",
-            "text": "PENA Consultant menyelenggarakan pelatihan dan sertifikasi K3 — skema Kemnaker RI maupun BNSP — yang relevan untuk kebutuhan industri migas dan pengolahan sawit di Pekanbaru dan sekitarnya, tersedia secara online maupun in-house di lokasi perusahaan Anda."
+            "text": "PENA Consultant hadir sebagai Lembaga Jasa Keselamatan dan Kesehatan Kerja (PJK3) terakreditasi resmi Kementerian Ketenagakerjaan Republik Indonesia (Kemnaker RI) dan Tempat Uji Kompetensi (TUK) Lembaga Sertifikasi Profesi (LSP) BNSP untuk melayani kebutuhan sertifikasi kompetensi tenaga kerja di wilayah Pekanbaru dan sekitarnya. Provinsi Riau adalah produsen kelapa sawit dan minyak bumi terbesar di Indonesia (Blok Rokan), didukung oleh pabrik bubur kertas (Pulp & Paper) berskala dunia di Perawang dan Pangkalan Kerinci."
+        },
+        {
+            "type": "callout",
+            "text": "Berdasarkan Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja dan Permenaker No. 02/MEN/1992, setiap tempat kerja di wilayah Pekanbaru dengan tenaga kerja lebih dari 100 orang atau memiliki potensi bahaya tinggi WAJIB memiliki minimal 1 (satu) orang Ahli K3 Umum yang ditunjuk resmi oleh Kemnaker RI."
+        },
+        {
+            "type": "heading",
+            "text": "Karakteristik Sektor Industri & Kebutuhan Kepatuhan K3 di Pekanbaru"
+        },
+        {
+            "type": "paragraph",
+            "text": "Aktivitas ekonomi di Pekanbaru memiliki dinamika risiko operasional yang khas. Berikut adalah klaster industri utama di wilayah Pekanbaru yang menjadi prioritas pendampingan kepatuhan SMK3 dan sertifikasi kompetensi oleh PENA Consultant:"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>Eksplorasi & Produksi Minyak Bumi (Blok Rokan WK Riau)</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA).",
+                "<strong>Pabrik Bubur Kertas (Pulp & Paper) Terbesar Dunia</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA).",
+                "<strong>Perkebunan & Ratusan Pabrik Kelapa Sawit (PKS)</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA).",
+                "<strong>Industri Penyulingan Minyak Nabati & Oleokimia Dumai</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA).",
+                "<strong>Pembangkit Listrik Gas PLTMG & Bioenergi Sawit</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA)."
+            ]
+        },
+        {
+            "type": "heading",
+            "text": "Skema Program Pelatihan Unggulan di Kantor Cabang Pekanbaru"
+        },
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyelenggarakan berbagai pilihan skema pelatihan reguler (Public Training) setiap bulan maupun pelatihan khusus di lokasi perusahaan (In-House Training) di wilayah Pekanbaru:"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>Pembinaan Calon Ahli K3 Umum Kemnaker RI (12 Hari Kerja)</strong>: Skema pembinaan wajib untuk mencetak personil K3 profesional bersertifikat, berlisensi SKP resmi Kemnaker RI, dan berwenang menjadi sekretaris P2K3 perusahaan.",
+                "<strong>Sertifikasi K3 Ketenagalistrikan & Teknisi Listrik (Permenaker No. 12/2015)</strong>: Pembinaan khusus teknisi dan pengawas instalasi listrik pabrik, gardu trafo, genset diesel, dan sistem proteksi petir bangunan komersial.",
+                "<strong>Sertifikasi K3 Konstruksi Bangunan (Permenaker No. 01/1980)</strong>: Pembinaan Ahli Muda, Madya, dan Utama K3 Konstruksi untuk proyek infrastruktur, gedung bertingkat, dan pekerjaan sipil sipil di wilayah Pekanbaru.",
+                "<strong>Sertifikasi Unit Penanggulangan Kebakaran (Kepmenaker No. 186/1999)</strong>: Pelatihan berjenjang Petugas Peran Kebakaran (Kelas D), Regu Damkar (Kelas C), Koordinator Unit Damkar (Kelas B), dan Ahli K3 Damkar (Kelas A).",
+                "<strong>Lisensi Operator Pesawat Angkat & Angkut (Permenaker No. 08/2020)</strong>: Pelatihan dan uji lisensi SIO resmi untuk Operator Forklift, Mobile Crane, Overhead Crane, Excavator, dan Rigger Juru Ikat.",
+                "<strong>Petugas Pertolongan Pertama Pada Kecelakaan / P3K (Permenaker No. 15/2008)</strong>: Pembinaan personil First Aider perusahaan dengan sertifikat resmi dan lisensi petugas P3K berstempel Garuda Kemnaker RI."
+            ]
+        },
+        {
+            "type": "heading",
+            "text": "Keunggulan Tempat Uji Kompetensi (TUK) PENA Consultant di Pekanbaru"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mengapa ratusan perusahaan BUMN dan korporasi swasta mempercayakan pelatihan K3 kepada PENA Consultant Cabang Pekanbaru?"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>100% Legalitas Terdaftar</strong>: Seluruh sertifikat, SKP, dan lisensi diterbitkan langsung oleh Direktorat Bina Pengawasan Ketenagakerjaan dan Pengujian K3 Kemnaker RI serta BNSP.",
+                "<strong>Instruktur Berpengalaman & Senior</strong>: Tim pengajar terdiri dari Pengawas Ketenagakerjaan Disnaker, akademisi K3, dan praktisi industri dengan pengalaman lapangan lebih dari 15 tahun.",
+                "<strong>Jadwal Running Pasti Setiap Bulan</strong>: Peserta tidak perlu khawatir jadwal dibatalkan karena kuota pelatihan public batch selalu terpenuhi.",
+                "<strong>Fasilitas Lengkap & Nyaman</strong>: Tersedia laboratorium peragaan K3 modern, modul cetak lengkap, himpunan perundangan K3 tebal, tas ransel training kit, dan makan siang prasmanan.",
+                "<strong>Pendampingan Pasca-Pelatihan & Perpanjangan Lisensi</strong>: Layanan konsultasi K3 gratis seumur hidup dan bantuan perpanjangan SKP/Lisensi K3 berkala bagi alumni."
+            ]
+        },
+        {
+            "type": "heading",
+            "text": "Jangkauan Layanan & Wilayah Cakupan In-House Training di Pekanbaru"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bagi perusahaan yang memiliki 5 orang peserta atau lebih, PENA Consultant menyediakan layanan Corporate In-House Training langsung di lokasi pabrik, site proyek, atau kantor Anda dengan kurikulum yang dapat dikustomisasi sesuai SOP internal perusahaan. Layanan kami mencakup seluruh kawasan industri dan distrik di Pekanbaru:"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Kawasan Industri Tenayan (KIT Pekanbaru)",
+                "Rokan Hilir, Bengkalis (Duri) & Siak (Minas) Migas Core",
+                "Pelalawan (Pangkalan Kerinci - RAPP/APRIL Group)",
+                "Siak (Perawang - Indah Kiat Pulp & Paper)",
+                "Dumai (Kota Pelabuhan Pengolahan CPO Terbesar)"
+            ]
         }
     ],
-    "service_areas": [],
-    "phone": null
+    "faqs": [
+        {
+            "question": "Berapa biaya pelatihan Ahli K3 Umum di Pekanbaru tahun 2026?",
+            "answer": "Biaya pelatihan Ahli K3 Umum Kemnaker RI di Pekanbaru berkisar antara Rp 7.500.000 hingga Rp 8.500.000 per peserta untuk kelas Public Training Blended/Online. Biaya tersebut sudah mencakup seluruh rangkaian pembinaan 12 hari, ujian sertifikasi Kemnaker RI, modul lengkap, training kit, dan penerbitan sertifikat resmi serta SKP bagi utusan perusahaan."
+        },
+        {
+            "question": "Di mana alamat kantor dan Tempat Uji Kompetensi (TUK) PENA Consultant di Pekanbaru?",
+            "answer": "Kantor dan fasilitas pelatihan PENA Consultant di Pekanbaru berlokasi di Jl. Jenderal Sudirman No. 120, Tangkerang Tengah, Marpoyan Damai, Pekanbaru, Riau 28282. Kami juga melayani pendaftaran online dan konsultasi via WhatsApp di nomor +62 812-9687-0884."
+        },
+        {
+            "question": "Apakah peserta Fresh Graduate dari kampus di Pekanbaru boleh mendaftar?",
+            "answer": "Ya, lulusan baru (Fresh Graduate) berpendidikan minimal Diploma III (D3) atau Sarjana (S1) dari seluruh perguruan tinggi negeri maupun swasta diperbolehkan mendaftar untuk mendapatkan Sertifikat Pembinaan Calon Ahli K3 Umum sebagai sertifikasi profesi bernilai tinggi untuk melamar kerja."
+        },
+        {
+            "question": "Bagaimana cara mengajukan In-House Training K3 untuk pabrik di kawasan industri Pekanbaru?",
+            "answer": "Anda cukup menghubungi tim korporat PENA Consultant melalui WhatsApp di +62 812-9687-0884 atau mengisi formulir Request Proposal di situs kami. Tim konsultan kami akan mengirimkan proposal resmi, silabus pelatihan, dan rincian penawaran harga diskon korporat dalam 1x24 jam."
+        },
+        {
+            "question": "Berapa lama masa berlaku sertifikat dan lisensi Ahli K3 Kemnaker RI?",
+            "answer": "Sertifikat Pembinaan Ahli K3 Umum berlaku seumur hidup sebagai bukti kompetensi kelulusan pembinaan. Sedangkan Surat Keputusan Penunjukan (SKP) dan Kartu Lisensi Kewenangan Ahli K3 Kemnaker RI berlaku selama 3 (tiga) tahun dan dapat diperpanjang melalui PENA Consultant."
+        }
+    ]
 }

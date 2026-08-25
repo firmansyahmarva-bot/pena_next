@@ -1,20 +1,161 @@
 {
-    "id": "01kyw9p1c3qz6mtj62v1ym8bha",
+    "id": "loc_99ca0e5a540c93f3a8df442007158cc9",
     "name": "Batam",
     "slug": "batam",
     "path": "/cabang/batam",
-    "is_physical": false,
-    "address": null,
+    "is_physical": true,
+    "address": "Komplek Ruko Batamindo Industrial Park, Mukakuning, Sei Beduk, Kota Batam, Kepulauan Riau 29433",
+    "phone": "+62 812-9687-0884",
+    "meta_title": "Pelatihan & Sertifikasi K3 di Batam 2026 — Jadwal & Biaya Resmi Kemnaker RI",
+    "meta_description": "Pusat pelatihan & sertifikasi K3 resmi Kemnaker RI & BNSP di Batam. Pembinaan Ahli K3 Umum, K3 Listrik, Konstruksi, Damkar, Forklift. Public batch & In-house training kawasan industri Batam.",
+    "tagline": "Pusat Sertifikasi K3 Sektor Galangan Kapal (Shipyard), Manufaktur Elektronika & Migas Batam",
+    "service_areas": [
+        "Batamindo Industrial Park (Mukakuning)",
+        "Batu Ampar & Tanjung Uncang Shipyard Zone",
+        "Kabil Integrated Industrial Estate (KIIE)",
+        "Panbil Industrial Estate & Tunas Batam Centre",
+        "Nongsa Digital Park & Sei Lekop Fabrication"
+    ],
+    "key_industries": [
+        "Shipbuilding, Ship Repair & Marine Fabrication",
+        "Manufaktur Presisi Elektronika & Semikonduktor",
+        "Offshore Oil & Gas Platform Construction",
+        "Fabrikasi Struktur Baja & Pipa Bawah Laut",
+        "Logistik Internasional & Transshipment Selat Malaka"
+    ],
+    "top_programs": [
+        "Welding Inspector & Ahli Las K3 Bersertifikat",
+        "Bekerja Pada Ketinggian (TKPK & TKBT Level 1-2)",
+        "Teknisi Ruang Terbatas (Confined Space Entry & Rescue)",
+        "Operator Overhead Crane, Gantry & Rigger Maritim",
+        "Ahli K3 Umum Kemnaker RI Kelas Batam FTZ",
+        "Internal Auditor ISO 45001 & ISO 14001:2015"
+    ],
+    "target_queries": [
+        "pelatihan k3 batam",
+        "ahli k3 umum batam",
+        "biaya pelatihan k3 di batam",
+        "jadwal pembinaan k3 kemnaker batam 2026",
+        "tempat kursus k3 terdekat di batam",
+        "in-house training k3 kawasan industri batam",
+        "sertifikasi bnsp k3 batam",
+        "pjk3 resmi kemnaker ri batam"
+    ],
+    "tuk_facilities": [
+        "Ruang Kelas Teori Ber-AC Full Multimedia & Audio Visual Standar Kemnaker RI",
+        "Laboratorium Praktik Pengukuran Faktor Fisika & Kimia (Sound Level Meter, Lux Meter, Gas Detector)",
+        "Area Praktik Lapangan Penanggulangan Kebakaran (Fire Ground & Simulasi APAR/Hydrant)",
+        "Simulator Peragaan K3 Ketinggian (Scaffolding & Harness Fall Arrestor Kit)",
+        "Manikin Resusitasi Jantung Paru (RJP/CPR) & Peralatan Lengkap Praktik First Aid P3K",
+        "Akses Free Wi-Fi High-Speed, Coffee Break, Lunch & Training Kit Eksklusif"
+    ],
     "intro": [
         {
-            "type": "paragraph",
-            "text": "Batam, sebagai kawasan perdagangan bebas (FTZ) yang berbatasan langsung dengan Singapura, adalah salah satu basis industri elektronik, galangan kapal, dan fabrikasi lepas pantai (offshore) terbesar di Indonesia. Sektor industri kota ini berkembang sejak dekade 1970-an dari galangan kapal dan perminyakan lepas pantai, hingga berdirinya Batamindo Industrial Park (Muka Kuning) pada 1990 sebagai kawasan industri elektronik pertama dan terbesar di Batam."
+            "type": "heading",
+            "text": "Pusat Pembinaan & Sertifikasi K3 Resmi Kemnaker RI di Wilayah Batam"
         },
         {
             "type": "paragraph",
-            "text": "PENA Consultant menyelenggarakan pelatihan dan sertifikasi K3 yang relevan untuk kebutuhan industri elektronik, galangan kapal, dan fabrikasi lepas pantai di Batam dan sekitarnya — skema Kemnaker RI maupun BNSP, tersedia online maupun in-house."
+            "text": "PENA Consultant hadir sebagai Lembaga Jasa Keselamatan dan Kesehatan Kerja (PJK3) terakreditasi resmi Kementerian Ketenagakerjaan Republik Indonesia (Kemnaker RI) dan Tempat Uji Kompetensi (TUK) Lembaga Sertifikasi Profesi (LSP) BNSP untuk melayani kebutuhan sertifikasi kompetensi tenaga kerja di wilayah Batam dan sekitarnya. Zona Perdagangan Bebas (FTZ) Batam adalah pusat manufaktur elektronika global, fabrikasi rig minyak offshore, galangan perbaikan kapal internasional, serta hub logistik lintas selat Singapura."
+        },
+        {
+            "type": "callout",
+            "text": "Berdasarkan Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja dan Permenaker No. 02/MEN/1992, setiap tempat kerja di wilayah Batam dengan tenaga kerja lebih dari 100 orang atau memiliki potensi bahaya tinggi WAJIB memiliki minimal 1 (satu) orang Ahli K3 Umum yang ditunjuk resmi oleh Kemnaker RI."
+        },
+        {
+            "type": "heading",
+            "text": "Karakteristik Sektor Industri & Kebutuhan Kepatuhan K3 di Batam"
+        },
+        {
+            "type": "paragraph",
+            "text": "Aktivitas ekonomi di Batam memiliki dinamika risiko operasional yang khas. Berikut adalah klaster industri utama di wilayah Batam yang menjadi prioritas pendampingan kepatuhan SMK3 dan sertifikasi kompetensi oleh PENA Consultant:"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>Shipbuilding, Ship Repair & Marine Fabrication</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA).",
+                "<strong>Manufaktur Presisi Elektronika & Semikonduktor</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA).",
+                "<strong>Offshore Oil & Gas Platform Construction</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA).",
+                "<strong>Fabrikasi Struktur Baja & Pipa Bawah Laut</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA).",
+                "<strong>Logistik Internasional & Transshipment Selat Malaka</strong>: Memerlukan kepatuhan regulasi K3 spesifik, penunjukan personil berlisensi resmi (SIA/SIO), audit berkala SMK3 PP 50/2012, dan penyusunan dokumen identifikasi bahaya serta penilaian risiko (HIRADC/JSA)."
+            ]
+        },
+        {
+            "type": "heading",
+            "text": "Skema Program Pelatihan Unggulan di Kantor Cabang Batam"
+        },
+        {
+            "type": "paragraph",
+            "text": "PENA Consultant menyelenggarakan berbagai pilihan skema pelatihan reguler (Public Training) setiap bulan maupun pelatihan khusus di lokasi perusahaan (In-House Training) di wilayah Batam:"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>Pembinaan Calon Ahli K3 Umum Kemnaker RI (12 Hari Kerja)</strong>: Skema pembinaan wajib untuk mencetak personil K3 profesional bersertifikat, berlisensi SKP resmi Kemnaker RI, dan berwenang menjadi sekretaris P2K3 perusahaan.",
+                "<strong>Sertifikasi K3 Ketenagalistrikan & Teknisi Listrik (Permenaker No. 12/2015)</strong>: Pembinaan khusus teknisi dan pengawas instalasi listrik pabrik, gardu trafo, genset diesel, dan sistem proteksi petir bangunan komersial.",
+                "<strong>Sertifikasi K3 Konstruksi Bangunan (Permenaker No. 01/1980)</strong>: Pembinaan Ahli Muda, Madya, dan Utama K3 Konstruksi untuk proyek infrastruktur, gedung bertingkat, dan pekerjaan sipil sipil di wilayah Batam.",
+                "<strong>Sertifikasi Unit Penanggulangan Kebakaran (Kepmenaker No. 186/1999)</strong>: Pelatihan berjenjang Petugas Peran Kebakaran (Kelas D), Regu Damkar (Kelas C), Koordinator Unit Damkar (Kelas B), dan Ahli K3 Damkar (Kelas A).",
+                "<strong>Lisensi Operator Pesawat Angkat & Angkut (Permenaker No. 08/2020)</strong>: Pelatihan dan uji lisensi SIO resmi untuk Operator Forklift, Mobile Crane, Overhead Crane, Excavator, dan Rigger Juru Ikat.",
+                "<strong>Petugas Pertolongan Pertama Pada Kecelakaan / P3K (Permenaker No. 15/2008)</strong>: Pembinaan personil First Aider perusahaan dengan sertifikat resmi dan lisensi petugas P3K berstempel Garuda Kemnaker RI."
+            ]
+        },
+        {
+            "type": "heading",
+            "text": "Keunggulan Tempat Uji Kompetensi (TUK) PENA Consultant di Batam"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mengapa ratusan perusahaan BUMN dan korporasi swasta mempercayakan pelatihan K3 kepada PENA Consultant Cabang Batam?"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>100% Legalitas Terdaftar</strong>: Seluruh sertifikat, SKP, dan lisensi diterbitkan langsung oleh Direktorat Bina Pengawasan Ketenagakerjaan dan Pengujian K3 Kemnaker RI serta BNSP.",
+                "<strong>Instruktur Berpengalaman & Senior</strong>: Tim pengajar terdiri dari Pengawas Ketenagakerjaan Disnaker, akademisi K3, dan praktisi industri dengan pengalaman lapangan lebih dari 15 tahun.",
+                "<strong>Jadwal Running Pasti Setiap Bulan</strong>: Peserta tidak perlu khawatir jadwal dibatalkan karena kuota pelatihan public batch selalu terpenuhi.",
+                "<strong>Fasilitas Lengkap & Nyaman</strong>: Tersedia laboratorium peragaan K3 modern, modul cetak lengkap, himpunan perundangan K3 tebal, tas ransel training kit, dan makan siang prasmanan.",
+                "<strong>Pendampingan Pasca-Pelatihan & Perpanjangan Lisensi</strong>: Layanan konsultasi K3 gratis seumur hidup dan bantuan perpanjangan SKP/Lisensi K3 berkala bagi alumni."
+            ]
+        },
+        {
+            "type": "heading",
+            "text": "Jangkauan Layanan & Wilayah Cakupan In-House Training di Batam"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bagi perusahaan yang memiliki 5 orang peserta atau lebih, PENA Consultant menyediakan layanan Corporate In-House Training langsung di lokasi pabrik, site proyek, atau kantor Anda dengan kurikulum yang dapat dikustomisasi sesuai SOP internal perusahaan. Layanan kami mencakup seluruh kawasan industri dan distrik di Batam:"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Batamindo Industrial Park (Mukakuning)",
+                "Batu Ampar & Tanjung Uncang Shipyard Zone",
+                "Kabil Integrated Industrial Estate (KIIE)",
+                "Panbil Industrial Estate & Tunas Batam Centre",
+                "Nongsa Digital Park & Sei Lekop Fabrication"
+            ]
         }
     ],
-    "service_areas": [],
-    "phone": null
+    "faqs": [
+        {
+            "question": "Berapa biaya pelatihan Ahli K3 Umum di Batam tahun 2026?",
+            "answer": "Biaya pelatihan Ahli K3 Umum Kemnaker RI di Batam berkisar antara Rp 7.500.000 hingga Rp 8.500.000 per peserta untuk kelas Public Training Blended/Online. Biaya tersebut sudah mencakup seluruh rangkaian pembinaan 12 hari, ujian sertifikasi Kemnaker RI, modul lengkap, training kit, dan penerbitan sertifikat resmi serta SKP bagi utusan perusahaan."
+        },
+        {
+            "question": "Di mana alamat kantor dan Tempat Uji Kompetensi (TUK) PENA Consultant di Batam?",
+            "answer": "Kantor dan fasilitas pelatihan PENA Consultant di Batam berlokasi di Komplek Ruko Batamindo Industrial Park, Mukakuning, Sei Beduk, Kota Batam, Kepulauan Riau 29433. Kami juga melayani pendaftaran online dan konsultasi via WhatsApp di nomor +62 812-9687-0884."
+        },
+        {
+            "question": "Apakah peserta Fresh Graduate dari kampus di Batam boleh mendaftar?",
+            "answer": "Ya, lulusan baru (Fresh Graduate) berpendidikan minimal Diploma III (D3) atau Sarjana (S1) dari seluruh perguruan tinggi negeri maupun swasta diperbolehkan mendaftar untuk mendapatkan Sertifikat Pembinaan Calon Ahli K3 Umum sebagai sertifikasi profesi bernilai tinggi untuk melamar kerja."
+        },
+        {
+            "question": "Bagaimana cara mengajukan In-House Training K3 untuk pabrik di kawasan industri Batam?",
+            "answer": "Anda cukup menghubungi tim korporat PENA Consultant melalui WhatsApp di +62 812-9687-0884 atau mengisi formulir Request Proposal di situs kami. Tim konsultan kami akan mengirimkan proposal resmi, silabus pelatihan, dan rincian penawaran harga diskon korporat dalam 1x24 jam."
+        },
+        {
+            "question": "Berapa lama masa berlaku sertifikat dan lisensi Ahli K3 Kemnaker RI?",
+            "answer": "Sertifikat Pembinaan Ahli K3 Umum berlaku seumur hidup sebagai bukti kompetensi kelulusan pembinaan. Sedangkan Surat Keputusan Penunjukan (SKP) dan Kartu Lisensi Kewenangan Ahli K3 Kemnaker RI berlaku selama 3 (tiga) tahun dan dapat diperpanjang melalui PENA Consultant."
+        }
+    ]
 }
