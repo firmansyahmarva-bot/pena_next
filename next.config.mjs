@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
+  staticPageGenerationTimeout: 300,
   images: {
     unoptimized: true,
   },
@@ -14,6 +15,46 @@ const nextConfig = {
       {
         source: '/tryout',
         destination: '/pelatihan/ahli-k3-umum/tryout',
+        permanent: true,
+      },
+      {
+        source: '/klien',
+        destination: '/mitra',
+        permanent: true,
+      },
+      {
+        source: '/pelatihan-inhouse',
+        destination: '/pelatihan',
+        permanent: true,
+      },
+      {
+        source: '/pelatihan-online',
+        destination: '/webinar',
+        permanent: true,
+      },
+      {
+        source: '/sertifikasi-bnsp',
+        destination: '/pelatihan',
+        permanent: true,
+      },
+      {
+        source: '/sertifikasi-kemnaker',
+        destination: '/pelatihan',
+        permanent: true,
+      },
+      {
+        source: '/konsultasi',
+        destination: '/pelatihan',
+        permanent: true,
+      },
+      {
+        source: '/konsultasi/:slug*',
+        destination: '/pelatihan',
+        permanent: true,
+      },
+      {
+        source: '/faq/:slug*',
+        destination: '/faq',
         permanent: true,
       },
       // Article / Blog Legacy Paths -> /panduan/:slug
@@ -46,6 +87,11 @@ const nextConfig = {
       {
         source: '/kursus/:slug*',
         destination: '/pelatihan/:slug*',
+        permanent: true,
+      },
+      {
+        source: '/layanan',
+        destination: '/pelatihan',
         permanent: true,
       },
       {

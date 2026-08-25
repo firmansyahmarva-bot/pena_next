@@ -1,5 +1,8 @@
 import { MetadataRoute } from 'next';
 import { getPrograms, getArticles, getLocations, getIndustries, getBatches } from '@/lib/data';
+import instructorsData from '@/content/global/instructors.json';
+import mitraData from '@/content/global/mitra.json';
+import caseStudiesData from '@/content/global/case_studies.json';
 
 const CLUSTERS = ['smk3', 'karier-k3', 'sertifikasi-k3', 'k3-teknis', 'regulasi-k3'];
 
@@ -19,6 +22,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${baseUrl}/jadwal`, lastModified: now, changeFrequency: 'daily', priority: 0.8 },
     { url: `${baseUrl}/cabang`, lastModified: now, changeFrequency: 'weekly', priority: 0.8 },
     { url: `${baseUrl}/industri`, lastModified: now, changeFrequency: 'weekly', priority: 0.8 },
+    { url: `${baseUrl}/instruktur`, lastModified: now, changeFrequency: 'weekly', priority: 0.7 },
+    { url: `${baseUrl}/mitra`, lastModified: now, changeFrequency: 'weekly', priority: 0.7 },
+    { url: `${baseUrl}/studi-kasus`, lastModified: now, changeFrequency: 'weekly', priority: 0.7 },
+    { url: `${baseUrl}/tentang`, lastModified: now, changeFrequency: 'monthly', priority: 0.6 },
+    { url: `${baseUrl}/kebijakan-privasi`, lastModified: now, changeFrequency: 'monthly', priority: 0.5 },
     { url: `${baseUrl}/faq`, lastModified: now, changeFrequency: 'monthly', priority: 0.6 },
     { url: `${baseUrl}/kontak`, lastModified: now, changeFrequency: 'monthly', priority: 0.6 },
   ];
@@ -43,14 +51,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const articleRoutes: MetadataRoute.Sitemap = [];
   getArticles().forEach((a) => {
     const cSlug = a.cluster?.slug || 'regulasi-k3';
-    // 2-level path (historical indexed): /panduan/[cluster]/[slug]
     articleRoutes.push({
       url: `${baseUrl}/panduan/${cSlug}/${a.slug}`,
       lastModified: a.published_at || now,
       changeFrequency: 'weekly',
       priority: 0.8,
     });
-    // 1-level path: /panduan/[slug]
     articleRoutes.push({
       url: `${baseUrl}/panduan/${a.slug}`,
       lastModified: a.published_at || now,
@@ -83,6 +89,30 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
+  // Instructors
+  const instructorRoutes: MetadataRoute.Sitemap = (instructorsData as any[]).map((inst) => ({
+    url: `${baseUrl}/instruktur/${inst.slug}`,
+    lastModified: now,
+    changeFrequency: 'monthly',
+    priority: 0.6,
+  }));
+
+  // Mitra (Corporate Clients)
+  const mitraRoutes: MetadataRoute.Sitemap = (mitraData as any[]).map((m) => ({
+    url: `${baseUrl}/mitra/${m.slug}`,
+    lastModified: now,
+    changeFrequency: 'monthly',
+    priority: 0.6,
+  }));
+
+  // Case Studies
+  const caseStudyRoutes: MetadataRoute.Sitemap = (caseStudiesData as any[]).map((cs) => ({
+    url: `${baseUrl}/studi-kasus/${cs.slug}`,
+    lastModified: now,
+    changeFrequency: 'monthly',
+    priority: 0.6,
+  }));
+
   return [
     ...staticRoutes,
     ...clusterRoutes,
@@ -91,5 +121,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...locationRoutes,
     ...industryRoutes,
     ...batchRoutes,
+    ...instructorRoutes,
+    ...mitraRoutes,
+    ...caseStudyRoutes,
   ];
 }
