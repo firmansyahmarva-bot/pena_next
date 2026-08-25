@@ -40,8 +40,11 @@ Mohon dapat dikirimkan surat penawaran resmi (RFQ). Terima kasih.`;
       <form onSubmit={handleSubmit} className="space-y-4 text-xs sm:text-sm">
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div>
-            <label className="block text-slate-300 font-semibold mb-1">Nama Perusahaan / Instansi</label>
+            <label htmlFor="quote-company" className="block text-slate-300 font-semibold mb-1">
+              Nama Perusahaan / Instansi <span className="text-red-400">*</span>
+            </label>
             <input
+              id="quote-company"
               type="text"
               required
               placeholder="Contoh: PT Sumber Makmur"
@@ -51,8 +54,11 @@ Mohon dapat dikirimkan surat penawaran resmi (RFQ). Terima kasih.`;
             />
           </div>
           <div>
-            <label className="block text-slate-300 font-semibold mb-1">Nama PIC / Jabatan</label>
+            <label htmlFor="quote-pic" className="block text-slate-300 font-semibold mb-1">
+              Nama PIC / Jabatan <span className="text-red-400">*</span>
+            </label>
             <input
+              id="quote-pic"
               type="text"
               required
               placeholder="Contoh: Budi Santoso (HR Manager)"
@@ -65,8 +71,11 @@ Mohon dapat dikirimkan surat penawaran resmi (RFQ). Terima kasih.`;
 
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
           <div>
-            <label className="block text-slate-300 font-semibold mb-1">Program Pelatihan</label>
+            <label htmlFor="quote-program" className="block text-slate-300 font-semibold mb-1">
+              Program Pelatihan <span className="text-red-400">*</span>
+            </label>
             <input
+              id="quote-program"
               type="text"
               required
               value={selectedProgram}
@@ -75,8 +84,11 @@ Mohon dapat dikirimkan surat penawaran resmi (RFQ). Terima kasih.`;
             />
           </div>
           <div>
-            <label className="block text-slate-300 font-semibold mb-1">Estimasi Peserta</label>
+            <label htmlFor="quote-participants" className="block text-slate-300 font-semibold mb-1">
+              Estimasi Peserta
+            </label>
             <select
+              id="quote-participants"
               value={participants}
               onChange={(e) => setParticipants(e.target.value)}
               className="w-full bg-slate-800/90 border border-slate-700 rounded-lg px-3.5 py-2.5 text-white focus:outline-none focus:border-emerald-400"
@@ -88,8 +100,11 @@ Mohon dapat dikirimkan surat penawaran resmi (RFQ). Terima kasih.`;
             </select>
           </div>
           <div>
-            <label className="block text-slate-300 font-semibold mb-1">Rencana Lokasi</label>
+            <label htmlFor="quote-location" className="block text-slate-300 font-semibold mb-1">
+              Rencana Lokasi
+            </label>
             <select
+              id="quote-location"
               value={location}
               onChange={(e) => setLocation(e.target.value)}
               className="w-full bg-slate-800/90 border border-slate-700 rounded-lg px-3.5 py-2.5 text-white focus:outline-none focus:border-emerald-400"
