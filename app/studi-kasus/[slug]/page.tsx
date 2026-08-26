@@ -17,6 +17,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const cs = (caseStudiesData as any[]).find((item) => item.slug === slug);
   if (!cs) return {};
   return {
+    alternates: {
+      canonical: `https://penaconsultant.com/studi-kasus/${slug}`,
+    },
     title: `${cs.title} — Studi Kasus K3`,
     description: cs.summary || `Studi kasus implementasi K3 industri di PENA Consultant.`,
   };

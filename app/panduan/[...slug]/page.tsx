@@ -42,7 +42,10 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (slug.length === 1 && CLUSTERS[slug[0]]) {
     const clusterName = CLUSTERS[slug[0]];
     return {
-      title: `Panduan ${clusterName} 2026 — Kumpulan Artikel & Regulasi K3`,
+      alternates: {
+      canonical: `https://penaconsultant.com/panduan/${slug.join('/')}`,
+    },
+    title: `Panduan ${clusterName} 2026 — Kumpulan Artikel & Regulasi K3`,
       description: `Kumpulan panduan lengkap ${clusterName}. Pelajari dasar hukum, syarat sertifikasi Kemnaker RI, implementasi di tempat kerja, dan tips audit SMK3.`,
     };
   }
@@ -53,6 +56,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!article) return {};
 
   return {
+    alternates: {
+      canonical: `https://penaconsultant.com/panduan/${article.slug}`,
+    },
     title: article.meta_title || `${article.title} — Panduan Resmi K3 2026`,
     description: article.meta_description || article.summary || '',
   };

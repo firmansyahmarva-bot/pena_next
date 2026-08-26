@@ -6,6 +6,9 @@ import mitraData from '@/content/global/mitra.json';
 import { BreadcrumbJsonLd } from '@/components/JsonLd';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: 'https://penaconsultant.com/mitra',
+  },
   title: 'Mitra & Klien Korporasi — PENA Consultant',
   description: 'Daftar perusahaan BUMN, multinasional, dan kontraktor nasional yang mempercayakan pelatihan K3 dan sertifikasi tenaga kerja kepada PENA Consultant.',
 };

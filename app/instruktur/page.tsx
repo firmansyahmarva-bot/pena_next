@@ -6,6 +6,9 @@ import instructorsData from '@/content/global/instructors.json';
 import { BreadcrumbJsonLd } from '@/components/JsonLd';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: 'https://penaconsultant.com/instruktur',
+  },
   title: 'Dewan Instruktur & Asesor K3 Senior — PENA Consultant',
   description: 'Profil instruktur, praktisi HSE, dan asesor kompetensi BNSP di PENA Consultant dengan pengalaman lebih dari 15+ tahun di industri migas, manufaktur, & konstruksi.',
 };

@@ -5,6 +5,9 @@ import OfferingCard from '@/components/OfferingCard';
 import { Shield } from 'lucide-react';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: 'https://penaconsultant.com/pelatihan',
+  },
   title: 'Katalog Program Pelatihan & Sertifikasi K3 Resmi Kemnaker RI & BNSP',
   description: 'Daftar lengkap 70+ program pelatihan dan sertifikasi K3 resmi di Indonesia. Ahli K3 Umum, K3 Listrik, Konstruksi, Kebakaran, Ruang Terbatas, Alat Berat & BNSP.',
 };

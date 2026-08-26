@@ -5,6 +5,9 @@ import { getArticles } from '@/lib/data';
 import { BookOpen } from 'lucide-react';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: 'https://penaconsultant.com/panduan',
+  },
   title: 'Direktori Panduan, Regulasi & Keselamatan Kerja K3 Terlengkap 2026',
   description: 'Pusat referensi dan edukasi keselamatan kerja: UU No 1 1970, SMK3 PP 50 2012, syarat sertifikasi K3, prosedur teknis, dan tips ujian.',
 };

@@ -4,6 +4,9 @@ import { Phone, Mail, MapPin, Shield } from 'lucide-react';
 import { getWaLink } from '@/lib/data';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: 'https://penaconsultant.com/kontak',
+  },
   title: 'Kontak & Layanan Konsultasi K3 — PENA Consultant',
   description: 'Hubungi tim konsultan K3 PENA Consultant untuk pendaftaran pelatihan, permintaan proposal in-house training, dan konsultasi kepatuhan SMK3.',
 };

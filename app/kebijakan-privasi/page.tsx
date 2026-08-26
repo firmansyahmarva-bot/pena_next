@@ -2,6 +2,9 @@ import React from 'react';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: 'https://penaconsultant.com/kebijakan-privasi',
+  },
   title: 'Kebijakan Privasi — PENA Consultant',
   description: 'Kebijakan privasi perlindungan data pribadi peserta dan klien PT PENA Consultant.',
 };

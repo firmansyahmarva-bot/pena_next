@@ -6,6 +6,9 @@ import caseStudiesData from '@/content/global/case_studies.json';
 import { BreadcrumbJsonLd } from '@/components/JsonLd';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: 'https://penaconsultant.com/studi-kasus',
+  },
   title: 'Studi Kasus Implementasi K3 Industri — PENA Consultant',
   description: 'Studi kasus nyata penerapan Sistem Manajemen K3 (SMK3 PP 50/2012), penanganan gas beracun H2S, dan audit K3 di berbagai industri nasional.',
 };

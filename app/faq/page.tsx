@@ -4,6 +4,9 @@ import { getFaqs, getWaLink } from '@/lib/data';
 import { HelpCircle } from 'lucide-react';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: 'https://penaconsultant.com/faq',
+  },
   title: 'Tanya Jawab (FAQ) Pelatihan & Sertifikasi K3 — PENA Consultant',
   description: 'Jawaban atas pertanyaan umum seputar syarat pendaftaran Ahli K3, keaslian sertifikat Kemnaker/BNSP, metode online vs offline, dan in-house training.',
 };

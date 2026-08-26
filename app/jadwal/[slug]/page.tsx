@@ -14,6 +14,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const batch = getBatchBySlug(slug);
   if (!batch) return {};
   return {
+    alternates: {
+      canonical: `https://penaconsultant.com/jadwal/${slug}`,
+    },
     title: `Jadwal ${batch.offering_name} Batch ${batch.batch_number} — PENA Consultant`,
     description: `Pendaftaran batch ${batch.offering_name} tanggal ${batch.start_date}. Pembinaan resmi Kemnaker RI/BNSP, biaya & fasilitas lengkap.`,
   };

@@ -17,6 +17,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const m = (mitraData as any[]).find((item) => item.slug === slug);
   if (!m) return {};
   return {
+    alternates: {
+      canonical: `https://penaconsultant.com/mitra/${slug}`,
+    },
     title: `Pelatihan K3 untuk ${m.name} — PENA Consultant`,
     description: `Program pembinaan keselamatan kerja, sertifikasi Kemnaker RI & BNSP, dan in-house training untuk karyawan ${m.name}.`,
   };

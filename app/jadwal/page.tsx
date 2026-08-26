@@ -5,6 +5,9 @@ import { Calendar, Shield, MapPin, ArrowRight } from 'lucide-react';
 import { getBatches, getWaLink } from '@/lib/data';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: 'https://penaconsultant.com/jadwal',
+  },
   title: 'Jadwal Pelatihan & Sertifikasi K3 Batch 2026 — PENA Consultant',
   description: 'Kalender jadwal pembinaan K3 resmi Kemnaker RI & BNSP tahun 2026: Ahli K3 Umum, K3 Listrik, Konstruksi, Damkar, Ruang Terbatas, Forklift & Crane.',
 };

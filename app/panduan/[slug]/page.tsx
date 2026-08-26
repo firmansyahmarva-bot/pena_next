@@ -17,6 +17,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!article) return {};
 
   return {
+    alternates: {
+      canonical: `https://penaconsultant.com/panduan/${slug}`,
+    },
     title: article.meta_title || `${article.title} — Panduan Resmi K3 2026`,
     description: article.meta_description || article.summary || '',
   };

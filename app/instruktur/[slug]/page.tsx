@@ -18,6 +18,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const inst = (instructorsData as any[]).find((i) => i.slug === slug);
   if (!inst) return {};
   return {
+    alternates: {
+      canonical: `https://penaconsultant.com/instruktur/${slug}`,
+    },
     title: `Profil ${inst.name} — Instruktur K3 PENA Consultant`,
     description: `Profil profesional ${inst.name}, instruktur dan praktisi keselamatan kerja senior di PT PENA Consultant.`,
   };

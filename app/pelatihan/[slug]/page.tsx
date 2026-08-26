@@ -22,6 +22,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!program) return {};
 
   return {
+    alternates: {
+      canonical: `https://penaconsultant.com/pelatihan/${slug}`,
+    },
     title: `Pelatihan & Sertifikasi ${program.name} 2026 — Jadwal & Biaya Resmi`,
     description: program.meta_description || program.summary || `Pusat pembinaan dan sertifikasi resmi ${program.name} Kemnaker RI & BNSP. Jadwal batch 2026, biaya terjangkau, modul lengkap, fasilitas uji kompetensi, dan jaminan kelulusan.`,
     keywords: [

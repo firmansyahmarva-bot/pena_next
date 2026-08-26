@@ -20,9 +20,6 @@ export const metadata: Metadata = {
   },
   description: 'Lembaga pembinaan, sertifikasi profesi K3 resmi Kemnaker RI & BNSP di Indonesia. Jadwal batch 2026, Tempat Uji Kompetensi resmi, materi lengkap & garansi kelulusan.',
   metadataBase: new URL('https://penaconsultant.com'),
-  alternates: {
-    canonical: 'https://penaconsultant.com',
-  },
   openGraph: {
     title: 'PENA Consultant — Pusat Pelatihan & Sertifikasi K3 Resmi Kemnaker RI & BNSP',
     description: 'Pusat pembinaan sertifikasi K3 resmi Kemnaker RI & BNSP. Public online, TUK offline di 23 kota, dan in-house training korporat.',

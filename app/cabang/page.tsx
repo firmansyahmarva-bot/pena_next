@@ -5,6 +5,9 @@ import { MapPin, Phone } from 'lucide-react';
 import { getLocations } from '@/lib/data';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: 'https://penaconsultant.com/cabang',
+  },
   title: 'Lokasi Cabang & Tempat Uji Kompetensi (TUK) K3 di Indonesia',
   description: 'Jaringan Tempat Uji Kompetensi (TUK) K3 resmi PENA Consultant di Yogyakarta, DKI Jakarta, Surabaya, Balikpapan, dan kota industri lainnya.',
 };

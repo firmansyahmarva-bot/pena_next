@@ -4,6 +4,9 @@ import Link from 'next/link';
 import { Shield, Award, Users, CheckCircle2 } from 'lucide-react';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: 'https://penaconsultant.com/tentang',
+  },
   title: 'Tentang PENA Consultant — Lembaga PJK3 & TUK BNSP Resmi',
   description: 'Profil PT PENA Consultant, Perusahaan Jasa Keselamatan dan Kesehatan Kerja (PJK3) terakreditasi resmi Kemnaker RI dan Tempat Uji Kompetensi (TUK) LSP BNSP.',
 };

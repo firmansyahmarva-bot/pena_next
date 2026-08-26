@@ -21,6 +21,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!loc) return {};
 
   return {
+    alternates: {
+      canonical: `https://penaconsultant.com/cabang/${slug}`,
+    },
     title: loc.meta_title || `Pelatihan & Sertifikasi K3 di ${loc.name} 2026 — Jadwal & Biaya Resmi`,
     description: loc.meta_description || `Pusat pembinaan sertifikasi K3 resmi Kemnaker RI & BNSP di ${loc.name}. Layanan public batch, TUK mandiri, dan in-house training korporasi di seluruh kawasan industri ${loc.name}.`,
     keywords: [

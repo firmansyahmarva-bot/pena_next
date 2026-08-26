@@ -5,6 +5,9 @@ import { Building2 } from 'lucide-react';
 import { getIndustries } from '@/lib/data';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: 'https://penaconsultant.com/industri',
+  },
   title: 'Solusi K3 Sektoral per Industri — PENA Consultant',
   description: 'Panduan kepatuhan K3, regulasi spesifik, dan program sertifikasi resmi untuk sektor Konstruksi, Migas, Manufaktur, Pertambangan, dan Rumah Sakit.',
 };

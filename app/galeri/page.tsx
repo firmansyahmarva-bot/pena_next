@@ -5,6 +5,9 @@ import { Camera, Shield, Users, Award, MapPin } from 'lucide-react';
 import { getPrograms } from '@/lib/data';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: 'https://penaconsultant.com/galeri',
+  },
   title: 'Galeri Dokumentasi Pelatihan K3 — PENA Consultant',
   description: 'Dokumentasi foto dan video pelaksanaan pembinaan sertifikasi K3 resmi Kemnaker RI & BNSP di berbagai Tempat Uji Kompetensi (TUK) dan perusahaan mitra.',
 };

@@ -18,6 +18,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const industry = getIndustryBySlug(slug);
   if (!industry) return {};
   return {
+    alternates: {
+      canonical: `https://penaconsultant.com/industri/${slug}`,
+    },
     title: industry.meta_title || `Solusi K3 Sektor ${industry.name} 2026 — Pelatihan & Sertifikasi Resmi`,
     description: industry.meta_description || industry.description || '',
   };
