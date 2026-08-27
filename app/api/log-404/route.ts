@@ -12,17 +12,23 @@ interface LogEntry {
   user_agents: string[];
 }
 
-// In-memory persistent cache for serverless invocation lifecycle
-const inMemoryLogs: Map<string, LogEntry> = new Map();
+// In-memory global store for persistent server runtime
+const globalLogs: Map<string, LogEntry> = new Map();
 
-// Local file storage path (works in dev & local server)
 const getLogFilePath = () => {
-  const tmpPath = process.env.VERCEL ? '/tmp/404_audit_logs.json' : path.join(process.cwd(), '404_audit_logs.json');
-  return tmpPath;
+  const dir = path.join(process.cwd(), 'logs');
+  if (!fs.existsSync(dir)) {
+    try {
+      fs.mkdirSync(dir, { recursive: true });
+    } catch {
+      // ignore
+    }
+  }
+  return path.join(dir, '404_audit_logs.json');
 };
 
-const loadFileLogs = (): Map<string, LogEntry> => {
-  const map = new Map<string, LogEntry>(inMemoryLogs);
+const loadLogs = (): Map<string, LogEntry> => {
+  const map = new Map<string, LogEntry>(globalLogs);
   try {
     const file = getLogFilePath();
     if (fs.existsSync(file)) {
@@ -30,25 +36,25 @@ const loadFileLogs = (): Map<string, LogEntry> => {
       const data: LogEntry[] = JSON.parse(raw);
       data.forEach((item) => map.set(item.path, item));
     }
-  } catch (err) {
-    // ignore read error
+  } catch {
+    // ignore
   }
   return map;
 };
 
-const saveFileLogs = (map: Map<string, LogEntry>) => {
+const saveLogs = (map: Map<string, LogEntry>) => {
   try {
     const file = getLogFilePath();
     const data = Array.from(map.values());
     fs.writeFileSync(file, JSON.stringify(data, null, 2), 'utf8');
-  } catch (err) {
-    // ignore write error
+  } catch {
+    // ignore in read-only environment
   }
 };
 
 export async function POST(req: NextRequest) {
   try {
-    let body: { path?: string; referrer?: string; userAgent?: string } = {};
+    let body: { path?: string; referrer?: string; userAgent?: string; timestamp?: string } = {};
     const contentType = req.headers.get('content-type') || '';
     
     if (contentType.includes('application/json')) {
@@ -65,10 +71,9 @@ export async function POST(req: NextRequest) {
     const missingPath = body.path || req.nextUrl.searchParams.get('path') || 'unknown';
     const referrer = body.referrer || req.headers.get('referer') || 'direct';
     const userAgent = body.userAgent || req.headers.get('user-agent') || 'unknown';
-    const now = new Date().toISOString();
+    const now = body.timestamp || new Date().toISOString();
 
-    // Load existing
-    const logs = loadFileLogs();
+    const logs = loadLogs();
     const existing = logs.get(missingPath);
 
     if (existing) {
@@ -77,7 +82,7 @@ export async function POST(req: NextRequest) {
       if (!existing.referrers.includes(referrer)) existing.referrers.push(referrer);
       if (!existing.user_agents.includes(userAgent)) existing.user_agents.push(userAgent);
       logs.set(missingPath, existing);
-      inMemoryLogs.set(missingPath, existing);
+      globalLogs.set(missingPath, existing);
     } else {
       const newEntry: LogEntry = {
         path: missingPath,
@@ -87,38 +92,29 @@ export async function POST(req: NextRequest) {
         user_agents: [userAgent],
       };
       logs.set(missingPath, newEntry);
-      inMemoryLogs.set(missingPath, newEntry);
+      globalLogs.set(missingPath, newEntry);
     }
 
-    saveFileLogs(logs);
+    saveLogs(logs);
 
-    // Structured server log for Vercel / CloudWatch / Datadog
-    console.log(`[404_DETECTED] Path: "${missingPath}" | Hits: ${logs.get(missingPath)?.hits} | Referrer: "${referrer}" | Time: ${now}`);
+    // Explicit high-visibility stdout for log aggregation tools (Vercel, Datadog, CloudWatch)
+    console.warn(`[404_AUDIT_LOG] Missing: "${missingPath}" | Hits: ${logs.get(missingPath)?.hits} | Referrer: "${referrer}" | Time: ${now}`);
 
-    return NextResponse.json({ status: 'ok', recorded_path: missingPath }, { status: 200 });
+    return NextResponse.json({ status: 'ok', recorded: missingPath }, { status: 200 });
   } catch (error) {
-    console.error('Error recording 404 log:', error);
+    console.error('Error logging 404:', error);
     return NextResponse.json({ status: 'error' }, { status: 500 });
   }
 }
 
 export async function GET() {
-  const logs = loadFileLogs();
+  const logs = loadLogs();
   const list = Array.from(logs.values()).sort((a, b) => b.hits - a.hits);
-
-  // Generate copy-paste ready Next.js redirect code
-  const redirectSuggestions = list.map((item) => ({
-    source: item.path,
-    destination: '/pelatihan', // default fallback
-    permanent: true,
-    hits: item.hits,
-  }));
 
   return NextResponse.json({
     total_unique_404_paths: list.length,
     total_404_hits: list.reduce((sum, item) => sum + item.hits, 0),
     logs: list,
-    nextjs_redirect_suggestions: redirectSuggestions,
   }, {
     headers: {
       'Cache-Control': 'no-store, max-age=0',

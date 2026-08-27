@@ -1,6 +1,6 @@
 import React from 'react';
 import type { Metadata } from 'next';
-import { notFound } from 'next/navigation';
+import { notFound, permanentRedirect } from 'next/navigation';
 import Link from 'next/link';
 import { 
   Shield, Clock, Award, CheckCircle2, ArrowRight, BookOpen, AlertTriangle, 
@@ -58,7 +58,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 export default async function ProgramPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const program = getProgramBySlug(slug);
-  if (!program) notFound();
+  if (!program) { permanentRedirect('/pelatihan'); }
 
   const isKemnaker = program.certification_body === 'kemnaker';
   const isBnsp = program.certification_body === 'bnsp';

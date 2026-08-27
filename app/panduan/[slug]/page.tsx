@@ -1,6 +1,6 @@
 import React from 'react';
 import type { Metadata } from 'next';
-import { notFound } from 'next/navigation';
+import { notFound, permanentRedirect } from 'next/navigation';
 import Link from 'next/link';
 import { Shield, BookOpen, UserCheck, Calendar, ExternalLink, ArrowRight, CheckCircle2, Award, FileText } from 'lucide-react';
 import { getArticles, getArticleBySlug, getPrograms, getProgramBySlug, getWaLink } from '@/lib/data';
@@ -47,7 +47,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 export default async function ArticlePage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const article = getArticleBySlug(slug);
-  if (!article) notFound();
+  if (!article) { permanentRedirect('/panduan'); }
 
   const relatedProgram = article.related_offering_slug ? getProgramBySlug(article.related_offering_slug) : null;
   const clusterArticles = getArticles().filter(a => a.cluster?.slug === article.cluster?.slug && a.slug !== article.slug).slice(0, 4);
