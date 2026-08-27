@@ -4,6 +4,8 @@ import './globals.css';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import FloatingWhatsApp from '@/components/FloatingWhatsApp';
+import GoogleAnalytics from '@/components/GoogleAnalytics';
+import { Suspense } from 'react';
 import { OrganizationJsonLd, WebSiteJsonLd, DefinedTermSetJsonLd } from '@/components/JsonLd';
 
 const fontSans = Plus_Jakarta_Sans({
@@ -71,6 +73,7 @@ export default function RootLayout({
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
       </head>
       <body className="min-h-screen flex flex-col bg-slate-50 text-slate-900 font-sans antialiased selection:bg-primary-500 selection:text-white">
+        <Suspense fallback={null}><GoogleAnalytics /></Suspense>
         <OrganizationJsonLd />
         <WebSiteJsonLd />
         <DefinedTermSetJsonLd />
