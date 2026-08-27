@@ -1,0 +1,112 @@
+{
+    "id": "01kz_prog_013_crane_2",
+    "type": "training",
+    "name": "Operator Crane Kelas 2 (Kapasitas 25 - 100 Ton)",
+    "slug": "operator-crane-kelas-2",
+    "path": "/pelatihan/operator-crane-kelas-2",
+    "title": "Pelatihan & Sertifikasi Operator Crane Kelas 2 Kemnaker RI",
+    "meta_title": "Pelatihan Operator Crane Kelas 2 (25 - 100 Ton) Kemnaker RI 2026",
+    "meta_description": "Sertifikasi Lisensi K3 Operator Crane Kelas 2 kapasitas 25 ton sampai 100 ton resmi Kemnaker RI sesuai Permenaker No. 8/2020. Mobile crane & overhead crane.",
+    "summary": "Program sertifikasi Kemnaker RI untuk operator crane kategori menengah (kapasitas 25 sampai 100 ton) di sektor manufaktur, pergudangan, dan konstruksi.",
+    "certification_body": "kemnaker",
+    "base_price": 5500000,
+    "duration": "3 Hari Pembinaan & Uji Praktik",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Permenaker No. 8 Tahun 2020 tentang K3 Pesawat Angkat dan Pesawat Angkut."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Mempersiapkan operator crane kelas 2 yang kompeten dalam mengoperasikan crane kapasitas 25 - 100 ton dengan kepatuhan penuh terhadap SOP keselamatan."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Memahami komponen mekanik, elektrik, dan hidrolik crane.",
+                "Menghitung kapasitas angkat berdasarkan radius dan panjang boom.",
+                "Mengidentifikasi kerusakan sling, hook, dan drum penggulung tali baja.",
+                "Meraih Lisensi K3 & SIO Operator Crane Kelas 2 Kemnaker RI."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Materi Pembinaan Crane Kelas 2"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Regulasi K3 Pesawat Angkat dan Angkut (Permenaker 8/2020).",
+                "Karakteristik Crane Kapasitas 25 - 100 Ton.",
+                "Pengoperasian Indikator Keselamatan & LMI.",
+                "Pemeriksaan Harian & Perawatan Berkala Crane.",
+                "Praktik Manuver & Evaluasi Pengangkatan Beban."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Pendidikan minimal SMP/SMA sederajat.",
+                "Sehat jasmani dan rohani."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan KTP, Ijazah, Surat Keterangan Sehat.",
+                "Pasfoto 3x4 formal background merah."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Pembinaan & Lisensi K3 Crane Kelas 2 Kemnaker RI.",
+                "Buku Kerja Operator Crane.",
+                "Modul Pelatihan & Training Kit."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Hubungi Customer Service PENA Consultant di 0812-9687-0884."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-013.webp",
+        "alt_text": "Pelatihan Operator Crane Kelas 2 Kemnaker RI",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_cr2_01",
+            "slug": "crane-kelas-2-batch-09",
+            "batch_number": "09",
+            "start_date": "2026-10-06",
+            "end_date": "2026-10-08",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 6500000,
+            "promo_price": 5500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}

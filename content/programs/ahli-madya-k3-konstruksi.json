@@ -1,0 +1,116 @@
+{
+    "id": "01kz_prog_017_ahli_madya_konstruksi",
+    "type": "training",
+    "name": "Ahli Madya K3 Konstruksi (Jenjang 8)",
+    "slug": "ahli-madya-k3-konstruksi",
+    "path": "/pelatihan/ahli-madya-k3-konstruksi",
+    "title": "Sertifikasi Ahli Madya K3 Konstruksi BNSP / Kemnaker RI",
+    "meta_title": "Sertifikasi Ahli Madya K3 Konstruksi BNSP & SKK Konstruksi 2026",
+    "meta_description": "Pelatihan dan uji kompetensi Ahli Madya K3 Konstruksi Jenjang 8 BNSP / Kemnaker RI. Persyaratan tender proyek skala besar & pengawasan SMKK.",
+    "summary": "Sertifikasi kompetensi tingkat madya bagi Manajer HSE dan Lead Safety Engineer proyek infrastruktur skala besar dalam mengendalikan risiko konstruksi tinggi.",
+    "certification_body": "bnsp",
+    "base_price": 7500000,
+    "duration": "4 Hari Pelatihan & Asesmen Uji Kompetensi",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "UU No. 2 Tahun 2017 tentang Jasa Konstruksi."
+        },
+        {
+            "type": "paragraph",
+            "text": "Permen PUPR No. 10 Tahun 2021 tentang Pedoman Sistem Manajemen Keselamatan Konstruksi (SMKK)."
+        },
+        {
+            "type": "paragraph",
+            "text": "SKKNI K3 Konstruksi."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Membekali profesional HSE konstruksi dengan kompetensi evaluasi dokumen SMKK, audit risiko konstruksi kompleks, dan kepemimpinan keselamatan proyek."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Merancang dan mengevaluasi Rencana Keselamatan Konstruksi (RKK) Proyek Multinasional.",
+                "Melakukan audit kepatuhan SMKK dan investigasi insiden konstruksi fatal.",
+                "Menilai biaya keselamatan konstruksi dalam penawaran tender (HSE Costing).",
+                "Meraih Sertifikat Kompetensi BNSP Ahli Madya K3 Konstruksi."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Unit Kompetensi Ahli Madya K3 Konstruksi"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Menerapkan Komunikasi K3 di Tempat Kerja Konstruksi.",
+                "Menyusun Rencana Keselamatan Konstruksi (RKK).",
+                "Mengawasi Pelaksanaan Pengendalian Risiko K3 Konstruksi.",
+                "Melakukan Evaluasi Kinerja K3 Konstruksi & Audit Internal SMKK.",
+                "Menyusun Rekomendasi Peningkatan Kinerja Keselamatan Konstruksi."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Pendidikan S1 Teknik (pengalaman kerja K3 konstruksi minimal 3 tahun) ATAU D3 Teknik (pengalaman 5 tahun).",
+                "Portofolio dokumen RKK, JSA proyek, atau laporan audit SMKK."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "KTP, Ijazah S1/D3 Teknik, SKK/Sertifikat K3 sebelumnya.",
+                "Surat Keterangan Pengalaman Kerja di Proyek Konstruksi."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Kompetensi BNSP Ahli Madya K3 Konstruksi (Logo Garuda Emas).",
+                "Sertifikat Pelatihan dari PENA Consultant.",
+                "Bimbingan Asesmen Portofolio bersama Asesor BNSP."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Daftar via WhatsApp di 0812-9687-0884."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-017.webp",
+        "alt_text": "Sertifikasi Ahli Madya K3 Konstruksi BNSP",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_amk_01",
+            "slug": "ahli-madya-konstruksi-batch-06",
+            "batch_number": "06",
+            "start_date": "2026-11-09",
+            "end_date": "2026-11-12",
+            "is_online": true,
+            "mode": "online",
+            "normal_price": 8500000,
+            "promo_price": 7500000,
+            "location_name": "Online Zoom",
+            "availability": "available"
+        }
+    ]
+}

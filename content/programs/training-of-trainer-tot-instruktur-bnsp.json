@@ -1,0 +1,114 @@
+{
+    "id": "01kz_prog_019_tot_bnsp",
+    "type": "training",
+    "name": "Training of Trainer (TOT) Instruktur BNSP Level 3 & 4",
+    "slug": "training-of-trainer-tot-instruktur-bnsp",
+    "path": "/pelatihan/training-of-trainer-tot-instruktur-bnsp",
+    "title": "Pelatihan & Sertifikasi TOT (Training of Trainer) BNSP",
+    "meta_title": "Sertifikasi TOT BNSP (Training of Trainer Instruktur) 2026",
+    "meta_description": "Pelatihan dan uji sertifikasi Training of Trainer (TOT) Instruktur / Trainer BNSP sesuai SKKNI Metodologi Pelatihan Kerja Kepmenaker No. 333/2020.",
+    "summary": "Sertifikasi resmi BNSP untuk praktisi trainer, instruktur internal korporat, konsultan, dan dosen dalam menguasai metodologi pelatihan kerja berbasis kompetensi.",
+    "certification_body": "bnsp",
+    "base_price": 4500000,
+    "duration": "3 Hari (Workshop Metodologi & Micro-teaching Asesmen BNSP)",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang No. 13 Tahun 2003 tentang Ketenagakerjaan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Kepmenaker No. 333 Tahun 2020 tentang SKKNI Metodologi Pelatihan Kerja."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Mempersiapkan instruktur profesional yang mampu mendesain kurikulum pelatihan, menyusun Session Plan, mengelola kelas interaktif, dan melakukan evaluasi pembelajaran."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Menyusun Rencana Sesi Pembelajaran (Session Plan) & Lembar Kerja Pelatihan.",
+                "Menerapkan teknik presentasi dan fasilitasi kelas yang dinamis (Active Learning).",
+                "Melaksanakan Micro-teaching di hadapan Master Asesor BNSP.",
+                "Meraih Sertifikat Kompetensi BNSP Instruktur / Trainer Metodologi Pelatihan."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Unit Kompetensi Metodologi Pelatihan BNSP"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Menerapkan Prinsip Keselamatan dan Kesehatan Kerja (K3) di Lembaga Pelatihan.",
+                "Menentukan Kebutuhan Pelatihan Individu / Korporasi (Training Needs Analysis).",
+                "Menyusun Program Pelatihan Kerja Berbasis Kompetensi.",
+                "Mendesain Media Pembelajaran Interaktif (Slide, Video, Alat Peraga).",
+                "Memfasilitasi Proses Pembelajaran (Delivery Training) & Micro-teaching.",
+                "Mengevaluasi Efektivitas Pelaksanaan Program Pelatihan."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Pendidikan minimal D3/S1 semua jurusan ATAU SMA/SMK dengan pengalaman mengajar/training minimal 2 tahun.",
+                "Menyiapkan slide presentasi dan materi untuk uji micro-teaching (15-20 menit)."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan KTP, Ijazah Terakhir, Surat Keterangan / Bukti Pengalaman Training.",
+                "Pasfoto 3x4 formal background merah."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Kompetensi BNSP Instruktur / Trainer (Garuda Emas).",
+                "Sertifikat Pelatihan dari PT PENA Consultant.",
+                "Bimbingan Pembuatan Session Plan & Coaching Micro-teaching."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Pilih batch TOT BNSP 2026.",
+                "Hubungi WhatsApp Official di 0812-9687-0884."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-019.webp",
+        "alt_text": "Sertifikasi TOT Instruktur Trainer BNSP",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_tot_01",
+            "slug": "tot-bnsp-batch-15",
+            "batch_number": "15",
+            "start_date": "2026-10-27",
+            "end_date": "2026-10-29",
+            "is_online": true,
+            "mode": "online",
+            "normal_price": 5500000,
+            "promo_price": 4500000,
+            "location_name": "Online Zoom",
+            "availability": "available"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "id": "01kz_prog_014_boiler_1",
+    "type": "training",
+    "name": "Operator Boiler Kelas 1 (Kapasitas > 10 Ton/Jam)",
+    "slug": "operator-boiler-kelas-1",
+    "path": "/pelatihan/operator-boiler-kelas-1",
+    "title": "Pelatihan & Sertifikasi Operator Boiler Kelas 1 Kemnaker RI",
+    "meta_title": "Pelatihan & Sertifikasi Operator Boiler Kelas 1 Kemnaker RI 2026",
+    "meta_description": "Sertifikasi Lisensi K3 Operator Boiler Kelas 1 kapasitas uap > 10 ton/jam resmi Kemnaker RI sesuai Permenaker No. 01/MEN/1988. Pengoperasian ketel uap industri.",
+    "summary": "Program sertifikasi resmi Kemnaker RI bagi operator ketel uap berkapasitas besar (> 10 ton steam/jam) di pembangkit listrik (PLTU), pabrik sawit, tekstil, dan industri proses kimia.",
+    "certification_body": "kemnaker",
+    "base_price": 6000000,
+    "duration": "4 Hari Pembinaan & Praktik Operasional Boiler",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang Uap Tahun 1930 & Peraturan Uap Tahun 1930."
+        },
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Permenaker No. 01/MEN/1988 tentang Kualifikasi dan Syarat-Syarat Operator Pesawat Uap."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Membekali operator boiler dengan keahlian pengoperasian ketel uap tekanan tinggi, water treatment, penanganan blowdown, dan pencegahan bahaya ledakan boiler."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Memahami siklus termodinamika steam, burner control, dan sistem pembakaran batubara/gas/biomassa.",
+                "Mengoperasikan Safety Valve, Water Level Indicator, Pressure Gauge, & Automatic Cut-off.",
+                "Melakukan Water Treatment & analisis kualitas air umpan boiler (Feedwater Quality Control).",
+                "Meraih Sertifikat Pembinaan, SIO, & Buku Kerja Operator Boiler Kelas 1 Kemnaker RI."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Kurikulum Pembinaan Operator Boiler Kelas 1"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Peraturan Perundangan K3 Pesawat Uap & Bejana Tekanan (UU Uap 1930 & Permenaker 01/1988).",
+                "Prinsip Kerja & Klasifikasi Ketel Uap (Water Tube Boiler & Fire Tube Boiler).",
+                "Perlengkapan Pengaman & Alat Ukur Ketel Uap.",
+                "Pengolahan Air Umpan Ketel & Pencegahan Kerak / Korosi.",
+                "Prosedur Start-up, Normal Running, Shutdown, & Emergency Shutdown.",
+                "Penyebab Ledakan Boiler & Tindakan Tanggap Darurat.",
+                "Praktik Operasional & Ujian Evaluasi Kemnaker RI."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Pendidikan minimal SMA/SMK jurusan Teknik/IPA.",
+                "Memiliki pengalaman mengoperasikan boiler minimal 2 tahun.",
+                "Sehat jasmani dan rohani."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan Ijazah Terakhir & KTP.",
+                "Surat Keterangan Pengalaman Kerja Operator Boiler.",
+                "Pasfoto 3x4 background merah formal."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat & Lisensi K3 (SIO) Operator Boiler Kelas 1 Kemnaker RI.",
+                "Buku Kerja Operator Pesawat Uap Resmi.",
+                "Modul Himpunan Peraturan Uap & Training Kit."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Pilih jadwal batch boiler 2026.",
+                "Daftar melalui WhatsApp 0812-9687-0884."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-014.webp",
+        "alt_text": "Pelatihan Operator Boiler Kelas 1 Kemnaker RI",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_bo1_01",
+            "slug": "boiler-kelas-1-batch-07",
+            "batch_number": "07",
+            "start_date": "2026-10-13",
+            "end_date": "2026-10-16",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 7000000,
+            "promo_price": 6000000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}

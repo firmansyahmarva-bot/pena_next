@@ -1,0 +1,120 @@
+{
+    "id": "01kz_prog_016_petugas_k3_konstruksi",
+    "type": "training",
+    "name": "Petugas K3 Konstruksi",
+    "slug": "petugas-k3-konstruksi",
+    "path": "/pelatihan/petugas-k3-konstruksi",
+    "title": "Pelatihan & Sertifikasi Petugas K3 Konstruksi Kemnaker RI",
+    "meta_title": "Pelatihan & Sertifikasi Petugas K3 Konstruksi Kemnaker RI 2026",
+    "meta_description": "Pembinaan resmi Petugas K3 Konstruksi Kemnaker RI sesuai Permenaker No. 01/MEN/1980. Pengawasan K3 pekerjaan sipil, gedung, jalan, dan jembatan.",
+    "summary": "Program sertifikasi resmi Kemnaker RI untuk pengawas lapangan K3 pada proyek konstruksi gedung, infrastruktur, jembatan, dan pekerjaan sipil.",
+    "certification_body": "kemnaker",
+    "base_price": 4800000,
+    "duration": "5 Hari Pembinaan Intensif",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Permenaker No. 01/MEN/1980 tentang K3 pada Konstruksi Bangunan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Surat Keputusan Bersama Menaker dan Menteri PU No. Kep. 174/MEN/1986 dan No. 104/KPTS/1986."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Membekali petugas K3 konstruksi dengan kemampuan identifikasi bahaya galian tanah, perancah, pekerjaan panas, lifting proyek, dan penyusunan Safety Plan Proyek."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Mampu menyusun Rencana Keselamatan Konstruksi (RKK / HSE Plan Proyek).",
+                "Mengawasi implementasi K3 pekerjaan penggalian, pondasi, struktur beton, dan baja.",
+                "Memimpin Toolbox Meeting harian dan inspeksi keselamatan rutin di lokasi proyek.",
+                "Meraih Sertifikat Pembinaan & Lisensi Petugas K3 Konstruksi Kemnaker RI."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Materi Pembinaan Petugas K3 Konstruksi"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Peraturan Perundangan K3 Konstruksi Bangunan (Permenaker 01/1980).",
+                "Dasar-Dasar K3 Konstruksi & Standar SMKK PUPR.",
+                "K3 Pekerjaan Tanah & Penggalian (Excavation Safety).",
+                "K3 Pekerjaan Perancah (Scaffolding Safety) & Formwork.",
+                "K3 Pekerjaan Pembongkaran (Demolition) & Pekerjaan Bawah Air.",
+                "K3 Alat Berat Proyek & Kelistrikan Sementara Proyek.",
+                "Penyusunan JSA Proyek & Ujian Evaluasi Kemnaker RI."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Pendidikan minimal SMA/SMK (diutamakan Teknik) atau D3/S1 semua jurusan.",
+                "Sehat jasmani dan rohani."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan KTP & Ijazah Terakhir.",
+                "Surat Keterangan Bekerja dari Perusahaan Konstruksi / Kontraktor.",
+                "Pasfoto 3x4 formal latar belakang merah."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Pembinaan & Lisensi K3 Konstruksi dari Kemnaker RI.",
+                "Sertifikat Pelatihan dari PT PENA Consultant.",
+                "Template Dokumen RKK & JSA Konstruksi Siap Pakai."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Pilih batch konstruksi 2026.",
+                "Hubungi WhatsApp 0812-9687-0884."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-016.webp",
+        "alt_text": "Pelatihan Petugas K3 Konstruksi Kemnaker RI",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_k3k_01",
+            "slug": "petugas-k3-konstruksi-batch-12",
+            "batch_number": "12",
+            "start_date": "2026-10-19",
+            "end_date": "2026-10-23",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 5800000,
+            "promo_price": 4800000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}

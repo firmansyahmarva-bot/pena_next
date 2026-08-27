@@ -1,0 +1,117 @@
+{
+    "id": "01kz_prog_018_pppa",
+    "type": "training",
+    "name": "Penanggung Jawab Pengendalian Pencemaran Air (PPPA)",
+    "slug": "penanggung-jawab-pengendalian-pencemaran-air-pppa",
+    "path": "/pelatihan/penanggung-jawab-pengendalian-pencemaran-air-pppa",
+    "title": "Pelatihan & Sertifikasi PPPA BNSP Pengendalian Air",
+    "meta_title": "Sertifikasi PPPA BNSP (Pengendalian Pencemaran Air) 2026",
+    "meta_description": "Pelatihan dan sertifikasi PPPA (Penanggung Jawab Pengendalian Pencemaran Air) bersertifikat BNSP sesuai PP No. 22/2021. Pengawasan baku mutu & pertek air limbah.",
+    "summary": "Sertifikasi resmi BNSP untuk manajer dan penanggung jawab teknis lingkungan industri dalam mengelola pemenuhan persetujuan teknis (Pertek) dan baku mutu pembuangan air limbah.",
+    "certification_body": "bnsp",
+    "base_price": 5500000,
+    "duration": "3 Hari Pelatihan & Asesmen Uji Kompetensi BNSP",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang No. 32 Tahun 2009 tentang PPLH."
+        },
+        {
+            "type": "paragraph",
+            "text": "PP No. 22 Tahun 2021 tentang Penyelenggaraan Perlindungan & Pengelolaan Lingkungan Hidup."
+        },
+        {
+            "type": "paragraph",
+            "text": "SKKNI Pengendalian Pencemaran Air."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Memastikan penanggung jawab lingkungan industri kompeten merancang sistem pengolahan air limbah, memantau debit pembuangan, dan mengelola pelaporan SIMPEL KLHK."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Mengidentifikasi sumber dan karakteristik air limbah industri.",
+                "Menentukan teknologi pengolahan air limbah yang tepat dan efisien.",
+                "Menyusun rencana pemantauan kualitas air limbah dan neraca air industri.",
+                "Meraih Sertifikat Kompetensi BNSP Skema PPPA."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Unit Kompetensi PPPA BNSP"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Mengidentifikasi Sumber Pencemaran Air Limbah.",
+                "Menentukan Karakteristik Sumber Pencemaran Air Limbah.",
+                "Menilai Efisiensi Pengolahan Air Limbah.",
+                "Menyusun Rencana Pemantauan Kualitas Air Limbah.",
+                "Mengidentifikasi Potensi Bahaya & Tanggap Darurat Pencemaran Air."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Pendidikan D3/S1 bidang terkait atau SMA/SMK dengan pengalaman kerja di bidang lingkungan minimal 2 tahun.",
+                "Portofolio laporan pemantauan kualitas air limbah industri."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "KTP, Ijazah, Surat Keterangan Bekerja.",
+                "Portofolio bukti kerja & Pasfoto 3x4."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Kompetensi BNSP Skema PPPA.",
+                "Sertifikat Pelatihan PENA Consultant.",
+                "Bimbingan Asesmen Pra-Uji Kompetensi."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Pilih batch PPPA 2026.",
+                "Daftar via WhatsApp di 0812-9687-0884."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-018.webp",
+        "alt_text": "Pelatihan PPPA Pengendalian Pencemaran Air BNSP",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_pppa_01",
+            "slug": "pppa-bnsp-batch-08",
+            "batch_number": "08",
+            "start_date": "2026-10-20",
+            "end_date": "2026-10-22",
+            "is_online": true,
+            "mode": "online",
+            "normal_price": 6500000,
+            "promo_price": 5500000,
+            "location_name": "Online Zoom",
+            "availability": "available"
+        }
+    ]
+}

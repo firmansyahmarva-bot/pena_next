@@ -1,0 +1,115 @@
+{
+    "id": "01kz_prog_012_crane_1",
+    "type": "training",
+    "name": "Operator Crane Kelas 1 (Kapasitas > 100 Ton)",
+    "slug": "operator-crane-kelas-1",
+    "path": "/pelatihan/operator-crane-kelas-1",
+    "title": "Pelatihan & Sertifikasi Operator Crane Kelas 1 Kemnaker RI",
+    "meta_title": "Pelatihan Operator Crane Kelas 1 Kemnaker RI 2026 — SIO > 100 Ton",
+    "meta_description": "Sertifikasi resmi Operator Crane Kelas 1 (Kapasitas > 100 Ton) Kemnaker RI sesuai Permenaker 8/2020. Mobile crane, crawler crane, dan tower crane.",
+    "summary": "Sertifikasi lisensi K3 tertinggi untuk operator mobile crane, crawler crane, dan tower crane berkapasitas di atas 100 ton pada proyek konstruksi, migas, dan industri berat.",
+    "certification_body": "kemnaker",
+    "base_price": 6500000,
+    "duration": "4 Hari Pembinaan & Praktik Uji Operasional",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Permenaker No. 8 Tahun 2020 tentang K3 Pesawat Angkat dan Pesawat Angkut (Pasal 140 - 146)."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Memastikan operator crane memiliki kompetensi pengoperasian crane tonase besar, analisis lifting plan kritis, ground bearing pressure, dan koordinasi rigging."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Menguasai Load Moment Indicator (LMI) dan pembacaan Load Chart multi-konfigurasi boom.",
+                "Menilai kondisi tanah dan penggunaan outrigger pad pada pengangkatan kritis (Critical Lift).",
+                "Menerapkan standar aba-aba tangan (Hand Signal) & komunikasi radio dengan Rigger.",
+                "Meraih Lisensi K3 & Buku Kerja Operator Crane Kelas 1 Kemnaker RI."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Materi Pembinaan Operator Crane Kelas 1"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Peraturan Perundangan K3 Pesawat Angkat dan Angkut.",
+                "Dasar-Dasar Pesawat Angkat Tonase Besar & Konfigurasi Boom (Telescopic / Lattice).",
+                "Perangkat Keselamatan Crane: Anti-Two Block (A2B), LMI, Boom Angle Indicator, Anemometer.",
+                "Tali Kawat Baja (Wire Rope), Sling, & Shackle Rating Inspection.",
+                "Perhitungan Kapasitas Angkat, Radius Kerja, & Pengaruh Kecepatan Angin.",
+                "Praktik Lapangan: Rig-up, Manuver, Heavy Lifting, & Evaluasi Praktik Kemnaker RI."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Pendidikan minimal SMA/SMK sederajat.",
+                "Pengalaman kerja mengoperasikan crane minimal 2 tahun.",
+                "Sehat jasmani dan rohani (surat dokter)."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan Ijazah, KTP, Surat Keterangan Kerja Operator Crane.",
+                "Pasfoto 3x4 background merah."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat & Lisensi K3 (SIO) Operator Crane Kelas 1 Kemnaker RI.",
+                "Buku Kerja Operator Crane Resmi.",
+                "Modul Pembinaan & Training Kit Eksklusif."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Pilih jadwal batch crane 2026.",
+                "Hubungi WhatsApp 0812-9687-0884 untuk pendaftaran."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-012.webp",
+        "alt_text": "Sertifikasi Operator Crane Kelas 1 Kemnaker RI",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_cr1_01",
+            "slug": "crane-kelas-1-batch-08",
+            "batch_number": "08",
+            "start_date": "2026-09-22",
+            "end_date": "2026-09-25",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 7500000,
+            "promo_price": 6500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "id": "01kz_prog_020_iso_9001",
+    "type": "training",
+    "name": "Internal Auditor Sistem Manajemen Mutu ISO 9001:2015",
+    "slug": "internal-auditor-iso-9001-2015",
+    "path": "/pelatihan/internal-auditor-iso-9001-2015",
+    "title": "Pelatihan Internal Auditor ISO 9001:2015 Bersertifikat",
+    "meta_title": "Pelatihan Internal Auditor ISO 9001:2015 — Sertifikasi Resmi 2026",
+    "meta_description": "Pelatihan dan sertifikasi Internal Auditor Sistem Manajemen Mutu ISO 9001:2015 berdasarkan pedoman audit ISO 19011:2018. Simulasi audit & checklist mutu.",
+    "summary": "Program pelatihan intensif bagi tim audit mutu internal perusahaan dalam menguasai klausul ISO 9001:2015, teknik sampling audit, dan penyusunan Corrective Action Report (CAR).",
+    "certification_body": "kemnaker",
+    "base_price": 3800000,
+    "duration": "2 Hari Pelatihan & Workshop Audit Simulasi",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Standar Internasional ISO 9001:2015 Quality Management Systems — Requirements."
+        },
+        {
+            "type": "paragraph",
+            "text": "Standar Internasional ISO 19011:2018 Guidelines for Auditing Management Systems."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Membekali auditor internal dengan pemahaman mendalam Klausul 4 sampai 10 ISO 9001:2015, Risk-Based Thinking, dan teknik memimpin closing meeting audit."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Memahami High Level Structure (HLS) & 7 Prinsip Manajemen Mutu.",
+                "Menyusun Audit Plan, Audit Checklist Mutu, & Sampling Data Operasional.",
+                "Mengidentifikasi ketidaksesuaian (NCR) dan memverifikasi tindakan perbaikan (CAPA).",
+                "Meraih Sertifikat Kompetensi Internal Auditor ISO 9001:2015 dari PENA Consultant."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Kurikulum Pelatihan Internal Auditor ISO 9001"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Interpretasi Klausul ISO 9001:2015 (Context, Leadership, Planning, Support, Operation, Evaluation, Improvement).",
+                "Prinsip & Pedoman Audit Sistem Manajemen (ISO 19011:2018).",
+                "Perencanaan & Persiapan Audit Internal Mutu.",
+                "Teknik Wawancara Audit & Pengumpulan Bukti Objektif.",
+                "Penyusunan Temuan Audit (NCR / Opportunity for Improvement).",
+                "Simulasi Audit Kasus Perusahaan & Ujian Evaluasi Kompetensi."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Quality Assurance (QA), Quality Control (QC), Management Representative (MR), Supervisor, atau Staf Perusahaan.",
+                "Pendidikan minimal D3/S1 semua jurusan."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan KTP & Ijazah Terakhir."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Pelatihan Internal Auditor ISO 9001:2015 dari PENA Consultant.",
+                "Toolkit Lengkap Template Audit Checklist ISO 9001:2015 format Excel siap pakai.",
+                "Modul Pembahasan Klausul & Studi Kasus Industri."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Pilih jadwal batch public online atau in-house training.",
+                "Hubungi WhatsApp 0812-9687-0884."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-020.webp",
+        "alt_text": "Pelatihan Internal Auditor ISO 9001 2015",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_iso9_01",
+            "slug": "iso-9001-auditor-batch-10",
+            "batch_number": "10",
+            "start_date": "2026-11-03",
+            "end_date": "2026-11-04",
+            "is_online": true,
+            "mode": "online",
+            "normal_price": 4500000,
+            "promo_price": 3800000,
+            "location_name": "Online Zoom",
+            "availability": "available"
+        }
+    ]
+}

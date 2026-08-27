@@ -1,0 +1,119 @@
+{
+    "id": "01kz_prog_011_forklift_1",
+    "type": "training",
+    "name": "Operator Forklift Kelas 1 (Kapasitas > 15 Ton)",
+    "slug": "operator-forklift-kelas-1",
+    "path": "/pelatihan/operator-forklift-kelas-1",
+    "title": "Pelatihan & Sertifikasi Operator Forklift Kelas 1 Kemnaker RI",
+    "meta_title": "Pelatihan & Sertifikasi Operator Forklift Kelas 1 Kemnaker RI 2026",
+    "meta_description": "Pembinaan resmi SIO & Lisensi K3 Operator Forklift Kelas 1 (Kapasitas > 15 Ton) Kemnaker RI sesuai Permenaker No. 8 Tahun 2020. Praktik & sertifikasi resmi.",
+    "summary": "Program sertifikasi resmi Kemnaker RI untuk operator forklift berkapasitas di atas 15 ton guna memastikan keselamatan pengoperasian alat angkut berat di pelabuhan, logistik, dan industri manufaktur.",
+    "certification_body": "kemnaker",
+    "base_price": 5000000,
+    "duration": "3 Hari Pembinaan & Praktik Operasional",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Peraturan Menteri Ketenagakerjaan No. 8 Tahun 2020 tentang Keselamatan dan Kesehatan Kerja Pesawat Angkat dan Pesawat Angkut."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Membekali operator forklift kelas 1 dengan pengetahuan teknis, stabilitas beban tonase besar, safety operating procedures, dan pemeliharaan harian."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Mampu mengoperasikan forklift kapasitas > 15 ton secara aman dan presisi.",
+                "Memahami Load Chart, titik gravitasi (Center of Gravity), dan segitiga stabilitas beban berat.",
+                "Melakukan pemeriksaan pra-operasional (Daily Pre-use Inspection / P2H).",
+                "Meraih Lisensi K3 Resmi & SIO (Surat Ijin Operator) Forklift Kelas 1 Kemnaker RI."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Kurikulum Pembinaan Operator Forklift Kelas 1"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Kebijakan K3 Nasional & Regulasi Pesawat Angkut (Permenaker No. 8/2020).",
+                "Pengetahuan Dasar Forklift Heavy Duty & Komponen Utama.",
+                "Sistem Hidrolik, Mesin Penggerak, & Perangkat Keselamatan (Safety Devices).",
+                "Kalkulasi Beban, Daya Angkat, & Stabilitas Forklift > 15 Ton.",
+                "Sebab-Sebab Kecelakaan Forklift & Tindakan Pencegahannya.",
+                "Praktik Manuver, Stacking, De-stacking, & Evaluasi Praktik Lapangan."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Pendidikan minimal SMP/SMA sederajat.",
+                "Usia minimal 19 tahun, sehat jasmani & rohani (tidak buta warna).",
+                "Memiliki pengalaman mengoperasikan forklift atau telah mengikuti pembinaan dasar."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan KTP & Ijazah Terakhir.",
+                "Surat Keterangan Sehat dari Dokter.",
+                "Surat Tugas Perusahaan (bagi peserta utusan perusahaan).",
+                "Pasfoto formal 3x4 background merah."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Pembinaan & Lisensi K3 (SIO) Forklift Kelas 1 dari Kemnaker RI.",
+                "Buku Kerja (Logbook) Operator Forklift Kemnaker RI.",
+                "Sertifikat Pelatihan Internal dari PENA Consultant.",
+                "Training Kit & Modul Praktik Lengkap."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Pilih jadwal batch pelatihan 2026.",
+                "Hubungi Customer Care WhatsApp di 0812-9687-0884.",
+                "Lengkapi berkas pendaftaran dan konfirmasi kehadiran."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-011.webp",
+        "alt_text": "Pelatihan Operator Forklift Kelas 1 Kemnaker RI",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_fk1_01",
+            "slug": "forklift-kelas-1-batch-10",
+            "batch_number": "10",
+            "start_date": "2026-09-14",
+            "end_date": "2026-09-16",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 6000000,
+            "promo_price": 5000000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}

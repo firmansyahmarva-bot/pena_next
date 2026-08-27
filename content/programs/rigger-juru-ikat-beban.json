@@ -1,0 +1,115 @@
+{
+    "id": "01kz_prog_015_rigger",
+    "type": "training",
+    "name": "Rigger (Juru Ikat Beban Pesawat Angkat)",
+    "slug": "rigger-juru-ikat-beban",
+    "path": "/pelatihan/rigger-juru-ikat-beban",
+    "title": "Pelatihan & Sertifikasi Rigger (Juru Ikat Beban) Kemnaker RI",
+    "meta_title": "Pelatihan & Sertifikasi Rigger (Juru Ikat Beban) Kemnaker RI 2026",
+    "meta_description": "Sertifikasi resmi Juru Ikat Beban (Rigger) Kemnaker RI sesuai Permenaker No. 8/2020. Teknik rigging, slinging, perhitungan WLL, dan aba-aba crane.",
+    "summary": "Program sertifikasi lisensi K3 resmi Kemnaker RI untuk personil juru ikat beban (rigger) yang bertugas merencanakan pengikatan, memilih rigging hardware, dan memandu pengangkatan crane.",
+    "certification_body": "kemnaker",
+    "base_price": 4500000,
+    "duration": "3 Hari (Teori, Praktik Rigging, & Evaluasi)",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Permenaker No. 8 Tahun 2020 tentang K3 Pesawat Angkat dan Pesawat Angkut (Pasal 140 Huruf c & Pasal 149)."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Membekali juru ikat beban dengan keahlian pemilihan alat bantu angkat (sling webbing, wire rope sling, chain sling, shackle), kalkulasi beban sudut angkat, dan komunikasi sinyal."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Menghitung Working Load Limit (WLL) dan Safety Factor alat bantu angkat.",
+                "Memahami reduksi kapasitas akibat variasi sudut pengikatan (Choker, Basket, Bridle hitch).",
+                "Menguasai standar sinyal tangan internasional dan radio komunikasi crane.",
+                "Meraih Sertifikat Pembinaan & Lisensi K3 Rigger Resmi Kemnaker RI."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Kurikulum Pembinaan Rigger"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Dasar-Dasar K3 Pesawat Angkat & Regulasi Permenaker 8/2020.",
+                "Jenis & Karakteristik Alat Bantu Angkat (Lifting Gears & Rigging Hardware).",
+                "Kriteria Afkir & Inspeksi Kerusakan Wire Rope Sling, Webbing Sling, Shackle, Eyebolt.",
+                "Metode Pengikatan Beban, Titik Pusat Berat Beban (Center of Gravity).",
+                "Standar Aba-Aba Pengoperasian Pesawat Angkat.",
+                "Praktik Rigging Lapangan & Ujian Evaluasi Kemnaker RI."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Pendidikan minimal SMP/SMA sederajat.",
+                "Usia minimal 18 tahun, sehat jasmani dan rohani."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan KTP & Ijazah Terakhir.",
+                "Surat Keterangan Sehat Dokter.",
+                "Pasfoto 3x4 formal background merah."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat & Lisensi K3 (SIO) Rigger dari Kemnaker RI.",
+                "Buku Kerja Juru Ikat Beban Resmi.",
+                "Modul Rigging Pocket Guide & Training Kit."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Pilih batch rigger 2026.",
+                "Daftar via WhatsApp di 0812-9687-0884."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-015.webp",
+        "alt_text": "Pelatihan Rigger Juru Ikat Beban Kemnaker RI",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_rig_01",
+            "slug": "rigger-batch-11",
+            "batch_number": "11",
+            "start_date": "2026-09-28",
+            "end_date": "2026-09-30",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 5500000,
+            "promo_price": 4500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}
