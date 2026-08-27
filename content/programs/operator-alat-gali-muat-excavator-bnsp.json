@@ -1,0 +1,118 @@
+{
+    "id": "01kz_prog_022_excavator_bnsp",
+    "type": "training",
+    "name": "Operator Alat Gali Muat (Excavator / Shovel) BNSP",
+    "slug": "operator-alat-gali-muat-excavator-bnsp",
+    "path": "/pelatihan/operator-alat-gali-muat-excavator-bnsp",
+    "title": "Pelatihan & Sertifikasi Operator Excavator Sertifikat BNSP",
+    "meta_title": "Sertifikasi Operator Excavator (Alat Gali Muat) BNSP 2026",
+    "meta_description": "Pelatihan dan sertifikasi uji kompetensi Operator Excavator (Alat Gali Muat / Backhoe) bersertifikat BNSP untuk industri pertambangan, kuari, dan konstruksi.",
+    "summary": "Sertifikasi kompetensi resmi BNSP bagi operator hydraulic excavator dalam melakukan penggalian, pemuatan material ke dump truck, dan perawatan harian alat berat.",
+    "certification_body": "bnsp",
+    "base_price": 5500000,
+    "duration": "3 Hari Pelatihan & Asesmen Uji Kompetensi",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "UU No. 13 Tahun 2003 tentang Ketenagakerjaan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Kepmen ESDM No. 1827 K/30/MEM/2018 tentang Keselamatan Pertambangan."
+        },
+        {
+            "type": "paragraph",
+            "text": "SKKNI Pengoperasian Alat Gali Muat (Excavator)."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Mempersiapkan operator excavator profesional yang mampu melakukan manuver di medan lereng, benching tambang, trenching galian, dan safety pre-inspection."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Melakukan pemeriksaan harian keliling unit (Walkaround Inspection / P2H).",
+                "Menguasai teknik penggalian parit, perataan lereng (slope), dan loading material.",
+                "Memahami stabilitas track, radius ayun (swing radius), dan blind spot alat berat.",
+                "Meraih Sertifikat Kompetensi BNSP Skema Operator Excavator (Garuda Emas)."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Unit Kompetensi Operator Excavator BNSP"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Menerapkan Prosedur Keselamatan Kerja Pengoperasian Alat Berat.",
+                "Melakukan Pemeriksaan dan Pemeliharaan Harian (P2H).",
+                "Mengoperasikan Alat Gali Muat (Excavator) pada Berbagai Kondisi Medan.",
+                "Melakukan Penggalian Material, Trenching, & Loading ke Dump Truck.",
+                "Memarkirkan dan Mematikan Unit sesuai Prosedur Aman."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Pendidikan minimal SMP/SMA sederajat.",
+                "Memiliki pengalaman mengoperasikan excavator minimal 1 tahun.",
+                "Sehat jasmani dan rohani."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan KTP & Ijazah Terakhir.",
+                "Surat Keterangan Bekerja / Pengalaman Operator Alat Berat.",
+                "Pasfoto 3x4 background merah."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Kompetensi BNSP Operator Excavator (Berlaku 3 Tahun).",
+                "Sertifikat Pelatihan PT PENA Consultant.",
+                "Bimbingan Teknis & Simulasi Uji Asesmen BNSP."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Hubungi WhatsApp Official di 0812-9687-0884."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-012.webp",
+        "alt_text": "Sertifikasi Operator Excavator BNSP",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_exc_01",
+            "slug": "excavator-bnsp-batch-07",
+            "batch_number": "07",
+            "start_date": "2026-10-21",
+            "end_date": "2026-10-23",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 6500000,
+            "promo_price": 5500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}

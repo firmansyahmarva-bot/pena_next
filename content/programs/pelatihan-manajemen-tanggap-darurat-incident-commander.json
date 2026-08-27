@@ -1,0 +1,115 @@
+{
+    "id": "01kz_prog_030_incident_commander",
+    "type": "training",
+    "name": "Incident Commander (Manajemen Tanggap Darurat & Krisis K3)",
+    "slug": "pelatihan-manajemen-tanggap-darurat-incident-commander",
+    "path": "/pelatihan/pelatihan-manajemen-tanggap-darurat-incident-commander",
+    "title": "Pelatihan Incident Commander & Tanggap Darurat K3 Industri",
+    "meta_title": "Pelatihan Incident Commander & Tanggap Darurat K3 Industri 2026",
+    "meta_description": "Pelatihan Incident Commander & Manajemen Tanggap Darurat K3 (Emergency Response Plan). Komando darurat kebakaran, kebocoran gas, dan evakuasi pabrik.",
+    "summary": "Program pelatihan kepemimpinan tanggap darurat (Incident Command System / ICS) bagi pimpinan operasi pabrik, Chief Warden, dan Komandan Regu Pemadam dalam memimpin respons krisis bencana industri.",
+    "certification_body": "kemnaker",
+    "base_price": 5000000,
+    "duration": "2 Hari Pelatihan & Tabletop Crisis Simulation",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Kepmenaker No. 186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Standar NFPA 1600 & Incident Command System (ICS) Guidelines."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Membekali komandan tanggap darurat dengan strategi pengambilan keputusan cepat, alokasi sumber daya darurat, triase korban, dan komunikasi krisis media massa."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Membangun struktur organisasi Incident Command System (ICS) yang efektif di industri.",
+                "Menyusun Emergency Response Plan (ERP) dan skenario Drill Evakuasi berkala.",
+                "Memimpin Pos Komando Darurat (Emergency Command Post) saat terjadi insiden eskalasi.",
+                "Meraih Sertifikat Pelatihan Incident Commander dari PENA Consultant."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Kurikulum Manajemen Tanggap Darurat ICS"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Prinsip Dasar Incident Command System (ICS) & Manajemen Krisis Perusahaan.",
+                "Peran & Tanggung Jawab Incident Commander, Safety Officer, & Liaison Officer.",
+                "Penilaian Situasi Awal (Initial Size-up) & Penentuan Strategi Evakuasi.",
+                "Komunikasi Darurat Antar Regu (Damkar, First Aid, Security, External Rescuer).",
+                "Tabletop Drill Simulation: Kebakaran Massal, Ledakan Bejana Tekan, & Ancaman Bahan Kimia Toksik.",
+                "Penyusunan Dokumen Post-Incident Evaluation & Business Continuity Plan (BCP)."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Manajer Operasional, Plant Manager, HSE Manager, Chief Security, atau Komandan Damkar Perusahaan.",
+                "Pendidikan minimal D3/S1 semua jurusan."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan KTP & Surat Tugas Perusahaan."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Pelatihan Incident Commander dari PT PENA Consultant.",
+                "Panduan Manual Emergency Response Plan & Tabletop Exercise Scenario Kit."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Daftar via WhatsApp di 0812-9687-0884."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-009.webp",
+        "alt_text": "Pelatihan Incident Commander Tanggap Darurat K3",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_ic_01",
+            "slug": "incident-commander-batch-05",
+            "batch_number": "05",
+            "start_date": "2026-11-27",
+            "end_date": "2026-11-28",
+            "is_online": true,
+            "mode": "online",
+            "normal_price": 6000000,
+            "promo_price": 5000000,
+            "location_name": "Online Zoom",
+            "availability": "available"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "id": "01kz_prog_026_lead_auditor_smk3",
+    "type": "training",
+    "name": "Lead Auditor Eksternal SMK3 PP No. 50 Tahun 2012",
+    "slug": "lead-auditor-smk3-pp-50-2012-kemnaker",
+    "path": "/pelatihan/lead-auditor-smk3-pp-50-2012-kemnaker",
+    "title": "Pelatihan Lead Auditor SMK3 PP 50/2012 Kemnaker RI",
+    "meta_title": "Pelatihan & Sertifikasi Lead Auditor SMK3 PP 50/2012 Kemnaker RI 2026",
+    "meta_description": "Sertifikasi kompetensi Lead Auditor SMK3 PP No. 50 Tahun 2012 resmi Kemnaker RI. Pelatihan kualifikasi auditor eksternal lembaga audit independen K3.",
+    "summary": "Program sertifikasi kualifikasi tertinggi Auditor SMK3 dari Kemnaker RI untuk mencetak Lead Auditor independen yang berwenang mengaudit dan merekomendasikan Sertifikat Emas SMK3 perusahaan.",
+    "certification_body": "kemnaker",
+    "base_price": 8500000,
+    "duration": "5 Hari Pembinaan Intensif & Uji Lisensi Auditor Kemnaker RI",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Peraturan Pemerintah No. 50 Tahun 2012 tentang Penerapan SMK3."
+        },
+        {
+            "type": "paragraph",
+            "text": "Permenaker No. 26 Tahun 2014 tentang Penyelenggaraan Penilaian Penerapan SMK3."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Mempersiapkan Lead Auditor yang menguasai pembuktian hukum 166 kriteria audit, teknik wawancara manajemen puncak, penentuan kategori temuan Kritis/Mayor/Minor, dan penyusunan Berita Acara Audit Resmi."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Menguasai metodologi audit kepatuhan regulasi K3 nasional lintas sektor industri.",
+                "Memimpin tim auditor dalam opening meeting, sampling dokumen, dan closing meeting audit.",
+                "Menyusun Laporan Audit Resmi untuk diserahkan ke Ditjen Binwasnaker Kemnaker RI.",
+                "Meraih Sertifikat Auditor SMK3 & Lisensi Auditor Resmi Kemnaker RI."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Kurikulum Pembinaan Lead Auditor SMK3"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Kebijakan Nasional K3 & Sistem Sertifikasi SMK3 Indonesia.",
+                "Analisis Yuridis 12 Elemen & 166 Kriteria Audit SMK3.",
+                "Manajemen Program Audit & Kriteria Penilaian Tingkat Pencapaian Penerapan.",
+                "Simulasi Observasi Lapangan & Verifikasi Bukti Objektif Implementasi.",
+                "Penyusunan Formulir Laporan Ketidaksesuaian & Rekomendasi Bendera Emas/Perak.",
+                "Seminar Kertas Kerja Audit & Evaluasi Ujian Akhir Kemnaker RI."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Telah memiliki Sertifikat Ahli K3 Umum Kemnaker RI yang masih berlaku.",
+                "Pendidikan formal minimal D3/S1 semua jurusan (diutamakan Teknik / Kesehatan).",
+                "Pengalaman kerja di bidang K3 minimal 2 tahun."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan Ijazah Terakhir, KTP, & Sertifikat/SKP Ahli K3 Umum.",
+                "Surat Rekomendasi Perusahaan / Lembaga.",
+                "Pasfoto 3x4 formal background merah."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Auditor SMK3 Resmi dari Kemnaker RI.",
+                "Surat Keputusan Penunjukan (SKP) & Kartu Lisensi Auditor Kemnaker RI.",
+                "Sertifikat Pelatihan dari PT PENA Consultant.",
+                "Himpunan Regulasi & Format Laporan Audit Resmi Kemnaker."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Pilih jadwal batch Lead Auditor 2026.",
+                "Hubungi konsultan kami di WhatsApp 0812-9687-0884."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-010.webp",
+        "alt_text": "Sertifikasi Lead Auditor SMK3 PP 50 2012 Kemnaker RI",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_la_smk3_01",
+            "slug": "lead-auditor-smk3-batch-05",
+            "batch_number": "05",
+            "start_date": "2026-11-16",
+            "end_date": "2026-11-20",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 9500000,
+            "promo_price": 8500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}

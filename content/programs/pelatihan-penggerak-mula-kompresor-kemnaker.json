@@ -1,0 +1,113 @@
+{
+    "id": "01kz_prog_025_kompresor",
+    "type": "training",
+    "name": "Operator Penggerak Mula Kompresor Udara Kemnaker RI",
+    "slug": "pelatihan-penggerak-mula-kompresor-kemnaker",
+    "path": "/pelatihan/pelatihan-penggerak-mula-kompresor-kemnaker",
+    "title": "Pelatihan Operator Kompresor Udara (PTP) Kemnaker RI",
+    "meta_title": "Pelatihan & Sertifikasi Operator Kompresor Udara Kemnaker RI 2026",
+    "meta_description": "Sertifikasi Lisensi K3 SIO Operator Penggerak Mula Kompresor Udara resmi Kemnaker RI sesuai Permenaker No. 38 Tahun 2016. Pengoperasian kompresor industri.",
+    "summary": "Program sertifikasi lisensi K3 Kemnaker RI bagi operator kompresor udara reciprocating, rotary screw, dan sentrifugal di pabrik otomotif, farmasi, semen, dan manufaktur.",
+    "certification_body": "kemnaker",
+    "base_price": 4500000,
+    "duration": "3 Hari Pembinaan & Praktik Operasional Kompresor",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Permenaker No. 38 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja Pesawat Tenaga dan Produksi (PTP)."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Mempersiapkan operator kompresor udara yang memahami sistem kompresi udara, pengering udara (Air Dryer), tangki receiver, dan pencegahan over-pressure."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Mampu mengoperasikan kompresor udara industri secara efisien dan aman.",
+                "Memeriksa oil separator, filter udara, intercooler, dan katup pelepas tekanan (Safety Relief Valve).",
+                "Melakukan drain kondensat otomatis dan pemantauan temperatur kompresi.",
+                "Meraih Lisensi K3 & SIO Operator Kompresor Udara Kemnaker RI."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Kurikulum Pembinaan Operator Kompresor"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Kebijakan K3 & Regulasi Pesawat Tenaga Produksi (Permenaker 38/2016).",
+                "Prinsip Kerja Kompresor Udara (Screw Compressor & Piston Compressor).",
+                "Sistem Pelumasan, Pendinginan, & Pemisahan Udara/Minyak.",
+                "Perangkat Keselamatan & Perlindungan Tekanan Berlebih.",
+                "Praktik Operasi, Preventive Maintenance, & Evaluasi Kemnaker RI."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Pendidikan minimal SMP/SMA sederajat.",
+                "Usia minimal 18 tahun, sehat jasmani dan rohani."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan KTP & Ijazah Terakhir.",
+                "Surat Keterangan Sehat Dokter.",
+                "Pasfoto 3x4 background merah."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Pembinaan & Lisensi K3 (SIO) Kompresor Kemnaker RI.",
+                "Buku Kerja Operator PTP Resmi.",
+                "Modul Pelatihan & Training Kit."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Daftar via WhatsApp di 0812-9687-0884."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-014.webp",
+        "alt_text": "Pelatihan Operator Kompresor Udara Kemnaker RI",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_kmp_01",
+            "slug": "kompresor-ptp-batch-07",
+            "batch_number": "07",
+            "start_date": "2026-11-10",
+            "end_date": "2026-11-12",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 5500000,
+            "promo_price": 4500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}

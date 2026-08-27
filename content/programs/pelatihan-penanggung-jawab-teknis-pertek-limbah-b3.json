@@ -1,0 +1,116 @@
+{
+    "id": "01kz_prog_028_pertek_limbah_b3",
+    "type": "training",
+    "name": "Penyusunan Dokumen Persetujuan Teknis (Pertek) Limbah B3 & Emisi",
+    "slug": "pelatihan-penanggung-jawab-teknis-pertek-limbah-b3",
+    "path": "/pelatihan/pelatihan-penanggung-jawab-teknis-pertek-limbah-b3",
+    "title": "Bimtek Penyusunan Dokumen Pertek Limbah B3 & Emisi KLHK",
+    "meta_title": "Pelatihan Penyusunan Dokumen Pertek Limbah B3 & Emisi KLHK 2026",
+    "meta_description": "Bimbingan teknis penyusunan Dokumen Persetujuan Teknis (Pertek) Pengelolaan Limbah B3 dan Emisi Udara sesuai Permen LHK No. 6/2021 & PP No. 22/2021.",
+    "summary": "Workshop komprehensif bagi konsultan lingkungan dan tim HSE industri dalam menyusun kajian teknis Persetujuan Teknis (Pertek) untuk mendapatkan Surat Kelayakan Operasional (SLO) dari KLHK.",
+    "certification_body": "kemnaker",
+    "base_price": 4500000,
+    "duration": "2 Hari Workshop Praktis Penyusunan Dokumen",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "PP No. 22 Tahun 2021 tentang Penyelenggaraan Perlindungan & Pengelolaan Lingkungan Hidup."
+        },
+        {
+            "type": "paragraph",
+            "text": "Permen LHK No. 5 Tahun 2021 tentang Tata Cara Penerbitan Persetujuan Teknis dan Surat Kelayakan Operasional."
+        },
+        {
+            "type": "paragraph",
+            "text": "Permen LHK No. 6 Tahun 2021 tentang Pengelolaan Limbah B3."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Membekali peserta dengan panduan langkah demi langkah menyusun dokumen kajian Pertek TPS B3, Pertek Emisi Cerobong, dan Pertek Pemanfaatan/Pengolahan Limbah B3."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Memahami alur integrasi Amdal/UKL-UPL dengan Persetujuan Teknis (Pertek) & Persetujuan Lingkungan.",
+                "Menyusun Neraca Massa Limbah B3, Desain Layout TPS B3, & Sistem Penangkal Petir/Tumpahan.",
+                "Menyusun Dokumen Kajian Teknis Emisi Cerobong (Dispersi Model & CEMS).",
+                "Meraih Sertifikat Pelatihan Penyusunan Pertek dari PENA Consultant."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Modul Workshop Dokumen Pertek KLHK"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Kerangka Regulasi Perizinan Berusaha Berbasis Risiko (OSS RBA) & Persetujuan Lingkungan.",
+                "Sistematika Dokumen Rincian Teknis Penyimpanan Limbah B3 (Depo/TPS).",
+                "Kajian Teknis Pengendalian Pencemaran Udara (Emisi Genset, Boiler, Incinerator).",
+                "Sistem Tanggap Darurat & SOP Pengelolaan Limbah B3.",
+                "Simulasi Pengunggahan Dokumen Pertek ke Aplikasi Amdalnet / SIMPEL KLHK."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Manajer HSE, Environmental Officer, Konsultan Amdal, atau Penanggung Jawab Lingkungan Perusahaan.",
+                "Membawa data teknis operasional fasilitas pabrik/proyek."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan KTP & Surat Tugas Perusahaan."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Pelatihan Dokumen Pertek dari PENA Consultant.",
+                "Template Lengkap Dokumen Kajian Teknis Pertek format Word siap edit.",
+                "Konsultasi review dokumen kajian bersama Pakar Lingkungan Hidup."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Pilih jadwal workshop 2026.",
+                "Hubungi WhatsApp 0812-9687-0884."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-004.webp",
+        "alt_text": "Pelatihan Dokumen Pertek Limbah B3 KLHK",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_pertek_01",
+            "slug": "pertek-limbah-b3-batch-06",
+            "batch_number": "06",
+            "start_date": "2026-11-26",
+            "end_date": "2026-11-27",
+            "is_online": true,
+            "mode": "online",
+            "normal_price": 5500000,
+            "promo_price": 4500000,
+            "location_name": "Online Zoom",
+            "availability": "available"
+        }
+    ]
+}

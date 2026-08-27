@@ -1,0 +1,114 @@
+{
+    "id": "01kz_prog_023_pubt_tangki",
+    "type": "training",
+    "name": "Teknisi K3 Bejana Tekan dan Tangki Timbun (PUBT)",
+    "slug": "pelatihan-k3-bejana-tekan-dan-tangki-timbun-pubt",
+    "path": "/pelatihan/pelatihan-k3-bejana-tekan-dan-tangki-timbun-pubt",
+    "title": "Pelatihan Teknisi K3 Bejana Tekan & Tangki Timbun Kemnaker RI",
+    "meta_title": "Pelatihan Teknisi K3 Bejana Tekan & Tangki Timbun Kemnaker RI 2026",
+    "meta_description": "Pembinaan resmi Teknisi K3 Bejana Tekanan dan Tangki Timbun (PUBT) Kemnaker RI sesuai Permenaker No. 37 Tahun 2016. Pengawasan tangki gas, solar, dan kimia.",
+    "summary": "Sertifikasi kompetensi resmi Kemnaker RI untuk teknisi dan pengawas bejana bertekanan, tabung gas bertekanan, dan tangki timbun bahan bakar/kimia cair sesuai Permenaker No. 37/2016.",
+    "certification_body": "kemnaker",
+    "base_price": 6000000,
+    "duration": "4 Hari Pembinaan & Praktik Inspeksi Lapangan",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Permenaker No. 37 Tahun 2016 tentang K3 Bejana Tekanan dan Tangki Timbun."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Membekali teknisi dengan kemampuan inspeksi ketebalan dinding bejana (Ultrasonic Thickness Gauge), pengujian hidrostatis (Hydrotest), dan perawatan safety relief valve."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Memahami standar desain, fabrikasi, dan pengoperasian Bejana Tekan & Tangki Timbun.",
+                "Melakukan pengujian pengaman tekanan lebih (Safety Valve & Rupture Disc).",
+                "Mengawasi prosedur pengisian, pembongkaran, dan pembersihan tangki timbun bahan bakar/kimia.",
+                "Meraih Sertifikat Pembinaan, Lisensi K3, & Buku Kerja Kemnaker RI."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Kurikulum Pembinaan PUBT"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Peraturan Perundangan K3 Bejana Tekanan & Tangki Timbun (Permenaker 37/2016).",
+                "Konstruksi & Material Bejana Tekan, Tangki Bola, & Tangki Silinder Vertikal.",
+                "Alat Pengaman: Manometer, Thermometer, Level Gauge, & Pressure Relief Device.",
+                "Korosi, Penipisan Dinding, & Metode Non-Destructive Testing (NDT).",
+                "Praktik Uji Tekan Hidrostatis (Hydrostatic Test) & Ujian Evaluasi Kemnaker RI."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Pendidikan minimal SMA/SMK Teknik atau D3/S1 Teknik.",
+                "Pengalaman kerja di bidang bejana tekan / tangki minimal 1 tahun.",
+                "Sehat jasmani dan rohani."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan Ijazah Terakhir, KTP, Surat Tugas Perusahaan.",
+                "Pasfoto 3x4 background merah formal."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Pembinaan & Lisensi K3 PUBT Resmi Kemnaker RI.",
+                "Buku Kerja Teknisi Bejana Tekan & Tangki Timbun.",
+                "Modul Himpunan Regulasi Teknis & Training Kit."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Pilih jadwal batch PUBT 2026.",
+                "Hubungi WhatsApp di 0812-9687-0884."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-014.webp",
+        "alt_text": "Pelatihan K3 Bejana Tekan Tangki Timbun Kemnaker RI",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_pubt_01",
+            "slug": "pubt-batch-06",
+            "batch_number": "06",
+            "start_date": "2026-10-27",
+            "end_date": "2026-10-30",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 7000000,
+            "promo_price": 6000000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "id": "01kz_prog_021_overhead_crane_3",
+    "type": "training",
+    "name": "Operator Overhead Crane & Gantry Crane Kelas 3",
+    "slug": "operator-overhead-crane-kelas-3",
+    "path": "/pelatihan/operator-overhead-crane-kelas-3",
+    "title": "Pelatihan & Sertifikasi Operator Overhead Crane Kelas 3 Kemnaker RI",
+    "meta_title": "Pelatihan Operator Overhead Crane Kelas 3 Kemnaker RI 2026 — SIO Resmi",
+    "meta_description": "Pelatihan dan sertifikasi lisensi K3 SIO Operator Overhead Crane & Gantry Crane Kelas 3 (Kapasitas s.d 25 Ton) resmi Kemnaker RI sesuai Permenaker No. 8/2020.",
+    "summary": "Program pembinaan sertifikasi resmi Kemnaker RI untuk operator overhead travelling crane, hoist crane, dan gantry crane pada workshop manufaktur, pabrik baja, dan pergudangan logistik.",
+    "certification_body": "kemnaker",
+    "base_price": 4500000,
+    "duration": "3 Hari Pembinaan & Uji Praktik Hoist Crane",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Permenaker No. 8 Tahun 2020 tentang K3 Pesawat Angkat dan Pesawat Angkut (Pasal 140 Huruf a & Pasal 143)."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Membekali operator overhead crane dengan keterampilan pengoperasian pendant control, remote radio wireless control, inspeksi sling hook, dan pengereman darurat."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Mampu mengoperasikan overhead travelling crane kapasitas hingga 25 ton secara aman.",
+                "Memahami sistem limit switch (upper/lower limit, long travel & cross travel limit).",
+                "Melakukan pemeriksaan visual tali kawat baja, drum penggulung, dan rem elektro-magnetik.",
+                "Meraih Lisensi K3 (SIO) & Buku Kerja Operator Overhead Crane Kelas 3 Kemnaker RI."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Kurikulum Pembinaan Overhead Crane Kelas 3"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Peraturan Perundangan K3 Pesawat Angkat & Angkut (Permenaker 8/2020).",
+                "Pengetahuan Dasar Struktur Girder, Hoist Trolley, & Wire Rope Crane.",
+                "Perangkat Keselamatan & Perlindungan Beban Lebih (Overload Limiter).",
+                "Kalkulasi Beban & Teknik Rigging Dasar pada Overhead Crane.",
+                "Praktik Operasional: Pengangkatan, Pemindahan Beban, & Penempatan Presisi.",
+                "Ujian Evaluasi Teori & Praktik Lapangan Kemnaker RI."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Pendidikan minimal SMP/SMA sederajat.",
+                "Usia minimal 18 tahun, sehat jasmani dan rohani (bebas buta warna)."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan KTP & Ijazah Terakhir.",
+                "Surat Keterangan Sehat dari Dokter.",
+                "Pasfoto formal 3x4 background merah."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Pembinaan & Lisensi K3 (SIO) Operator Overhead Crane Kelas 3 Kemnaker RI.",
+                "Buku Kerja Operator Pesawat Angkat Resmi.",
+                "Modul Pelatihan & Training Kit."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Pilih jadwal batch overhead crane 2026.",
+                "Daftar via WhatsApp di 0812-9687-0884."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-013.webp",
+        "alt_text": "Pelatihan Operator Overhead Crane Kelas 3 Kemnaker RI",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_ohc3_01",
+            "slug": "overhead-crane-kelas-3-batch-09",
+            "batch_number": "09",
+            "start_date": "2026-10-14",
+            "end_date": "2026-10-16",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 5500000,
+            "promo_price": 4500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}

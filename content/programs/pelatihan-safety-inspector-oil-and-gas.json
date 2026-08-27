@@ -1,0 +1,115 @@
+{
+    "id": "01kz_prog_029_safety_inspector_migas",
+    "type": "training",
+    "name": "Safety Inspector K3 Industri Migas & Petrokimia",
+    "slug": "pelatihan-safety-inspector-oil-and-gas",
+    "path": "/pelatihan/pelatihan-safety-inspector-oil-and-gas",
+    "title": "Pelatihan & Sertifikasi Safety Inspector Migas & Petrokimia",
+    "meta_title": "Pelatihan Safety Inspector K3 Migas & Petrokimia 2026 — Sertifikasi Resmi",
+    "meta_description": "Pelatihan Safety Inspector K3 Industri Minyak dan Gas Bumi (Oil & Gas) serta Petrokimia. Inspeksi izin kerja panas, confined space, dan SIMOPS migas.",
+    "summary": "Program pelatihan intensif bagi personil pengawas keselamatan lapangan (Safety Inspector) dalam memantau operasi berisiko tinggi di platform offshore, kilang minyak (refinery), dan terminal LNG/LPG.",
+    "certification_body": "kemnaker",
+    "base_price": 5500000,
+    "duration": "3 Hari Pelatihan & Studi Kasus Operasi Migas",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "PP No. 17 Tahun 1974 tentang Pengawasan Keselamatan Kerja di Bidang Pertambangan Minyak dan Gas Bumi."
+        },
+        {
+            "type": "paragraph",
+            "text": "Standar Keselamatan Kerja Hulu & Hilir Migas SKK Migas."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Membekali Safety Inspector dengan keahlian pengawasan Simultan Operations (SIMOPS), pengujian atmosfer gas beracun/eksplosif, Job Hazard Analysis (JHA), dan izin kerja (PTW)."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Mengawasi Hot Work Permit (pengelasan, cutting) dan Cold Work Permit di area berklasifikasi Hazardous Zone.",
+                "Melakukan inspeksi instalasi gas detector, sistem deluge pemadam, dan foam system.",
+                "Memastikan kepatuhan Golden Rules K3 Migas dan Safety Stand-down.",
+                "Meraih Sertifikat Kompetensi Safety Inspector Migas dari PENA Consultant."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Kurikulum Pembinaan Safety Inspector Migas"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Regulasi & Karakteristik Risiko Industri Minyak, Gas, dan Petrokimia.",
+                "Klasifikasi Area Berbahaya (Hazardous Area Classification Zone 0, 1, 2).",
+                "Sistem Izin Kerja Terpadu (Integrated Permit to Work System).",
+                "Inspeksi Keselamatan Bejana Bertekanan, Flange Management, & Piping System.",
+                "Pengawasan Operasi Simultan (SIMOPS Management).",
+                "Simulasi Investigasi Insiden Gas Release & Ujian Evaluasi Kompetensi."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Pendidikan minimal SMA/SMK sederajat atau D3/S1 semua jurusan.",
+                "Memiliki minat berkarir di sektor migas, petrokimia, atau energi."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan KTP & Ijazah Terakhir."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Pelatihan Safety Inspector Migas dari PT PENA Consultant.",
+                "Modul Panduan Standar Safety Hulu-Hilir Migas & Training Kit."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Daftar via WhatsApp Official di 0812-9687-0884."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-008.webp",
+        "alt_text": "Pelatihan Safety Inspector Migas Petrokimia",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_si_mig_01",
+            "slug": "safety-inspector-migas-batch-09",
+            "batch_number": "09",
+            "start_date": "2026-11-24",
+            "end_date": "2026-11-26",
+            "is_online": true,
+            "mode": "online",
+            "normal_price": 6500000,
+            "promo_price": 5500000,
+            "location_name": "Online Zoom",
+            "availability": "available"
+        }
+    ]
+}

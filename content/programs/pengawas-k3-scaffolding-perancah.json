@@ -1,0 +1,118 @@
+{
+    "id": "01kz_prog_024_pengawas_scaffolding",
+    "type": "training",
+    "name": "Pengawas K3 Perancah (Scaffolding Inspector / Supervisor)",
+    "slug": "pengawas-k3-scaffolding-perancah",
+    "path": "/pelatihan/pengawas-k3-scaffolding-perancah",
+    "title": "Pelatihan Pengawas K3 Scaffolding Kemnaker RI",
+    "meta_title": "Pelatihan Pengawas K3 Scaffolding (Perancah) Kemnaker RI 2026",
+    "meta_description": "Sertifikasi resmi Pengawas K3 Perancah / Scaffolding Inspector Kemnaker RI sesuai Permenaker No. 01/1980 & SKB Menaker-MenPU. Inspeksi Scafftag & sertifikasi.",
+    "summary": "Sertifikasi resmi Kemnaker RI untuk supervisor dan inspektur K3 scaffolding yang bertugas memverifikasi kekuatan struktur perancah dan menerbitkan Scafftag hijau (Aman Digunakan).",
+    "certification_body": "kemnaker",
+    "base_price": 5500000,
+    "duration": "4 Hari Pembinaan & Praktik Inspeksi Lapangan",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Permenaker No. 01/MEN/1980 tentang K3 Konstruksi Bangunan."
+        },
+        {
+            "type": "paragraph",
+            "text": "Keputusan Direktur Jenderal Pembinaan Hubungan Industrial dan Pengawasan Ketenagakerjaan tentang K3 Perancah."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Membekali pengawas perancah dengan keahlian kalkulasi beban kerja perancah (Light, Medium, Heavy Duty), verifikasi bracing, base plate, tie back, dan penandaan Scafftag."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Menghitung beban aman perancah (Safe Working Load / SWL) dan faktor keamanan pipa pipa tubular.",
+                "Memeriksa integritas coupler (clamp hidup & mati), jack base, sole board, dan guardrail.",
+                "Menerbitkan dan mengelola sistem Scafftag (Green Tag / Red Tag) di area konstruksi dan migas.",
+                "Meraih Sertifikat Pembinaan, Lisensi K3, & Buku Kerja Pengawas Scaffolding Kemnaker RI."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Kurikulum Pembinaan Pengawas Scaffolding"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Peraturan Perundangan K3 Perancah Bangunan di Indonesia.",
+                "Tipe-Tipe Perancah: Frame Scaffolding, Tube & Coupler, Modular System Scaffolding.",
+                "Perhitungan Kekuatan Struktur & Distribusi Beban Titik Tumpu.",
+                "Pencegahan Bahaya Runtuh (Collapse) & Jatuh dari Ketinggian.",
+                "Checklist Inspeksi Perancah Harian & Prosedur Pemasangan Scafftag.",
+                "Praktik Ereksi, Dismantling, & Ujian Inspeksi Lapangan Kemnaker RI."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Pendidikan minimal SMA/SMK Teknik atau D3/S1 Teknik.",
+                "Pengalaman kerja di bidang scaffolding minimal 1 tahun.",
+                "Sehat jasmani & rohani (tidak fobia ketinggian)."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan KTP, Ijazah, Surat Keterangan Sehat Dokter.",
+                "Pasfoto formal 3x4 background merah."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Pembinaan & Lisensi K3 Pengawas Scaffolding Kemnaker RI.",
+                "Buku Kerja Pengawas Perancah Resmi.",
+                "Format Checklist Inspeksi Scafftag Digital & Modul Pelatihan."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Hubungi WhatsApp Official di 0812-9687-0884."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-016.webp",
+        "alt_text": "Pelatihan Pengawas K3 Scaffolding Kemnaker RI",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_scf_sup_01",
+            "slug": "pengawas-scaffolding-batch-08",
+            "batch_number": "08",
+            "start_date": "2026-11-03",
+            "end_date": "2026-11-06",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 6500000,
+            "promo_price": 5500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}
