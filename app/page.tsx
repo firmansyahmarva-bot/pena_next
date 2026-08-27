@@ -1,10 +1,47 @@
 import React from 'react';
+import type { Metadata } from 'next';
 import Link from 'next/link';
-import { Shield, Award, Users, CheckCircle2, Calendar, ArrowRight, Building2, MapPin, Star, BookOpen, Clock, PhoneCall } from 'lucide-react';
+import { Shield, Award, Users, CheckCircle2, Calendar, ArrowRight, Building2, MapPin, Star, BookOpen, Clock, PhoneCall, HelpCircle } from 'lucide-react';
 import { getPrograms, getBatches, getIndustries, getLocations, getTestimonials, getArticles, getWaLink } from '@/lib/data';
 import OfferingCard from '@/components/OfferingCard';
 import TrustLogoBar from '@/components/TrustLogoBar';
 import CorporateQuoteForm from '@/components/CorporateQuoteForm';
+import { FaqJsonLd } from '@/components/JsonLd';
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: 'https://penaconsultant.com',
+  },
+  title: 'PENA Consultant — Pusat Pelatihan & Sertifikasi K3 Resmi Kemnaker RI & BNSP',
+  description: 'Lembaga pembinaan, sertifikasi profesi K3 resmi Kemnaker RI & BNSP di Indonesia. Jadwal batch 2026, Tempat Uji Kompetensi resmi, materi lengkap & garansi kelulusan.',
+};
+
+const topCities = [
+  { name: 'Jakarta', slug: 'jakarta', desc: 'Pusat Uji Kompetensi & Public Training Ibu Kota', highlight: 'Kelas Public & Onsite' },
+  { name: 'Surabaya', slug: 'surabaya', desc: 'TUK Mandiri & Hub Industri Jawa Timur', highlight: 'TUK Mandiri Terakreditasi' },
+  { name: 'Balikpapan', slug: 'balikpapan', desc: 'Hub Migas & Konstruksi Ibu Kota Nusantara (IKN)', highlight: 'Pusat K3 Sektor Energi' },
+  { name: 'Medan', slug: 'medan', desc: 'Pusat Sertifikasi K3 Perkebunan & Industri Sumatera', highlight: 'Layanan Sumatera Bagian Utara' },
+  { name: 'Bandung', slug: 'bandung', desc: 'TUK Manufaktur & Tekstil Jawa Barat', highlight: 'Kelas Rutin Tiap Bulan' },
+];
+
+const homepageFaqs = [
+  {
+    question: 'Apa perbedaan sertifikasi K3 resmi Kemnaker RI dan sertifikasi BNSP?',
+    answer: 'Sertifikasi Kemnaker RI memberikan Surat Keputusan Penunjukan (SKP) dan Lisensi K3 resmi yang menjadi syarat legal wajib (mandatory) pemenuhan peraturan perundangan K3 di tempat kerja. Sertifikasi BNSP berbasis Standar Kompetensi Kerja Nasional Indonesia (SKKNI) yang membuktikan kompetensi teknis profesi K3 secara nasional maupun internasional.',
+  },
+  {
+    question: 'Apakah sertifikat K3 yang diterbitkan PENA Consultant dapat diverifikasi keasliannya?',
+    answer: 'Ya, 100% sertifikat pembinaan Kemnaker RI dapat diverifikasi langsung melalui portal resmi TemanK3 Kemnaker RI. Sertifikat BNSP terhubung langsung dengan sistem registrasi Badan Nasional Sertifikasi Profesi (BNSP).',
+  },
+  {
+    question: 'Bagaimana metode pelaksanaan pelatihan K3 di PENA Consultant?',
+    answer: 'Kami menyediakan 3 opsi fleksibel: Public Training Online (via Zoom interaktif dengan instruktur master), On-Site di 23 Tempat Uji Kompetensi (TUK) di seluruh Indonesia, serta In-House Training yang disesuaikan secara khusus dengan SOP industri perusahaan Anda.',
+  },
+  {
+    question: 'Apakah perusahaan dapat mengajukan skema pembayaran bertahap atau invoice korporat?',
+    answer: 'Tentu. Untuk pendaftaran korporat dan In-House Training, kami menyediakan skema pembayaran resmi perusahaan (Purchase Order, Invoice TOP, dan kelengkapan dokumen perpajakan resmi faktur pajak PPN/PPh).',
+  },
+];
 
 export default function HomePage() {
   const allPrograms = getPrograms();
@@ -14,6 +51,9 @@ export default function HomePage() {
 
   return (
     <div>
+      {/* Homepage FAQ Schema Injection */}
+      <FaqJsonLd faqs={homepageFaqs} />
+
       {/* Hero Section */}
       <section className="relative bg-gradient-to-b from-primary-950 via-slate-900 to-slate-950 text-white pt-16 pb-24 overflow-hidden border-b border-slate-800">
         <div className="absolute inset-0 opacity-15 bg-[radial-gradient(#22c55e_1px,transparent_1px)] [background-size:20px_20px] pointer-events-none"></div>
@@ -77,18 +117,18 @@ export default function HomePage() {
 
                 <div className="space-y-4">
                   <div className="p-4 bg-slate-900/80 rounded-xl border border-slate-700/60">
-                    <h2 className="font-bold text-base text-white">Pembinaan Ahli K3 Umum Kemnaker RI</h2>
+                    <p className="font-bold text-base text-white">Pembinaan Ahli K3 Umum Kemnaker RI</p>
                     <div className="flex items-center gap-4 text-xs text-slate-300 mt-2">
                       <span className="flex items-center gap-1"><Calendar className="w-3.5 h-3.5 text-primary-400" /> Batch 21 (12 Hari)</span>
-                      <span className="flex items-center gap-1">🌐 Online Zoom</span>
+                      <span className="flex items-center gap-1">💻 Online Zoom</span>
                     </div>
                   </div>
 
                   <div className="p-4 bg-slate-900/80 rounded-xl border border-slate-700/60">
-                    <h2 className="font-bold text-base text-white">Sertifikasi Ahli K3 Konstruksi BNSP</h2>
+                    <p className="font-bold text-base text-white">Sertifikasi Ahli K3 Konstruksi BNSP</p>
                     <div className="flex items-center gap-4 text-xs text-slate-300 mt-2">
                       <span className="flex items-center gap-1"><Calendar className="w-3.5 h-3.5 text-primary-400" /> Batch 14 (3 Hari)</span>
-                      <span className="flex items-center gap-1">📍 Onsite / Blended</span>
+                      <span className="flex items-center gap-1">🏢 Onsite / Blended</span>
                     </div>
                   </div>
                 </div>
@@ -207,8 +247,61 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Regional Branch Hubs Section (Internal Links to Top Cities) */}
+      <section className="py-16 bg-slate-50 border-t border-slate-200">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-8">
+          <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4">
+            <div>
+              <span className="text-xs font-bold uppercase tracking-wider text-primary-700 bg-primary-100 px-3 py-1 rounded-md">
+                JARINGAN NASIONAL
+              </span>
+              <h2 className="text-2xl sm:text-4xl font-black text-slate-900 mt-2">
+                Tempat Uji Kompetensi &amp; Layanan di 23 Kota
+              </h2>
+              <p className="text-sm text-slate-600 mt-1">
+                Penyelenggaraan sertifikasi K3 tatap muka, uji kompetensi BNSP, dan in-house training di kota-kota strategis industri Indonesia.
+              </p>
+            </div>
+            <Link
+              href="/cabang"
+              className="text-xs sm:text-sm font-bold text-primary-700 hover:text-primary-800 flex items-center gap-1 shrink-0"
+            >
+              Lihat Seluruh 23 Kota →
+            </Link>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4">
+            {topCities.map((city) => (
+              <Link
+                key={city.slug}
+                href={`/cabang/${city.slug}`}
+                className="bg-white p-5 rounded-2xl border border-slate-200 hover:border-primary-500 hover:shadow-md transition-all flex flex-col justify-between space-y-3 group"
+              >
+                <div>
+                  <div className="flex items-center justify-between mb-2">
+                    <span className="text-[11px] font-black uppercase text-primary-700 bg-primary-50 px-2 py-0.5 rounded">
+                      {city.highlight}
+                    </span>
+                    <MapPin className="w-4 h-4 text-slate-400 group-hover:text-primary-600 transition-colors" />
+                  </div>
+                  <h3 className="text-base font-bold text-slate-900 group-hover:text-primary-700 transition-colors">
+                    Pelatihan K3 {city.name}
+                  </h3>
+                  <p className="text-xs text-slate-600 mt-1 line-clamp-2 leading-relaxed">
+                    {city.desc}
+                  </p>
+                </div>
+                <span className="text-xs font-bold text-primary-700 flex items-center gap-1 pt-2 border-t border-slate-100">
+                  Lihat Jadwal Kota →
+                </span>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* Knowledge Base & Guides */}
-      <section className="py-16 bg-slate-900 text-white border-t border-slate-800">
+      <section className="py-16 bg-slate-900 text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-8">
           <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4">
             <div>
@@ -256,6 +349,44 @@ export default function HomePage() {
               </Link>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* FAQ Section on Homepage with Accordion and Schema */}
+      <section className="py-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-8">
+        <div className="text-center max-w-2xl mx-auto">
+          <span className="text-xs uppercase font-bold tracking-widest text-primary-700 block mb-2 flex items-center justify-center gap-1.5">
+            <HelpCircle className="w-4 h-4" /> FAQ PEMBINAAN K3
+          </span>
+          <h2 className="text-2xl sm:text-4xl font-black text-slate-900">
+            Pertanyaan Umum Sertifikasi K3
+          </h2>
+          <p className="text-sm text-slate-600 mt-2">
+            Informasi penting terkait legalitas sertifikat, metode ujian, dan pelaksanaan pelatihan di PENA Consultant.
+          </p>
+        </div>
+
+        <div className="max-w-3xl mx-auto space-y-4">
+          {homepageFaqs.map((faq, idx) => (
+            <details key={idx} className="bg-white p-5 rounded-xl border border-slate-200 shadow-sm group">
+              <summary className="font-bold text-slate-900 cursor-pointer list-none flex justify-between items-center group-hover:text-primary-700 text-sm sm:text-base">
+                <span>{faq.question}</span>
+                <span className="text-slate-400 group-open:rotate-180 transition-transform">▼</span>
+              </summary>
+              <div className="mt-3 pt-3 border-t border-slate-100 text-xs sm:text-sm text-slate-600 leading-relaxed">
+                {faq.answer}
+              </div>
+            </details>
+          ))}
+        </div>
+
+        <div className="text-center pt-2">
+          <Link
+            href="/faq"
+            className="inline-flex items-center gap-1 text-xs font-bold text-primary-700 hover:text-primary-800 bg-primary-50 px-4 py-2 rounded-xl transition-all"
+          >
+            Lihat Semua Tanya Jawab (FAQ Lengkap) →
+          </Link>
         </div>
       </section>
     </div>

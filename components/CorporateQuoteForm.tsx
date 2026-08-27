@@ -31,7 +31,7 @@ Mohon dapat dikirimkan surat penawaran resmi (RFQ). Terima kasih.`;
         <span className="text-xs font-black uppercase tracking-widest text-amber-400 bg-amber-400/10 border border-amber-400/30 px-3 py-1 rounded-full inline-flex items-center gap-1.5">
           <Calculator className="w-3.5 h-3.5" /> KALKULATOR PENAWARAN B2B
         </span>
-        <h3 className="text-2xl font-black mt-3">Minta Proposal &amp; Penawaran In-House</h3>
+        <h2 className="text-2xl font-black mt-3">Minta Proposal &amp; Penawaran In-House</h2>
         <p className="text-xs sm:text-sm text-slate-300 mt-1">
           Dapatkan diskon paket korporat, jadwal fleksibel, dan sertifikat resmi Kemnaker RI / BNSP untuk karyawan Anda.
         </p>
