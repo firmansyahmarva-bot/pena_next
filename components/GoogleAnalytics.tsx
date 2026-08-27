@@ -4,8 +4,8 @@ import Script from 'next/script';
 import { usePathname, useSearchParams } from 'next/navigation';
 import { useEffect } from 'react';
 
-const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_ID || '';
-const GTM_ID = process.env.NEXT_PUBLIC_GTM_ID || '';
+const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_ID || 'G-YYB2G74Q61';
+const GTM_ID = process.env.NEXT_PUBLIC_GTM_ID || 'GTM-N9XJ2TPV';
 
 export default function GoogleAnalytics({ gaId }: { gaId?: string }) {
   const measurementId = gaId || GA_MEASUREMENT_ID;
@@ -20,10 +20,9 @@ export default function GoogleAnalytics({ gaId }: { gaId?: string }) {
     });
   }, [pathname, searchParams, measurementId]);
 
-  if (!measurementId && !GTM_ID) return null;
-
   return (
     <>
+      {/* Google Analytics 4 (gtag.js) */}
       {measurementId && (
         <>
           <Script
@@ -48,6 +47,7 @@ export default function GoogleAnalytics({ gaId }: { gaId?: string }) {
         </>
       )}
 
+      {/* Google Tag Manager (GTM) */}
       {GTM_ID && (
         <Script
           id="google-tag-manager-init"
