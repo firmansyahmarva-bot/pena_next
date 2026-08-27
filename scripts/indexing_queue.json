@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-08-26T18:57:00+07:00",
-    "total_pushed_today": 30,
+    "last_updated": "2026-08-27T13:21:04.158Z",
+    "total_pushed_today": 82,
     "pushed_today": [
         {
             "url": "https://penaconsultant.com",
@@ -181,6 +181,318 @@
             "status": "200 OK",
             "dispatched_at": "2026-08-26",
             "engine": "Google Indexing API (Service Account: wahana-indexing@...)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/auditor-sistem-manajemen-k3-2",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:41.226Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/auditor-sistem-manajemen-k3",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:41.731Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/authorized-gas-tester",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:42.609Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/damkar-paralel-kelas-dcba",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:43.165Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/fillet-plate-welder",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:43.676Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/fire-watcher",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:44.077Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/hazops-hazard-operability-studies",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:44.495Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/higiene-industri-madya-hima",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:44.907Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/higiene-industri-muda-himu",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:45.317Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/internal-auditor-iso-45001-2018",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:45.825Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/investigasi-kecelakaan",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:46.241Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/k3-teknisi-listrik",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:46.640Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/koordinator-unit-p-keb-kelas-b",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:47.058Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/lead-auditor-iso-45001-2018",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:47.466Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/operator-alat-berat",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:47.875Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/operator-boiler-kelas-2",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:48.290Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/operator-crane-kelas-3",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:48.694Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/operator-forklift-kelas-2",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:49.104Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/operator-lift-barang",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:49.616Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/operator-motor-diesel-genset",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:50.026Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/operator-pesawat-tenaga-produksi-ptp",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:50.425Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/operator-scaffolding",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:50.845Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/operator-welder-kelas-1",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:51.254Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/operator-welder-kelas-3",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:51.663Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/paramedis-k3-madya",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:52.174Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/paramedis-k3-muda",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:52.587Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/paramedis-k3-utama",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:53.097Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/penanganan-bahaya-gas-h2s",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:53.501Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/pengawas-k3-fasyankes",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:54.028Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/pengawas-k3-industri-migas",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:54.424Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/pengawas-k3-laboratorium",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:54.838Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/pengawas-k3-rumah-sakit",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:55.247Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/pengkaji-teknis-proteksi-kebakaran",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:55.760Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/perpanjangan-skp-ahli-k3",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:56.172Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/petugas-k3-kimia",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:56.556Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/petugas-k3-rumah-sakit",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:56.991Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/petugas-k3",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:57.403Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/petugas-p3k-first-aid",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:57.911Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/petugas-p3k",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:58.325Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/petugas-peran-kebakaran-kelas-d",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:58.697Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/pipe-group-welder-welding-inspector-basic",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:59.140Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/regu-penanggulangan-kebakaran-kelas-c",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:59.538Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/teknisi-bejana-tekan",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:20:59.939Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/teknisi-confined-space",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:21:00.368Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/teknisi-k3-listrik",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:21:00.759Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/teknisi-ruang-terbatas",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:21:01.168Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/tenaga-kerja-pada-ketinggian",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:21:01.596Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/tkbt-i-tenaga-kerja-bangunan-tinggi",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:21:02.024Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/tkbt-ii-tenaga-kerja-bangunan-tinggi",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:21:02.523Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/unit-p-keb-kelas-c",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:21:02.927Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/welding-engineer",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:21:03.353Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
+        },
+        {
+            "url": "https://penaconsultant.com/pelatihan/welding-foreman",
+            "status": "200 OK",
+            "dispatched_at": "2026-08-27T13:21:03.770Z",
+            "engine": "Google Indexing API (Service Account: wahana-indexing@pena-consultant.iam.gserviceaccount.com)"
         }
     ],
     "total_pending_tomorrow": 487,
