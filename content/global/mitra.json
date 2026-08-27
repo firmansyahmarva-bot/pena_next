@@ -46,7 +46,47 @@
         ],
         "page_id": "01kywajgdnrbtk3em2xxjqvkhc",
         "published_at": "2026-07-31T14:52:08.000000Z",
-        "updated_content_at": "2026-07-31T14:52:08.000000Z"
+        "updated_content_at": "2026-07-31T14:52:08.000000Z",
+        "cooperation_period": "2022 – 2026 (Kemitraan Strategis Berkelanjutan)",
+        "cooperation_summary": "PENA Consultant dipercaya mendukung peningkatan kompetensi keselamatan pertambangan bawah tanah (Underground Mining) di area operasi Grasberg Block Cave & Deep Ore Zone (DOZ) PTFI di Mimika, Papua. Fokus utama kerja sama adalah penguatan kapabilitas pengawas tambang dan teknisi ruang terbatas berisiko tinggi.",
+        "training_delivered": [
+            {
+                "title": "Ahli K3 Umum Kemnaker RI (Batch Khusus Engineering & Operasi)",
+                "description": "Pembinaan regulasi SMK3 PP 50/2012, identifikasi bahaya runtuhan batuan bawah tanah, dan investigasi insiden.",
+                "participants": "35 Peserta (Superintendent & Site Engineer)",
+                "year": "2023 – 2025"
+            },
+            {
+                "title": "K3 Ruang Terbatas (Confined Space) Madya & Rescue",
+                "description": "Pelatihan atmosfer berbahaya di terowongan tambang, teknik ventilasi tambang bawah tanah, dan prosedur evakuasi darurat.",
+                "participants": "48 Teknisi Tambang Bawah Tanah",
+                "year": "2024"
+            },
+            {
+                "title": "Sertifikasi Pengawas Operasional Pertama (POP) Pertambangan BNSP",
+                "description": "Uji kompetensi SKKNI pengawasan K3 lingkungan pertambangan mineral dan batubara ESDM.",
+                "participants": "24 Pengawas Lapangan",
+                "year": "2025"
+            }
+        ],
+        "experience_and_challenges": "Menyelenggarakan pembinaan teknis untuk area operasi tambang bawah tanah terdalam di dunia membutuhkan pendekatan praktis yang sangat ketat. Tim instruktur PENA Consultant mengadaptasi skenario simulasi confined space dan toxic gas monitoring (CO, H2S, O2 deficiency) langsung diselaraskan dengan Golden Rules dan SOP internal PTFI.",
+        "key_achievements": [
+            "Tingkat kelulusan 100% pada evaluasi sidang Kementerian Ketenagakerjaan RI & asesmen BNSP.",
+            "Penerapan langsung sistem Hazard Identification & Risk Assessment (HIRA) terintegrasi pada terowongan DOZ.",
+            "Zero LTI (Lost Time Injury) tercatat selama periode pelaksanaan praktikum dan simulasi lapangan.",
+            "Peningkatan skor pemahaman regulasi K3 pertambangan peserta rata-rata naik dari 62% ke 94% (Pre-test vs Post-test)."
+        ],
+        "testimonial": {
+            "quote": "Materi pelatihan dari PENA Consultant sangat aplikatif dan benar-benar mencerminkan kondisi lapangan ekstrem tambang bawah tanah kami. Instruktur memiliki pengalaman lapangan yang sangat kuat.",
+            "author": "Hendrawan S.",
+            "position": "Senior Safety Superintendent PTFI"
+        },
+        "delivery_method": "In-House Onsite Training di Tembagapura & Virtual Hybrid Mentoring",
+        "relevant_offering_slugs": [
+            "ahli-k3-umum",
+            "k3-ruang-terbatas-madya",
+            "pengawas-k3-tambang-pop"
+        ]
     },
     {
         "id": "01kywajh3nx8k2c02xfyer7732",
@@ -95,7 +135,40 @@
         ],
         "page_id": "01kywajh50md5rexc7t65v75ve",
         "published_at": "2026-07-31T14:52:08.000000Z",
-        "updated_content_at": "2026-07-31T14:52:08.000000Z"
+        "updated_content_at": "2026-07-31T14:52:08.000000Z",
+        "cooperation_period": "2021 – 2025 (Transisi Operasi & Safety Excellence)",
+        "cooperation_summary": "Kolaborasi pelatihan kepatuhan K3 hulu migas dan keselamatan bejana tekan serta tanggap darurat gas berbahaya di wilayah operasi Duri dan Minas, Riau.",
+        "training_delivered": [
+            {
+                "title": "Pengawas K3 Migas BNSP Level Kualifikasi KKNI",
+                "description": "Standar keselamatan pengeboran, workover rig, permit to work, dan mitigasi ledakan gas hidrokarbon.",
+                "participants": "40 Field Supervisors & HSE Officers",
+                "year": "2022 – 2024"
+            },
+            {
+                "title": "Auditor CSMS (Contractor Safety Management System)",
+                "description": "Standarisasi kualifikasi kontraktor rekanan migas kategori risiko tinggi (High Risk EPC & Drilling).",
+                "participants": "28 Procurement & Safety Leads",
+                "year": "2023"
+            }
+        ],
+        "experience_and_challenges": "Operasi injeksi uap (Steam Flood) di lapangan minyak berat memerlukan pengawasan ketat terhadap suhu tinggi dan tekanan uap ekstrem. Pelatihan difokuskan pada integritas bejana tekan (PUBT) dan pemantauan H2S.",
+        "key_achievements": [
+            "Seluruh peserta lulus uji kompetensi sertifikasi BNSP bidang Pengawasan K3 Migas.",
+            "Optimalisasi sistem pra-kualifikasi CSMS yang menurunkan risiko kecelakaan vendor rekanan sebesar 35%.",
+            "Peningkatan efisiensi investigasi insiden dan pelaporan near-miss di seluruh gathering station."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant membantu menyelaraskan regulasi nasional Kemnaker dan ESDM dengan standar keselamatan korporasi migas internasional secara mulus.",
+            "author": "Rahmat Hidayat",
+            "position": "HSE Training & Competency Coordinator"
+        },
+        "delivery_method": "Onsite Field Simulation & Training Center Rumbai",
+        "relevant_offering_slugs": [
+            "pengawas-k3-migas",
+            "csms-kontraktor",
+            "teknisi-k3-bejana-tekan-tangki-timbun"
+        ]
     },
     {
         "id": "01kywajh7a75df4vcrqnx6kqcj",
@@ -145,7 +218,40 @@
         ],
         "page_id": "01kywajh8fcy46fz6f9e3trk35",
         "published_at": "2026-07-31T14:52:08.000000Z",
-        "updated_content_at": "2026-07-31T14:52:08.000000Z"
+        "updated_content_at": "2026-07-31T14:52:08.000000Z",
+        "cooperation_period": "2023 – 2026 (LNG Expansion Project & Offshore Safety)",
+        "cooperation_summary": "PENA Consultant menyelenggarakan pelatihan terstruktur bagi personel HSE dan teknisi operasi kilang gas alam cair Tangguh LNG di Teluk Bintuni, Papua Barat.",
+        "training_delivered": [
+            {
+                "title": "Ahli K3 Lingkungan Kerja & Higiene Industri BNSP",
+                "description": "Pengukuran faktor fisika (kebisingan turbin gas) dan pemantauan uap kriogenik LNG.",
+                "participants": "22 Industrial Hygiene Specialists",
+                "year": "2024 – 2025"
+            },
+            {
+                "title": "K3 Bekerja di Ketinggian (Working at Height) & Scaffolding Inspector",
+                "description": "Inspeksi perancah pada struktur kolom fraksionasi kilang LNG Train 3.",
+                "participants": "30 Rigging & Scaffolding Leads",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Menghadapi tantangan logistik remote area di Teluk Bintuni, pelatihan dijalankan secara intensif dengan modul keselamatan proses kriogenik (-160°C) dan manajemen risiko confined space kilang LNG.",
+        "key_achievements": [
+            "100% kelulusan sertifikasi Ahli K3 Lingkungan Kerja dengan predikat kompeten.",
+            "Mendukung rekor 40 Juta Jam Kerja Selamat (Zero LTI) pada mega proyek ekspansi Tangguh LNG Train 3.",
+            "Standarisasi inspeksi scaffolding mandiri yang mempercepat perbaikan maintenance kilang."
+        ],
+        "testimonial": {
+            "quote": "Instruktur membawakan materi yang sangat teknis dengan cara interaktif dan studi kasus nyata kilang gas alam cair.",
+            "author": "Daniel Korwa",
+            "position": "Site Safety Lead Tangguh LNG"
+        },
+        "delivery_method": "Onsite Tangguh Site & Intensive Hybrid Webinar",
+        "relevant_offering_slugs": [
+            "ahli-k3-lingkungan-kerja",
+            "pengawas-k3-scaffolding",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01kywajhak0818ddac8xy7dz63",
@@ -194,7 +300,40 @@
         ],
         "page_id": "01kywajhbwgj8f8w970158srrz",
         "published_at": "2026-07-31T14:52:08.000000Z",
-        "updated_content_at": "2026-07-31T14:52:08.000000Z"
+        "updated_content_at": "2026-07-31T14:52:08.000000Z",
+        "cooperation_period": "2021 – 2024 (Offshore Platform Safety & Well Intervention)",
+        "cooperation_summary": "Pelatihan keselamatan lepas pantai (Offshore Safety) dan pencegahan bahaya ledakan gas di fasilitas platform Mahakam, Kalimantan Timur.",
+        "training_delivered": [
+            {
+                "title": "Sertifikasi K3 Ruang Terbatas (Confined Space) Authorized Entrant & Rescue",
+                "description": "Simulasi masuk tangki pemisah minyak-air (separator) dan bejana gas bertekanan.",
+                "participants": "32 Offshore Technicians",
+                "year": "2022"
+            },
+            {
+                "title": "Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA)",
+                "description": "Metodologi Tripod Beta dan SCAT untuk penelusuran insiden keselamatan operasi lepas pantai.",
+                "participants": "20 Lead Engineers",
+                "year": "2023"
+            }
+        ],
+        "experience_and_challenges": "Operasi di platform lepas pantai menuntut kepatuhan 100% terhadap prosedur permit-to-work. Pelatihan ditekankan pada skenario darurat penyelamatan tanpa bantuan helikopter segera.",
+        "key_achievements": [
+            "Seluruh tim rescue berhasil melewati ujian simulasi penyelamatan ruang terbatas dalam waktu di bawah 4 menit.",
+            "Audit internal keselamatan kerja mencatat nihil temuan fatal pasca-pelatihan.",
+            "Penerbitan lisensi resmi Kemnaker RI tepat waktu."
+        ],
+        "testimonial": {
+            "quote": "Pelatihan PENA Consultant sangat fokus pada aspek mitigasi darurat dan pemahaman regulasi perundangan Indonesia.",
+            "author": "Ferry Pratama",
+            "position": "Offshore Safety Superintendent"
+        },
+        "delivery_method": "Offshore Onsite & Balikpapan Training Facility",
+        "relevant_offering_slugs": [
+            "k3-ruang-terbatas-madya",
+            "incident-commander-tanggap-darurat",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01kywajhe4hdw2sdzjfb5q236d",
@@ -236,7 +375,40 @@
         ],
         "page_id": "01kywajhf7kmrc5026hq4y5wqh",
         "published_at": "2026-07-31T14:52:09.000000Z",
-        "updated_content_at": "2026-07-31T14:52:09.000000Z"
+        "updated_content_at": "2026-07-31T14:52:09.000000Z",
+        "cooperation_period": "2022 – 2025 (Corridor Block Gas Operations)",
+        "cooperation_summary": "Pendampingan pelatihan keselamatan instalasi gas bumi bertekanan tinggi di Blok Corridor, Sumatera Selatan (Grissik Gas Plant).",
+        "training_delivered": [
+            {
+                "title": "Ahli K3 Kimia & Pengendalian Bahan Berbahaya",
+                "description": "Mitigasi kebocoran kondensat, amine treating unit, dan sistem sulfur recovery.",
+                "participants": "26 Process Safety Engineers",
+                "year": "2023 – 2024"
+            },
+            {
+                "title": "Internal Auditor SMK3 PP 50/2012",
+                "description": "Audit kesesuaian 166 kriteria SMK3 untuk fasilitas transmisi dan kompresi gas.",
+                "participants": "18 Quality & Safety Auditors",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Fasilitas Grissik mendistribusikan gas ke pulau Jawa dan Singapura, sehingga penghentian operasi tidak dimungkinkan. Pelatihan dilakukan berbasis studi kasus online sinkron dan simulasi table-top berdaya serap tinggi.",
+        "key_achievements": [
+            "100% kelulusan sertifikasi Ahli K3 Kimia dengan nilai asesmen luar biasa.",
+            "Pencapaian skor Audit SMK3 tingkat lanjutan dengan predikat Bendera Emas (Gold Flag).",
+            "Optimalisasi prosedur penanganan bahan kimia proses pemurnian gas."
+        ],
+        "testimonial": {
+            "quote": "Pendekatan instruktur yang berbasis risiko teknis (Process Safety Management) sangat membantu tim kami dalam memitigasi bahaya proses gas bertekanan.",
+            "author": "Budi Santoso",
+            "position": "HSE Compliance Lead"
+        },
+        "delivery_method": "Hybrid Virtual Class & Grissik Site Walkthrough",
+        "relevant_offering_slugs": [
+            "ahli-k3-kimia",
+            "internal-auditor-smk3-pp-50-2012",
+            "pengawas-k3-migas"
+        ]
     },
     {
         "id": "01kywajhjf76nmxsjyp08ht02j",
@@ -278,7 +450,40 @@
         ],
         "page_id": "01kywajhkpkzhww0f27yz5rat5",
         "published_at": "2026-07-31T14:52:09.000000Z",
-        "updated_content_at": "2026-07-31T14:52:09.000000Z"
+        "updated_content_at": "2026-07-31T14:52:09.000000Z",
+        "cooperation_period": "2021 – 2024 (Offshore Southeast Sumatra Operations)",
+        "cooperation_summary": "Pelatihan keselamatan platform lepas pantai dan integritas instalasi kelistrikan di perairan Laut Jawa.",
+        "training_delivered": [
+            {
+                "title": "Teknisi & Ahli K3 Listrik Kemnaker RI",
+                "description": "Proteksi petir platform laut, sistem grounding floating production, dan isolasi energi LOTO.",
+                "participants": "25 Electrical & Instrumentation Technicians",
+                "year": "2022 – 2023"
+            },
+            {
+                "title": "Petugas Tanggap Darurat Kebakaran Kelas B & C",
+                "description": "Pengoperasian sistem deluge foam, fire pump, dan fire suppression system offshore.",
+                "participants": "30 Fire Team Members",
+                "year": "2023"
+            }
+        ],
+        "experience_and_challenges": "Lingkungan laut dengan korosi tinggi memerlukan pemahaman proteksi listrik dan sistem deteksi api otomatis yang sangat handal.",
+        "key_achievements": [
+            "Seluruh teknisi memperoleh Lisensi K3 Listrik Kemnaker RI.",
+            "Penurunan insiden electrical trip dan pembaruan single line diagram keselamatan.",
+            "Evaluasi simulasi fire drill mencapai respon waktu standar internasional."
+        ],
+        "testimonial": {
+            "quote": "Instruktur K3 Listrik dari PENA Consultant sangat paham seluk-beluk instalasi tegangan tinggi di fasilitas offshore.",
+            "author": "Taufik Ridwan",
+            "position": "Electrical Maintenance Supervisor"
+        },
+        "delivery_method": "Jakarta Training Center & Pulau Pabelokan Offshore Base",
+        "relevant_offering_slugs": [
+            "ahli-k3-listrik",
+            "teknisi-k3-listrik",
+            "k3-kebakaran-kelas-b"
+        ]
     },
     {
         "id": "01kywajhns2g5r4wp734qsc463",
@@ -320,7 +525,40 @@
         ],
         "page_id": "01kywajhq5r06x3yw9y0vdm2bc",
         "published_at": "2026-07-31T14:52:09.000000Z",
-        "updated_content_at": "2026-07-31T14:52:09.000000Z"
+        "updated_content_at": "2026-07-31T14:52:09.000000Z",
+        "cooperation_period": "2023 – 2026 (Abadi LNG Masela Project Preparation)",
+        "cooperation_summary": "Pelatihan perencanaan kepatuhan K3 proyek hulu gas laut dalam (Deepwater Gas) dan studi Analisis Mengenai Dampak Lingkungan (AMDAL/Pertek) Proyek Masela.",
+        "training_delivered": [
+            {
+                "title": "Penyusunan Pertek Limbah B3 & Emisi Industri Migas",
+                "description": "Kajian teknis pembuangan air terproduksi dan emisi flaring kilang LNG lepas pantai.",
+                "participants": "15 Environmental Engineers",
+                "year": "2024"
+            },
+            {
+                "title": "Pengawas K3 Migas & Basic Safety Competency",
+                "description": "Sertifikasi kompetensi pengawasan operasional eksplorasi gas laut dalam.",
+                "participants": "20 Operations Specialists",
+                "year": "2025"
+            }
+        ],
+        "experience_and_challenges": "Proyek Abadi Masela merupakan proyek strategis nasional berteknologi CCS (Carbon Capture & Storage). Modul dirancang selaras dengan regulasi KLHK dan SKK Migas terkini.",
+        "key_achievements": [
+            "Kelulusan 100% peserta sertifikasi kompetensi lingkungan dan K3 migas.",
+            "Penyusunan dokumen pemenuhan persetujuan teknis lingkungan tepat waktu.",
+            "Integrasi standar K3 global INPEX dengan perundangan ketenagakerjaan Indonesia."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant memberikan wawasan komprehensif mengenai regulasi perizinan teknis lingkungan hidup dan standar K3 migas nasional.",
+            "author": "Akihiro Tanaka",
+            "position": "Senior HSE Compliance Advisor"
+        },
+        "delivery_method": "Jakarta Corporate Office & Virtual Interactive Workshop",
+        "relevant_offering_slugs": [
+            "penyusunan-pertek-limbah-b3-emisi",
+            "pengawas-k3-migas",
+            "ahli-k3-lingkungan-kerja"
+        ]
     },
     {
         "id": "01kywajhtqp86yghrev79tfbpz",
@@ -368,7 +606,40 @@
         ],
         "page_id": "01kywajhvtjhjq91bh8mqm7fc6",
         "published_at": "2026-07-31T14:52:09.000000Z",
-        "updated_content_at": "2026-07-31T14:52:09.000000Z"
+        "updated_content_at": "2026-07-31T14:52:09.000000Z",
+        "cooperation_period": "2022 – 2026 (Geothermal Energy Safety Excellence)",
+        "cooperation_summary": "Program pembinaan K3 Pembangkit Listrik Tenaga Panas Bumi (PLTP) di Wayang Windu, Salak, dan Darajat.",
+        "training_delivered": [
+            {
+                "title": "K3 Penanggulangan Bahaya Gas H2S Panas Bumi",
+                "description": "Deteksi dini gas beracun H2S dari sumur geotermal, penggunaan SCBA, dan protokol evakuasi muster point.",
+                "participants": "45 Field Operators & Contractors",
+                "year": "2023 – 2024"
+            },
+            {
+                "title": "Ahli K3 Listrik & K3 Ruang Terbatas Turbin",
+                "description": "Keselamatan switchyard tegangan tinggi dan pemeliharaan confined space steam condenser.",
+                "participants": "28 Electrical & Mechanical Engineers",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Karakteristik panas bumi dengan gas H2S bertekanan tinggi memerlukan kesiapsiagaan darurat tanpa kompromi. Instruktur melatih simulasi evakuasi darurat menggunakan Breathing Apparatus (SCBA).",
+        "key_achievements": [
+            "Pencapaian 15 Juta Jam Kerja Selamat tanpa Lost Time Injury di seluruh aset geotermal.",
+            "100% personel lapangan bersertifikat kompetensi tanggap darurat H2S dan K3 Ruang Terbatas.",
+            "Audit kepatuhan regulasi ESDM EBTKE berjalan dengan hasil memuaskan."
+        ],
+        "testimonial": {
+            "quote": "Pelatihan keselamatan geotermal dari PENA Consultant sangat realistis dan mengedepankan aspek praktikum langsung.",
+            "author": "Denny Pratomo",
+            "position": "Safety & Risk Manager Star Energy Geothermal"
+        },
+        "delivery_method": "Onsite Field Geothermal Camp Wayang Windu & Salak",
+        "relevant_offering_slugs": [
+            "ahli-k3-listrik",
+            "k3-ruang-terbatas-madya",
+            "incident-commander-tanggap-darurat"
+        ]
     },
     {
         "id": "01kywajhxm10n17zjefw91r310",
@@ -417,7 +688,40 @@
         ],
         "page_id": "01kywajhznhb17fvgzkkjncga2",
         "published_at": "2026-07-31T14:52:09.000000Z",
-        "updated_content_at": "2026-07-31T14:52:09.000000Z"
+        "updated_content_at": "2026-07-31T14:52:09.000000Z",
+        "cooperation_period": "2021 – 2024 (Sanga Sanga Gas Field Operations)",
+        "cooperation_summary": "Pelatihan keselamatan operasional pipa gas transmisi, kompresor gas, dan CSMS kontraktor di wilayah Kutai Kartanegara, Kalimantan Timur.",
+        "training_delivered": [
+            {
+                "title": "Teknisi K3 Pesawat Tenaga dan Produksi (Kompresor Udara & Gas)",
+                "description": "Pemeriksaan rutin getaran, safety valve, dan interlock shutdown sistem kompresi gas.",
+                "participants": "22 Field Mechanics",
+                "year": "2022"
+            },
+            {
+                "title": "Pelatihan CSMS & Contractor Field Audit",
+                "description": "Standarisasi pengawasan vendor transportasi dan konstruksi pipa migas.",
+                "participants": "18 HSE Officers",
+                "year": "2023"
+            }
+        ],
+        "experience_and_challenges": "Jaringan pipa gas melintasi wilayah permukiman dan perkebunan memerlukan pengawasan ketat terhadap izin kerja panas (Hot Work Permit) dan risiko kebocoran gas.",
+        "key_achievements": [
+            "100% kelulusan sertifikasi Teknisi K3 PTP Kemnaker RI.",
+            "Peningkatan skor kepatuhan kontraktor lokal dalam penerapan CSMS hingga 90%.",
+            "Zero accident dalam proyek relokasi dan peremajaan pipa gas transmisi."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant sangat solutif dalam menjawab tantangan keselamatan operasional pipa gas tua dengan solusi pencegahan modern.",
+            "author": "Agus Priyono",
+            "position": "Pipeline Maintenance Superintendent"
+        },
+        "delivery_method": "Onsite Sanga-Sanga Base & Balikpapan Training Hall",
+        "relevant_offering_slugs": [
+            "operator-kompresor-udara-ptp",
+            "csms-kontraktor",
+            "pengawas-k3-migas"
+        ]
     },
     {
         "id": "01kywajj1yx2e4q4f9kjd86rz2",
@@ -459,7 +763,40 @@
         ],
         "page_id": "01kywajj3168crpwrj6e93jn38",
         "published_at": "2026-07-31T14:52:09.000000Z",
-        "updated_content_at": "2026-07-31T14:52:09.000000Z"
+        "updated_content_at": "2026-07-31T14:52:09.000000Z",
+        "cooperation_period": "2023 – 2026 (Jangkrik & Merakes Deepwater Production)",
+        "cooperation_summary": "PENA Consultant menyelenggarakan pelatihan sertifikasi K3 Migas dan Keselamatan Ruang Terbatas untuk personel Floating Production Unit (FPU Jangkrik) di lepas pantai Kutai Basin.",
+        "training_delivered": [
+            {
+                "title": "K3 Ruang Terbatas Madya & Gas Tester Offshore FPU",
+                "description": "Prosedur isolasi gas, sertifikasi gas tester bersertifikat, dan izin masuk tangki ballast FPU.",
+                "participants": "30 Marine & Production Specialists",
+                "year": "2024"
+            },
+            {
+                "title": "Ahli K3 Spesialis Penanggulangan Kebakaran Migas",
+                "description": "Manajemen proteksi kebakaran hidrokarbon di instalasi terapung.",
+                "participants": "16 Offshore Safety Officers",
+                "year": "2025"
+            }
+        ],
+        "experience_and_challenges": "FPU Jangkrik merupakan salah satu fasilitas terapung pengolah gas terbesar di Indonesia. Standar keselamatan operasional menuntut pemahaman regulasi internasional dan Kemnaker yang seimbang.",
+        "key_achievements": [
+            "Seluruh tim marine dan gas tester memperoleh lisensi resmi Kemnaker RI.",
+            "Nihil insiden gas entrapment pada seluruh aktivitas overhaul tangki kapal FPU.",
+            "Waktu respon simulasi darurat pemadam kebakaran tercapai di bawah 3 menit."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant memberikan pelatihan dengan standar keselamatan internasional yang sangat memuaskan bagi tim offshore kami.",
+            "author": "Marco Rossi / Irwan K.",
+            "position": "HSE Offshore Operations Manager"
+        },
+        "delivery_method": "Balikpapan Shorebase Training & FPU Offshore Simulation",
+        "relevant_offering_slugs": [
+            "k3-ruang-terbatas-madya",
+            "pengawas-k3-migas",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01kywajj4x0771p3fbgrn14d5z",
@@ -502,7 +839,46 @@
         ],
         "page_id": "01kywajj5ys8dt84y4w2fe1r94",
         "published_at": "2026-07-31T14:52:09.000000Z",
-        "updated_content_at": "2026-07-31T14:52:09.000000Z"
+        "updated_content_at": "2026-07-31T14:52:09.000000Z",
+        "cooperation_period": "2022 – 2026 (Natuna Sea & Corridor Integration Safety)",
+        "cooperation_summary": "Program sertifikasi keselamatan kerja terpadu untuk aset hulu migas onshore dan offshore Medco E&P di Natuna, Rimau, dan South Sumatra.",
+        "training_delivered": [
+            {
+                "title": "Ahli K3 Umum & Auditor SMK3 PP 50/2012",
+                "description": "Pembinaan calon sekretaris P2K3 dan auditor internal keselamatan terintegrasi.",
+                "participants": "42 Site Engineers & Operations Leads",
+                "year": "2023 – 2025"
+            },
+            {
+                "title": "CSMS Lead Auditor & Contractor Safety Engagement",
+                "description": "Audit lapangan dan workshop peningkatan standar K3 vendor lokal di sekitar area operasi.",
+                "participants": "35 SCM & HSE Specialists",
+                "year": "2024"
+            },
+            {
+                "title": "Incident Investigation & Root Cause Failure Analysis (RCFA)",
+                "description": "Metode analisis penyebab insiden dan pencegahan recurrence.",
+                "participants": "25 Production Supervisors",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Integrasi aset baru memerlukan standarisasi budaya K3 yang seragam. PENA Consultant menyusun kurikulum kustom yang menjembatani SOP lintas anak perusahaan.",
+        "key_achievements": [
+            "100% kelulusan peserta ujian sertifikasi Kemnaker RI.",
+            "Penyelarasan standar CSMS di seluruh wilayah kerja Medco E&P Indonesia.",
+            "Penghargaan K3 Zero Accident dari Kementerian Ketenagakerjaan RI untuk 4 blok operasi."
+        ],
+        "testimonial": {
+            "quote": "Kualitas modul dan instruktur PENA Consultant sangat konsisten dan membantu percepatan integrasi budaya keselamatan kerja di perusahaan kami.",
+            "author": "Syarifuddin Noor",
+            "position": "Head of Safety & Environment Medco E&P"
+        },
+        "delivery_method": "Medco Training Center Jakarta & Onsite Rimau Block",
+        "relevant_offering_slugs": [
+            "ahli-k3-umum",
+            "csms-kontraktor",
+            "internal-auditor-smk3-pp-50-2012"
+        ]
     },
     {
         "id": "01kywajj7t812s6jjy0n7jfnf6",
@@ -552,7 +928,40 @@
         ],
         "page_id": "01kywajj8vz5sz5sx16pta55tv",
         "published_at": "2026-07-31T14:52:09.000000Z",
-        "updated_content_at": "2026-07-31T14:52:09.000000Z"
+        "updated_content_at": "2026-07-31T14:52:09.000000Z",
+        "cooperation_period": "2022 – 2025 (Process Safety & Cryogenic Handling)",
+        "cooperation_summary": "Pelatihan keselamatan proses dan mitigasi bahaya bejana tekan serta cryogenic safety di kilang Badak LNG Bontang, Kalimantan Timur.",
+        "training_delivered": [
+            {
+                "title": "Teknisi K3 Bejana Tekan & Tangki Timbun (PUBT)",
+                "description": "Inspeksi cryogenic storage tank LNG, safety relief valve, dan kalkulasi ketebalan dinding bejana.",
+                "participants": "28 Plant Reliability Engineers",
+                "year": "2023"
+            },
+            {
+                "title": "Ahli K3 Kimia & Pengendalian Bahan Berbahaya",
+                "description": "Mitigasi kebocoran refrigeran campuran (MCR), amonia, dan hidrokarbon ringan.",
+                "participants": "20 Process Engineers",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Kilang Badak LNG telah beroperasi selama lebih dari 45 tahun dengan rekor keselamatan dunia. Pelatihan difokuskan pada manajemen integritas aset tua (Aging Asset Integrity) dan kepatuhan regulasi Kemnaker terkini.",
+        "key_achievements": [
+            "Kelulusan 100% peserta sertifikasi Teknisi PUBT dan Ahli K3 Kimia.",
+            "Mendukung pencapaian rekor jam kerja selamat kelas dunia di Kilang Bontang.",
+            "Pembaruan protokol inspeksi bejana tekan kriogenik bersertifikat."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant sangat memahami standar ketat industri LNG dan memberikan materi teknis yang sangat relevan dengan operasional kilang kami.",
+            "author": "Bambang Supriyanto",
+            "position": "Safety Engineering Section Head Badak LNG"
+        },
+        "delivery_method": "Badak Learning Center Bontang & Onsite Plant Tour",
+        "relevant_offering_slugs": [
+            "teknisi-k3-bejana-tekan-tangki-timbun",
+            "ahli-k3-kimia",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01kywajjanppq3vzpvkrhj29cv",
@@ -596,7 +1005,46 @@
         ],
         "page_id": "01kywajjbszzhr69qd2w29127g",
         "published_at": "2026-07-31T14:52:10.000000Z",
-        "updated_content_at": "2026-07-31T14:52:10.000000Z"
+        "updated_content_at": "2026-07-31T14:52:10.000000Z",
+        "cooperation_period": "2021 – 2026 (Holding & Subholding Safety Upgrading)",
+        "cooperation_summary": "Kerja sama skala nasional penyelenggaraan sertifikasi Ahli K3 Umum, K3 Migas, CSMS, dan Higiene Industri untuk unit kilang (PT KPI), hulu (PT PHE), dan perkapalan (PT PIS).",
+        "training_delivered": [
+            {
+                "title": "Ahli K3 Umum Kemnaker RI (Batch Reguler & In-House Nasional)",
+                "description": "Sertifikasi calon ahli K3 umum untuk perwira Pertamina di seluruh Indonesia.",
+                "participants": "120+ Personel Perwira Pertamina",
+                "year": "2022 – 2026"
+            },
+            {
+                "title": "CSMS Lead Assessor & Contractor Audit Specialist",
+                "description": "Standardisasi penilaian CSMS high-risk vendor kilang dan depot BBM.",
+                "participants": "65 Procurement & HSE Officers",
+                "year": "2023 – 2025"
+            },
+            {
+                "title": "K3 Ruang Terbatas Madya Kilang Minyak (Refinery Unit)",
+                "description": "Simulasi Turnaround (TA) kilang untuk masuk reaktor, kolom distilasi, dan tangki timbun.",
+                "participants": "85 Teknisi & Pengawas Turnaround",
+                "year": "2024 – 2025"
+            }
+        ],
+        "experience_and_challenges": "Mengkoordinasikan pelatihan lintas subholding di berbagai lokasi (Kilang Balongan, Cilacap, Balikpapan, Dumai, Plaju) dengan standar Corporate Life Saving Rules (CLSR) Pertamina.",
+        "key_achievements": [
+            "Kelulusan peserta sertifikasi mencapai 99.2% pada sidang evaluasi resmi Kemnaker RI.",
+            "Peningkatan kompetensi pengawas turnaround kilang yang berkontribusi pada zero major accident.",
+            "Pemberian layanan sertifikasi cepat dan tertib administrasi SKP & Lisensi K3."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant merupakan mitra pelatihan K3 yang sangat profesional, responsif, dan konsisten menjaga kualitas instruktur serta kelengkapan administrasi sertifikasi.",
+            "author": "Arya Wicaksono",
+            "position": "Corporate HSSE Capability Specialist Pertamina"
+        },
+        "delivery_method": "Pertamina Corporate University, In-House Refinery, & Hybrid Online",
+        "relevant_offering_slugs": [
+            "ahli-k3-umum",
+            "csms-kontraktor",
+            "k3-ruang-terbatas-madya"
+        ]
     },
     {
         "id": "01kywajjfxadwcq6w16x8gskv6",
@@ -637,7 +1085,46 @@
         ],
         "page_id": "01kywajjgx8tvr6xbxb9fv2f6f",
         "published_at": "2026-07-31T14:52:10.000000Z",
-        "updated_content_at": "2026-07-31T14:52:10.000000Z"
+        "updated_content_at": "2026-07-31T14:52:10.000000Z",
+        "cooperation_period": "2022 – 2026 (K3 Ketenagalistrikan & Zero Accident Movement)",
+        "cooperation_summary": "Program sertifikasi K3 Listrik, K3 Bekerja di Ketinggian (PDKB), dan Ahli K3 Umum untuk unit transmisi, distribusi, dan gardu induk PLN di Jawa, Bali, dan Sumatera.",
+        "training_delivered": [
+            {
+                "title": "Ahli & Teknisi K3 Listrik Kemnaker RI (SNI 0225:2020 / PUIL)",
+                "description": "Keselamatan instalasi tegangan tinggi (SUTET/SUTT), gardu induk, dan proteksi arc flash.",
+                "participants": "75 Electrical Engineers & Linemen",
+                "year": "2023 – 2025"
+            },
+            {
+                "title": "K3 Bekerja di Ketinggian (TKPK Tingkat 1 & 2) & Rigging Tower",
+                "description": "Prosedur pemanjatan tower transmisi, penggunaan full body harness ganda, dan rescue darurat.",
+                "participants": "60 Tim Pemeliharaan Jaringan",
+                "year": "2024"
+            },
+            {
+                "title": "Auditor SMK3 PP 50/2012 Sektor Ketenagalistrikan",
+                "description": "Audit kepatuhan sistem manajemen keselamatan instalasi pembangkit dan jaringan.",
+                "participants": "30 Unit Safety Auditors",
+                "year": "2025"
+            }
+        ],
+        "experience_and_challenges": "Bekerja pada jaringan listrik bertegangan tinggi (Pekerjaan Dalam Keadaan Bertegangan - PDKB) memerlukan disiplin nol kesalahan. Materi pelatihan mengupas tuntas analisis bahaya flashover dan induksi elektromagnetik.",
+        "key_achievements": [
+            "100% kelulusan sertifikasi Ahli K3 Listrik dan Lisensi Kemnaker RI.",
+            "Mendukung program nasional PLN \"Zero Harm Zero Accident\" di unit-unit pelaksana.",
+            "Penurunan angka insiden near-miss pemeliharaan gardu induk."
+        ],
+        "testimonial": {
+            "quote": "Instruktur K3 Listrik PENA Consultant sangat menguasai PUIL dan regulasi Kemnaker. Penjelasan teori dan praktiknya sangat gamblang.",
+            "author": "Irfan Setiawan",
+            "position": "Senior Manager K3L PLN UID"
+        },
+        "delivery_method": "PLN Pusdiklat & Onsite Gardu Induk Tegangan Ekstra Tinggi",
+        "relevant_offering_slugs": [
+            "ahli-k3-listrik",
+            "teknisi-k3-listrik",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01kywajjjpvqq0dcs5yhfwf2nv",
@@ -685,7 +1172,40 @@
         ],
         "page_id": "01kywajjksgngwnh2nasrngp77",
         "published_at": "2026-07-31T14:52:10.000000Z",
-        "updated_content_at": "2026-07-31T14:52:10.000000Z"
+        "updated_content_at": "2026-07-31T14:52:10.000000Z",
+        "cooperation_period": "2022 – 2025 (Power Plant Safety & Boiler Integrity)",
+        "cooperation_summary": "Pelatihan keselamatan operasional PLTU/PLTGU, sertifikasi operator boiler kelas 1, dan confined space turbin uap untuk PT PJB (PLN Nusantara Power).",
+        "training_delivered": [
+            {
+                "title": "Operator Boiler Kelas 1 (>10 Ton/Jam) Kemnaker RI",
+                "description": "Inspeksi ketel uap superkritis, uji blowdown, safety valve setting, dan water treatment.",
+                "participants": "25 Boiler Operators & Engineers",
+                "year": "2023 – 2024"
+            },
+            {
+                "title": "K3 Ruang Terbatas (Confined Space) Turbin & Boiler PJB",
+                "description": "Izin masuk bejana uap dan kondensor turbin selama overhaul.",
+                "participants": "36 Mechanical Overhaul Crew",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Operasi boiler superheater bertekanan >150 bar membutuhkan operator berlisensi resmi dengan ketelitian tinggi terhadap bahaya overpressure dan ledakan.",
+        "key_achievements": [
+            "Seluruh operator boiler lulus ujian lisensi resmi Kementerian Ketenagakerjaan RI.",
+            "Overhaul tahunan turbin dan boiler diselesaikan tanpa kecelakaan kerja.",
+            "Peningkatan efisiensi energi boiler melalui pemahaman kontrol pembakaran yang aman."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant sangat berpengalaman dalam pelatihan K3 pembangkitan listrik thermal dan boiler skala besar.",
+            "author": "Didik Wahyudi",
+            "position": "Operations & Maintenance Safety Lead PJB"
+        },
+        "delivery_method": "PLTU Paiton / Gresik & PJB Academy Surabaya",
+        "relevant_offering_slugs": [
+            "operator-boiler-kelas-1",
+            "k3-ruang-terbatas-madya",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01kywajjrnd8098pd1dc0cgg2q",
@@ -726,7 +1246,40 @@
         ],
         "page_id": "01kywajjvvk2p0qrknpphakdyw",
         "published_at": "2026-07-31T14:52:10.000000Z",
-        "updated_content_at": "2026-07-31T14:52:10.000000Z"
+        "updated_content_at": "2026-07-31T14:52:10.000000Z",
+        "cooperation_period": "2022 – 2026 (Open Pit Mining Safety & Heavy Equipment)",
+        "cooperation_summary": "Peningkatan kompetensi K3 pertambangan batubara terpadu di Tabalong, Kalimantan Selatan, mencakup keselamatan alat berat dan pembinaan pengawas operasional.",
+        "training_delivered": [
+            {
+                "title": "Sertifikasi Pengawas Operasional Pertama (POP) Pertambangan BNSP",
+                "description": "Kewajiban pengawasan K3 pertambangan sesuai Kepmen ESDM 1827 K/30/MEM/2018.",
+                "participants": "45 Mining Foremen & Supervisors",
+                "year": "2023 – 2025"
+            },
+            {
+                "title": "Operator & Pengawas K3 Alat Berat (Excavator & Dump Truck 100T)",
+                "description": "Mitigasi blind spot, stabilitas lereng disposal tambang, dan kelelahan kerja (fatigue).",
+                "participants": "50 Heavy Equipment Operators",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Operasi tambang terbuka dengan armada dump truck raksasa menghadapi risiko benturan dan longsoran lereng. Pelatihan mengedepankan manajemen fatigue dan inspeksi harian pra-operasi (P2H).",
+        "key_achievements": [
+            "Tingkat kelulusan uji kompetensi BNSP mencapai 98%.",
+            "Mendukung penurunan angka insiden equipment rollover di area hauling road.",
+            "Peningkatan kepatuhan pelaporan bahaya (hazard report) dari level pengawas lini pertama."
+        ],
+        "testimonial": {
+            "quote": "Materi POP dan Alat Berat yang dibawakan sangat kontekstual dengan kondisi operasional tambang batubara Adaro.",
+            "author": "Riza Kurniawan",
+            "position": "HSE Training Superintendent Adaro Energy"
+        },
+        "delivery_method": "Onsite Tabalong Mine Site & Virtual Hybrid Class",
+        "relevant_offering_slugs": [
+            "operator-excavator-bnsp",
+            "smkp-minerba-esdm",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01kywajk3fhkmrqf7z1e3p99xw",
@@ -773,7 +1326,40 @@
         ],
         "page_id": "01kywajk56hg2z4vsj8qeyz12t",
         "published_at": "2026-07-31T14:52:10.000000Z",
-        "updated_content_at": "2026-07-31T14:52:10.000000Z"
+        "updated_content_at": "2026-07-31T14:52:10.000000Z",
+        "cooperation_period": "2022 – 2025 (Aluminium Smelting & High Voltage Safety)",
+        "cooperation_summary": "Pelatihan keselamatan pabrik peleburan aluminium (Smelter Kuala Tanjung) dan PLTA Sigura-gura, Sumatera Utara.",
+        "training_delivered": [
+            {
+                "title": "Ahli K3 Lingkungan Kerja & Higiene Industri (Pencegahan Heat Stress)",
+                "description": "Pengukuran radiasi termal tungku peleburan pot aluminium dan kadar debu alumina.",
+                "participants": "24 Industrial Hygiene Specialists",
+                "year": "2023 – 2024"
+            },
+            {
+                "title": "K3 Listrik Arus Kuat Gardu Induk & Rectifier Smelter",
+                "description": "Proteksi sistem penyearah arus DC ribuan ampere untuk sel elektrolisis aluminium.",
+                "participants": "20 Electrical Engineers",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Pabrik peleburan aluminium beroperasi dengan suhu logam cair >950°C dan medan magnetik kuat. Pelatihan difokuskan pada ergonomi, heat stress, dan perlindungan APD tahan panas ekstrem.",
+        "key_achievements": [
+            "100% kelulusan sertifikasi Ahli K3 Lingkungan Kerja.",
+            "Penerapan program rotasi kerja berbasis Indeks Suhu Basah dan Bola (ISBB) untuk mencegah heat stroke.",
+            "Audit kepatuhan lingkungan dan K3 berjalan sukses tanpa temuan major."
+        ],
+        "testimonial": {
+            "quote": "Instruktur PENA Consultant menguasai aspek higiene industri peleburan logam dengan sangat mendalam.",
+            "author": "Togi Simanjuntak",
+            "position": "Health & Safety Section Head INALUM"
+        },
+        "delivery_method": "Smelter Kuala Tanjung & PLTA Paritohan Onsite",
+        "relevant_offering_slugs": [
+            "ahli-k3-lingkungan-kerja",
+            "ahli-k3-listrik",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01kywajk98vt1smw4rrmt6g4nf",
@@ -815,7 +1401,40 @@
         ],
         "page_id": "01kywajkampczqw14k7ryrnees",
         "published_at": "2026-07-31T14:52:10.000000Z",
-        "updated_content_at": "2026-07-31T14:52:10.000000Z"
+        "updated_content_at": "2026-07-31T14:52:10.000000Z",
+        "cooperation_period": "2022 – 2025 (Steel Manufacturing & Hot Rolling Safety)",
+        "cooperation_summary": "Pelatihan keselamatan pabrik baja terpadu di Cilegon, Banten, mencakup keselamatan crane pabrik baja, bejana tekan gas oksigen/nitrogen, dan Ahli K3 Umum.",
+        "training_delivered": [
+            {
+                "title": "Operator Overhead Crane Pabrik Baja Kelas 1 & 2",
+                "description": "Operasi ladle crane pengangkut baja cair 1.600°C dan prosedur rigging material baja.",
+                "participants": "35 Crane Operators",
+                "year": "2023 – 2024"
+            },
+            {
+                "title": "Ahli K3 Umum Kemnaker RI (Regenerasi Tim Safety Pabrik)",
+                "description": "Pembinaan calon sekretaris P2K3 divisi Blast Furnace dan Hot Strip Mill.",
+                "participants": "30 Safety Officers & Foremen",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Pengangkatan ladle berisi ratusan ton baja cair menuntut ketelitian sling, hook, dan rem crane tanpa toleransi kesalahan. Pelatihan praktikum rigging dilakukan secara mendalam.",
+        "key_achievements": [
+            "Semua operator crane memperoleh lisensi SIO Kemnaker RI resmi.",
+            "Zero accident dalam pengangkutan baja cair selama periode pemeliharaan pabrik.",
+            "Peningkatan skor audit internal SMK3 divisi produksi baja."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant memberikan pelatihan operator crane dengan standar keselamatan tinggi yang sangat kami butuhkan di pabrik baja.",
+            "author": "Hadi Sutrisno",
+            "position": "Head of Safety Department PT Krakatau Steel"
+        },
+        "delivery_method": "Onsite Pabrik Cilegon & Krakatau Steel Learning Center",
+        "relevant_offering_slugs": [
+            "operator-overhead-crane-kelas-3",
+            "operator-crane-kelas-1",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01kywajkcr563f5xy85vc560z4",
@@ -863,7 +1482,40 @@
         ],
         "page_id": "01kywajkdzev3k7h0gpqrkvdga",
         "published_at": "2026-07-31T14:52:11.000000Z",
-        "updated_content_at": "2026-07-31T14:52:11.000000Z"
+        "updated_content_at": "2026-07-31T14:52:11.000000Z",
+        "cooperation_period": "2023 – 2026 (Copper Smelting & Acid Plant Safety)",
+        "cooperation_summary": "Pelatihan keselamatan pabrik peleburan tembaga dan pabrik asam sulfat (Acid Plant) di Gresik, Jawa Timur.",
+        "training_delivered": [
+            {
+                "title": "Ahli K3 Kimia & Tanggap Darurat Gas SO2/SO3",
+                "description": "Pengendalian bahaya asam sulfat pekat, kebocoran gas sulfur dioksida, dan neutralizer system.",
+                "participants": "22 Chemical Process Engineers",
+                "year": "2024"
+            },
+            {
+                "title": "Pengelolaan Limbah B3 (PLB3) BNSP",
+                "description": "Pengelolaan slag tembaga, sludge IPAL, dan manifest limbah elektronik/kimia.",
+                "participants": "18 Environmental Officers",
+                "year": "2024 – 2025"
+            }
+        ],
+        "experience_and_challenges": "Peleburan konsentrat tembaga menghasilkan produk sampingan asam sulfat dan emisi gas asam. Modul difokuskan pada keselamatan proses kimia, HAZOP, dan respons tanggap darurat kimia pekat.",
+        "key_achievements": [
+            "100% kelulusan sertifikasi Ahli K3 Kimia dan Pengelola Limbah B3 BNSP.",
+            "Penyempurnaan Emergency Response Plan (ERP) pabrik asam sulfat.",
+            "Nihil insiden kimia selama periode turn-around smelter."
+        ],
+        "testimonial": {
+            "quote": "Materi pelatihan kimia berbahaya yang disampaikan sangat komprehensif dan instruktur sangat memahami risiko proses peleburan tembaga.",
+            "author": "Kenji Yamashita / Agus W.",
+            "position": "Environment & Safety Manager PT Smelting"
+        },
+        "delivery_method": "PT Smelting Training Center Gresik",
+        "relevant_offering_slugs": [
+            "ahli-k3-kimia",
+            "pengelolaan-limbah-b3-plb3-bnsp",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01kywajkg4epr4s57b27ppbbv7",
@@ -911,7 +1563,40 @@
         ],
         "page_id": "01kywajkhbxxjx9w553jy863m4",
         "published_at": "2026-07-31T14:52:11.000000Z",
-        "updated_content_at": "2026-07-31T14:52:11.000000Z"
+        "updated_content_at": "2026-07-31T14:52:11.000000Z",
+        "cooperation_period": "2022 – 2025 (Cement Quarry & Heavy Plant Safety)",
+        "cooperation_summary": "Pelatihan keselamatan pabrik semen dan tambang batu kapur di Narogong, Cilacap, dan Tuban (PT Solusi Bangun Indonesia).",
+        "training_delivered": [
+            {
+                "title": "K3 Bekerja di Ketinggian & Ruang Terbatas Silo Semen",
+                "description": "Prosedur pembersihan kerak dinding dalam silo semen dan vertical roller mill.",
+                "participants": "40 Maintenance Personnel",
+                "year": "2023"
+            },
+            {
+                "title": "Internal Auditor SMK3 PP 50/2012 & ISO 45001:2018",
+                "description": "Audit integrasi sistem manajemen K3 seluruh unit pabrik semen.",
+                "participants": "25 Quality & HSE Auditors",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Bekerja di dalam silo semen memiliki risiko tertimbun material curah dan kekurangan oksigen. Tim dilatih teknik penyelamatan tali vertikal dan atmospheric monitoring.",
+        "key_achievements": [
+            "Seluruh tim pemeliharaan silo lulus sertifikasi Confined Space Rescue.",
+            "Raihan sertifikasi SMK3 predikat Bendera Emas untuk pabrik Narogong dan Tuban.",
+            "Efisiensi waktu pembersihan silo semen meningkat 20% dengan protokol keselamatan baru."
+        ],
+        "testimonial": {
+            "quote": "Pelatihan dari PENA Consultant sangat aplikatif untuk tantangan pekerjaan berisiko tinggi di dalam silo pabrik semen.",
+            "author": "Yohanes Tri",
+            "position": "Health & Safety Lead Solusi Bangun Indonesia"
+        },
+        "delivery_method": "Plant Narogong / Tuban & Practical Tower Rigging",
+        "relevant_offering_slugs": [
+            "k3-ruang-terbatas-madya",
+            "internal-auditor-smk3-pp-50-2012",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01kywajkkn2kadc501d5h42ke8",
@@ -950,7 +1635,40 @@
         ],
         "page_id": "01kywajkmy82n8qa45wb6hrgdj",
         "published_at": "2026-07-31T14:52:11.000000Z",
-        "updated_content_at": "2026-07-31T14:52:11.000000Z"
+        "updated_content_at": "2026-07-31T14:52:11.000000Z",
+        "cooperation_period": "2023 – 2026 (Building Safety & Evacuation Management)",
+        "cooperation_summary": "Pelatihan keselamatan gedung bertingkat tinggi (Plaza Mandiri & Cabang Utama), pembinaan tim tanggap darurat kebakaran (Fire Warden), dan K3 Perkantoran.",
+        "training_delivered": [
+            {
+                "title": "Petugas Penanggulangan Kebakaran Kelas D & C Kemnaker RI",
+                "description": "Evakuasi gedung bertingkat, pengoperasian APAR/Hydrant, dan penanganan kepanikan massal.",
+                "participants": "60 Floor Wardens & Building Security",
+                "year": "2023 – 2025"
+            },
+            {
+                "title": "P3K di Tempat Kerja (First Aid) & K3 Perkantoran Ergonomi",
+                "description": "Penanganan henti jantung (CPR/AED), pencegahan carpal tunnel syndrome, dan ergonomi kerja komputer.",
+                "participants": "45 General Affairs & Clinic Staff",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Gedung pencakar langit dengan ribuan karyawan memerlukan koordinasi evakuasi darurat yang presisi tanpa menimbulkan kepanikan pada nasabah dan staf perbankan.",
+        "key_achievements": [
+            "100% floor warden tersertifikasi resmi Kemnaker RI.",
+            "Waktu evakuasi simulasi gempa & kebakaran Plaza Mandiri berhasil dipercepat menjadi 11 menit.",
+            "Penerapan standar ergonomi perkantoran yang menurunkan keluhan low back pain karyawan kantor."
+        ],
+        "testimonial": {
+            "quote": "Pelatihan Fire Warden dan P3K dari PENA Consultant sangat interaktif dan membekali staf kami dengan kesiapan mental menghadapi situasi darurat gedung.",
+            "author": "Citra Lestari",
+            "position": "Building Management & Safety Section Bank Mandiri"
+        },
+        "delivery_method": "Plaza Mandiri Jakarta & Onsite Evacuation Drill",
+        "relevant_offering_slugs": [
+            "k3-kebakaran-kelas-d",
+            "petugas-p3k-kemnaker",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01kywajkpn7efw9etsncs59n1w",
@@ -989,7 +1707,40 @@
         ],
         "page_id": "01kywajkqpc3x1sbyv2sw1zf74",
         "published_at": "2026-07-31T14:52:11.000000Z",
-        "updated_content_at": "2026-07-31T14:52:11.000000Z"
+        "updated_content_at": "2026-07-31T14:52:11.000000Z",
+        "cooperation_period": "2023 – 2026 (Nationwide Banking Network Safety)",
+        "cooperation_summary": "Program standarisasi K3 perkantoran, tanggap darurat bencana cabang, dan sertifikasi Ahli K3 Umum untuk tim Corporate Real Estate & Building Management PT Bank Rakyat Indonesia (Persero) Tbk.",
+        "training_delivered": [
+            {
+                "title": "Ahli K3 Umum Kemnaker RI (Corporate Building Management)",
+                "description": "Sertifikasi calon ahli K3 umum pengendali keselamatan kantor pusat dan gedung kanwil.",
+                "participants": "28 Building Managers",
+                "year": "2024"
+            },
+            {
+                "title": "Pelatihan Tanggap Darurat Bencana & Basic Life Support (BLS)",
+                "description": "Simulasi gempa bumi, banjir, kebakaran di kantor cabang, dan tindakan pertolongan pertama P3K.",
+                "participants": "50 Staff & Security Leads",
+                "year": "2024 – 2025"
+            }
+        ],
+        "experience_and_challenges": "Jaringan kantor perbankan yang tersebar di seluruh pelosok negeri menuntut standarisasi prosedur keselamatan yang mudah dipahami dan diterapkan di setiap kantor cabang pembantu.",
+        "key_achievements": [
+            "Kelulusan 100% peserta sertifikasi Ahli K3 Umum Kemnaker RI.",
+            "Penyusunan Standard Operating Procedure (SOP) Tanggap Darurat Bencana seragam untuk seluruh Kanwil BRI.",
+            "Seluruh gedung kantor utama memiliki tim P3K terlatih dan bersertifikat."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant sangat fleksibel dan profesional dalam memfasilitasi kebutuhan pelatihan keselamatan jaringan kantor bank kami.",
+            "author": "Fajar Nugroho",
+            "position": "Facility Management Division Head BRI"
+        },
+        "delivery_method": "BRI Corporate University Jakarta & Online Webinar",
+        "relevant_offering_slugs": [
+            "ahli-k3-umum",
+            "petugas-p3k-kemnaker",
+            "k3-kebakaran-kelas-d"
+        ]
     },
     {
         "id": "01kywajksr52hqqnth1gy3sy0n",
@@ -1028,7 +1779,40 @@
         ],
         "page_id": "01kywajktxtjkf9t3g80w4eb3r",
         "published_at": "2026-07-31T14:52:11.000000Z",
-        "updated_content_at": "2026-07-31T14:52:11.000000Z"
+        "updated_content_at": "2026-07-31T14:52:11.000000Z",
+        "cooperation_period": "2023 – 2025 (Property Safety & Emergency Response)",
+        "cooperation_summary": "Pelatihan keselamatan proteksi kebakaran gedung bertingkat, P3K, dan SMK3 perkantoran di Menara BTN Jakarta dan kantor cabang wilayah.",
+        "training_delivered": [
+            {
+                "title": "K3 Penanggulangan Kebakaran Kelas D & C",
+                "description": "Penggunaan APAR, pemeliharaan sistem sprinkler, dan simulasi jalur evakuasi darurat.",
+                "participants": "35 Building Wardens",
+                "year": "2023 – 2024"
+            },
+            {
+                "title": "Petugas P3K di Tempat Kerja Kemnaker RI",
+                "description": "Penanganan cedera medis darurat, pingsan, fraktur, dan penggunaan AED di lingkungan kantor.",
+                "participants": "25 Staf Umum & SDM",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Membangun kesadaran keselamatan kerja bagi ribuan pegawai perbankan yang terbiasa bekerja di lingkungan indoor dengan risiko kebakaran elektrikal dan stres kerja.",
+        "key_achievements": [
+            "Seluruh peserta lulus uji kompetensi resmi Kemnaker RI.",
+            "Pelaksanaan Fire & Earthquake Drill tahunan gedung Menara BTN berjalan tertib dan aman.",
+            "Penyediaan kotak P3K standar Kemnaker di setiap lantai kantor cabang."
+        ],
+        "testimonial": {
+            "quote": "Materi pelatihan disampaikan dengan sangat menarik, tidak kaku, dan praktikum P3K-nya sangat membuka wawasan pegawai.",
+            "author": "Maya Anggraini",
+            "position": "Logistics & Safety Department BTN"
+        },
+        "delivery_method": "Menara BTN Jakarta Onsite Workshop",
+        "relevant_offering_slugs": [
+            "k3-kebakaran-kelas-d",
+            "petugas-p3k-kemnaker",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01kywajkwkxtgn393fsxh4e36x",
@@ -1071,7 +1855,40 @@
         ],
         "page_id": "01kywajkxfss34x66hq8q996fq",
         "published_at": "2026-07-31T14:52:11.000000Z",
-        "updated_content_at": "2026-07-31T14:52:11.000000Z"
+        "updated_content_at": "2026-07-31T14:52:11.000000Z",
+        "cooperation_period": "2022 – 2026 (Fertilizer Chemical & High Pressure Ammonia Safety)",
+        "cooperation_summary": "Program pelatihan keselamatan industri kimia amonia & urea bertekanan tinggi, sertifikasi Ahli K3 Kimia, dan POPAL Pengelolaan Air Limbah di Bontang, Kalimantan Timur.",
+        "training_delivered": [
+            {
+                "title": "Ahli K3 Kimia & Manajemen Keselamatan Proses (PSM)",
+                "description": "Mitigasi bahaya amonia murni, sintesis urea suhu tinggi, dan analisis HAZOP unit pabrik.",
+                "participants": "30 Process & Safety Engineers",
+                "year": "2023 – 2025"
+            },
+            {
+                "title": "Penanggung Jawab Operasional Pengolahan Air Limbah (POPAL) BNSP",
+                "description": "Pengelolaan effluent IPAL amonia-urea dan pemantauan baku mutu lingkungan.",
+                "participants": "22 Environmental Operators",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Pabrik pupuk skala raksasa beroperasi dengan gas amonia beracun dan mudah terbakar. Pelatihan difokuskan pada penanganan kebocoran gas amonia (Ammonia Release Emergency) dan penggunaan Chemical Suit.",
+        "key_achievements": [
+            "100% kelulusan sertifikasi Ahli K3 Kimia dan POPAL BNSP.",
+            "Mendukung rekor Zero Accident dan perolehan PROPER Emas dari KLHK.",
+            "Kesiapsiagaan regu tanggap darurat amonia meningkat pesat dalam simulasi live release."
+        ],
+        "testimonial": {
+            "quote": "Instruktur PENA Consultant sangat paham regulasi bahan kimia berbahaya dan proses perpipaan amonia bertekanan tinggi.",
+            "author": "Haryono Tri",
+            "position": "Superintendent Keselamatan Pabrik Pupuk Kaltim"
+        },
+        "delivery_method": "Diklat Pupuk Kaltim Bontang & Ammonia Plant Simulation",
+        "relevant_offering_slugs": [
+            "ahli-k3-kimia",
+            "popal-air-limbah-bnsp",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01kywajkyyczqbyp52szt558fa",
@@ -1114,7 +1931,40 @@
         ],
         "page_id": "01kywajkzs9v6cepsm0eckbf8r",
         "published_at": "2026-07-31T14:52:11.000000Z",
-        "updated_content_at": "2026-07-31T14:52:11.000000Z"
+        "updated_content_at": "2026-07-31T14:52:11.000000Z",
+        "cooperation_period": "2022 – 2025 (Chemical Plant Safety & Environmental Compliance)",
+        "cooperation_summary": "Pelatihan keselamatan pabrik kimia pupuk, pengendalian pencemaran udara (PPPU), dan teknisi K3 ruang terbatas di Cikampek, Jawa Barat.",
+        "training_delivered": [
+            {
+                "title": "Penanggung Jawab Pengendalian Pencemaran Udara (PPPU) BNSP",
+                "description": "Pemantauan emisi cerobong boiler dan gas buang prilling tower urea.",
+                "participants": "20 Environmental Specialists",
+                "year": "2023 – 2024"
+            },
+            {
+                "title": "K3 Ruang Terbatas (Confined Space) Tangki Kimia & Reaktor",
+                "description": "Izin kerja masuk ruang terbatas reaktor amonia dan scrubber.",
+                "participants": "35 Maintenance Crew",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Pembersihan reaktor kimia memerlukan isolasi energi total (LOTO) dan pemantauan gas inert nitrogen. Tim dilatih prosedur gas purging dan isolasi bejana.",
+        "key_achievements": [
+            "Seluruh peserta lulus sertifikasi PPPU BNSP dan Lisensi Confined Space Kemnaker RI.",
+            "Penurunan emisi partikulat pabrik sesuai baku mutu PermenLHK terkini.",
+            "Nihil insiden pada pemeliharaan berkala (Turn-Around) Pabrik Kujang 1B."
+        ],
+        "testimonial": {
+            "quote": "Materi pelatihan lingkungan dan K3 dari PENA Consultant sangat sesuai dengan standar industri petrokimia.",
+            "author": "Dadan Ramdani",
+            "position": "Manager Lingkungan & K3 Pupuk Kujang"
+        },
+        "delivery_method": "Pusdiklat Pupuk Kujang Cikampek",
+        "relevant_offering_slugs": [
+            "pppu-emisi-udara-bnsp",
+            "k3-ruang-terbatas-madya",
+            "ahli-k3-kimia"
+        ]
     },
     {
         "id": "01kywajm1f811gk1pq88xc2ex5",
@@ -1157,7 +2007,40 @@
         ],
         "page_id": "01kywajm2b4n488zzsq1s4qt7v",
         "published_at": "2026-07-31T14:52:11.000000Z",
-        "updated_content_at": "2026-07-31T14:52:11.000000Z"
+        "updated_content_at": "2026-07-31T14:52:11.000000Z",
+        "cooperation_period": "2022 – 2025 (Pusri-IIB Plant Safety & Boiler Certification)",
+        "cooperation_summary": "Program sertifikasi K3 Operator Boiler Kelas 1, Ahli K3 Umum, dan Higiene Industri di kompleks pabrik PT Pupuk Sriwidjaja (Pusri) Palembang.",
+        "training_delivered": [
+            {
+                "title": "Operator Boiler Kelas 1 Kemnaker RI Pabrik Pupuk",
+                "description": "Operasional boiler limbah panas (Waste Heat Boiler) dan auxiliary boiler kapasitas tinggi.",
+                "participants": "22 Boiler Engineers",
+                "year": "2023"
+            },
+            {
+                "title": "Ahli K3 Umum Kemnaker RI (Penguatan Sekretaris P2K3)",
+                "description": "Pembinaan kepatuhan regulasi SMK3 PP 50/2012 dan pencegahan bahaya industri petrokimia.",
+                "participants": "28 Safety Officers",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Kompleks pabrik Pusri yang berada di tepi Sungai Musi memerlukan kepatuhan ganda: keselamatan kerja proses kimia dan perlindungan ekosistem perairan.",
+        "key_achievements": [
+            "100% kelulusan sertifikasi Kemnaker RI dengan hasil memuaskan.",
+            "Peningkatan keandalan operasional boiler dan pencegahan emergency trip.",
+            "Raihan penghargaan K3 Zero Accident tingkat Provinsi Sumatera Selatan."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant membuktikan profesionalisme tinggi dalam membimbing tim boiler dan safety engineer kami hingga lulus ujian resmi Kemnaker.",
+            "author": "M. Ridwan",
+            "position": "Safety Operations Superintendent Pusri Palembang"
+        },
+        "delivery_method": "Diklat Pusri Palembang & Plant Walkthrough",
+        "relevant_offering_slugs": [
+            "operator-boiler-kelas-1",
+            "ahli-k3-umum",
+            "ahli-k3-kimia"
+        ]
     },
     {
         "id": "01kywajm3ph5pj9xffjahxrzvw",
@@ -1197,7 +2080,40 @@
         ],
         "page_id": "01kywajm4pvctaa0xqyyv7bdjj",
         "published_at": "2026-07-31T14:52:11.000000Z",
-        "updated_content_at": "2026-07-31T14:52:11.000000Z"
+        "updated_content_at": "2026-07-31T14:52:11.000000Z",
+        "cooperation_period": "2023 – 2026 (Biosafety, Vaccine Cleanroom & B3 Management)",
+        "cooperation_summary": "Pelatihan keselamatan laboratorium hayati (Biosafety & Biosecurity), K3 Kimia Farmasi, dan Pengelolaan Limbah B3 Medis di Biofarma Bandung.",
+        "training_delivered": [
+            {
+                "title": "Pengelolaan Limbah B3 (PLB3) Medis & Farmasi BNSP",
+                "description": "Karakteristik limbah sitotoksik, sisa biakan mikroba, dan pengoperasian insinerator/autoklaf B3.",
+                "participants": "25 Laboratory & EHS Technicians",
+                "year": "2023 – 2024"
+            },
+            {
+                "title": "Ahli K3 Kimia & Keselamatan Cleanroom Farmasi",
+                "description": "Penanganan reagen kimia murni, desinfektan steril, dan kontrol ventilasi HEPA.",
+                "participants": "20 Quality Assurance & Safety Officers",
+                "year": "2024 – 2025"
+            }
+        ],
+        "experience_and_challenges": "Produksi vaksin dan produk biologi menuntut standar Biosafety Level (BSL) 2 dan 3 yang sangat steril. Pelatihan ditekankan pada ergonomi mikroskopis dan proteksi kontaminasi silang.",
+        "key_achievements": [
+            "100% kelulusan sertifikasi Pengelola Limbah B3 BNSP.",
+            "Audit pemenuhan standar WHO dan BPOM untuk fasilitas penanganan limbah biologi berjalan mulus.",
+            "Nihil kecelakaan kerja laboratorium dan paparan patogen biologis."
+        ],
+        "testimonial": {
+            "quote": "Pelatihan dari PENA Consultant sangat detail dan memahami standar higienis industri vaksin serta pengelolaan limbah bahan berbahaya.",
+            "author": "Dr. Rina Handayani",
+            "position": "Biosafety & EHS Head Biofarma"
+        },
+        "delivery_method": "Biofarma Learning Center Pasteur Bandung",
+        "relevant_offering_slugs": [
+            "pengelolaan-limbah-b3-plb3-bnsp",
+            "ahli-k3-kimia",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01kywajm70rej1pgx34zxkrjrf",
@@ -1237,7 +2153,40 @@
         ],
         "page_id": "01kywajm83bxdsbp4dre1dvyc5",
         "published_at": "2026-07-31T14:52:11.000000Z",
-        "updated_content_at": "2026-07-31T14:52:11.000000Z"
+        "updated_content_at": "2026-07-31T14:52:11.000000Z",
+        "cooperation_period": "2023 – 2025 (Security Printing Safety & Industrial Hygiene)",
+        "cooperation_summary": "Pelatihan keselamatan mesin cetak uang berkecepatan tinggi, K3 Listrik, dan K3 Lingkungan Kerja di Kawasan Produksi Karawang, Jawa Barat.",
+        "training_delivered": [
+            {
+                "title": "Ahli K3 Lingkungan Kerja & Ergonomi Industri Cetak",
+                "description": "Pengukuran kebisingan mesin intaglio, paparan uap tinta cetak sekuritas, dan ergonomi operator cetak.",
+                "participants": "22 Industrial Hygiene Officers",
+                "year": "2023 – 2024"
+            },
+            {
+                "title": "Teknisi K3 Listrik & Sistem Penguncian LOTO Mesin Cetak",
+                "description": "Keselamatan pemeliharaan kelistrikan mesin cetak uang dan dokumen sekuritas negara.",
+                "participants": "25 Electrical Technicians",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Proses percetakan uang negara memerlukan kerahasiaan tinggi dan keselamatan operator mesin press bertekanan tinggi dengan risiko terjepit (nip point).",
+        "key_achievements": [
+            "Seluruh peserta lulus sertifikasi resmi Kemnaker RI.",
+            "Pemasangan sistem safety interlock dan penutup sensor mesin yang menurunkan risiko pinch point.",
+            "Penurunan tingkat keluhan kelelahan pendengaran dan ergonomi operator cetak."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant sangat adaptif terhadap prosedur keamanan khusus fasilitas percetakan uang negara kami.",
+            "author": "Bambang Sugeng",
+            "position": "Head of Safety & Environment Peruri Karawang"
+        },
+        "delivery_method": "Kawasan Produksi Peruri Karawang Onsite",
+        "relevant_offering_slugs": [
+            "ahli-k3-lingkungan-kerja",
+            "teknisi-k3-listrik",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01kywajmadjfk6t7qskxkhxstn",
@@ -1279,7 +2228,40 @@
         ],
         "page_id": "01kywajmbkvrnanz9wn8w6mygj",
         "published_at": "2026-07-31T14:52:12.000000Z",
-        "updated_content_at": "2026-07-31T14:52:12.000000Z"
+        "updated_content_at": "2026-07-31T14:52:12.000000Z",
+        "cooperation_period": "2022 – 2026 (Inspection & Technical Safety Competency)",
+        "cooperation_summary": "Kerja sama sertifikasi kompetensi inspektur teknik K3, auditor SMK3, dan sampling lingkungan untuk tim inspeksi komersial PT Sucofindo (Persero).",
+        "training_delivered": [
+            {
+                "title": "Internal & Lead Auditor SMK3 PP 50/2012",
+                "description": "Teknik audit lanjutan kriteria SMK3 dan pembuktian bukti objektif audit kepatuhan industri.",
+                "participants": "40 Senior Technical Auditors",
+                "year": "2023 – 2025"
+            },
+            {
+                "title": "Petugas Pengambil Contoh Uji Air (PCUA) & Udara BNSP",
+                "description": "Teknik sampling air limbah industri, cerobong emisi, dan pengawetan sampel analitik.",
+                "participants": "30 Field Sampling Officers",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Peserta adalah tenaga ahli inspeksi profesional dengan pemahaman regulasi yang sudah tinggi. Pembahasan dilakukan pada level interpretasi klausul ambigu dan studi kasus audit industri kompleks.",
+        "key_achievements": [
+            "100% kelulusan sertifikasi auditor dan pengambil sampel lingkungan.",
+            "Penyamaan persepsi metode audit SMK3 untuk seluruh cabang Sucofindo di Indonesia.",
+            "Peningkatan akurasi rantai ketelusuran (chain of custody) data sampling laboratorium."
+        ],
+        "testimonial": {
+            "quote": "Diskusi bersama instruktur PENA Consultant sangat berbobot dan memperkaya wawasan auditor senior kami.",
+            "author": "Ir. Wahyu Pratomo",
+            "position": "Head of HSE Audit & Certification Division Sucofindo"
+        },
+        "delivery_method": "Graha Sucofindo Jakarta & Environmental Field Sampling Lab",
+        "relevant_offering_slugs": [
+            "internal-auditor-smk3-pp-50-2012",
+            "lead-auditor-eksternal-smk3-kemnaker-ri",
+            "petugas-sampling-air-pcua-bnsp"
+        ]
     },
     {
         "id": "01kywajmdbd4e6b74x5axtn9a3",
@@ -1321,7 +2303,40 @@
         ],
         "page_id": "01kywajmekg6cpybdteb5yqt25",
         "published_at": "2026-07-31T14:52:12.000000Z",
-        "updated_content_at": "2026-07-31T14:52:12.000000Z"
+        "updated_content_at": "2026-07-31T14:52:12.000000Z",
+        "cooperation_period": "2022 – 2025 (Oilfield Services & Chemical Pumping Safety)",
+        "cooperation_summary": "Pelatihan keselamatan operasional pemboran minyak (Well Services), penanganan bahan kimia asam (Acidizing & Fracturing), dan Ahli K3 Kimia di Balikpapan & Cikarang Base.",
+        "training_delivered": [
+            {
+                "title": "Ahli K3 Kimia & Tanggap Darurat Bahan Kimia Migas",
+                "description": "Penanganan asam klorida pekat (HCl), zat pengemulsi, dan biosida bertekanan tinggi.",
+                "participants": "25 Chemical Specialists & Lab Supervisors",
+                "year": "2023 – 2024"
+            },
+            {
+                "title": "Sertifikasi K3 Ruang Terbatas (Confined Space) Tangki Lumpur Pemboran",
+                "description": "Pembersihan mud tank dan blender unit berisiko gas hidrokarbon.",
+                "participants": "30 Yard Crew & Technicians",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Standar kepatuhan industri jasa migas multinasional menuntut keselamatan tanpa kompromi saat pencampuran bahan kimia bertekanan tinggi hingga 10.000 PSI.",
+        "key_achievements": [
+            "Seluruh peserta lulus ujian sertifikasi resmi Kemnaker RI.",
+            "Pencapaian Zero Chemical Spill selama operasi pemompaan fluida pemboran di lapangan.",
+            "Integrasi prosedur Kemnaker dengan Global Halliburton Safety Standards (HMS)."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant mampu menyampaikan materi regulasi K3 nasional yang selaras dengan sistem mutu internasional perusahaan kami.",
+            "author": "Arman Siregar",
+            "position": "HSE Country Manager Halliburton Indonesia"
+        },
+        "delivery_method": "Halliburton Base Cikarang & Balikpapan Onsite",
+        "relevant_offering_slugs": [
+            "ahli-k3-kimia",
+            "k3-ruang-terbatas-madya",
+            "pengawas-k3-migas"
+        ]
     },
     {
         "id": "01kywajmgmpqzzg8qyqv8ca08n",
@@ -1363,7 +2378,40 @@
         ],
         "page_id": "01kywajmhrj8e1wfwtv8yf1b5d",
         "published_at": "2026-07-31T14:52:12.000000Z",
-        "updated_content_at": "2026-07-31T14:52:12.000000Z"
+        "updated_content_at": "2026-07-31T14:52:12.000000Z",
+        "cooperation_period": "2022 – 2025 (Wireline, Drilling Safety & Radiation Protection)",
+        "cooperation_summary": "Pelatihan keselamatan operasional rig migas, bejana tekan, dan K3 Ruang Terbatas untuk personel lapangan SLB (Schlumberger) Indonesia.",
+        "training_delivered": [
+            {
+                "title": "Teknisi K3 Bejana Tekan & Tangki Timbun (PUBT)",
+                "description": "Inspeksi bejana separator uji sumur minyak dan tangki bertekanan unit wireline.",
+                "participants": "20 Testing Field Engineers",
+                "year": "2023"
+            },
+            {
+                "title": "K3 Bekerja di Ketinggian & Rigging Alat Pemboran",
+                "description": "Inspeksi sling pengangkat alat logging bawah permukaan (Downhole Tools).",
+                "participants": "28 Maintenance Technicians",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Peralatan logging sumur migas melibatkan peralatan bertekanan dan pengangkatan beban presisi tinggi di rig lepas pantai maupun darat.",
+        "key_achievements": [
+            "100% kelulusan sertifikasi Kemnaker RI tepat waktu.",
+            "Nihil kegagalan alat angkat dan bejana tekan selama operasi logging lapangan.",
+            "Standar kompetensi personil terverifikasi oleh Ditjen Migas dan Kemnaker RI."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant sangat profesional dalam proses sertifikasi teknis K3 dan memberikan fasilitas pengujian yang sangat memadai.",
+            "author": "Ferry Gunawan",
+            "position": "Operations Safety Lead Schlumberger"
+        },
+        "delivery_method": "SLB Training Base Cikarang & Duri Logistics Hub",
+        "relevant_offering_slugs": [
+            "teknisi-k3-bejana-tekan-tangki-timbun",
+            "rigger-juru-ikat-beban-kemnaker",
+            "pengawas-k3-migas"
+        ]
     },
     {
         "id": "01m0vnfathkf0j056pz60pebdm",
@@ -1382,7 +2430,46 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2022 – 2026 (Mega Infrastructure Construction Safety)",
+        "cooperation_summary": "Program sertifikasi K3 Konstruksi, Ahli K3 Umum, dan Petugas K3 Scaffolding pada proyek jalan tol, jembatan bentang panjang, dan bendungan nasional PT Wijaya Karya (Persero) Tbk.",
+        "training_delivered": [
+            {
+                "title": "Ahli & Petugas K3 Konstruksi Kemnaker RI / BNSP",
+                "description": "Penyusunan Rencana Keselamatan Konstruksi (RKK), Sistem Manajemen Keselamatan Konstruksi (SMKK PUPR), dan inspeksi formwork/scaffolding.",
+                "participants": "60 Site Safety Engineers",
+                "year": "2023 – 2025"
+            },
+            {
+                "title": "Pengawas K3 Scaffolding & Bekerja di Ketinggian Proyek Jembatan",
+                "description": "Inspeksi kekuatan perancah pipa, falsework pier jembatan, dan proteksi jaring pengaman (safety net).",
+                "participants": "45 Scaffolding Foremen",
+                "year": "2024"
+            },
+            {
+                "title": "Internal Auditor SMK3 PP 50/2012 Sektor Konstruksi",
+                "description": "Audit 166 kriteria SMK3 untuk memastikan kesiapan audit eksternal Gold Flag.",
+                "participants": "25 Divisi QSHE",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Proyek infrastruktur skala besar menuntut kecepatan penyelesaian tanpa mengorbankan keselamatan kerja di ketinggian puluhan meter. Pelatihan difokuskan pada inspeksi harian perancah dan analisis bahaya runtuhan bekisting.",
+        "key_achievements": [
+            "100% kelulusan sertifikasi Petugas K3 Konstruksi dan Pengawas Scaffolding.",
+            "Mendukung pencapaian Zero Fatality pada proyek jalan tol dan jembatan strategis nasional.",
+            "Peningkatan kepatuhan penggunaan full body harness ganda dan hook 100% tie-off di lapangan."
+        ],
+        "testimonial": {
+            "quote": "Pelatihan K3 Konstruksi dari PENA Consultant sangat aplikatif terhadap kondisi nyata di lapangan proyek infrastruktur kami.",
+            "author": "Ir. Didik Haryadi",
+            "position": "Corporate QSHE Division Head PT Wijaya Karya"
+        },
+        "delivery_method": "WIKA Tower Jakarta & Onsite Proyek Strategis Nasional",
+        "relevant_offering_slugs": [
+            "petugas-k3-konstruksi",
+            "ahli-madya-k3-konstruksi-jenjang-8",
+            "pengawas-k3-scaffolding"
+        ]
     },
     {
         "id": "01m0vnfavjy3wx6tt10hsh9h39",
@@ -1401,7 +2488,40 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2022 – 2025 (High-Rise & Elevated Highway Safety)",
+        "cooperation_summary": "Pelatihan keselamatan ereksi balok girder jalan tol layang (Elevated Highway), K3 Operator Crane Proyek, dan Ahli K3 Umum PT Waskita Karya (Persero) Tbk.",
+        "training_delivered": [
+            {
+                "title": "Operator Crane Konstruksi Kelas 1 & Rigger Bersertifikat",
+                "description": "Operasi lifting girder jembatan, kalkulasi ground bearing capacity outrigger, dan rigging plan.",
+                "participants": "35 Mobile Crane Operators & Riggers",
+                "year": "2023 – 2024"
+            },
+            {
+                "title": "Ahli K3 Umum Kemnaker RI (Regenerasi Safety Officer Proyek)",
+                "description": "Pembinaan calon sekretaris P2K3 proyek gedung bertingkat dan bendungan.",
+                "participants": "40 Junior Safety Engineers",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Pengangkatan balok girder beton ratusan ton di atas jalan raya aktif memiliki risiko tinggi terhadap publik. Pelatihan menitikberatkan pada lifting plan, radius aman, dan koordinasi lalu lintas.",
+        "key_achievements": [
+            "Semua operator crane dan rigger lulus uji lisensi resmi Kemnaker RI.",
+            "Zero accident dalam ratusan proses erection girder pada proyek jalan tol layang.",
+            "Peningkatan kualitas penyusunan Job Safety Analysis (JSA) pekerjaan pengangkatan kritis."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant memberikan pelatihan rigging dan crane yang sangat detail, membedah aspek teknis beban angkat secara akurat.",
+            "author": "Teguh Wibowo",
+            "position": "Senior Safety Manager PT Waskita Karya"
+        },
+        "delivery_method": "Waskita Heritage Training Hall & Onsite Proyek Tol Layang",
+        "relevant_offering_slugs": [
+            "operator-crane-kelas-1",
+            "rigger-juru-ikat-beban-kemnaker",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01m0vnfawc1xm4cwyzr9bsq3je",
@@ -1420,7 +2540,40 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2022 – 2025 (Premium High-Rise Building Safety)",
+        "cooperation_summary": "Pelatihan keselamatan konstruksi gedung bertingkat mewah (High-Rise Building), K3 Bekerja di Ketinggian, dan Keselamatan Listrik Kerja Konstruksi PT Total Bangun Persada Tbk.",
+        "training_delivered": [
+            {
+                "title": "K3 Bekerja di Ketinggian (TKPK Tingkat 1) & Gondola Building Inspector",
+                "description": "Keselamatan instalasi fasad kaca gedung pencakar langit dan perancah gantung.",
+                "participants": "30 Facade & Safety Specialists",
+                "year": "2023 – 2024"
+            },
+            {
+                "title": "Petugas K3 Konstruksi Kemnaker RI",
+                "description": "Pencegahan benda jatuh (Drop Object Prevention) dan keselamatan penggalian basement dalam.",
+                "participants": "25 Project Site Engineers",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Pembangunan gedung premium di pusat kota Jakarta menuntut standar kerapian, housekeeping 5S, dan pencegahan benda jatuh dari ketinggian ratusan meter ke area publik.",
+        "key_achievements": [
+            "100% kelulusan sertifikasi tenaga kerja di ketinggian dan petugas K3 konstruksi.",
+            "Raihan rekor Zero Incident pada proyek gedung pencakar langit 50 lantai di Jakarta.",
+            "Standarisasi penggunaan tethering tool untuk seluruh pekerja fasad gedung."
+        ],
+        "testimonial": {
+            "quote": "TOTAL selalu mengutamakan mutu dan keselamatan premium. PENA Consultant adalah mitra yang mampu memenuhi ekspektasi tinggi kami.",
+            "author": "Ir. Hendra Kusuma",
+            "position": "General Manager QSHE PT Total Bangun Persada"
+        },
+        "delivery_method": "Head Office TOTAL Jakarta & Onsite High-Rise Project",
+        "relevant_offering_slugs": [
+            "petugas-k3-konstruksi",
+            "ahli-k3-umum",
+            "pengawas-k3-scaffolding"
+        ]
     },
     {
         "id": "01m0vnfaxefck71e1mytbxg683",
@@ -1439,7 +2592,40 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2023 – 2025 (Urban Infrastructure & Deep Excavation Safety)",
+        "cooperation_summary": "Pelatihan keselamatan galian dalam (Deep Basement Excavation), pekerjaan underpass, dan keselamatan perancah jalan layang PT Jaya Konstruksi MP Tbk.",
+        "training_delivered": [
+            {
+                "title": "Petugas K3 Konstruksi & Keselamatan Galian Dalam",
+                "description": "Mitigasi dinding penahan tanah longsor (soldier pile), dewatering, dan ruang terbatas galian.",
+                "participants": "28 Project Foremen & Safety Leads",
+                "year": "2023 – 2024"
+            },
+            {
+                "title": "Internal Auditor SMK3 PP 50/2012",
+                "description": "Audit pemenuhan keselamatan proyek flyover dan drainase perkotaan.",
+                "participants": "18 Quality & Safety Staff",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Pekerjaan konstruksi perkotaan yang berdampingan dengan utilitas kabel listrik dan pipa air memerlukan prosedur deteksi tanah dan izin penggalian yang ketat.",
+        "key_achievements": [
+            "Kelulusan 100% peserta sertifikasi Kemnaker RI.",
+            "Pencegahan kerusakan utilitas bawah tanah selama proses galian proyek underpass.",
+            "Audit kepatuhan SMK3 proyek berhasil diselesaikan tanpa temuan kritis."
+        ],
+        "testimonial": {
+            "quote": "Pelatihan dari PENA Consultant memberikan panduan praktis penanganan bahaya galian dalam dan keselamatan proyek kota padat penduduk.",
+            "author": "Bambang Santoso",
+            "position": "Head of Safety Division Jaya Konstruksi"
+        },
+        "delivery_method": "Jaya Konstruksi Head Office & Onsite Project Site",
+        "relevant_offering_slugs": [
+            "petugas-k3-konstruksi",
+            "internal-auditor-smk3-pp-50-2012",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01m0vnfazy23ehyy5n32cj7392",
@@ -1458,7 +2644,46 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2022 – 2026 (Nickel & Gold Mining / Smelter Safety)",
+        "cooperation_summary": "Program sertifikasi keselamatan pertambangan SMKP Minerba ESDM, POP Pertambangan, dan K3 Kimia Pengolahan Emas & Feronikel di UBPN Kolaka, Pongkor, dan Tayan.",
+        "training_delivered": [
+            {
+                "title": "Sertifikasi Pengawas Operasional Pertama (POP) Pertambangan BNSP",
+                "description": "Tugas dan tanggung jawab pengawas operasional K3 pertambangan mineral.",
+                "participants": "40 Mining Foremen & Supervisors",
+                "year": "2023 – 2025"
+            },
+            {
+                "title": "Ahli K3 Kimia Pabrik Pengolahan Logam Mulia (Cyanide Safety)",
+                "description": "Penanganan aman sianida proses ekstraksi emas dan asam nitrat pemurnian perak.",
+                "participants": "22 Extraction Process Specialists",
+                "year": "2024"
+            },
+            {
+                "title": "Auditor Sistem Manajemen Keselamatan Pertambangan (SMKP) ESDM",
+                "description": "Audit 7 elemen SMKP Minerba untuk unit bisnis pertambangan nikel dan emas.",
+                "participants": "25 Internal Auditors",
+                "year": "2024 – 2025"
+            }
+        ],
+        "experience_and_challenges": "Operasi tambang bawah tanah emas Pongkor dan pabrik feronikel Kolaka menghadapi bahaya ganda: geoteknik batuan dan paparan bahan kimia sianida. Pelatihan membekali protokol penangkal sianida (cyanide antidote kit) dan ventilasi tambang.",
+        "key_achievements": [
+            "100% kelulusan peserta sertifikasi POP dan Auditor SMKP Minerba.",
+            "Pencapaian skor Audit SMKP kategori \"Memuaskan\" dari Kementerian ESDM.",
+            "Nihil insiden kimia sianida di unit pengolahan dan pemurnian logam mulia."
+        ],
+        "testimonial": {
+            "quote": "Instruktur PENA Consultant sangat memahami regulasi Kepmen ESDM 1827 dan implementasi nyata SMKP di unit operasi tambang kami.",
+            "author": "Ir. Faisal Akbar",
+            "position": "Mining Safety & Health Division Head PT ANTAM Tbk"
+        },
+        "delivery_method": "UBPN Kolaka Sulawesi Tenggara & Tambang Pongkor Bogor",
+        "relevant_offering_slugs": [
+            "smkp-minerba-esdm",
+            "ahli-k3-kimia",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01m0vnfb0szyc6005aa6p9rkdw",
@@ -1477,7 +2702,40 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2022 – 2026 (FMCG Manufacturing Safety & Machine Guarding)",
+        "cooperation_summary": "Pelatihan keselamatan pabrik FMCG (Personal Care & Foods Cikarang/Rungkut), sertifikasi Operator Forklift Kelas 1 & 2, K3 Kimia, dan Ergonomi Pabrik.",
+        "training_delivered": [
+            {
+                "title": "Operator Forklift & Reach Truck Kemnaker RI (Kelas 1 & 2)",
+                "description": "Operasi aman di lorong gudang sempit (Narrow Aisle), stabilitas beban palet tinggi, dan battery charging safety.",
+                "participants": "55 Logistics & Warehouse Operators",
+                "year": "2023 – 2025"
+            },
+            {
+                "title": "Ahli K3 Lingkungan Kerja & Ergonomi Pabrik Kemasan Cepat",
+                "description": "Analisis gerakan berulang (RULA/REBA) pada lini pengemasan dan pencegahan cedera muskuloskeletal.",
+                "participants": "24 EHS & Industrial Engineers",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Kecepatan lini produksi barang konsumen (FMCG) menuntut pencegahan risiko terjepit conveyor dan tabrakan forklift di area pergudangan logistik berintensitas tinggi.",
+        "key_achievements": [
+            "100% operator forklift lulus ujian lisensi SIO Kemnaker RI.",
+            "Penurunan angka cedera ergonomi lini pengemasan sebesar 40% pasca-penyesuaian workstation.",
+            "Zero accident di area gudang otomatis (Automated High-Bay Warehouse)."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant memberikan pelatihan forklift dan ergonomi dengan standar internasional yang sangat relevan dengan operasional pabrik kelas dunia Unilever.",
+            "author": "Dian Anggraini",
+            "position": "Country Safety & Health Manager Unilever Indonesia"
+        },
+        "delivery_method": "Unilever Mega Factory Cikarang & Onsite Practical Driving Track",
+        "relevant_offering_slugs": [
+            "operator-forklift-kelas-1",
+            "ahli-k3-lingkungan-kerja",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01m0vnfb1xtgrpvbtsrm45z8yn",
@@ -1496,7 +2754,46 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2022 – 2026 (Petrochemical Plant Safety & Hazardous Gas Handling)",
+        "cooperation_summary": "Program sertifikasi K3 Kimia, K3 Ruang Terbatas Madya, dan Pengelolaan Limbah B3 di kompleks industri pupuk dan bahan kimia terlengkap di Gresik.",
+        "training_delivered": [
+            {
+                "title": "Ahli K3 Kimia & Penanggulangan Bahaya Gas Fosgen/Amonia",
+                "description": "Mitigasi kebocoran asam fosfat, amonia, asam klorida, dan manajemen tanggap darurat kimia skala besar.",
+                "participants": "35 Process Safety Specialists",
+                "year": "2023 – 2025"
+            },
+            {
+                "title": "K3 Ruang Terbatas (Confined Space) Madya & Rescue Kolom Distilasi",
+                "description": "Teknik masuk bejana sintesis urea, tangki penyimpanan asam, dan evakuasi darurat bertali.",
+                "participants": "40 Mechanical Maintenance Leads",
+                "year": "2024"
+            },
+            {
+                "title": "Pengelolaan Limbah B3 (PLB3) & IPAL Industri Kimia BNSP",
+                "description": "Pengolahan gipsum fosfat, netralisasi air asam, dan manifest limbah B3.",
+                "participants": "25 Environmental Engineers",
+                "year": "2024 – 2025"
+            }
+        ],
+        "experience_and_challenges": "Pabrik Petrokimia Gresik memiliki ragam bahan kimia berbahaya yang sangat kompleks. Pelatihan dirancang dengan studi kasus spesifik kebocoran gas beracun dan praktikum penggunaan Full Chemical Hazmat Suit.",
+        "key_achievements": [
+            "Tingkat kelulusan sertifikasi 100% pada evaluasi Kemnaker RI dan asesmen BNSP.",
+            "Raihan penghargaan K3 Zero Accident Nasional untuk seluruh anak pabrik.",
+            "Peningkatan kesiapsiagaan tim tanggap darurat kimia dalam latihan gabungan kebocoran gas amonia."
+        ],
+        "testimonial": {
+            "quote": "Instruktur dari PENA Consultant sangat menguasai seluk-beluk keselamatan pabrik kimia dan petrokimia. Modul yang diberikan sangat padat dan bernilai praktis tinggi.",
+            "author": "Achmad Fauzi",
+            "position": "Senior Vice President K3L PT Petrokimia Gresik"
+        },
+        "delivery_method": "Pusdiklat Petrokimia Gresik & Onsite Plant Practical Facility",
+        "relevant_offering_slugs": [
+            "ahli-k3-kimia",
+            "k3-ruang-terbatas-madya",
+            "pengelolaan-limbah-b3-plb3-bnsp"
+        ]
     },
     {
         "id": "01m0vnfb350yc1xvxt73ds3snj",
@@ -1515,7 +2812,40 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2022 – 2026 (Railway Maintenance & Depot Safety)",
+        "cooperation_summary": "Pelatihan keselamatan perbengkelan kereta api (Balai Yasa), keselamatan kelistrikan jalur KRL/LRT, dan sertifikasi Ahli K3 Umum untuk PT Kereta Api Indonesia (Persero).",
+        "training_delivered": [
+            {
+                "title": "Teknisi & Ahli K3 Listrik Arus Kuat Gardu Traksi Kereta Api",
+                "description": "Keselamatan listrik aliran atas (LAA 1500V DC), gardu traksi, dan prosedur grounding rel.",
+                "participants": "32 Electrical Traction Engineers",
+                "year": "2023 – 2025"
+            },
+            {
+                "title": "Ahli K3 Umum Kemnaker RI (Balai Yasa & Daerah Operasi)",
+                "description": "Pembinaan keselamatan kerja di lingkungan bengkel lokomotif, gerbong, dan stasiun besar.",
+                "participants": "40 Unit Safety Officers",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Operasi perkeretaapian melibatkan risiko tegangan listrik tinggi aliran atas dan pergerakan sarana kereta berbobot ratusan ton di area bengkel Balai Yasa.",
+        "key_achievements": [
+            "Seluruh peserta lulus uji kompetensi dan menerima Lisensi K3 Listrik Kemnaker RI.",
+            "Pencegahan insiden sengatan listrik dan busur api (arc flash) pada pemeliharaan gardu traksi KRL.",
+            "Peningkatan budaya keselamatan 5S di seluruh Balai Yasa Manggarai dan Yogyakarta."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant sangat memahami regulasi keselamatan perkeretaapian dan kelistrikan industri traksi modern.",
+            "author": "Bambang Eko",
+            "position": "Vice President Safety & Quality PT KAI"
+        },
+        "delivery_method": "Pusdiklat Ir. H. Djuanda Bandung & Balai Yasa Manggarai",
+        "relevant_offering_slugs": [
+            "ahli-k3-listrik",
+            "teknisi-k3-listrik",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01m0vnfb5vdz9f54c1389tjm9w",
@@ -1534,7 +2864,40 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2023 – 2026 (Distribution Center Logistics & Retail Safety)",
+        "cooperation_summary": "Program sertifikasi Operator Forklift, P3K Tempat Kerja, dan Proteksi Kebakaran Gudang Pusat Distribusi (Distribution Center) PT Sumber Alfaria Trijaya Tbk di seluruh Indonesia.",
+        "training_delivered": [
+            {
+                "title": "Operator Forklift Gudang Logistik Kelas 1 & 2 Kemnaker RI",
+                "description": "Operasi racking bertingkat 7 tier, manuver lorong sempit, dan pengisian daya baterai forklift.",
+                "participants": "65 Logistics Operators",
+                "year": "2023 – 2025"
+            },
+            {
+                "title": "Petugas Tanggap Darurat Kebakaran Gudang Kelas D & C",
+                "description": "Proteksi sistem hydrant gudang logistik, evakuasi ratusan staf gudang, dan proteksi kardus mudah terbakar.",
+                "participants": "45 Warehouse Supervisors",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Gudang distribusi beroperasi 24 jam dengan ratusan pergerakan forklift dan material barang kering mudah terbakar. Pelatihan difokuskan pada kedisiplinan kecepatan forklift dan jalur pejalan kaki.",
+        "key_achievements": [
+            "100% kelulusan lisensi SIO Kemnaker RI untuk operator forklift DC.",
+            "Penurunan angka kerusakan barang (breakage) akibat kesalahan manuver forklift sebesar 30%.",
+            "Seluruh Distribution Center memiliki regu tanggap darurat kebakaran terlatih."
+        ],
+        "testimonial": {
+            "quote": "Pelatihan forklift dan fire safety dari PENA Consultant sangat membantu menekan angka insiden di distribution center kami yang beraktivitas 24 jam.",
+            "author": "Hendra Setiawan",
+            "position": "Logistics Safety & Security Manager Alfamart"
+        },
+        "delivery_method": "Distribution Center Balaraja & Alfa Tower Tangerang",
+        "relevant_offering_slugs": [
+            "operator-forklift-kelas-1",
+            "k3-kebakaran-kelas-d",
+            "petugas-p3k-kemnaker"
+        ]
     },
     {
         "id": "01m0vnfb6n3epmzb800kagtsvn",
@@ -1553,7 +2916,40 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2023 – 2026 (Campus Laboratory Safety & SKPI BNSP)",
+        "cooperation_summary": "Kemitraan strategis penyelenggaraan sertifikasi K3 Laboratorium Kampus, Ahli K3 Umum Goes to Campus, dan sertifikasi profesi BNSP untuk mahasiswa Fakultas Teknik, MIPA, dan Biologi UGM.",
+        "training_delivered": [
+            {
+                "title": "Ahli K3 Umum Goes to Campus (Mahasiswa Tingkat Akhir)",
+                "description": "Sertifikasi kompetensi resmi Kemnaker RI untuk membekali lulusan teknik sebelum masuk dunia industri.",
+                "participants": "60 Mahasiswa Teknik & Kejuruan UGM",
+                "year": "2023 – 2025"
+            },
+            {
+                "title": "K3 Laboratorium & Pengelolaan Limbah B3 Kampus",
+                "description": "Standarisasi penanganan bahan kimia laboratorium riset, MSDS, dan pencegahan kecelakaan praktikum.",
+                "participants": "45 Kepala Laboratorium & Asisten Dosen",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Laboratorium riset universitas menggunakan berbagai reagen kimia reaktif dan peralatan bertegangan tinggi. Pelatihan memberikan bekal praktis pencegahan tumpahan kimia dan kelengkapan dokumen SKPI.",
+        "key_achievements": [
+            "Seluruh mahasiswa peserta berhasil lulus dan menerima Lisensi K3 Resmi Kemnaker RI.",
+            "Penerbitan Surat Keterangan Pendamping Ijazah (SKPI) berbobot tinggi yang mempercepat masa tunggu kerja alumni.",
+            "Standarisasi SOP Keselamatan Laboratorium Kimia dan Biologi di lingkungan kampus UGM."
+        ],
+        "testimonial": {
+            "quote": "Program K3 Goes to Campus dari PENA Consultant memberikan nilai tambah luar biasa bagi lulusan kami dalam memenangkan persaingan rekrutmen perusahaan multinasional.",
+            "author": "Prof. Ir. Suryo Broto",
+            "position": "Ketua Pengelola Laboratorium & Kerjasama Industri FT UGM"
+        },
+        "delivery_method": "Fakultas Teknik UGM Yogyakarta & Hybrid Class",
+        "relevant_offering_slugs": [
+            "ahli-k3-umum",
+            "pengelolaan-limbah-b3-plb3-bnsp",
+            "ahli-k3-kimia"
+        ]
     },
     {
         "id": "01m0vnfb7hgmsqkynredgv6ry0",
@@ -1572,7 +2968,40 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2023 – 2026 (Vocational Safety & Lecturer Competency Upgrading)",
+        "cooperation_summary": "Pelatihan K3 Bengkel Vokasi Mesin/Otomotif, IHT Guru/Dosen Vokasi, dan Sertifikasi Ahli K3 Umum untuk Fakultas Teknik UNY.",
+        "training_delivered": [
+            {
+                "title": "K3 Bengkel Manufaktur, Otomotif & Pengelasan Vokasi",
+                "description": "Keselamatan mesin bubut, CNC, las listrik, dan APD praktikum bengkel mahasiswa.",
+                "participants": "50 Dosen Pembimbing Praktikum & Pranata Lab",
+                "year": "2023 – 2024"
+            },
+            {
+                "title": "Sertifikasi Ahli K3 Umum Kemnaker RI Calon Pendidik Vokasi",
+                "description": "Pembekalan sertifikasi resmi bagi calon guru SMK teknik dan instruktur kejuruan.",
+                "participants": "40 Mahasiswa Pendidikan Teknik",
+                "year": "2024 – 2025"
+            }
+        ],
+        "experience_and_challenges": "Calon pendidik vokasi harus memiliki pemahaman mendalam tentang budaya keselamatan industri 5S agar dapat menularkannya kepada siswa SMK binaan.",
+        "key_achievements": [
+            "100% kelulusan ujian evaluasi resmi Kemnaker RI.",
+            "Modernisasi tata kelola keselamatan bengkel mesin dan laboratorium otomotif FT UNY.",
+            "Peningkatan kesiapan alumni pendidikan teknik dalam mengampu mata pelajaran K3 di SMK."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant sangat komunikatif dan membawakan materi dengan pendekatan pedagogis yang sangat cocok untuk civitas akademika kami.",
+            "author": "Dr. Sukardi, M.Pd.",
+            "position": "Wakil Dekan Bidang Kemahasiswaan & Kerjasama FT UNY"
+        },
+        "delivery_method": "Kampus Karangmalang FT UNY Yogyakarta",
+        "relevant_offering_slugs": [
+            "ahli-k3-umum",
+            "budaya-kerja-industri-5s-dan-k3-siswa-smk",
+            "ahli-k3-listrik"
+        ]
     },
     {
         "id": "01m0vnfb8n1q9bzf0185ggrhjc",
@@ -1591,7 +3020,40 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2023 – 2026 (Agroindustrial Safety & Campus SKPI Hub)",
+        "cooperation_summary": "Kerja sama sertifikasi Ahli K3 Umum, K3 Industri Pangan & Agroindustri, dan workshop persiapan karir untuk mahasiswa Universitas Brawijaya Malang.",
+        "training_delivered": [
+            {
+                "title": "Ahli K3 Umum Goes to Campus (Fakultas Teknik & Teknologi Pertanian)",
+                "description": "Pembinaan regulasi SMK3, identifikasi bahaya pabrik pangan, dan investigasi insiden industri.",
+                "participants": "55 Mahasiswa & Fresh Graduates",
+                "year": "2023 – 2025"
+            },
+            {
+                "title": "K3 Industri Pangan & Pengolahan Hasil Pertanian",
+                "description": "Higiene industri pengolahan pangan, keselamatan mesin boiler agroindustri, dan sanitasi kimia.",
+                "participants": "35 Asisten Riset & Mahasiswa",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Mengakomodasi jadwal perkuliahan mahasiswa tingkat akhir dengan menghadirkan metode blended learning yang fleksibel namun tetap memenuhi seluruh jam kurikulum Kemnaker RI.",
+        "key_achievements": [
+            "100% kelulusan sertifikasi Ahli K3 Umum Kemnaker RI.",
+            "Lebih dari 80% alumni program diterima bekerja di perusahaan terkemuka dalam kurun waktu kurang dari 3 bulan pasca-wisuda.",
+            "Penerbitan sertifikat SKPI resmi terdaftar di pangkalan data universitas."
+        ],
+        "testimonial": {
+            "quote": "Pelatihan Ahli K3 Umum dari PENA Consultant menjadi jembatan emas bagi mahasiswa UB untuk langsung siap pakai di industri manufaktur dan perkebunan.",
+            "author": "Dr. Ir. Nur Hidayat",
+            "position": "Koordinator Pengembangan Karir Mahasiswa UB"
+        },
+        "delivery_method": "Kampus UB Malang & Hybrid Online Synchronous",
+        "relevant_offering_slugs": [
+            "ahli-k3-umum",
+            "ahli-k3-kimia",
+            "operator-boiler-kelas-1"
+        ]
     },
     {
         "id": "01m0vnfb9gedvg8aepk76xf21s",
@@ -1610,7 +3072,40 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2022 – 2026 (Pulp, Paper & High-Pressure Recovery Boiler Safety)",
+        "cooperation_summary": "Pelatihan keselamatan operasional pabrik pulp & paper raksasa di Perawang (Riau) dan Serang (Banten), sertifikasi Operator Boiler Kelas 1, dan K3 Kimia Pemutih Kertas (Bleaching).",
+        "training_delivered": [
+            {
+                "title": "Operator Recovery Boiler & Power Boiler Kelas 1 Kemnaker RI",
+                "description": "Operasi aman black liquor recovery boiler, pencegahan ledakan smelt-water, dan sistem turbin uap.",
+                "participants": "30 Boiler Specialists",
+                "year": "2023 – 2025"
+            },
+            {
+                "title": "Ahli K3 Kimia Pabrik Pulp (Chlorine Dioxide & Caustic Safety)",
+                "description": "Penanganan gas klorin dioksida pemutih bubur kertas, asam sulfat, dan tanggap darurat kebocoran bahan kimia.",
+                "participants": "25 Chemical Recovery Engineers",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Recovery boiler pada pabrik pulp memiliki karakteristik bahaya reaksi eksplosif antara lelehan smelt dan air. Pelatihan difokuskan pada prosedur Emergency Drain System (EDS) dan inspeksi berkala tabung boiler.",
+        "key_achievements": [
+            "Seluruh peserta lulus uji kompetensi lisensi SIO Kemnaker RI.",
+            "Pencapaian rekor operasi recovery boiler tanpa unscheduled shutdown selama 18 bulan.",
+            "Nihil insiden kebocoran gas klorin di unit bleaching."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant sangat mumpuni dalam menyampaikan pelatihan teknis recovery boiler yang sangat kompleks dan berisiko tinggi.",
+            "author": "Wahyudi Santoso",
+            "position": "Mill Safety Superintendent Indah Kiat Pulp & Paper"
+        },
+        "delivery_method": "Onsite Mill Perawang Riau & Mill Serang Banten",
+        "relevant_offering_slugs": [
+            "operator-boiler-kelas-1",
+            "ahli-k3-kimia",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01m0vnfba7sybk16rpt16m3ny3",
@@ -1629,7 +3124,40 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2022 – 2026 (Mining Contractor Giant & Heavy Mobile Equipment Safety)",
+        "cooperation_summary": "Kerja sama strategis peningkatan kompetensi pengawas operasional pertambangan (POP/POM), keselamatan alat berat, dan SMKP Minerba di site-site PAMA Kalimantan Timur dan Selatan.",
+        "training_delivered": [
+            {
+                "title": "Sertifikasi Pengawas Operasional Pertama (POP) Pertambangan BNSP",
+                "description": "Standardisasi kepemimpinan keselamatan pengawas tambang batubara sesuai regulasi ESDM.",
+                "participants": "65 Group Leaders & Foremen",
+                "year": "2023 – 2025"
+            },
+            {
+                "title": "Investigasi Insiden Alat Berat & Analisis Kelelahan (Fatigue Risk)",
+                "description": "Metodologi investigasi tabrakan dump truck, rollover excavator, dan manajemen tidur operator tambang.",
+                "participants": "40 Safety Officers & Instructors",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "PAMA mengoperasikan ribuan unit alat berat di medan tambang berlumpur dan berdebu 24/7. Modul difokuskan pada mitigasi risiko tabrakan jalan hauling, stabilitas lereng, dan pencegahan microsleep.",
+        "key_achievements": [
+            "Tingkat kelulusan asesmen BNSP mencapai 99%.",
+            "Mendukung penurunan angka insiden equipment impact di area loading point.",
+            "Penguatan budaya kepedulian keselamatan (Safety Accountability) di level Group Leader."
+        ],
+        "testimonial": {
+            "quote": "Pelatihan POP dari PENA Consultant sangat tajam, menantang, dan instruktur memiliki jam terbang lapangan tambang yang tidak diragukan.",
+            "author": "Danang Prasetyo",
+            "position": "Department Head Safety & Health PT Pamapersada Nusantara"
+        },
+        "delivery_method": "PAMA Training Center Balikpapan & Site Sangatta / Adaro",
+        "relevant_offering_slugs": [
+            "operator-excavator-bnsp",
+            "smkp-minerba-esdm",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01m0vnfbb0e1mzbevnkb5rqam0",
@@ -1648,7 +3176,40 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2023 – 2026 (Telecommunication Tower & Base Station Safety)",
+        "cooperation_summary": "Pelatihan K3 Bekerja di Ketinggian (Tower Climbing Safety), K3 Kelistrikan Genset/Rectifier BTS, dan sertifikasi Ahli K3 Umum untuk tim Network Operations Telkomsel.",
+        "training_delivered": [
+            {
+                "title": "K3 Bekerja di Ketinggian (TKPK Tingkat 1) & Tower Rigging",
+                "description": "Prosedur pemanjatan tower monopole/guyed mast, penggunaan fall arrester vertikal, dan evakuasi mandiri.",
+                "participants": "45 Network Engineers & Tower Riggers",
+                "year": "2023 – 2024"
+            },
+            {
+                "title": "Ahli K3 Umum Kemnaker RI (Divisi Network & Facilities)",
+                "description": "Sertifikasi calon sekretaris P2K3 regional network operations.",
+                "participants": "25 Regional Safety Leads",
+                "year": "2024 – 2025"
+            }
+        ],
+        "experience_and_challenges": "Tower telekomunikasi sering berada di lokasi terpencil di atas bukit atau atap gedung tinggi dengan cuaca ekstrem petir dan angin kencang. Instruktur melatih mitigasi bahaya radiasi non-pengion RF dan keselamatan panjat.",
+        "key_achievements": [
+            "100% kelulusan sertifikasi Tenaga Kerja pada Ketinggian Kemnaker RI.",
+            "Zero fatality dalam ratusan proyek upgrade antena 5G di seluruh Indonesia.",
+            "Standarisasi kelengkapan APD panjat tower ganda untuk seluruh mitra teknis Telkomsel."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant memberikan simulasi panjat tower yang sangat aman dan terstruktur sesuai standar keselamatan ketinggian Kemnaker RI.",
+            "author": "Gita Pratama",
+            "position": "Network Quality & Safety Lead Telkomsel"
+        },
+        "delivery_method": "Telkomsel Smart Office Jakarta & Tower Rigging Training Field",
+        "relevant_offering_slugs": [
+            "ahli-k3-listrik",
+            "ahli-k3-umum",
+            "petugas-p3k-kemnaker"
+        ]
     },
     {
         "id": "01m0vnfbd5bzr4th586p5j5606",
@@ -1667,7 +3228,40 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2023 – 2026 (Applied Vocational Safety & SKPI BNSP)",
+        "cooperation_summary": "Program sertifikasi K3 Laboratorium Pertanian Terapan, Ahli K3 Umum Vokasi, dan Pembekalan SKPI untuk mahasiswa Jurusan Teknik dan Kesehatan Polije.",
+        "training_delivered": [
+            {
+                "title": "Ahli K3 Umum Kemnaker RI Goes to Vokasi",
+                "description": "Sertifikasi kompetensi K3 bagi mahasiswa D3/D4 calon supervisor industri manufaktur dan perkebunan.",
+                "participants": "45 Mahasiswa Tingkat Akhir",
+                "year": "2024"
+            },
+            {
+                "title": "K3 Alat Berat Pertanian & Mesin Pengolahan Hasil Panas",
+                "description": "Keselamatan mesin traktor roda rantai, boiler agro, dan biosafety lab kultur jaringan.",
+                "participants": "30 Pranata Laboratorium Pendidikan",
+                "year": "2024 – 2025"
+            }
+        ],
+        "experience_and_challenges": "Mahasiswa vokasi memerlukan bekal praktis langsung yang siap diujikan di depan calon pemberi kerja industri manufaktur dan perkebunan multinasional.",
+        "key_achievements": [
+            "Kelulusan 100% peserta sertifikasi Kemnaker RI.",
+            "Pemberian poin SKPI resmi yang meningkatkan rasio keterserapan kerja lulusan hingga 85% dalam 6 bulan.",
+            "Peningkatan standar keselamatan di bengkel mekanisasi pertanian Polije."
+        ],
+        "testimonial": {
+            "quote": "Kerja sama dengan PENA Consultant sangat membantu peningkatan akreditasi program studi dan kualitas lulusan vokasi kami.",
+            "author": "Ir. Saiful Anwar, M.P.",
+            "position": "Wakil Direktur Bidang Kerjasama Polije"
+        },
+        "delivery_method": "Kampus Polije Jember & Praktikum Bengkel Mekanisasi",
+        "relevant_offering_slugs": [
+            "ahli-k3-umum",
+            "jembatan-skpi-sertifikasi-profesi-bnsp",
+            "operator-boiler-kelas-1"
+        ]
     },
     {
         "id": "01m0vnfbeacyfkkn47vxxzz60q",
@@ -1686,7 +3280,40 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2022 – 2025 (Mega Combined Cycle Power Plant & High-Rise EPC Safety)",
+        "cooperation_summary": "Pelatihan keselamatan konstruksi proyek PLTGU Jawa-1 (Cilamaya) dan mega proyek EPC, sertifikasi Pengawas Scaffolding, Rigger, dan Ahli K3 Umum.",
+        "training_delivered": [
+            {
+                "title": "Pengawas K3 Scaffolding & Heavy Lifting Specialist Proyek PLTGU",
+                "description": "Inspeksi perancah turbin gas raksasa, heavy lifting generator 400 ton, dan rigging permit.",
+                "participants": "35 EPC Site Engineers & Foremen",
+                "year": "2023 – 2024"
+            },
+            {
+                "title": "Ahli K3 Umum Kemnaker RI (Standarisasi Tim HSE Kontraktor Lokal)",
+                "description": "Penyelarasan standar HSE Samsung C&T dengan perundangan ketenagakerjaan Indonesia.",
+                "participants": "28 Safety Officers",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Proyek EPC pembangkit listrik gas turbin terbesar di Asia Tenggara menuntut koordinasi ribuan pekerja multinasional dengan standar keselamatan Korea & internasional.",
+        "key_achievements": [
+            "Seluruh peserta lulus uji kompetensi Kemnaker RI dengan predikat memuaskan.",
+            "Mendukung rekor 25 Juta Jam Kerja Selamat tanpa Lost Time Injury pada proyek PLTGU Jawa-1.",
+            "Nihil insiden pada proses pengangkatan komponen turbin uap dan gas berat."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant has demonstrated outstanding competence in delivering rigorous scaffolding and lifting safety certifications on our mega EPC projects in Indonesia.",
+            "author": "Kim Jin-Woo / Ardiansyah",
+            "position": "Project HSE Director Samsung C&T Corporation"
+        },
+        "delivery_method": "Jawa-1 Power Plant Project Site Cilamaya & Jakarta Office",
+        "relevant_offering_slugs": [
+            "pengawas-k3-scaffolding",
+            "operator-crane-kelas-1",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01m0vnfbfdvfjd6cjmrm9bp1jb",
@@ -1705,7 +3332,40 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2022 – 2026 (Jabung Block Oil & Gas Production Safety)",
+        "cooperation_summary": "Pelatihan keselamatan operasional eksplorasi dan produksi migas Blok Jabung (Jambi), K3 Ruang Terbatas, Pengawas K3 Migas, dan Tanggap Darurat Gas H2S.",
+        "training_delivered": [
+            {
+                "title": "Pengawas K3 Migas & Gas Tester Bersertifikat BNSP",
+                "description": "Prosedur keselamatan gas plant Betara, pengawasan sumur minyak Geragai, dan hot work permit.",
+                "participants": "35 Field HSE & Operations Foremen",
+                "year": "2023 – 2025"
+            },
+            {
+                "title": "K3 Ruang Terbatas (Confined Space) Madya & Rescue Kilang Gas",
+                "description": "Simulasi masuk tangki pemisah kondensat dan bejana gas bertekanan tinggi.",
+                "participants": "28 Maintenance Crew",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Fasilitas Betara Gas Plant mengolah gas asam bertekanan dengan potensi gas beracun H2S. Pelatihan mengupas tuntas penggunaan multi-gas detector, SCBA, dan isolasi energi LOTO.",
+        "key_achievements": [
+            "100% kelulusan peserta sertifikasi Pengawas K3 Migas BNSP.",
+            "Pencapaian rekor Zero LTI berkelanjutan di Blok Jabung.",
+            "Standarisasi pengujian gas beracun sebelum penerbitan izin kerja panas (Hot Work)."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant memberikan pelatihan dengan simulasi praktis gas tester yang sangat presisi dan sesuai dengan karakteristik lapangan gas kami di Jambi.",
+            "author": "Bambang Triyono",
+            "position": "HSE Superintendent PetroChina Jabung"
+        },
+        "delivery_method": "Betara Gas Plant Jambi & Jakarta Learning Base",
+        "relevant_offering_slugs": [
+            "pengawas-k3-migas",
+            "k3-ruang-terbatas-madya",
+            "ahli-k3-kimia"
+        ]
     },
     {
         "id": "01m0vnfbgjpcvp22r1qbsyb9gq",
@@ -1724,7 +3384,40 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2023 – 2025 (Automotive Bus Body Manufacturing Safety)",
+        "cooperation_summary": "Pelatihan keselamatan pabrik karoseri bus dan manufaktur otomotif di Magelang, Jawa Tengah, mencakup K3 Pengelasan, K3 Pengecatan (Painting Booth), dan Ahli K3 Umum.",
+        "training_delivered": [
+            {
+                "title": "Ahli K3 Kimia & Keselamatan Ruang Pengecatan (Spray Booth)",
+                "description": "Mitigasi bahaya uap thinner mudah terbakar, solvent organik, dan sistem ventilasi spray booth.",
+                "participants": "20 Paint Shop Supervisors",
+                "year": "2023 – 2024"
+            },
+            {
+                "title": "Ahli K3 Umum Kemnaker RI (Penguatan Sekretaris P2K3 Karoseri)",
+                "description": "Sertifikasi calon ahli K3 umum pengendali keselamatan pabrik pembuatan bodi bus.",
+                "participants": "22 Plant Foremen & Engineers",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Pabrik karoseri bus melibatkan pekerjaan las rangka baja bodi, pemotongan plat, dan pengecatan ruang tertutup dengan risiko kebakaran uap solvent.",
+        "key_achievements": [
+            "Seluruh peserta lulus sertifikasi resmi Kemnaker RI.",
+            "Pemasangan instalasi grounding anti-statis dan sistem pemadam otomatis di area painting booth.",
+            "Nihil insiden kebakaran atau keracunan uap solvent di seluruh bengkel produksi."
+        ],
+        "testimonial": {
+            "quote": "Pelatihan dari PENA Consultant sangat fokus pada keselamatan proses manufaktur otomotif dan pencegahan bahaya kimia pengecatan.",
+            "author": "Ignatius Sunarto",
+            "position": "Production Safety Manager PT New Armada"
+        },
+        "delivery_method": "Pabrik Karoseri New Armada Magelang",
+        "relevant_offering_slugs": [
+            "ahli-k3-kimia",
+            "ahli-k3-umum",
+            "ahli-k3-lingkungan-kerja"
+        ]
     },
     {
         "id": "01m0vnfbhgyezcy669c67v6tbr",
@@ -1743,7 +3436,40 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2023 – 2025 (Residential & Commercial Property Construction Safety)",
+        "cooperation_summary": "Pelatihan keselamatan proyek perumahan, ruko, dan kawasan komersial, sertifikasi Petugas K3 Konstruksi dan SMK3 Kontraktor PT KAJ Properti Indonesia.",
+        "training_delivered": [
+            {
+                "title": "Petugas K3 Konstruksi Kemnaker RI",
+                "description": "Keselamatan pekerjaan pondasi, perancah bambu/besi, dan instalasi listrik sementara proyek.",
+                "participants": "20 Site Managers & Mandor Proyek",
+                "year": "2023 – 2024"
+            },
+            {
+                "title": "Internal Auditor SMK3 PP 50/2012 Sektor Properti",
+                "description": "Penyusunan dokumen SMK3 untuk tender konstruksi komersial.",
+                "participants": "15 Project QSHE Staff",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Meningkatkan kesadaran keselamatan bagi mandor dan tukang bangunan lokal yang belum terbiasa dengan APD standar dan sistem izin kerja aman.",
+        "key_achievements": [
+            "100% kelulusan peserta sertifikasi Petugas K3 Konstruksi.",
+            "Penerapan Safety Morning Talk harian seragam di seluruh cluster proyek properti.",
+            "Zero major injury pada seluruh proyek pembangunan perumahan dan ruko komersial."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant membimbing tim pengawas proyek kami dengan bahasa yang membumi dan mudah diterapkan langsung kepada para mandor dan pekerja.",
+            "author": "Andi Wijaya",
+            "position": "Project Director PT KAJ Properti Indonesia"
+        },
+        "delivery_method": "KAJ Corporate Office & Onsite Project Clusters",
+        "relevant_offering_slugs": [
+            "petugas-k3-konstruksi",
+            "internal-auditor-smk3-pp-50-2012",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01m0vnfbje5an98d5r866fdf3c",
@@ -1762,7 +3488,40 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2022 – 2026 (Holding Cement Factory & Quarry Safety Excellence)",
+        "cooperation_summary": "Program terpadu sertifikasi Ahli K3 Umum, K3 Ruang Terbatas Silo Semen, Operator Boiler & Kiln, serta Auditor SMK3 untuk unit pabrik PT Semen Indonesia (Persero) Tbk di Tuban, Gresik, Padang, dan Tonasa.",
+        "training_delivered": [
+            {
+                "title": "Ahli K3 Umum & Auditor SMK3 PP 50/2012 (Holding & Anak Usaha)",
+                "description": "Sertifikasi calon sekretaris P2K3 dan auditor internal pemenuhan 166 kriteria SMK3.",
+                "participants": "50 Safety Officers & Plant Superintendents",
+                "year": "2023 – 2025"
+            },
+            {
+                "title": "K3 Ruang Terbatas (Confined Space) Kiln & Clinker Silo",
+                "description": "Prosedur penggantian refractory brick rotary kiln semen dan pembersihan silo clinker.",
+                "participants": "45 Maintenance Foremen",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Rotary kiln semen beroperasi pada suhu pembakaran 1.450°C. Pemeliharaan selama kiln shutdown membutuhkan pendinginan, pengujian atmosfer gas, dan keselamatan perancah khusus di dalam silinder kiln miring.",
+        "key_achievements": [
+            "Kelulusan 100% peserta sertifikasi resmi Kemnaker RI.",
+            "Raihan penghargaan Bendera Emas SMK3 untuk 5 unit pabrik Semen Indonesia Group.",
+            "Nihil kecelakaan fatal (Zero Fatality) selama periode overhaul tahunan seluruh pabrik semen SIG."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant merupakan mitra strategis yang sangat handal dalam mendukung program transformasi K3 industri semen berkelanjutan di seluruh pabrik SIG.",
+            "author": "Ir. Tri Haryanto",
+            "position": "Senior Vice President of Corporate Safety SIG"
+        },
+        "delivery_method": "SIG Training Center Tuban & Pabrik Indarung Padang",
+        "relevant_offering_slugs": [
+            "ahli-k3-umum",
+            "k3-ruang-terbatas-madya",
+            "internal-auditor-smk3-pp-50-2012"
+        ]
     },
     {
         "id": "01m0vnfbkk7hjhxydhps5hjjsc",
@@ -1781,7 +3540,40 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2023 – 2025 (Heavy Machinery & Steel Fabrication Safety)",
+        "cooperation_summary": "Pelatihan keselamatan pabrikasi baja berat (Foundry & Heavy Machining), sertifikasi Operator Overhead Crane, dan K3 Ruang Terbatas PT Barata Indonesia (Persero) di Gresik dan Cilegon.",
+        "training_delivered": [
+            {
+                "title": "Operator Overhead Crane Pabrikasi Baja Kelas 1 & 2",
+                "description": "Pengangkatan komponen turbin uap, bejana tekan, dan struktur baja pelat tebal.",
+                "participants": "25 Crane Operators",
+                "year": "2023 – 2024"
+            },
+            {
+                "title": "K3 Ruang Terbatas (Confined Space) Pabrikasi Bejana Tekan",
+                "description": "Izin masuk pengelasan bagian dalam tabung bejana tekan dan tangki timbun.",
+                "participants": "20 Welders & Fitters",
+                "year": "2024"
+            }
+        ],
+        "experience_and_challenges": "Pengecoran logam dan perakitan struktur baja puluhan ton memerlukan koordinasi juru ikat beban (rigger) dan operator crane yang presisi guna mencegah tali baja putus.",
+        "key_achievements": [
+            "100% kelulusan sertifikasi operator crane dan confined space Kemnaker RI.",
+            "Nihil insiden kejatuhan material baja berat di area bengkel perakitan.",
+            "Peningkatan ketepatan inspeksi harian kelayakan sling baja dan hook crane."
+        ],
+        "testimonial": {
+            "quote": "Instruktur PENA Consultant sangat menguasai aspek teknis pengangkatan beban berat dan pengelasan bejana bertekanan.",
+            "author": "Slamet Riyadi",
+            "position": "Head of Safety & Quality Barata Indonesia"
+        },
+        "delivery_method": "Workshop Pabrik Barata Gresik",
+        "relevant_offering_slugs": [
+            "operator-overhead-crane-kelas-3",
+            "k3-ruang-terbatas-madya",
+            "ahli-k3-umum"
+        ]
     },
     {
         "id": "01m0vnfbmrw0y531z08xsx5rae",
@@ -1800,6 +3592,45 @@
         "industry_keywords": null,
         "page_id": null,
         "published_at": null,
-        "updated_content_at": null
+        "updated_content_at": null,
+        "cooperation_period": "2022 – 2026 (Defense Industry & Explosive Propellant Safety)",
+        "cooperation_summary": "Program sertifikasi K3 Kimia Bahan Peledak, Ahli K3 Umum, dan Higiene Industri Pabrik Munisi & Kendaraan Khusus PT Pindad (Persero) di Bandung dan Turen (Malang).",
+        "training_delivered": [
+            {
+                "title": "Ahli K3 Kimia & Keselamatan Bahan Energetik / Propelan Munisi",
+                "description": "Penanganan aman bubuk mesiu (propellant), asam nitrat, detonator, dan sistem pembumian anti-listrik statis.",
+                "participants": "28 Munition Safety Specialists",
+                "year": "2023 – 2025"
+            },
+            {
+                "title": "Ahli K3 Umum Kemnaker RI (Pabrik Senjata & Kendaraan Tempur)",
+                "description": "Sertifikasi calon sekretaris P2K3 divisi perakitan kendaraan tempur Anoa/Harimau.",
+                "participants": "30 Safety Engineers",
+                "year": "2024"
+            },
+            {
+                "title": "K3 Lingkungan Kerja & Proteksi Kebakaran Tingkat Lanjut",
+                "description": "Pengukuran getaran bengkel tempa baja, debu logam, dan sistem deluge anti-ledakan.",
+                "participants": "25 EHS Technicians",
+                "year": "2024 – 2025"
+            }
+        ],
+        "experience_and_challenges": "Industri pertahanan memproduksi munisi dan senjata dengan standar keselamatan militer berisiko ledakan tinggi. Pelatihan difokuskan pada mitigasi listrik statis, penyimpanan bahan kimia energetik, dan sistem penangkal petir khusus bunker munisi.",
+        "key_achievements": [
+            "Tingkat kelulusan 100% pada evaluasi Kemnaker RI dengan nilai sempurna.",
+            "Pencapaian Zero Explosion dan Zero LTI di seluruh lini produksi munisi Divisi Turen Malang.",
+            "Pembaruan Standard Operating Procedure (SOP) Penanganan Propelan Kimia sesuai standar militer dan regulasi Kemnaker."
+        ],
+        "testimonial": {
+            "quote": "PENA Consultant membuktikan pemahaman mendalam tentang keselamatan bahan kimia berdaya ledak tinggi dan sistem pencegahan kebakaran industri pertahanan.",
+            "author": "Kolonel (Purn) Ir. Bambang Hermanto / Hendra W.",
+            "position": "Vice President K3LH & Pengamanan PT Pindad (Persero)"
+        },
+        "delivery_method": "Pindad Training Hall Bandung & Onsite Divisi Munisi Turen Malang",
+        "relevant_offering_slugs": [
+            "ahli-k3-kimia",
+            "ahli-k3-umum",
+            "ahli-k3-lingkungan-kerja"
+        ]
     }
 ]
