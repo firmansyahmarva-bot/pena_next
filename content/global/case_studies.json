@@ -483,7 +483,8 @@
                     "offering_id": "01kyfffhnzgqq5t1zrp7xytdz9"
                 }
             }
-        ]
+        ],
+        "summary": "Klien merupakan kontraktor EPC berskala besar yang mengelola berbagai proyek infrastruktur strategis nasional dengan total lebih dari 1.200 tenaga kerja multi-site. Perusahaan menghadapi tantangan standardisasi prosedur K3 antarsite proyek, pemenuhan 166 kriteria audit SMK3 tingkat lanjutan, dan kebutuhan sertifikasi Auditor Internal SMK3 sebelum menghadapi audit eksternal dari Lembaga Audit yang ditunjuk Kemnaker RI."
     },
     {
         "id": "01m0vnh2dqbzzfk5qpsv374rrk",
@@ -1124,7 +1125,8 @@
                     "offering_id": "01kyfffhzz13trc66h08gtmvhq"
                 }
             }
-        ]
+        ],
+        "summary": "Pada masa Turnaround (TAR) berkala fasilitas pengolahan migas, lebih dari 300 teknisi dan kontraktor harus melakukan pembersihan, perbaikan, dan pengelasan di dalam bejana proses (process vessels), kolom distilasi, dan tangki timbun yang memiliki potensi bahaya akumulasi gas asam (H2S) dan defisiensi oksigen."
     },
     {
         "id": "01m0vnh2fnfnw8ps6vedfqetzn",
@@ -1763,7 +1765,8 @@
                     "offering_id": "01kyfffj3ex7f5w38g8radbrq4"
                 }
             }
-        ]
+        ],
+        "summary": "Pembangunan gedung komersial 35 lantai di kawasan pusat bisnis melibatkan pekerjaan berisiko jatuh tinggi pada pemasangan fasad kaca, scaffolding gantung (suspended scaffold), dan instalasi formwork baja di ketinggian lebih dari 100 meter dari permukaan tanah."
     },
     {
         "id": "01m0vnh2hafbn4drk40da8qd88",
@@ -2418,6 +2421,487 @@
                     "offering_id": "01kyfffhxhbrr3r0837yb7t8qv"
                 }
             }
+        ],
+        "summary": "Fasilitas peleburan logam nikel menghadapi konsentrasi debu respirabel dan iklim kerja panas tinggi di area rotary kiln dan electric furnace yang mendekati Nilai Ambang Batas (NAB), berisiko menimbulkan keluhan pernapasan dan kelelahan panas (heat exhaustion) bagi 350 pekerja operasional."
+    },
+    {
+        "id": "01m0vnh_cs05_geothermal_h2s",
+        "title": "Mitigasi Bahaya Gas H2S & Emergency Preparedness pada Pembangkit Panas Bumi (PLTP)",
+        "slug": "mitigasi-bahaya-gas-h2s-emergency-preparedness-pltp-geothermal",
+        "client_anonymized": "Operator Pembangkit Listrik Tenaga Panas Bumi (PLTP) Jawa Barat",
+        "summary": "Implementasi sistem proteksi gas H2S bertekanan tinggi, simulasi evakuasi darurat SCBA, dan sertifikasi Authorized Gas Tester (AGT) untuk 120 pekerja lapangan PLTP.",
+        "problem": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Operasi eksplorasi dan produksi uap panas bumi menghadapi ancaman gas asam beracun H2S berkonsentrasi hingga >100 ppm di area kepala sumur (wellhead) dan separator uap. Perusahaan membutuhkan standarisasi prosedur deteksi gas dini, penggunaan Self-Contained Breathing Apparatus (SCBA), dan kesiapan tim tanggap darurat saat terjadi kebocoran gas tidak terkendali."
+                    }
+                }
+            ]
+        },
+        "intervention": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PENA Consultant menyusun kurikulum pelatihan terpadu meliputi:"
+                    }
+                },
+                {
+                    "type": "list",
+                    "data": {
+                        "style": "bullet",
+                        "items": [
+                            "Sertifikasi Authorized Gas Tester (AGT) dan Kalibrasi Multi-Gas Detector",
+                            "Praktik penggunaan SCBA kerja dan SCBA evakuasi darurat (Emergency Escape Breathing Device - EEBD)",
+                            "Simulasi live table-top dan field drill skenario kebocoran gas H2S di area wellpad",
+                            "Penyusunan Standard Operating Procedure (SOP) Safe Entry & Rescue Ruang Terbatas PLTP"
+                        ]
+                    }
+                }
+            ]
+        },
+        "outcome": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Seluruh 120 personel lapangan berhasil meraih sertifikasi kompetensi resmi. Selama 24 bulan masa operasional pasca-pelatihan, tercatat nihil insiden keracunan gas H2S, dan waktu respon evakuasi darurat pada uji simulasi berhasil dipersingkat hingga 45%."
+                    }
+                }
+            ]
+        },
+        "outcome_metrics": {
+            "Personel Terlatih SCBA": "120 Pekerja",
+            "Penurunan Waktu Respon Darurat": "45% Lebih Cepat",
+            "Insiden Keracunan H2S": "0 Kasus",
+            "Jam Kerja Selamat": "2.800.000 Jam"
+        },
+        "relevant_offering_slugs": [
+            "ahli-k3-kimia",
+            "k3-ruang-terbatas-madya",
+            "incident-commander-tanggap-darurat"
+        ]
+    },
+    {
+        "id": "01m0vnh_cs06_boiler_chemical",
+        "title": "Audit Integritas Bejana Tekan & Sertifikasi Operator Boiler pada Pabrik Petrokimia",
+        "slug": "audit-integritas-bejana-tekan-sertifikasi-operator-boiler-pabrik-petrokimia",
+        "client_anonymized": "Pabrik Petrokimia & Polimer Terintegrasi Banten",
+        "summary": "Peningkatan keandalan ketel uap superheated 80 Ton/Jam, inspeksi non-destruktif pipa uap, dan sertifikasi Operator Boiler Kelas 1 Kemnaker RI.",
+        "problem": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Pabrik petrokimia mengoperasikan boiler uap bertekanan tinggi 65 bar yang memasok panas untuk proses polimerisasi. Tingginya risiko overpressure, kegagalan safety valve, dan pembentukan kerak boiler memerlukan peremajaan kompetensi operator dan audit kelayakan teknis bejana tekan (PUBT)."
+                    }
+                }
+            ]
+        },
+        "intervention": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PENA Consultant menyelenggarakan pelatihan intensif mencakup:"
+                    }
+                },
+                {
+                    "type": "list",
+                    "data": {
+                        "style": "bullet",
+                        "items": [
+                            "Pembinaan & Uji Lisensi Operator Boiler Kelas 1 Kemnaker RI",
+                            "Inspeksi visual, uji ketebalan ultrasonik (UTG), dan pengujian safety relief valve",
+                            "Pengendalian kualitas air umpan boiler (Boiler Water Treatment) untuk mencegah korosi tabung",
+                            "Prosedur Emergency Shutdown saat terjadi kehilangan air atau overtemperature"
+                        ]
+                    }
+                }
+            ]
+        },
+        "outcome": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "28 operator dan teknisi boiler berhasil meraih lisensi SIO Kemnaker RI resmi. Efisiensi pembakaran boiler meningkat 4.2%, dan pabrik berhasil melewati shutdown tahunan tanpa insiden pelepasan uap liar."
+                    }
+                }
+            ]
+        },
+        "outcome_metrics": {
+            "Operator Lulus Lisensi": "28 Teknisi",
+            "Efisiensi Thermal Boiler": "+4.2% Meningkat",
+            "Unscheduled Boiler Trip": "0 Kejadian",
+            "Kepatuhan Riksa Uji PUBT": "100% Terverifikasi"
+        },
+        "relevant_offering_slugs": [
+            "operator-boiler-kelas-1",
+            "teknisi-k3-bejana-tekan-tangki-timbun",
+            "ahli-k3-umum"
+        ]
+    },
+    {
+        "id": "01m0vnh_cs07_underground_mining",
+        "title": "Transformasi Keselamatan Tambang Bawah Tanah & Pembinaan Pengawas Operasional (POP)",
+        "slug": "transformasi-keselamatan-tambang-bawah-tanah-pembinaan-pengawas-pop",
+        "client_anonymized": "Perusahaan Pertambangan Emas Bawah Tanah Jawa Barat",
+        "summary": "Standarisasi kepemimpinan keselamatan pengawas tambang, mitigasi bahaya batuan runtuh (Ground Support), dan audit SMKP Minerba ESDM.",
+        "problem": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Penambangan bawah tanah dengan sistem terowongan horizontal dan vertikal memiliki bahaya runtuhan batuan, ventilasi terbatas, dan risiko kebakaran alat berat. Pengawas lini pertama memerlukan sertifikasi kompetensi POP BNSP dan pemahaman mendalam tentang SMKP Minerba."
+                    }
+                }
+            ]
+        },
+        "intervention": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Program pembinaan terpadu yang dijalankan:"
+                    }
+                },
+                {
+                    "type": "list",
+                    "data": {
+                        "style": "bullet",
+                        "items": [
+                            "Uji Kompetensi Pengawas Operasional Pertama (POP) Pertambangan BNSP/ESDM",
+                            "Inspeksi sistem penyangga batuan (Rock Bolting & Shotcrete)",
+                            "Pengukuran aliran udara ventilasi tambang dan pemantauan gas peledakan",
+                            "Audit internal 7 elemen Sistem Manajemen Keselamatan Pertambangan (SMKP)"
+                        ]
+                    }
+                }
+            ]
+        },
+        "outcome": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "40 pengawas lapangan lulus uji kompetensi BNSP. Perusahaan meraih skor audit SMKP Minerba 91.8% dari Kementerian ESDM dan mempertahankan rekor Zero Fatality selama 3 tahun berturut-turut."
+                    }
+                }
+            ]
+        },
+        "outcome_metrics": {
+            "Pengawas Bersertifikat POP": "40 Pengawas",
+            "Skor Audit SMKP ESDM": "91.8% (Memuaskan)",
+            "Insiden Runtuhan Batuan": "0 Korban",
+            "Pelaporan Bahaya K3": "+180% Meningkat"
+        },
+        "relevant_offering_slugs": [
+            "smkp-minerba-esdm",
+            "k3-ruang-terbatas-madya",
+            "ahli-k3-umum"
+        ]
+    },
+    {
+        "id": "01m0vnh_cs08_fmcg_warehouse",
+        "title": "Zero Accident Movement & Standardisasi Operasi Forklift di Pusat Distribusi FMCG",
+        "slug": "zero-accident-movement-standardisasi-operasi-forklift-pusat-distribusi-fmcg",
+        "client_anonymized": "Perusahaan FMCG & Ritel Logistik Nasional",
+        "summary": "Sertifikasi 85 operator forklift, penataan jalur pejalan kaki gudang (Pedestrian Safety), dan penurunan kerusakan barang logistik.",
+        "problem": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Gudang distribusi seluas 40.000 m2 beroperasi 24 jam dengan 45 unit forklift dan ratusan pekerja manual. Tingginya frekuensi pergerakan memicu risiko tabrakan forklift-pejalan kaki dan kerusakan rak penyimpanan tier tinggi."
+                    }
+                }
+            ]
+        },
+        "intervention": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PENA Consultant menerapkan strategi keselamatan pergudangan:"
+                    }
+                },
+                {
+                    "type": "list",
+                    "data": {
+                        "style": "bullet",
+                        "items": [
+                            "Sertifikasi Lisensi SIO Operator Forklift Kelas 1 & 2 Kemnaker RI",
+                            "Pemasangan sistem sensor peringatan blind spot (Blue Spot Safety Light)",
+                            "Pemisahan fisik jalur pejalan kaki dan jalur forklift dengan guardrail baja",
+                            "Pelatihan P3K di Tempat Kerja untuk tim respon medis gudang"
+                        ]
+                    }
+                }
+            ]
+        },
+        "outcome": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Semua operator forklift berhasil memperoleh lisensi resmi Kemnaker RI. Kerusakan palet dan rak menurun hingga 78%, serta nihil insiden tabrakan di seluruh area distribusi."
+                    }
+                }
+            ]
+        },
+        "outcome_metrics": {
+            "Operator Forklift Berlisensi": "85 Operator",
+            "Penurunan Kerusakan Rak": "78% Lebih Rendah",
+            "Insiden Tabrakan Pejalan Kaki": "0 Kasus",
+            "Audit 5S Pergudangan": "96% Skor Rapi"
+        },
+        "relevant_offering_slugs": [
+            "operator-forklift-kelas-1",
+            "petugas-p3k-kemnaker",
+            "ahli-k3-umum"
+        ]
+    },
+    {
+        "id": "01m0vnh_cs09_hospital_safety",
+        "title": "Penguatan K3 Rumah Sakit, Manajemen Limbah Medis B3 & Simulasi Code Red",
+        "slug": "penguatan-k3-rumah-sakit-manajemen-limbah-medis-b3-simulasi-code-red",
+        "client_anonymized": "Rumah Sakit Umum Daerah Tipe A Jawa Timur",
+        "summary": "Standarisasi akreditasi KARS bab MFK, sertifikasi Pengelola Limbah B3 Medis, dan simulasi penanggulangan kebakaran ruang rawat inap.",
+        "problem": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Fasilitas kesehatan dengan 500 tempat tidur menghadapi tantangan pengelolaan limbah infeksius jarum suntik, keselamatan tabung gas medis bertekanan, dan prosedur evakuasi pasien non-ambulatori saat terjadi kebakaran gedung."
+                    }
+                }
+            ]
+        },
+        "intervention": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PENA Consultant menyelenggarakan program pembinaan khusus fasilitas kesehatan:"
+                    }
+                },
+                {
+                    "type": "list",
+                    "data": {
+                        "style": "bullet",
+                        "items": [
+                            "Pelatihan Pengawas K3 Rumah Sakit & Standar MFK Akreditasi KARS",
+                            "Sertifikasi Pengelolaan Limbah B3 Medis BNSP untuk staf sanitasi",
+                            "Simulasi penanganan tumpahan sitotoksik dan needle-stick injury prevention",
+                            "Drill simulasi Code Red kebakaran dengan evakuasi matras luncur pasien rawat inap"
+                        ]
+                    }
+                }
+            ]
+        },
+        "outcome": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Rumah sakit berhasil meraih akreditasi Paripurna KARS dengan nilai sempurna pada bab Manajemen Fasilitas dan Keselamatan (MFK). Penanganan limbah B3 medis mencapai 100% ketertelusuran manifest KLHK."
+                    }
+                }
+            ]
+        },
+        "outcome_metrics": {
+            "Akreditasi KARS MFK": "Tingkat Paripurna (100%)",
+            "Ketertelusuran Limbah B3 Medis": "100% Manifest KLHK",
+            "Waktu Evakuasi Code Red": "7.5 Menit (Standar <10 Menit)",
+            "Kasus Tertusuk Jarum": "0 Kasus"
+        },
+        "relevant_offering_slugs": [
+            "pengawas-k3-rumah-sakit",
+            "pengelolaan-limbah-b3-plb3-bnsp",
+            "k3-kebakaran-kelas-d"
+        ]
+    },
+    {
+        "id": "01m0vnh_cs10_port_crane_lifting",
+        "title": "Manajemen Keselamatan Bongkar Muat Pelabuhan & Sertifikasi Crane Operator",
+        "slug": "manajemen-keselamatan-bongkar-muat-pelabuhan-sertifikasi-crane-operator",
+        "client_anonymized": "Terminal Petikemas Pelabuhan Internasional Selat Makassar",
+        "summary": "Sertifikasi Operator Quay Container Crane & RTG, inspeksi spreader bar, dan penerapan CSMS logistik pelabuhan.",
+        "problem": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Aktivitas bongkar muat kontainer kapal ke dermaga dengan crane berkapasitas 50 Ton menghadapi risiko angin kencang laut, kegagalan twistlock, dan bahaya terjepit di bawah area gantry. Perusahaan memerlukan sertifikasi resmi dan perbaikan sistem izin kerja."
+                    }
+                }
+            ]
+        },
+        "intervention": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PENA Consultant menyusun pelatihan komprehensif:"
+                    }
+                },
+                {
+                    "type": "list",
+                    "data": {
+                        "style": "bullet",
+                        "items": [
+                            "Sertifikasi Lisensi Operator Crane Pelabuhan Kelas 1 & 2 Kemnaker RI",
+                            "Pelatihan Juru Ikat Beban (Rigger) & Inspeksi Wire Rope Sling pelabuhan",
+                            "Penerapan anemometer limit switch dan prosedur badai darurat dermaga",
+                            "Pelatihan CSMS untuk perusahaan ekspedisi truk kontainer rekanan"
+                        ]
+                    }
+                }
+            ]
+        },
+        "outcome": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "50 operator crane dan rigger pelabuhan meraih lisensi resmi. Throughput bongkar muat peti kemas meningkat 12% karena penurunan waktu henti akibat insiden teknis."
+                    }
+                }
+            ]
+        },
+        "outcome_metrics": {
+            "Operator Crane Berlisensi": "50 Personel",
+            "Produktivitas Bongkar Muat": "+12% Throughput",
+            "Insiden Kejatuhan Kontainer": "0 Insiden",
+            "Jam Kerja Selamat Pelabuhan": "3.500.000 Jam"
+        },
+        "relevant_offering_slugs": [
+            "operator-crane-kelas-1",
+            "rigger-juru-ikat-beban-kemnaker",
+            "csms-kontraktor"
+        ]
+    },
+    {
+        "id": "01m0vnh_cs11_pharmaceutical_cleanroom",
+        "title": "Pengendalian Higiene Industri & K3 Kimia pada Fasilitas Produksi Farmasi Steril",
+        "slug": "pengendalian-higiene-industri-k3-kimia-fasilitas-farmasi-steril",
+        "client_anonymized": "Industri Farmasi & Produk Biologi Terkemuka Bandung",
+        "summary": "Pengukuran kualitas udara cleanroom kelas A/B, ergonomi mikroskopis, dan sertifikasi Ahli K3 Lingkungan Kerja BNSP.",
+        "problem": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Ruang bersih steril pembuatan obat injeksi menuntut kontrol partikulat ketat dan penanganan zat aktif poten (High Potency Active Pharmaceutical Ingredients - HPAPI) tanpa memicu paparan kronis pada operator."
+                    }
+                }
+            ]
+        },
+        "intervention": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Intervensi teknis yang diselenggarakan oleh PENA Consultant:"
+                    }
+                },
+                {
+                    "type": "list",
+                    "data": {
+                        "style": "bullet",
+                        "items": [
+                            "Sertifikasi Ahli K3 Lingkungan Kerja (Higiene Industri Muda & Madya BNSP)",
+                            "Pengukuran kuantitatif paparan debu zat aktif farmasi menggunakan IOM Sampler",
+                            "Evaluasi ergonomi workstation mikroskop dan laminar air flow cabinet",
+                            "Standardisasi prosedur pembuangan sisa pelarut organik laboratorium QC"
+                        ]
+                    }
+                }
+            ]
+        },
+        "outcome": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Pabrik sukses mempertahankan sertifikasi cGMP BPOM dan standar WHO. Seluruh parameter lingkungan kerja memenuhi batas pajanan higienis, dan keluhan nyeri punggung operator menurun drastis."
+                    }
+                }
+            ]
+        },
+        "outcome_metrics": {
+            "Personel Bersertifikat Higiene": "22 Ahli K3",
+            "Paparan Zat Aktif Obat": "<0.1 µg/m3 (Aman)",
+            "Sertifikasi cGMP BPOM": "100% Lolos Audit",
+            "Keluhan Ergonomi Operator": "-60% Menurun"
+        },
+        "relevant_offering_slugs": [
+            "ahli-k3-lingkungan-kerja",
+            "ahli-k3-kimia",
+            "pengelolaan-limbah-b3-plb3-bnsp"
+        ]
+    },
+    {
+        "id": "01m0vnh_cs12_aviation_ground_handling",
+        "title": "K3 Aviasi & Ground Support Equipment (GSE) di Bandara Internasional",
+        "slug": "k3-aviasi-ground-support-equipment-bandara-internasional",
+        "client_anonymized": "Perusahaan Jasa Ground Handling Bandara Soekarno-Hatta",
+        "summary": "Sertifikasi K3 Kebisingan Ekstrem Apron Bandara, keselamatan unit towing pesawat, dan mitigasi bahaya kebakaran bahan bakar avtur.",
+        "problem": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Area apron bandara merupakan lingkungan kerja dengan kebisingan mesin jet turbin >115 dBA, pergerakan kendaraan GSE berkecepatan tinggi, dan risiko tumpahan avtur Jet A-1 saat pengisian bahan bakar pesawat."
+                    }
+                }
+            ]
+        },
+        "intervention": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "PENA Consultant membimbing implementasi sistem keselamatan apron:"
+                    }
+                },
+                {
+                    "type": "list",
+                    "data": {
+                        "style": "bullet",
+                        "items": [
+                            "Program Konservasi Pendengaran (Hearing Conservation Program) & Noise Dose Monitoring",
+                            "Pelatihan Tanggap Darurat Tumpahan Bahan Bakar Pesawat (Fuel Spill Response)",
+                            "Sertifikasi Petugas Penanggulangan Kebakaran Kelas B & D Kemnaker RI",
+                            "Inspeksi keselamatan harian armada Ground Support Equipment (GSE)"
+                        ]
+                    }
+                }
+            ]
+        },
+        "outcome": {
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "data": {
+                        "text": "100% staf apron lolos uji audiometri tahunan tanpa pergeseran ambang pendengaran (Standard Threshold Shift). Tim ground handling meraih penghargaan Safety Excellence dari maskapai internasional rekanan."
+                    }
+                }
+            ]
+        },
+        "outcome_metrics": {
+            "Pekerja Terlindungi Kebisingan": "450 Personel Apron",
+            "Insiden Tumpahan Avtur": "0 Insiden Mayor",
+            "Gangguan Pendengaran Kerja": "0 Kasus Baru",
+            "Penghargaan K3 Maskapai": "Top Ground Safety Award"
+        },
+        "relevant_offering_slugs": [
+            "ahli-k3-lingkungan-kerja",
+            "k3-kebakaran-kelas-b",
+            "ahli-k3-umum"
         ]
     }
 ]
