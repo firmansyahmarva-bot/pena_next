@@ -1,0 +1,114 @@
+{
+    "id": "01kz_prog_009_cs_rescue",
+    "type": "training",
+    "name": "Petugas Penyelamat Ruang Terbatas (Confined Space Rescue)",
+    "slug": "petugas-penyelamat-ruang-terbatas-confined-space-rescue",
+    "path": "/pelatihan/petugas-penyelamat-ruang-terbatas-confined-space-rescue",
+    "title": "Pelatihan & Sertifikasi Confined Space Rescue Kemnaker RI",
+    "meta_title": "Pelatihan Petugas Penyelamat Ruang Terbatas (Confined Space Rescue) 2026",
+    "meta_description": "Sertifikasi resmi Petugas Penyelamat Ruang Terbatas (Confined Space Rescue) Kemnaker RI. Evakuasi darurat tangki, vertical rescue, dan pertolongan pertama.",
+    "summary": "Pelatihan tingkat lanjut spesialis penyelamatan darurat dan evakuasi korban insiden ruang terbatas (tangki/bejana) menggunakan sistem mechanical advantage & breathing apparatus.",
+    "certification_body": "kemnaker",
+    "base_price": 6500000,
+    "duration": "3 Hari Pelatihan Khusus & Simulasi Rescue Lapangan",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "SK Dirjen Binwasnaker No. Kep. 113/DJPPK/IX/2006."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Mencetak regu tanggap darurat (Emergency Response Team) yang siap melakukan evakuasi korban di ruang terbatas secara cepat, aman, dan tanpa menambah korban jiwa."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Mampu merancang Emergency Rescue Plan untuk seluruh jenis ruang terbatas di pabrik.",
+                "Menguasai teknik Vertical & Horizontal Rescue menggunakan pulley system (Hauling & Lowering).",
+                "Mengoperasikan stretcher evakuasi (sked stretcher/basket) di lorong dan manhole sempit.",
+                "Meraih Sertifikat Pembinaan & Lisensi Petugas Penyelamat Ruang Terbatas Kemnaker RI."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Kurikulum Praktik Rescue"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Prinsip Keselamatan Tim Penyelamat (Rescuer Safety First).",
+                "Penilaian Risiko Skenario Darurat Ruang Terbatas.",
+                "Rigging System, Anchor Points, & Mechanical Advantage (Sistem Katrol 3:1, 4:1).",
+                "Penyelamatan Pasien Tidak Sadar dengan SCBA di Ruang Terbatas.",
+                "Pertolongan Pertama pada Asfiksia & Keracunan Gas Berbahaya.",
+                "Simulasi Skenario Evakuasi Massal di Fasilitas Industri Migas/Petrokimia."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Pendidikan minimal SMA/SMK sederajat.",
+                "Telah memiliki pengalaman/sertifikat dasar K3 Ketinggian atau Ruang Terbatas Madya.",
+                "Kondisi fisik prima dan bebas fobia ruang sempit/ketinggian."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan KTP, Ijazah, Surat Keterangan Sehat Dokter.",
+                "Pasfoto 3x4 formal background merah."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Resmi Kemnaker RI & Lisensi Petugas Penyelamat Ruang Terbatas.",
+                "Sertifikat Kompetensi PENA Consultant.",
+                "Fasilitas Menara & Tangki Simulasi Rescue Lengkap."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Hubungi tim pendaftaran via WhatsApp di 0812-9687-0884."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-009.webp",
+        "alt_text": "Pelatihan Confined Space Rescue Kemnaker RI",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_cs_r_01",
+            "slug": "confined-space-rescue-batch-08",
+            "batch_number": "08",
+            "start_date": "2026-10-26",
+            "end_date": "2026-10-28",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 7500000,
+            "promo_price": 6500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}

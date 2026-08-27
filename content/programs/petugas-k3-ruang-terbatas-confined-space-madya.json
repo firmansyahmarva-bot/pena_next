@@ -1,0 +1,117 @@
+{
+    "id": "01kz_prog_008_cs_madya",
+    "type": "training",
+    "name": "K3 Bekerja di Ruang Terbatas Tingkat Madya (Confined Space Madya)",
+    "slug": "petugas-k3-ruang-terbatas-confined-space-madya",
+    "path": "/pelatihan/petugas-k3-ruang-terbatas-confined-space-madya",
+    "title": "Pelatihan K3 Ruang Terbatas Madya Kemnaker RI",
+    "meta_title": "Pelatihan & Sertifikasi K3 Ruang Terbatas Madya Kemnaker RI 2026",
+    "meta_description": "Sertifikasi Petugas K3 Ruang Terbatas Tingkat Madya (Entrant & Attendant) resmi Kemnaker RI sesuai Kep. 113/DJPPK/IX/2006. Lisensi resmi & praktik confined space.",
+    "summary": "Program sertifikasi resmi Kemnaker RI untuk personil yang bertugas memasuki (entrant) dan menjaga (attendant) tangki, silo, manhole, pipa, dan ruang terbatas berbahaya.",
+    "certification_body": "kemnaker",
+    "base_price": 5500000,
+    "duration": "3 Hari (Teori & Praktik Simulasi Tangki)",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "SK Dirjen Binwasnaker No. Kep. 113/DJPPK/IX/2006 tentang Pedoman Teknis Pembinaan K3 Bekerja di Ruang Terbatas (Confined Spaces)."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Mempersiapkan personil dengan keterampilan prosedur izin kerja (Permit to Work), pemantauan gas atmosfer berbahaya, ventilasi mekanik, dan penggunaan SCBA (Self Contained Breathing Apparatus)."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Mampu mengidentifikasi bahaya oksigen defisiensi, gas beracun (H2S, CO), dan gas mudah terbakar (LEL).",
+                "Menggunakan peralatan pelindung pernapasan SCBA dan breathing apparatus terhubung.",
+                "Menerapkan prosedur Lockout/Tagout (LOTO) dan isolasi energi sebelum memasuki ruang terbatas.",
+                "Meraih Sertifikat Pembinaan, Lisensi K3, & Buku Kerja Kemnaker RI."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Materi Teori & Praktik Lapangan"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Peraturan Perundangan K3 Bekerja di Ruang Terbatas (Kep. 113/2006).",
+                "Karakteristik & Bahaya Bekerja dalam Tangki, Bejana, Silo, & Terowongan.",
+                "Sistem Izin Kerja Khusus Ruang Terbatas (Entry Permit System).",
+                "Teknik Ventilasi & Purging Udara.",
+                "Praktik Pengoperasian Multi-Gas Detector & Kalibrasi Bump Test.",
+                "Praktik Masuk Ruang Terbatas dengan Tripod, Winch, Full Body Harness, & SCBA."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Pendidikan minimal SMP/SMA sederajat.",
+                "Sehat jasmani dan rohani, tidak memiliki riwayat claustrophobia (takut ruang sempit) atau asma kronis.",
+                "Surat Keterangan Sehat dari Dokter."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan KTP, Ijazah, Surat Keterangan Sehat Dokter.",
+                "Surat Tugas dari Perusahaan (bagi utusan perusahaan).",
+                "Pasfoto formal background merah."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Pembinaan Resmi Kemnaker RI.",
+                "Lisensi Kewenangan Petugas K3 Ruang Terbatas Madya Kemnaker RI.",
+                "Peralatan Praktik Lengkap (Manhole simulator, SCBA, Tripod Rescue, Gas Detector).",
+                "Modul, Training Kit, & Lunch/Coffee Break."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Pilih jadwal batch reguler atau in-house training onsite.",
+                "Hubungi WhatsApp Official PENA Consultant di 0812-9687-0884."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-008.webp",
+        "alt_text": "Pelatihan K3 Ruang Terbatas Madya Kemnaker RI",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_cs_m_01",
+            "slug": "confined-space-madya-batch-15",
+            "batch_number": "15",
+            "start_date": "2026-09-08",
+            "end_date": "2026-09-10",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 6500000,
+            "promo_price": 5500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "id": "01kz_prog_010_auditor_smk3_internal",
+    "type": "training",
+    "name": "Internal Auditor SMK3 PP No. 50 Tahun 2012",
+    "slug": "internal-auditor-smk3-pp-50-2012",
+    "path": "/pelatihan/internal-auditor-smk3-pp-50-2012",
+    "title": "Pelatihan Internal Auditor SMK3 PP 50/2012 Kemnaker RI",
+    "meta_title": "Pelatihan Internal Auditor SMK3 PP 50 Tahun 2012 — Sertifikasi Resmi 2026",
+    "meta_description": "Pelatihan dan sertifikasi Internal Auditor SMK3 PP No. 50 Tahun 2012. Panduan audit 64, 122, dan 166 kriteria untuk persiapan audit eksternal Kemnaker RI.",
+    "summary": "Program pelatihan intensif bagi tim audit internal perusahaan dalam menguasai teknik audit kepatuhan 166 kriteria SMK3 PP 50/2012 dan meraih sertifikasi emas (Gold Flag) Kemnaker RI.",
+    "certification_body": "kemnaker",
+    "base_price": 4500000,
+    "duration": "3 Hari Pembekalan & Workshop Audit Simulasi",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Peraturan Pemerintah No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Permenaker No. 26 Tahun 2014 tentang Penyelenggaraan Penilaian Penerapan Sistem Manajemen K3."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Mempersiapkan auditor internal perusahaan yang mampu merencanakan, melaksanakan, dan melaporkan audit SMK3 secara independen dan objektif."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Memahami interpretasi 5 Prinsip & 166 Kriteria Audit SMK3 PP 50/2012.",
+                "Menyusun Rencana Audit (Audit Plan), Audit Checklist, dan Jadwal Audit Tahunan.",
+                "Mengidentifikasi temuan ketidaksesuaian (Major, Minor, Critical) dan menyusun CAR (Corrective Action Request).",
+                "Meraih Sertifikat Kompetensi Internal Auditor SMK3 resmi."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Kurikulum Pembinaan Internal Auditor SMK3"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Kebijakan & Dasar Hukum Penerapan SMK3 di Indonesia.",
+                "Penjelasan Rinci 12 Elemen & 166 Kriteria Audit SMK3.",
+                "Teknik Pengumpulan Bukti Objektif (Wawancara, Observasi Lapangan, Verifikasi Dokumen).",
+                "Penyusunan Formulir Laporan Hasil Audit Internal SMK3.",
+                "Strategi Sukses Menghadapi Audit Eksternal Lembaga Audit Resmi Kemnaker RI."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Anggota P2K3, Ahli K3 Umum, Supervisor, Manajer HRD/Operasional, atau Personel HSE.",
+                "Pendidikan minimal D3/S1 semua jurusan."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan KTP & Ijazah Terakhir.",
+                "Surat Tugas dari Perusahaan (bagi utusan perusahaan)."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Pelatihan Internal Auditor SMK3 dari PENA Consultant.",
+                "Toolkit Lengkap Dokumen Audit Checklist 166 Kriteria format Excel siap pakai.",
+                "Bimbingan langsung bersama Lead Auditor SMK3 Senior Kemnaker RI."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Daftar online via WhatsApp di 0812-9687-0884.",
+                "Ikuti sesi pelatihan dan simulasi audit SMK3."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-010.webp",
+        "alt_text": "Pelatihan Internal Auditor SMK3 PP 50 2012",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_smk3_aud_01",
+            "slug": "internal-auditor-smk3-batch-14",
+            "batch_number": "14",
+            "start_date": "2026-09-22",
+            "end_date": "2026-09-24",
+            "is_online": true,
+            "mode": "online",
+            "normal_price": 5500000,
+            "promo_price": 4500000,
+            "location_name": "Online Zoom",
+            "availability": "available"
+        }
+    ]
+}

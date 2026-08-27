@@ -1,0 +1,120 @@
+{
+    "id": "01kz_prog_004_plb3",
+    "type": "training",
+    "name": "Pengelolaan Limbah Bahan Berbahaya dan Beracun (PLB3)",
+    "slug": "pengelolaan-limbah-b3-plb3-bnsp",
+    "path": "/pelatihan/pengelolaan-limbah-b3-plb3-bnsp",
+    "title": "Pelatihan & Sertifikasi Pengelolaan Limbah B3 BNSP",
+    "meta_title": "Sertifikasi Pengelolaan Limbah B3 (PLB3 & OPLB3) BNSP 2026",
+    "meta_description": "Sertifikasi kompetensi Pengelolaan Limbah B3 (PLB3 & OPLB3) BNSP. Identifikasi, penyimpanan, manifest FESTA, dan tanggap darurat tumpahan B3.",
+    "summary": "Program sertifikasi BNSP resmi untuk penanggung jawab dan operator TPS Limbah B3 industri dalam memenuhi standar pengelolaan limbah B3 sesuai PP 22/2021.",
+    "certification_body": "bnsp",
+    "base_price": 5500000,
+    "duration": "3 Hari Pelatihan & Asesmen",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Peraturan Pemerintah No. 22 Tahun 2021 tentang Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup."
+        },
+        {
+            "type": "paragraph",
+            "text": "Permen LHK No. 6 Tahun 2021 tentang Tata Cara dan Persyaratan Pengelolaan Limbah B3."
+        },
+        {
+            "type": "paragraph",
+            "text": "SKKNI Pengelolaan Limbah Bahan Berbahaya dan Beracun (B3)."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Mencetak personil pengelola limbah B3 yang memahami karakteristik bahaya, prosedur penyimpanan TPS B3, manifes elektronik FESTRONIK, dan penanganan darurat."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Mampu mengidentifikasi jenis dan karakteristik limbah B3.",
+                "Mengelola Tempat Penyimpanan Sementara (TPS) Limbah B3 sesuai izin persetujuan teknis.",
+                "Mengoperasikan sistem pelaporan manifest limbah B3 (FESTA/SIMPEL).",
+                "Menguasai penanganan tumpahan bahan kimia & limbah B3 (Spill Kit Response)."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Materi Pembinaan PLB3 BNSP"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Regulasi Terpadu Pengelolaan Limbah B3 Nasional.",
+                "Karakteristik & Simbol Pelabelan Limbah B3.",
+                "Persyaratan Teknis Bangunan TPS Limbah B3.",
+                "Pengemasan, Penyimpanan, & Penimbunan Limbah B3.",
+                "Prosedur Pengangkutan, Pemanfaatan, & Pengolahan Pihak Ketiga Berizin.",
+                "Sistem Tanggap Darurat Tumpahan Limbah B3."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "SMA/SMK dengan pengalaman kerja di bidang B3/Lingkungan minimal 2 tahun ATAU D3/S1 bidang terkait.",
+                "Bukti logbook TPS B3, manifes limbah B3, atau SOP penanganan B3."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan KTP, Ijazah, Surat Keterangan Kerja.",
+                "Portofolio pengelolaan limbah B3 perusahaan.",
+                "Pasfoto 3x4 formal."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Kompetensi BNSP Skema Pengelolaan Limbah B3.",
+                "Sertifikat Pelatihan PENA Consultant.",
+                "Bimbingan Teknis Pengisian Portofolio & Asesmen Uji Kompetensi."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Pilih jadwal pelatihan batch PLB3 2026.",
+                "Daftar melalui WhatsApp 0812-9687-0884.",
+                "Ikuti pelatihan komprehensif dan uji sertifikasi BNSP."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-004.webp",
+        "alt_text": "Pelatihan Pengelolaan Limbah B3 BNSP",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_plb3_01",
+            "slug": "plb3-bnsp-batch-07",
+            "batch_number": "07",
+            "start_date": "2026-09-28",
+            "end_date": "2026-09-30",
+            "is_online": true,
+            "mode": "online",
+            "normal_price": 6500000,
+            "promo_price": 5500000,
+            "location_name": "Online Zoom",
+            "availability": "available"
+        }
+    ]
+}

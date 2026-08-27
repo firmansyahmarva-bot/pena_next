@@ -1,0 +1,113 @@
+{
+    "id": "01kz_prog_007_csms",
+    "type": "training",
+    "name": "Contractor Safety Management System (CSMS)",
+    "slug": "csms-contractor-safety-management-system",
+    "path": "/pelatihan/csms-contractor-safety-management-system",
+    "title": "Pelatihan CSMS (Contractor Safety Management System)",
+    "meta_title": "Pelatihan & Sertifikasi CSMS Kontraktor 2026 — Dokumen Tender & Audit K3",
+    "meta_description": "Pelatihan penyusunan dokumen CSMS (Contractor Safety Management System) untuk tender BUMN, Migas, Pertamina, dan PLN. Lulus pra-kualifikasi & audit K3.",
+    "summary": "Program pelatihan praktis bagi pimpinan dan personil HSE kontraktor dalam menyusun dokumen pra-kualifikasi CSMS (Contractor Safety Management System) guna memenangkan tender EPC, Migas, Pertamina, dan BUMN.",
+    "certification_body": "kemnaker",
+    "base_price": 4500000,
+    "duration": "2 Hari Pelatihan Intensif & Workshop Pembuatan Dokumen",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Peraturan Pemerintah No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3."
+        },
+        {
+            "type": "paragraph",
+            "text": "Standar CSMS SKK Migas / Pertamina / PLN / Perusahaan Multinasional."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Membekali vendor dan kontraktor dengan kemampuan menyusun dokumen HSE Plan, Emergency Response Plan, Risk Assessment, dan bukti implementasi K3 untuk meraih skor CSMS High Risk (>85)."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Memahami 6 tahapan siklus CSMS (Risk Assessment, Pre-Qualification, Selection, Pre-Job Activity, Work in Progress, Final Evaluation).",
+                "Menyusun formulir kuesioner CSMS dan lampiran bukti kerja otentik.",
+                "Menghindari kesalahan fatal yang menggugurkan kontraktor pada tahap verifikasi lapangan.",
+                "Meraih sertifikat pelatihan CSMS Practitioner dari PENA Consultant."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Tahapan & Modul Workshop CSMS"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Pengenalan Sistem Manajemen Kontraktor K3 Terpadu.",
+                "Penyusunan Kebijakan K3, Komitmen Manajemen, & Struktur Organisasi Proyek.",
+                "Penyusunan Dokumen HIRADC/JSA & Prosedur Tanggap Darurat Kontraktor.",
+                "Pengelolaan APD, Sertifikasi Alat Kerja, & Lisensi Personel K3.",
+                "Program Pelatihan, Toolbox Meeting, & Inspeksi K3 Lapangan.",
+                "Simulasi Penilaian Dokumen Pra-Kualifikasi Tender CSMS."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Direktur, Project Manager, HSE Officer, Estimator, atau Tim Tender Kontraktor/Vendor.",
+                "Membawa profil perusahaan atau dokumen pendukung tender yang sedang dipersiapkan."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan KTP & Surat Tugas Perusahaan."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Pelatihan CSMS dari PENA Consultant.",
+                "Toolkit Lengkap Template Dokumen CSMS (Word & Excel siap pakai).",
+                "Konsultasi review dokumen CSMS pra-submit tender bersama Konsultan Senior."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Pilih jadwal kelas public online atau in-house korporasi.",
+                "Hubungi tim PENA Consultant via WhatsApp di 0812-9687-0884."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-007.webp",
+        "alt_text": "Pelatihan CSMS Kontraktor Migas BUMN",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_csms_01",
+            "slug": "csms-batch-12",
+            "batch_number": "12",
+            "start_date": "2026-09-10",
+            "end_date": "2026-09-11",
+            "is_online": true,
+            "mode": "online",
+            "normal_price": 5500000,
+            "promo_price": 4500000,
+            "location_name": "Online Zoom",
+            "availability": "available"
+        }
+    ]
+}

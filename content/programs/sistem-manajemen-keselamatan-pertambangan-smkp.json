@@ -1,0 +1,121 @@
+{
+    "id": "01kz_prog_006_smkp",
+    "type": "training",
+    "name": "Sistem Manajemen Keselamatan Pertambangan (SMKP Minerba)",
+    "slug": "sistem-manajemen-keselamatan-pertambangan-smkp",
+    "path": "/pelatihan/sistem-manajemen-keselamatan-pertambangan-smkp",
+    "title": "Pelatihan Implementasi & Audit SMKP Minerba ESDM",
+    "meta_title": "Pelatihan & Sertifikasi SMKP Minerba ESDM 2026 — Implementasi & Audit",
+    "meta_description": "Pelatihan implementasi dan audit internal SMKP (Sistem Manajemen Keselamatan Pertambangan) Minerba sesuai Kepmen ESDM No. 1827 K/30/MEM/2018.",
+    "summary": "Program pembinaan wajib bagi pengawas, KTT, dan personil HSE perusahaan tambang mineral dan batubara dalam menerapkan 7 elemen SMKP Minerba sesuai regulasi Ditjen Minerba ESDM.",
+    "certification_body": "esdm",
+    "base_price": 6000000,
+    "duration": "4 Hari Pelatihan Intensif",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "UU No. 3 Tahun 2020 tentang Perubahan atas UU No. 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara."
+        },
+        {
+            "type": "paragraph",
+            "text": "Kepmen ESDM No. 1827 K/30/MEM/2018 tentang Pedoman Pelaksanaan Kaidah Teknik Pertambangan yang Baik."
+        },
+        {
+            "type": "paragraph",
+            "text": "Kepdirjen Minerba No. 185.K/37.04/DJB/2019 tentang Petunjuk Teknis Pelaksanaan Keselamatan Pertambangan dan Pelaksanaan, Penilaian, serta Pelaporan SMKP Minerba."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Mempersiapkan tim internal perusahaan tambang dalam menyusun dokumentasi, menerapkan 7 elemen SMKP, dan melaksanakan audit internal berkala sesuai ketentuan Ditjen Minerba."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Memahami struktur regulasi keselamatan pertambangan minerba terbaru.",
+                "Mampu mengimplementasikan 7 Elemen SMKP Minerba di area operasional tambang.",
+                "Menyusun dokumen IBPR, JSA, dan Prosedur Kerja Aman (SOP) Pertambangan.",
+                "Melaksanakan audit internal SMKP dan menyusun Laporan Hasil Audit Internal SMKP ke Kepala Pelaksana Inspeksi Tambang."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "7 Elemen Utama SMKP Minerba"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Elemen I: Kebijakan Keselamatan Pertambangan.",
+                "Elemen II: Perencanaan (IBPR, Kepatuhan Hukum, Rencana Kerja & Anggaran).",
+                "Elemen III: Organisasi dan Personil (KTT, Pengawas Operasional, Tenaga Teknis Khusus).",
+                "Elemen IV: Implementasi (Pengelolaan Operasional, Pengelolaan Bahan Peledak, Alat Berat, Area Kritis).",
+                "Elemen V: Pemantauan, Evaluasi, dan Tindak Lanjut (Inspeksi & Penyelidikan Kecelakaan Tambang).",
+                "Elemen VI: Dokumentasi (Pengendalian Dokumen & Rekaman K3 Tambang).",
+                "Elemen VII: Tinjauan Manajemen & Peningkatan Kinerja."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Karyawan perusahaan pertambangan mineral/batubara atau kontraktor tambang.",
+                "Pendidikan minimal D3/S1 semua jurusan atau memiliki sertifikat POP/POM/POU."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan KTP & Ijazah Terakhir.",
+                "Surat Tugas dari Perusahaan Tambang.",
+                "Pasfoto formal latar belakang merah."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Pelatihan Implementasi SMKP Minerba dari PENA Consultant.",
+                "Format Template Lengkap 7 Elemen Dokumen SMKP & Audit Checklist.",
+                "Instruktur Praktisi Ahli Tambang Senior (Eks-Inspektur Tambang / Auditor SMKP Utama)."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Pilih batch SMKP Minerba 2026.",
+                "Hubungi konsultan kami di 0812-9687-0884.",
+                "Ikuti workshop interaktif dan simulasi audit internal SMKP."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-006.webp",
+        "alt_text": "Pelatihan Implementasi SMKP Minerba ESDM",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_smkp_01",
+            "slug": "smkp-minerba-batch-05",
+            "batch_number": "05",
+            "start_date": "2026-09-15",
+            "end_date": "2026-09-18",
+            "is_online": true,
+            "mode": "online",
+            "normal_price": 7500000,
+            "promo_price": 6000000,
+            "location_name": "Online Zoom",
+            "availability": "available"
+        }
+    ]
+}

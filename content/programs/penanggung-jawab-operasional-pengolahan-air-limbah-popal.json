@@ -1,0 +1,133 @@
+{
+    "id": "01kz_prog_002_popal",
+    "type": "training",
+    "name": "Penanggung Jawab Operasional Pengolahan Air Limbah (POPAL)",
+    "slug": "penanggung-jawab-operasional-pengolahan-air-limbah-popal",
+    "path": "/pelatihan/penanggung-jawab-operasional-pengolahan-air-limbah-popal",
+    "title": "Pelatihan & Sertifikasi POPAL BNSP Air Limbah",
+    "meta_title": "Sertifikasi POPAL BNSP (Penanggung Jawab Operasional Pengolahan Air Limbah) 2026",
+    "meta_description": "Pelatihan dan uji kompetensi POPAL (Penanggung Jawab Operasional Pengolahan Air Limbah) bersertifikat BNSP. Standar baku mutu air limbah dan IPAL industri.",
+    "summary": "Program sertifikasi kompetensi BNSP skema POPAL bagi operator dan supervisor IPAL (Instalasi Pengolahan Air Limbah) industri guna menjamin pemenuhan baku mutu lingkungan.",
+    "certification_body": "bnsp",
+    "base_price": 5500000,
+    "duration": "3 Hari (Pelatihan & Asesmen BNSP)",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup."
+        },
+        {
+            "type": "paragraph",
+            "text": "Peraturan Pemerintah No. 22 Tahun 2021 tentang Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup."
+        },
+        {
+            "type": "paragraph",
+            "text": "SKKNI No. 168 Tahun 2016 tentang Bidang Pengolahan Air Limbah."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Menguji dan memastikan kompetensi personil dalam mengoperasikan instalasi pengolahan air limbah sesuai standar keselamatan dan regulasi baku mutu lingkungan."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Mampu mengoperasikan unit pengolahan air limbah fisika, kimia, dan biologi.",
+                "Menilai efisiensi kinerja unit IPAL dan melakukan troubleshooting operasional.",
+                "Melakukan pemantauan kualitas air limbah harian dan pencatatan debit harian.",
+                "Lulus uji kompetensi dan meraih Sertifikat Kompetensi BNSP berlogo Garuda Emas."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Unit Kompetensi POPAL BNSP"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Mengoperasikan Instalasi Pengolahan Air Limbah (IPAL).",
+                "Menilai Efisiensi Kinerja Pengolahan Air Limbah.",
+                "Melakukan Perawatan Instalasi Pengolahan Air Limbah.",
+                "Mengidentifikasi Bahaya dan Melakukan Tindakan Tanggap Darurat pada IPAL.",
+                "Melakukan Pengambilan Sampel Air Limbah & Analisis Parameter Kualitas Air."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Pendidikan minimal SMA/SMK (dengan pengalaman kerja di bidang IPAL minimal 2 tahun) ATAU D3/S1 bidang terkait.",
+                "Menyiapkan bukti portofolio kerja (Logbook IPAL, SOP pengolahan air limbah, laporan hasil uji lab air)."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Fotokopi Ijazah & KTP.",
+                "Surat Keterangan Bekerja di unit pengelolaan air limbah.",
+                "Portofolio bukti kerja & Form APL 01/02 BNSP."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Kompetensi BNSP (berlaku 3 tahun).",
+                "Sertifikat Pelatihan dari PENA Consultant.",
+                "Bimbingan Pra-Asesmen & Portofolio bersama Asesor BNSP Senior.",
+                "Modul Panduan Operasional IPAL & Standar Baku Mutu Air."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Pilih jadwal batch POPAL 2026.",
+                "Konsultasi kelengkapan portofolio ke tim PENA Consultant via WhatsApp di 0812-9687-0884.",
+                "Ikuti pembekalan materi teori, simulasi asesmen, dan uji kompetensi bersama Asesor BNSP."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-002.webp",
+        "alt_text": "Sertifikasi POPAL BNSP Pengolahan Air Limbah",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_popal_01",
+            "slug": "popal-bnsp-batch-08",
+            "batch_number": "08",
+            "start_date": "2026-09-14",
+            "end_date": "2026-09-16",
+            "is_online": true,
+            "mode": "online",
+            "normal_price": 6500000,
+            "promo_price": 5500000,
+            "location_name": "Online Zoom",
+            "availability": "available"
+        },
+        {
+            "id": "01kz_b_popal_02",
+            "slug": "popal-bnsp-batch-09",
+            "batch_number": "09",
+            "start_date": "2026-10-12",
+            "end_date": "2026-10-14",
+            "is_online": true,
+            "mode": "online",
+            "normal_price": 6500000,
+            "promo_price": 5500000,
+            "location_name": "Online Zoom",
+            "availability": "available"
+        }
+    ]
+}

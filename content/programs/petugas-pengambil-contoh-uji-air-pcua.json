@@ -1,0 +1,119 @@
+{
+    "id": "01kz_prog_005_pcua",
+    "type": "training",
+    "name": "Petugas Pengambil Contoh Uji Air (PCUA)",
+    "slug": "petugas-pengambil-contoh-uji-air-pcua",
+    "path": "/pelatihan/petugas-pengambil-contoh-uji-air-pcua",
+    "title": "Sertifikasi Petugas Pengambil Contoh Uji Air (PCUA) BNSP",
+    "meta_title": "Sertifikasi PCUA BNSP (Petugas Pengambil Contoh Uji Air) 2026",
+    "meta_description": "Pelatihan dan uji kompetensi Petugas Pengambil Contoh Uji Air (PCUA/PPCU) bersertifikat BNSP. Teknik sampling air permukaan, air tanah, dan air limbah.",
+    "summary": "Program sertifikasi BNSP bagi analis laboratorium dan personil lingkungan dalam teknik sampling dan pengawetan contoh uji air sesuai standar baku ISO 17025.",
+    "certification_body": "bnsp",
+    "base_price": 5500000,
+    "duration": "3 Hari (Teori, Praktik Sampling, & Asesmen BNSP)",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "PP No. 22 Tahun 2021 tentang Perlindungan & Pengelolaan Lingkungan Hidup."
+        },
+        {
+            "type": "paragraph",
+            "text": "SNI 6989 tentang Metoda Pengambilan Contoh Uji Air dan Air Limbah."
+        },
+        {
+            "type": "paragraph",
+            "text": "SKKNI Sampling Air dan Laboratorium Lingkungan Hidup."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Membekali peserta dengan keterampilan praktis sampling air, kalibrasi peralatan in-situ, pengawetan sampel, dan pembuatan berita acara sampling yang representatif."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Menerapkan K3 dalam pengambilan contoh uji air.",
+                "Menyusun rencana pengambilan contoh uji air (sampling plan).",
+                "Mengambil contoh air permukaan, air tanah, dan air limbah industri.",
+                "Melakukan pengukuran parameter lapangan (pH, DO, Suhu, Konduktivitas).",
+                "Lulus asesmen dan meraih Sertifikat BNSP Petugas Pengambil Contoh Uji Air."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Kurikulum Sampling Air PCUA"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Prinsip Dasar & Regulasi Pengambilan Sampel Air.",
+                "Teknik Sampling Air Permukaan, Air Tanah, & Effluent IPAL.",
+                "Pengukuran Parameter Lapangan (In-situ Testing).",
+                "Prosedur Pengawetan, Pengemasan, & Transportasi Sampel (Chain of Custody).",
+                "Jaminan Mutu & Pengendalian Mutu (QA/QC) Sampling Air."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "SMA/SMK Kimia/Analis/IPA (pengalaman 2 tahun) atau D3/S1 Kimia/Lingkungan/MIPA.",
+                "Portofolio bukti sampling air atau magang laboratorium."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "KTP, Ijazah, Surat Pengalaman Kerja / Tugas.",
+                "Bukti sampling atau berita acara pengambilan sampel air."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Kompetensi BNSP PCUA.",
+                "Sertifikat Pelatihan PENA Consultant.",
+                "Alat Peraga Sampling & Bimbingan Portofolio Asesor."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Hubungi Admin WhatsApp di 0812-9687-0884.",
+                "Lengkapi administrasi formulir APL 01 & APL 02.",
+                "Ikuti pelatihan kelas dan asesmen langsung."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-005.webp",
+        "alt_text": "Pelatihan PCUA Pengambil Contoh Uji Air BNSP",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_pcua_01",
+            "slug": "pcua-bnsp-batch-06",
+            "batch_number": "06",
+            "start_date": "2026-10-19",
+            "end_date": "2026-10-21",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 6500000,
+            "promo_price": 5500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}

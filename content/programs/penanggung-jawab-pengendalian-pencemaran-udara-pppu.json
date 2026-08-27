@@ -1,0 +1,120 @@
+{
+    "id": "01kz_prog_003_pppu",
+    "type": "training",
+    "name": "Penanggung Jawab Pengendalian Pencemaran Udara (PPPU)",
+    "slug": "penanggung-jawab-pengendalian-pencemaran-udara-pppu",
+    "path": "/pelatihan/penanggung-jawab-pengendalian-pencemaran-udara-pppu",
+    "title": "Pelatihan & Sertifikasi PPPU BNSP Pencemaran Udara",
+    "meta_title": "Sertifikasi PPPU BNSP (Penanggung Jawab Pengendalian Pencemaran Udara) 2026",
+    "meta_description": "Pelatihan dan uji kompetensi PPPU (Penanggung Jawab Pengendalian Pencemaran Udara) bersertifikat BNSP. Pengendalian emisi cerobong industri & udara ambien.",
+    "summary": "Sertifikasi kompetensi resmi BNSP skema Penanggung Jawab Pengendalian Pencemaran Udara (PPPU) untuk personil industri pengelola emisi cerobong dan kualitas udara.",
+    "certification_body": "bnsp",
+    "base_price": 5500000,
+    "duration": "3 Hari (Pembekalan & Uji Asesmen)",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup."
+        },
+        {
+            "type": "paragraph",
+            "text": "PP No. 22 Tahun 2021 tentang Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup."
+        },
+        {
+            "type": "paragraph",
+            "text": "SKKNI Pengendalian Pencemaran Udara dari Sumber Emisi dan Udara Ambien."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Memastikan pengawas dan penanggung jawab lingkungan industri kompeten dalam mengidentifikasi sumber emisi, mengoperasikan alat pengendali pencemaran udara, dan memenuhi baku mutu emisi."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Mengidentifikasi sumber pencemar udara emisi titik dan emisi buronan (fugitive emission).",
+                "Mengoperasikan alat pengendali pencemar udara (bag filter, scrubber, electrostatic precipitator).",
+                "Menyusun rencana pemantauan emisi cerobong berkala dan pelaporan SIMPEL KLHK.",
+                "Lulus uji kompetensi BNSP berlogo Garuda Emas."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Unit Kompetensi PPPU BNSP"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Mengidentifikasi Sumber Pencemaran Udara dari Emisi.",
+                "Menentukan Karakteristik Sumber Pencemaran Udara.",
+                "Mengoperasikan Alat Pengendali Pencemaran Udara.",
+                "Menyusun Rencana Pemantauan Pencemaran Udara.",
+                "Melaksanakan Pemantauan Kualitas Udara Emisi dan Udara Ambien."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "list",
+            "items": [
+                "Minimal SMA/SMK dengan pengalaman di bidang pengendalian udara 2 tahun ATAU D3/S1 bidang terkait.",
+                "Menyertakan portofolio teknis pemantauan emisi cerobong atau operasional alat pengendali emisi."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "KTP, Ijazah Terakhir, Surat Tugas Perusahaan.",
+                "Portofolio bukti kerja pemantauan emisi cerobong/udara.",
+                "Pasfoto 3x4 background merah."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Kompetensi BNSP skema PPPU.",
+                "Sertifikat Pelatihan PENA Consultant.",
+                "Simulasi Soal & Asesmen Uji Kompetensi BNSP.",
+                "Materi Presentasi & Format Laporan Baku Mutu Emisi."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Pilih jadwal batch PPPU 2026.",
+                "Daftar melalui WhatsApp Customer Care PENA Consultant di 0812-9687-0884.",
+                "Ikuti sesi pembekalan online dan asesmen langsung bersama Asesor BNSP."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-003.webp",
+        "alt_text": "Pelatihan PPPU BNSP Pengendalian Pencemaran Udara",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_pppu_01",
+            "slug": "pppu-bnsp-batch-08",
+            "batch_number": "08",
+            "start_date": "2026-09-21",
+            "end_date": "2026-09-23",
+            "is_online": true,
+            "mode": "online",
+            "normal_price": 6500000,
+            "promo_price": 5500000,
+            "location_name": "Online Zoom",
+            "availability": "available"
+        }
+    ]
+}

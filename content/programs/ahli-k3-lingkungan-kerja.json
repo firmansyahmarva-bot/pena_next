@@ -1,0 +1,140 @@
+{
+    "id": "01kz_prog_001_lingkungan_kerja",
+    "type": "training",
+    "name": "Ahli K3 Lingkungan Kerja",
+    "slug": "ahli-k3-lingkungan-kerja",
+    "path": "/pelatihan/ahli-k3-lingkungan-kerja",
+    "title": "Ahli K3 Lingkungan Kerja Kemnaker RI",
+    "meta_title": "Pelatihan & Sertifikasi Ahli K3 Lingkungan Kerja Kemnaker RI 2026",
+    "meta_description": "Pembinaan resmi Ahli K3 Lingkungan Kerja Kemnaker RI sesuai Permenaker No. 5 Tahun 2018. Pengukuran faktor fisika, kimia, biologi, ergonomi, dan psikologi kerja.",
+    "summary": "Program sertifikasi resmi Kemnaker RI untuk mencetak Ahli K3 Lingkungan Kerja profesional dalam mengidentifikasi, mengukur, dan mengendalikan faktor bahaya lingkungan kerja sesuai Permenaker No. 5/2018.",
+    "certification_body": "kemnaker",
+    "base_price": 7500000,
+    "duration": "12 Hari Pembinaan",
+    "legal_basis": [
+        {
+            "type": "paragraph",
+            "text": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Peraturan Menteri Ketenagakerjaan No. 5 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja."
+        },
+        {
+            "type": "paragraph",
+            "text": "Permenaker No. 02/MEN/1992 tentang Tata Cara Penunjukan Kewajiban dan Wewenang Ahli Keselamatan dan Kesehatan Kerja."
+        }
+    ],
+    "objectives": [
+        {
+            "type": "paragraph",
+            "text": "Membekali personel dengan kompetensi teknis pengukuran dan evaluasi Nilai Ambang Batas (NAB) faktor fisika, kimia, biologi, ergonomi, dan psikologi di tempat kerja."
+        },
+        {
+            "type": "list",
+            "items": [
+                "Mampu merancang dan melaksanakan program higiene industri dan pemantauan lingkungan kerja berkala.",
+                "Mengoperasikan alat ukur lingkungan kerja (sound level meter, lux meter, lux meter, gas detector, heat stress monitor).",
+                "Menyusun laporan teknis lingkungan kerja dan rekomendasi pengendalian teknis & administratif untuk inspeksi Kemnaker RI.",
+                "Meraih Sertifikat Pembinaan, SKP, dan Kartu Kewenangan Ahli K3 Lingkungan Kerja Kemnaker RI."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "type": "heading",
+            "text": "Kurikulum Pembinaan Ahli K3 Lingkungan Kerja"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Kebijakan K3 Nasional & Regulasi K3 Lingkungan Kerja (Permenaker 5/2018).",
+                "Pengukuran & Pengendalian Faktor Fisika: Kebisingan, Getaran, Pencahayaan, Iklim Kerja, Radiasi.",
+                "Pengukuran & Pengendalian Faktor Kimia: Debu, Gas Berbahaya, Uap, Aerosol, & Lembar Data Keselamatan (LDK/MSDS).",
+                "Pengukuran & Pengendalian Faktor Biologi di Tempat Kerja.",
+                "Penerapan Ergonomi Kerja & Pencegahan Musculoskeletal Disorders (MSDs).",
+                "Faktor Psikologi Kerja & Manajemen Stres Kerja di Industri.",
+                "Penyusunan Program Higiene Industri & Praktik Kerja Lapangan (PKL)."
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "type": "paragraph",
+            "text": "Persyaratan peserta Ahli K3 Lingkungan Kerja sesuai regulasi Kemnaker RI:"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Pendidikan minimal D3/D4/S1 semua jurusan (diutamakan Teknik/Kesehatan Masyarakat/MIPA).",
+                "Karyawan utusan perusahaan atau praktisi yang dipersiapkan sebagai personil K3 Lingkungan Kerja.",
+                "Sehat jasmani dan rohani."
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "type": "list",
+            "items": [
+                "Scan Ijazah Terakhir & Transkrip Nilai (Minimal D3).",
+                "Scan KTP aktif & Surat Keterangan Bekerja dari Perusahaan.",
+                "Pasfoto formal background merah format JPEG/PNG."
+            ]
+        }
+    ],
+    "facilities": [
+        {
+            "type": "list",
+            "items": [
+                "Sertifikat Pembinaan Calon Ahli K3 Lingkungan Kerja dari Kemnaker RI.",
+                "Surat Keputusan Penunjukan (SKP) & Kartu Kewenangan Resmi Kemnaker RI.",
+                "Sertifikat Pelatihan dari PT PENA Consultant.",
+                "Modul Pelatihan, Himpunan Regulasi K3 Lingkungan Kerja, & Training Kit Eksklusif."
+            ]
+        }
+    ],
+    "registration_procedure": [
+        {
+            "type": "list",
+            "items": [
+                "Pilih batch pelatihan pada kalender 2026.",
+                "Hubungi tim PENA Consultant melalui WhatsApp di 0812-9687-0884.",
+                "Lengkapi berkas pendaftaran dan konfirmasi reservasi slot batch."
+            ]
+        }
+    ],
+    "hero_media": {
+        "path": "media/pelatihan-001.webp",
+        "alt_text": "Pelatihan Ahli K3 Lingkungan Kerja Kemnaker RI",
+        "width": 800,
+        "height": 600
+    },
+    "batches": [
+        {
+            "id": "01kz_b_lk_01",
+            "slug": "ahli-k3-lingkungan-kerja-batch-10",
+            "batch_number": "10",
+            "start_date": "2026-09-07",
+            "end_date": "2026-09-19",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 9500000,
+            "promo_price": 7500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        },
+        {
+            "id": "01kz_b_lk_02",
+            "slug": "ahli-k3-lingkungan-kerja-batch-11",
+            "batch_number": "11",
+            "start_date": "2026-10-05",
+            "end_date": "2026-10-17",
+            "is_online": false,
+            "mode": "offline",
+            "normal_price": 9500000,
+            "promo_price": 7500000,
+            "location_name": "TUK Onsite",
+            "availability": "available"
+        }
+    ]
+}
