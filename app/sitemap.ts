@@ -47,23 +47,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: p.slug === 'ahli-k3-umum' ? 1.0 : 0.9,
   }));
 
-  // 328 Articles (Both historical 2-level path & 1-level path)
-  const articleRoutes: MetadataRoute.Sitemap = [];
-  getArticles().forEach((a) => {
-    const cSlug = a.cluster?.slug || 'regulasi-k3';
-    articleRoutes.push({
-      url: `${baseUrl}/panduan/${cSlug}/${a.slug}`,
-      lastModified: a.published_at || now,
-      changeFrequency: 'weekly',
-      priority: 0.8,
-    });
-    articleRoutes.push({
-      url: `${baseUrl}/panduan/${a.slug}`,
-      lastModified: a.published_at || now,
-      changeFrequency: 'weekly',
-      priority: 0.7,
-    });
-  });
+  // 328 Canonical Flat Articles
+  const articleRoutes: MetadataRoute.Sitemap = getArticles().map((a) => ({
+    url: `${baseUrl}/panduan/${a.slug}`,
+    lastModified: a.published_at || now,
+    changeFrequency: 'weekly',
+    priority: 0.8,
+  }));
 
   // 23 Locations
   const locationRoutes: MetadataRoute.Sitemap = getLocations().map((l) => ({

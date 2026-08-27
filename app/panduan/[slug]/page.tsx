@@ -33,10 +33,14 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
   const relatedProgram = article.related_offering_slug ? getProgramBySlug(article.related_offering_slug) : null;
   const clusterArticles = getArticles().filter(a => a.cluster?.slug === article.cluster?.slug && a.slug !== article.slug).slice(0, 4);
 
+  const clusterSlug = article.cluster?.slug || 'regulasi-k3';
+  const clusterName = article.cluster?.name || 'Panduan K3';
+
   const breadcrumbs = [
-    { name: 'Home', url: 'https://penaconsultant.co.id' },
-    { name: 'Panduan K3', url: 'https://penaconsultant.co.id/panduan' },
-    { name: article.title, url: `https://penaconsultant.co.id/panduan/${article.slug}` },
+    { name: 'Home', url: 'https://penaconsultant.com' },
+    { name: 'Panduan K3', url: 'https://penaconsultant.com/panduan' },
+    { name: clusterName, url: `https://penaconsultant.com/panduan/${clusterSlug}` },
+    { name: article.title, url: `https://penaconsultant.com/panduan/${article.slug}` },
   ];
 
   return (
@@ -46,11 +50,13 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
       <BreadcrumbJsonLd items={breadcrumbs} />
 
       <div className="py-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-8">
-        {/* 3. Clean Breadcrumb Navigation */}
+        {/* 3. Clean 4-Level Breadcrumb Navigation */}
         <nav className="text-xs font-semibold text-slate-500 flex items-center gap-2">
           <Link href="/" className="hover:text-primary-700">Home</Link>
           <span>/</span>
           <Link href="/panduan" className="hover:text-primary-700">Panduan K3</Link>
+          <span>/</span>
+          <Link href={`/panduan/${clusterSlug}`} className="hover:text-primary-700">{clusterName}</Link>
           <span>/</span>
           <span className="text-slate-900 line-clamp-1">{article.title}</span>
         </nav>
