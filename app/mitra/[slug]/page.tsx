@@ -16,12 +16,28 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const m = (mitraData as any[]).find((item) => item.slug === slug);
   if (!m) return {};
+  const pageTitle = `Pelatihan K3 untuk ${m.name} — PENA Consultant`;
+  const pageDesc = `Program pembinaan keselamatan kerja, sertifikasi Kemnaker RI & BNSP, dan in-house training untuk karyawan ${m.name}.`;
+  const pageUrl = `https://penaconsultant.com/mitra/${slug}`;
   return {
-    alternates: {
-      canonical: `https://penaconsultant.com/mitra/${slug}`,
+    alternates: { canonical: pageUrl },
+    title: pageTitle,
+    description: pageDesc,
+    openGraph: {
+      title: pageTitle,
+      description: pageDesc,
+      url: pageUrl,
+      siteName: 'PENA Consultant',
+      locale: 'id_ID',
+      type: 'website',
+      images: [{ url: 'https://penaconsultant.com/images/og-share-card.png', width: 1200, height: 630, alt: pageTitle }],
     },
-    title: `Pelatihan K3 untuk ${m.name} — PENA Consultant`,
-    description: `Program pembinaan keselamatan kerja, sertifikasi Kemnaker RI & BNSP, dan in-house training untuk karyawan ${m.name}.`,
+    twitter: {
+      card: 'summary_large_image',
+      title: pageTitle,
+      description: pageDesc,
+      images: ['https://penaconsultant.com/images/og-share-card.png'],
+    },
   };
 }
 

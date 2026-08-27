@@ -16,12 +16,28 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const cs = (caseStudiesData as any[]).find((item) => item.slug === slug);
   if (!cs) return {};
+  const pageTitle = `${cs.title} — Studi Kasus K3 | PENA Consultant`;
+  const pageDesc = cs.summary || `Studi kasus implementasi K3 industri di PENA Consultant.`;
+  const pageUrl = `https://penaconsultant.com/studi-kasus/${slug}`;
   return {
-    alternates: {
-      canonical: `https://penaconsultant.com/studi-kasus/${slug}`,
+    alternates: { canonical: pageUrl },
+    title: pageTitle,
+    description: pageDesc,
+    openGraph: {
+      title: pageTitle,
+      description: pageDesc,
+      url: pageUrl,
+      siteName: 'PENA Consultant',
+      locale: 'id_ID',
+      type: 'article',
+      images: [{ url: 'https://penaconsultant.com/images/og-share-card.png', width: 1200, height: 630, alt: cs.title }],
     },
-    title: `${cs.title} — Studi Kasus K3`,
-    description: cs.summary || `Studi kasus implementasi K3 industri di PENA Consultant.`,
+    twitter: {
+      card: 'summary_large_image',
+      title: pageTitle,
+      description: pageDesc,
+      images: ['https://penaconsultant.com/images/og-share-card.png'],
+    },
   };
 }
 

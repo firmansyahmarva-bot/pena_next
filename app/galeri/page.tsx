@@ -8,8 +8,23 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://penaconsultant.com/galeri',
   },
-  title: 'Galeri Dokumentasi Pelatihan K3 — PENA Consultant',
-  description: 'Dokumentasi foto dan video pelaksanaan pembinaan sertifikasi K3 resmi Kemnaker RI & BNSP di berbagai Tempat Uji Kompetensi (TUK) dan perusahaan mitra.',
+  title: 'Dokumentasi & Galeri Pelatihan K3 — PENA Consultant',
+  description: 'Galeri foto dan dokumentasi kegiatan pelatihan public class, praktikum uji kompetensi, dan in-house training korporat di berbagai kota.',
+  openGraph: {
+    title: 'Dokumentasi & Galeri Pelatihan K3 — PENA Consultant',
+    description: 'Galeri foto dan dokumentasi kegiatan pelatihan public class, praktikum uji kompetensi, dan in-house training korporat di berbagai kota.',
+    url: 'https://penaconsultant.com/galeri',
+    siteName: 'PENA Consultant',
+    locale: 'id_ID',
+    type: 'website',
+    images: [{ url: 'https://penaconsultant.com/images/og-share-card.png', width: 1200, height: 630, alt: 'Dokumentasi & Galeri Pelatihan K3 — PENA Consultant' }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Dokumentasi & Galeri Pelatihan K3 — PENA Consultant',
+    description: 'Galeri foto dan dokumentasi kegiatan pelatihan public class, praktikum uji kompetensi, dan in-house training korporat di berbagai kota.',
+    images: ['https://penaconsultant.com/images/og-share-card.png'],
+  },
 };
 
 export default function GaleriPage() {

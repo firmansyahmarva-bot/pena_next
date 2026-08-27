@@ -20,13 +20,29 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const program = getProgramBySlug(slug);
   if (!program) return {};
-
+  const pageTitle = `Pelatihan & Sertifikasi ${program.name} 2026 — Jadwal & Biaya Resmi`;
+  const pageDesc = program.meta_description || program.summary || `Pusat pembinaan dan sertifikasi resmi ${program.name} Kemnaker RI & BNSP. Jadwal batch 2026, biaya terjangkau, modul lengkap, fasilitas uji kompetensi, dan jaminan kelulusan.`;
+  const pageUrl = `https://penaconsultant.com/pelatihan/${slug}`;
+  const image = program.hero_media?.path ? `https://penaconsultant.com/${program.hero_media.path}` : 'https://penaconsultant.com/images/og-share-card.png';
   return {
-    alternates: {
-      canonical: `https://penaconsultant.com/pelatihan/${slug}`,
+    alternates: { canonical: pageUrl },
+    title: pageTitle,
+    description: pageDesc,
+    openGraph: {
+      title: pageTitle,
+      description: pageDesc,
+      url: pageUrl,
+      siteName: 'PENA Consultant',
+      locale: 'id_ID',
+      type: 'website',
+      images: [{ url: image, width: 1200, height: 630, alt: program.name }],
     },
-    title: `Pelatihan & Sertifikasi ${program.name} 2026 — Jadwal & Biaya Resmi`,
-    description: program.meta_description || program.summary || `Pusat pembinaan dan sertifikasi resmi ${program.name} Kemnaker RI & BNSP. Jadwal batch 2026, biaya terjangkau, modul lengkap, fasilitas uji kompetensi, dan jaminan kelulusan.`,
+    twitter: {
+      card: 'summary_large_image',
+      title: pageTitle,
+      description: pageDesc,
+      images: [image],
+    },
     keywords: [
       `pelatihan ${program.name.toLowerCase()}`,
       `sertifikasi ${program.name.toLowerCase()}`,

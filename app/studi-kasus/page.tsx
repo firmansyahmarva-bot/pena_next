@@ -9,8 +9,23 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://penaconsultant.com/studi-kasus',
   },
-  title: 'Studi Kasus Implementasi K3 Industri — PENA Consultant',
-  description: 'Studi kasus nyata penerapan Sistem Manajemen K3 (SMK3 PP 50/2012), penanganan gas beracun H2S, dan audit K3 di berbagai industri nasional.',
+  title: 'Studi Kasus & Implementasi K3 di Industri — PENA Consultant',
+  description: 'Pembahasan studi kasus nyata penerapan SMK3, audit kepatuhan, investigasi insiden, dan perancangan SOP proteksi keselamatan kerja.',
+  openGraph: {
+    title: 'Studi Kasus & Implementasi K3 di Industri — PENA Consultant',
+    description: 'Pembahasan studi kasus nyata penerapan SMK3, audit kepatuhan, investigasi insiden, dan perancangan SOP proteksi keselamatan kerja.',
+    url: 'https://penaconsultant.com/studi-kasus',
+    siteName: 'PENA Consultant',
+    locale: 'id_ID',
+    type: 'website',
+    images: [{ url: 'https://penaconsultant.com/images/og-share-card.png', width: 1200, height: 630, alt: 'Studi Kasus & Implementasi K3 di Industri — PENA Consultant' }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Studi Kasus & Implementasi K3 di Industri — PENA Consultant',
+    description: 'Pembahasan studi kasus nyata penerapan SMK3, audit kepatuhan, investigasi insiden, dan perancangan SOP proteksi keselamatan kerja.',
+    images: ['https://penaconsultant.com/images/og-share-card.png'],
+  },
 };
 
 export default function CaseStudiesHubPage() {

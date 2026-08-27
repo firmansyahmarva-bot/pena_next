@@ -8,8 +8,23 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://penaconsultant.com/jadwal',
   },
-  title: 'Jadwal Pelatihan & Sertifikasi K3 Batch 2026 — PENA Consultant',
-  description: 'Kalender jadwal pembinaan K3 resmi Kemnaker RI & BNSP tahun 2026: Ahli K3 Umum, K3 Listrik, Konstruksi, Damkar, Ruang Terbatas, Forklift & Crane.',
+  title: 'Jadwal Pelatihan & Sertifikasi K3 Terbaru 2026 — PENA Consultant',
+  description: 'Jadwal resmi pembinaan sertifikasi K3 Kemnaker RI & BNSP batch 2026. Kelas Public Online Zoom dan Onsite TUK di 23 kota seluruh Indonesia.',
+  openGraph: {
+    title: 'Jadwal Pelatihan & Sertifikasi K3 Terbaru 2026 — PENA Consultant',
+    description: 'Jadwal resmi pembinaan sertifikasi K3 Kemnaker RI & BNSP batch 2026. Kelas Public Online Zoom dan Onsite TUK di 23 kota seluruh Indonesia.',
+    url: 'https://penaconsultant.com/jadwal',
+    siteName: 'PENA Consultant',
+    locale: 'id_ID',
+    type: 'website',
+    images: [{ url: 'https://penaconsultant.com/images/og-share-card.png', width: 1200, height: 630, alt: 'Jadwal Pelatihan & Sertifikasi K3 Terbaru 2026 — PENA Consultant' }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Jadwal Pelatihan & Sertifikasi K3 Terbaru 2026 — PENA Consultant',
+    description: 'Jadwal resmi pembinaan sertifikasi K3 Kemnaker RI & BNSP batch 2026. Kelas Public Online Zoom dan Onsite TUK di 23 kota seluruh Indonesia.',
+    images: ['https://penaconsultant.com/images/og-share-card.png'],
+  },
 };
 
 export default function JadwalHubPage() {

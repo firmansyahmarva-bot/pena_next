@@ -8,8 +8,23 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://penaconsultant.com/cabang',
   },
-  title: 'Lokasi Cabang & Tempat Uji Kompetensi (TUK) K3 di Indonesia',
-  description: 'Jaringan Tempat Uji Kompetensi (TUK) K3 resmi PENA Consultant di Yogyakarta, DKI Jakarta, Surabaya, Balikpapan, dan kota industri lainnya.',
+  title: 'Jaringan Tempat Uji Kompetensi (TUK) di 23 Kota — PENA Consultant',
+  description: 'Penyelenggaraan pelatihan dan uji kompetensi sertifikasi K3 di 23 kota di Indonesia. Fasilitas laboratorium, workshop praktikum, dan instruktur lokal.',
+  openGraph: {
+    title: 'Jaringan Tempat Uji Kompetensi (TUK) di 23 Kota — PENA Consultant',
+    description: 'Penyelenggaraan pelatihan dan uji kompetensi sertifikasi K3 di 23 kota di Indonesia. Fasilitas laboratorium, workshop praktikum, dan instruktur lokal.',
+    url: 'https://penaconsultant.com/cabang',
+    siteName: 'PENA Consultant',
+    locale: 'id_ID',
+    type: 'website',
+    images: [{ url: 'https://penaconsultant.com/images/og-share-card.png', width: 1200, height: 630, alt: 'Jaringan Tempat Uji Kompetensi (TUK) di 23 Kota — PENA Consultant' }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Jaringan Tempat Uji Kompetensi (TUK) di 23 Kota — PENA Consultant',
+    description: 'Penyelenggaraan pelatihan dan uji kompetensi sertifikasi K3 di 23 kota di Indonesia. Fasilitas laboratorium, workshop praktikum, dan instruktur lokal.',
+    images: ['https://penaconsultant.com/images/og-share-card.png'],
+  },
 };
 
 export default function CabangHubPage() {

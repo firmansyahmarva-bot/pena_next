@@ -19,13 +19,28 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const loc = getLocationBySlug(slug);
   if (!loc) return {};
-
+  const pageTitle = loc.meta_title || `Pelatihan & Sertifikasi K3 di ${loc.name} 2026 — Jadwal & Biaya Resmi`;
+  const pageDesc = loc.meta_description || `Pusat pembinaan sertifikasi K3 resmi Kemnaker RI & BNSP di ${loc.name}. Layanan public batch, TUK mandiri, dan in-house training korporasi di seluruh kawasan industri ${loc.name}.`;
+  const pageUrl = `https://penaconsultant.com/cabang/${slug}`;
   return {
-    alternates: {
-      canonical: `https://penaconsultant.com/cabang/${slug}`,
+    alternates: { canonical: pageUrl },
+    title: pageTitle,
+    description: pageDesc,
+    openGraph: {
+      title: pageTitle,
+      description: pageDesc,
+      url: pageUrl,
+      siteName: 'PENA Consultant',
+      locale: 'id_ID',
+      type: 'website',
+      images: [{ url: 'https://penaconsultant.com/images/og-share-card.png', width: 1200, height: 630, alt: pageTitle }],
     },
-    title: loc.meta_title || `Pelatihan & Sertifikasi K3 di ${loc.name} 2026 — Jadwal & Biaya Resmi`,
-    description: loc.meta_description || `Pusat pembinaan sertifikasi K3 resmi Kemnaker RI & BNSP di ${loc.name}. Layanan public batch, TUK mandiri, dan in-house training korporasi di seluruh kawasan industri ${loc.name}.`,
+    twitter: {
+      card: 'summary_large_image',
+      title: pageTitle,
+      description: pageDesc,
+      images: ['https://penaconsultant.com/images/og-share-card.png'],
+    },
     keywords: [
       `pelatihan k3 ${loc.name}`,
       `sertifikasi k3 ${loc.name}`,

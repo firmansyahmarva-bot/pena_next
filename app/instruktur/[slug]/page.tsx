@@ -17,12 +17,28 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const inst = (instructorsData as any[]).find((i) => i.slug === slug);
   if (!inst) return {};
+  const pageTitle = `Profil Instruktur: ${inst.name} (${inst.role}) — PENA Consultant`;
+  const pageDesc = `${inst.name} adalah ${inst.role} di PENA Consultant dengan pengalaman ${inst.experience} di bidang ${inst.specialization}.`;
+  const pageUrl = `https://penaconsultant.com/instruktur/${slug}`;
   return {
-    alternates: {
-      canonical: `https://penaconsultant.com/instruktur/${slug}`,
+    alternates: { canonical: pageUrl },
+    title: pageTitle,
+    description: pageDesc,
+    openGraph: {
+      title: pageTitle,
+      description: pageDesc,
+      url: pageUrl,
+      siteName: 'PENA Consultant',
+      locale: 'id_ID',
+      type: 'profile',
+      images: [{ url: 'https://penaconsultant.com/images/og-share-card.png', width: 1200, height: 630, alt: inst.name }],
     },
-    title: `Profil ${inst.name} — Instruktur K3 PENA Consultant`,
-    description: `Profil profesional ${inst.name}, instruktur dan praktisi keselamatan kerja senior di PT PENA Consultant.`,
+    twitter: {
+      card: 'summary_large_image',
+      title: pageTitle,
+      description: pageDesc,
+      images: ['https://penaconsultant.com/images/og-share-card.png'],
+    },
   };
 }
 

@@ -7,8 +7,23 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://penaconsultant.com/kontak',
   },
-  title: 'Kontak & Layanan Konsultasi K3 — PENA Consultant',
-  description: 'Hubungi tim konsultan K3 PENA Consultant untuk pendaftaran pelatihan, permintaan proposal in-house training, dan konsultasi kepatuhan SMK3.',
+  title: 'Hubungi Kami — Konsultasi Pelatihan & In-House K3',
+  description: 'Hubungi tim konsultan PENA Consultant untuk pendaftaran pelatihan, permintaan proposal in-house training, dan konfirmasi jadwal batch.',
+  openGraph: {
+    title: 'Hubungi Kami — Konsultasi Pelatihan & In-House K3',
+    description: 'Hubungi tim konsultan PENA Consultant untuk pendaftaran pelatihan, permintaan proposal in-house training, dan konfirmasi jadwal batch.',
+    url: 'https://penaconsultant.com/kontak',
+    siteName: 'PENA Consultant',
+    locale: 'id_ID',
+    type: 'website',
+    images: [{ url: 'https://penaconsultant.com/images/og-share-card.png', width: 1200, height: 630, alt: 'Hubungi Kami — Konsultasi Pelatihan & In-House K3' }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Hubungi Kami — Konsultasi Pelatihan & In-House K3',
+    description: 'Hubungi tim konsultan PENA Consultant untuk pendaftaran pelatihan, permintaan proposal in-house training, dan konfirmasi jadwal batch.',
+    images: ['https://penaconsultant.com/images/og-share-card.png'],
+  },
 };
 
 export default function KontakPage() {

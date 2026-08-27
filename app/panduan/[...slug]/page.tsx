@@ -41,12 +41,31 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   // Case A: Cluster Hub (/panduan/k3-teknis)
   if (slug.length === 1 && CLUSTERS[slug[0]]) {
     const clusterName = CLUSTERS[slug[0]];
+    const pageTitle = `Panduan ${clusterName} 2026 — Kumpulan Artikel & Regulasi K3`;
+    const pageDesc = `Kumpulan panduan lengkap ${clusterName}. Pelajari dasar hukum, syarat sertifikasi Kemnaker RI, implementasi di tempat kerja, dan tips audit SMK3.`;
+    const pageUrl = `https://penaconsultant.com/panduan/${slug.join('/')}`;
+
     return {
       alternates: {
-      canonical: `https://penaconsultant.com/panduan/${slug.join('/')}`,
-    },
-    title: `Panduan ${clusterName} 2026 — Kumpulan Artikel & Regulasi K3`,
-      description: `Kumpulan panduan lengkap ${clusterName}. Pelajari dasar hukum, syarat sertifikasi Kemnaker RI, implementasi di tempat kerja, dan tips audit SMK3.`,
+        canonical: pageUrl,
+      },
+      title: pageTitle,
+      description: pageDesc,
+      openGraph: {
+        title: pageTitle,
+        description: pageDesc,
+        url: pageUrl,
+        siteName: 'PENA Consultant',
+        locale: 'id_ID',
+        type: 'website',
+        images: [{ url: 'https://penaconsultant.com/images/og-share-card.png', width: 1200, height: 630, alt: pageTitle }],
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title: pageTitle,
+        description: pageDesc,
+        images: ['https://penaconsultant.com/images/og-share-card.png'],
+      },
     };
   }
 
@@ -55,12 +74,31 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const article = getArticles().find(a => a.slug === articleSlug);
   if (!article) return {};
 
+  const pageTitle = article.meta_title || `${article.title} — Panduan Resmi K3 2026`;
+  const pageDesc = article.meta_description || article.summary || '';
+  const pageUrl = `https://penaconsultant.com/panduan/${article.slug}`;
+
   return {
     alternates: {
-      canonical: `https://penaconsultant.com/panduan/${article.slug}`,
+      canonical: pageUrl,
     },
-    title: article.meta_title || `${article.title} — Panduan Resmi K3 2026`,
-    description: article.meta_description || article.summary || '',
+    title: pageTitle,
+    description: pageDesc,
+    openGraph: {
+      title: pageTitle,
+      description: pageDesc,
+      url: pageUrl,
+      siteName: 'PENA Consultant',
+      locale: 'id_ID',
+      type: 'article',
+      images: [{ url: 'https://penaconsultant.com/images/og-share-card.png', width: 1200, height: 630, alt: article.title }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: pageTitle,
+      description: pageDesc,
+      images: ['https://penaconsultant.com/images/og-share-card.png'],
+    },
   };
 }
 

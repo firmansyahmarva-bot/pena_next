@@ -13,12 +13,28 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const batch = getBatchBySlug(slug);
   if (!batch) return {};
+  const pageTitle = `Jadwal Pelatihan ${batch.offering_name} Batch ${batch.batch_number} (2026)`;
+  const pageDesc = `Daftar batch ${batch.batch_number} pelatihan ${batch.offering_name} resmi Kemnaker RI / BNSP. Tanggal mulai ${batch.start_date || 'TBA 2026'}, metode ${batch.mode}, kuota terbatas.`;
+  const pageUrl = `https://penaconsultant.com/jadwal/${slug}`;
   return {
-    alternates: {
-      canonical: `https://penaconsultant.com/jadwal/${slug}`,
+    alternates: { canonical: pageUrl },
+    title: pageTitle,
+    description: pageDesc,
+    openGraph: {
+      title: pageTitle,
+      description: pageDesc,
+      url: pageUrl,
+      siteName: 'PENA Consultant',
+      locale: 'id_ID',
+      type: 'website',
+      images: [{ url: 'https://penaconsultant.com/images/og-share-card.png', width: 1200, height: 630, alt: pageTitle }],
     },
-    title: `Jadwal ${batch.offering_name} Batch ${batch.batch_number} — PENA Consultant`,
-    description: `Pendaftaran batch ${batch.offering_name} tanggal ${batch.start_date}. Pembinaan resmi Kemnaker RI/BNSP, biaya & fasilitas lengkap.`,
+    twitter: {
+      card: 'summary_large_image',
+      title: pageTitle,
+      description: pageDesc,
+      images: ['https://penaconsultant.com/images/og-share-card.png'],
+    },
   };
 }
 

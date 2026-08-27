@@ -10,6 +10,21 @@ export const metadata: Metadata = {
   },
   title: 'Katalog Program Pelatihan & Sertifikasi K3 Resmi Kemnaker RI & BNSP',
   description: 'Daftar lengkap 70+ program pelatihan dan sertifikasi K3 resmi di Indonesia. Ahli K3 Umum, K3 Listrik, Konstruksi, Kebakaran, Ruang Terbatas, Alat Berat & BNSP.',
+  openGraph: {
+    title: 'Katalog Program Pelatihan & Sertifikasi K3 Resmi Kemnaker RI & BNSP',
+    description: 'Daftar lengkap 70+ program pelatihan dan sertifikasi K3 resmi di Indonesia. Ahli K3 Umum, K3 Listrik, Konstruksi, Kebakaran, Ruang Terbatas, Alat Berat & BNSP.',
+    url: 'https://penaconsultant.com/pelatihan',
+    siteName: 'PENA Consultant',
+    locale: 'id_ID',
+    type: 'website',
+    images: [{ url: 'https://penaconsultant.com/images/og-share-card.png', width: 1200, height: 630, alt: 'Katalog Pelatihan K3 PENA Consultant' }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Katalog Program Pelatihan & Sertifikasi K3 Resmi Kemnaker RI & BNSP',
+    description: 'Daftar lengkap 70+ program pelatihan dan sertifikasi K3 resmi di Indonesia. Ahli K3 Umum, K3 Listrik, Konstruksi, Kebakaran, Ruang Terbatas, Alat Berat & BNSP.',
+    images: ['https://penaconsultant.com/images/og-share-card.png'],
+  },
 };
 
 export default function PelatihanHubPage() {

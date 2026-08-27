@@ -7,8 +7,23 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://penaconsultant.com/tentang',
   },
-  title: 'Tentang PENA Consultant — Lembaga PJK3 & TUK BNSP Resmi',
-  description: 'Profil PT PENA Consultant, Perusahaan Jasa Keselamatan dan Kesehatan Kerja (PJK3) terakreditasi resmi Kemnaker RI dan Tempat Uji Kompetensi (TUK) LSP BNSP.',
+  title: 'Tentang PENA Consultant — PJK3 Resmi & TUK Terlisensi',
+  description: 'Profil PT Pusat Edukasi Nasional (PENA Consultant). Visi, misi, legalitas SKP PJK3 Kemnaker RI, dan akreditasi TUK BNSP.',
+  openGraph: {
+    title: 'Tentang PENA Consultant — PJK3 Resmi & TUK Terlisensi',
+    description: 'Profil PT Pusat Edukasi Nasional (PENA Consultant). Visi, misi, legalitas SKP PJK3 Kemnaker RI, dan akreditasi TUK BNSP.',
+    url: 'https://penaconsultant.com/tentang',
+    siteName: 'PENA Consultant',
+    locale: 'id_ID',
+    type: 'website',
+    images: [{ url: 'https://penaconsultant.com/images/og-share-card.png', width: 1200, height: 630, alt: 'Tentang PENA Consultant — PJK3 Resmi & TUK Terlisensi' }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Tentang PENA Consultant — PJK3 Resmi & TUK Terlisensi',
+    description: 'Profil PT Pusat Edukasi Nasional (PENA Consultant). Visi, misi, legalitas SKP PJK3 Kemnaker RI, dan akreditasi TUK BNSP.',
+    images: ['https://penaconsultant.com/images/og-share-card.png'],
+  },
 };
 
 export default function TentangPage() {

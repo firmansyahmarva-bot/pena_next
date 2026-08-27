@@ -8,8 +8,23 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://penaconsultant.com/panduan',
   },
-  title: 'Direktori Panduan, Regulasi & Keselamatan Kerja K3 Terlengkap 2026',
-  description: 'Pusat referensi dan edukasi keselamatan kerja: UU No 1 1970, SMK3 PP 50 2012, syarat sertifikasi K3, prosedur teknis, dan tips ujian.',
+  title: 'Panduan, Regulasi & Pengetahuan K3 Indonesia — PENA Consultant',
+  description: 'Kumpulan artikel rujukan dan panduan regulasi K3 terlengkap. Kupas tuntas SMK3 PP 50/2012, UU No. 1/1970, standar ISO 45001, dan sertifikasi profesi.',
+  openGraph: {
+    title: 'Panduan, Regulasi & Pengetahuan K3 Indonesia — PENA Consultant',
+    description: 'Kumpulan artikel rujukan dan panduan regulasi K3 terlengkap. Kupas tuntas SMK3 PP 50/2012, UU No. 1/1970, standar ISO 45001, dan sertifikasi profesi.',
+    url: 'https://penaconsultant.com/panduan',
+    siteName: 'PENA Consultant',
+    locale: 'id_ID',
+    type: 'website',
+    images: [{ url: 'https://penaconsultant.com/images/og-share-card.png', width: 1200, height: 630, alt: 'Panduan, Regulasi & Pengetahuan K3 Indonesia — PENA Consultant' }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Panduan, Regulasi & Pengetahuan K3 Indonesia — PENA Consultant',
+    description: 'Kumpulan artikel rujukan dan panduan regulasi K3 terlengkap. Kupas tuntas SMK3 PP 50/2012, UU No. 1/1970, standar ISO 45001, dan sertifikasi profesi.',
+    images: ['https://penaconsultant.com/images/og-share-card.png'],
+  },
 };
 
 export default function PanduanHubPage() {

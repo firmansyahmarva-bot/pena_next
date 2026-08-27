@@ -17,12 +17,28 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const industry = getIndustryBySlug(slug);
   if (!industry) return {};
+  const pageTitle = industry.meta_title || `Solusi K3 Sektor ${industry.name} 2026 — Pelatihan & Sertifikasi Resmi`;
+  const pageDesc = industry.meta_description || industry.description || `Panduan kepatuhan regulasi K3 dan program pembinaan sertifikasi profesi untuk sektor industri ${industry.name}.`;
+  const pageUrl = `https://penaconsultant.com/industri/${slug}`;
   return {
-    alternates: {
-      canonical: `https://penaconsultant.com/industri/${slug}`,
+    alternates: { canonical: pageUrl },
+    title: pageTitle,
+    description: pageDesc,
+    openGraph: {
+      title: pageTitle,
+      description: pageDesc,
+      url: pageUrl,
+      siteName: 'PENA Consultant',
+      locale: 'id_ID',
+      type: 'website',
+      images: [{ url: 'https://penaconsultant.com/images/og-share-card.png', width: 1200, height: 630, alt: pageTitle }],
     },
-    title: industry.meta_title || `Solusi K3 Sektor ${industry.name} 2026 — Pelatihan & Sertifikasi Resmi`,
-    description: industry.meta_description || industry.description || '',
+    twitter: {
+      card: 'summary_large_image',
+      title: pageTitle,
+      description: pageDesc,
+      images: ['https://penaconsultant.com/images/og-share-card.png'],
+    },
   };
 }
 

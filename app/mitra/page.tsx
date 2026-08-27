@@ -9,8 +9,23 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://penaconsultant.com/mitra',
   },
-  title: 'Mitra & Klien Korporasi — PENA Consultant',
-  description: 'Daftar perusahaan BUMN, multinasional, dan kontraktor nasional yang mempercayakan pelatihan K3 dan sertifikasi tenaga kerja kepada PENA Consultant.',
+  title: 'Klien & Portofolio Corporate Training K3 — PENA Consultant',
+  description: 'Daftar perusahaan BUMN, multinasional, dan kontraktor nasional yang mempercayakan program pembinaan K3 Kemnaker RI & BNSP kepada PENA Consultant.',
+  openGraph: {
+    title: 'Klien & Portofolio Corporate Training K3 — PENA Consultant',
+    description: 'Daftar perusahaan BUMN, multinasional, dan kontraktor nasional yang mempercayakan program pembinaan K3 Kemnaker RI & BNSP kepada PENA Consultant.',
+    url: 'https://penaconsultant.com/mitra',
+    siteName: 'PENA Consultant',
+    locale: 'id_ID',
+    type: 'website',
+    images: [{ url: 'https://penaconsultant.com/images/og-share-card.png', width: 1200, height: 630, alt: 'Klien & Portofolio Corporate Training K3 — PENA Consultant' }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Klien & Portofolio Corporate Training K3 — PENA Consultant',
+    description: 'Daftar perusahaan BUMN, multinasional, dan kontraktor nasional yang mempercayakan program pembinaan K3 Kemnaker RI & BNSP kepada PENA Consultant.',
+    images: ['https://penaconsultant.com/images/og-share-card.png'],
+  },
 };
 
 export default function MitraHubPage() {

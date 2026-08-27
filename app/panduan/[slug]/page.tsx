@@ -16,12 +16,31 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const article = getArticleBySlug(slug);
   if (!article) return {};
 
+  const pageTitle = article.meta_title || `${article.title} — Panduan Resmi K3 2026`;
+  const pageDesc = article.meta_description || article.summary || '';
+  const pageUrl = `https://penaconsultant.com/panduan/${slug}`;
+
   return {
     alternates: {
-      canonical: `https://penaconsultant.com/panduan/${slug}`,
+      canonical: pageUrl,
     },
-    title: article.meta_title || `${article.title} — Panduan Resmi K3 2026`,
-    description: article.meta_description || article.summary || '',
+    title: pageTitle,
+    description: pageDesc,
+    openGraph: {
+      title: pageTitle,
+      description: pageDesc,
+      url: pageUrl,
+      siteName: 'PENA Consultant',
+      locale: 'id_ID',
+      type: 'article',
+      images: [{ url: 'https://penaconsultant.com/images/og-share-card.png', width: 1200, height: 630, alt: article.title }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: pageTitle,
+      description: pageDesc,
+      images: ['https://penaconsultant.com/images/og-share-card.png'],
+    },
   };
 }
 

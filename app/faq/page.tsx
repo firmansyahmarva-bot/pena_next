@@ -10,6 +10,21 @@ export const metadata: Metadata = {
   },
   title: 'Tanya Jawab (FAQ) Pelatihan & Sertifikasi K3 — PENA Consultant',
   description: 'Jawaban atas pertanyaan umum seputar syarat pendaftaran Ahli K3, keaslian sertifikat Kemnaker/BNSP, metode online vs offline, dan in-house training.',
+  openGraph: {
+    title: 'Tanya Jawab (FAQ) Pelatihan & Sertifikasi K3 — PENA Consultant',
+    description: 'Jawaban atas pertanyaan umum seputar syarat pendaftaran Ahli K3, keaslian sertifikat Kemnaker/BNSP, metode online vs offline, dan in-house training.',
+    url: 'https://penaconsultant.com/faq',
+    siteName: 'PENA Consultant',
+    locale: 'id_ID',
+    type: 'website',
+    images: [{ url: 'https://penaconsultant.com/images/og-share-card.png', width: 1200, height: 630, alt: 'Tanya Jawab (FAQ) Pelatihan & Sertifikasi K3 — PENA Consultant' }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Tanya Jawab (FAQ) Pelatihan & Sertifikasi K3 — PENA Consultant',
+    description: 'Jawaban atas pertanyaan umum seputar syarat pendaftaran Ahli K3, keaslian sertifikat Kemnaker/BNSP, metode online vs offline, dan in-house training.',
+    images: ['https://penaconsultant.com/images/og-share-card.png'],
+  },
 };
 
 function extractAnswerText(ans: any): string {

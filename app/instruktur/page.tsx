@@ -9,8 +9,23 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://penaconsultant.com/instruktur',
   },
-  title: 'Dewan Instruktur & Asesor K3 Senior — PENA Consultant',
-  description: 'Profil instruktur, praktisi HSE, dan asesor kompetensi BNSP di PENA Consultant dengan pengalaman lebih dari 15+ tahun di industri migas, manufaktur, & konstruksi.',
+  title: 'Dewan Instruktur & Master Trainer K3 Resmi — PENA Consultant',
+  description: 'Tim instruktur ahli berlisensi Kemnaker RI dan asesor kompetensi BNSP dengan pengalaman praktis puluhan tahun di industri minyak, gas, dan manufaktur.',
+  openGraph: {
+    title: 'Dewan Instruktur & Master Trainer K3 Resmi — PENA Consultant',
+    description: 'Tim instruktur ahli berlisensi Kemnaker RI dan asesor kompetensi BNSP dengan pengalaman praktis puluhan tahun di industri minyak, gas, dan manufaktur.',
+    url: 'https://penaconsultant.com/instruktur',
+    siteName: 'PENA Consultant',
+    locale: 'id_ID',
+    type: 'website',
+    images: [{ url: 'https://penaconsultant.com/images/og-share-card.png', width: 1200, height: 630, alt: 'Dewan Instruktur & Master Trainer K3 Resmi — PENA Consultant' }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Dewan Instruktur & Master Trainer K3 Resmi — PENA Consultant',
+    description: 'Tim instruktur ahli berlisensi Kemnaker RI dan asesor kompetensi BNSP dengan pengalaman praktis puluhan tahun di industri minyak, gas, dan manufaktur.',
+    images: ['https://penaconsultant.com/images/og-share-card.png'],
+  },
 };
 
 export default function InstrukturHubPage() {

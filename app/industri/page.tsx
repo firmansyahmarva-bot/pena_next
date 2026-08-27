@@ -8,8 +8,23 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://penaconsultant.com/industri',
   },
-  title: 'Solusi K3 Sektoral per Industri — PENA Consultant',
-  description: 'Panduan kepatuhan K3, regulasi spesifik, dan program sertifikasi resmi untuk sektor Konstruksi, Migas, Manufaktur, Pertambangan, dan Rumah Sakit.',
+  title: 'Solusi Sertifikasi & Kepatuhan K3 Lintas Industri — PENA Consultant',
+  description: 'Program pembinaan dan sertifikasi K3 khusus disesuaikan dengan risiko spesifik sektor industri manufaktur, migas, konstruksi, pertambangan, dan kimia.',
+  openGraph: {
+    title: 'Solusi Sertifikasi & Kepatuhan K3 Lintas Industri — PENA Consultant',
+    description: 'Program pembinaan dan sertifikasi K3 khusus disesuaikan dengan risiko spesifik sektor industri manufaktur, migas, konstruksi, pertambangan, dan kimia.',
+    url: 'https://penaconsultant.com/industri',
+    siteName: 'PENA Consultant',
+    locale: 'id_ID',
+    type: 'website',
+    images: [{ url: 'https://penaconsultant.com/images/og-share-card.png', width: 1200, height: 630, alt: 'Solusi Sertifikasi & Kepatuhan K3 Lintas Industri — PENA Consultant' }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Solusi Sertifikasi & Kepatuhan K3 Lintas Industri — PENA Consultant',
+    description: 'Program pembinaan dan sertifikasi K3 khusus disesuaikan dengan risiko spesifik sektor industri manufaktur, migas, konstruksi, pertambangan, dan kimia.',
+    images: ['https://penaconsultant.com/images/og-share-card.png'],
+  },
 };
 
 export default function IndustriHubPage() {
