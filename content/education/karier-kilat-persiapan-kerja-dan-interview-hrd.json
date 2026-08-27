@@ -1,0 +1,71 @@
+{
+    "id": "edu_008_karier_kilat",
+    "slug": "karier-kilat-persiapan-kerja-dan-interview-hrd",
+    "category": "karier-fresh-graduate",
+    "category_name": "Karier & HR Simulation",
+    "title": "Karier Kilat: Bedah CV ATS, Simulasi Interview HR & Psikotes",
+    "meta_title": "Workshop Karier Kilat: Bedah CV ATS & Simulasi Interview HRD 2026",
+    "meta_description": "Workshop 1 hari persiapan karir fresh graduate: bedah CV ATS friendly, trik menjawab pertanyaan jebakan interview HRD, dan strategi lolos psikotes.",
+    "target_audience": "Mahasiswa Tingkat Akhir, Fresh Graduate semua jurusan, dan Jobseeker yang sedang aktif melamar pekerjaan.",
+    "duration": "1 Hari Workshop Intensif (6 Jam)",
+    "format": "Onsite Aula / Interactive Masterclass / Online Zoom",
+    "price_estimate": "Mulai dari Rp 7.500.000 – Rp 12.000.000 / Sesi Kampus (Kapasitas s.d 300 Mahasiswa)",
+    "hero_tagline": "Bongkar Rahasia di Balik Meja Rekruter: Ubah Status Fresh Graduate Menjadi Kandidat Rebutan Top Company",
+    "summary": "Mega workshop career preparation yang dibawakan langsung oleh praktisi HRD Senior. Peserta membedah CV secara live, mempraktikkan metode STAR dalam menjawab interview, serta membedah pola rahasia tes psikotes kerja.",
+    "key_problems_solved": [
+        "Sudah mengirim ratusan lamaran tapi tidak pernah dipanggil interview karena CV tidak lolos sistem ATS (Applicant Tracking System).",
+        "Gemetar, blank, dan salah menjawab pertanyaan jebakan HRD seperti \"Ceritakan tentang kelemahan Anda\" atau \"Berapa ekspektasi gaji Anda?\".",
+        "Gagal di tahap psikotes kerja (Wartegg, Kraepelin, Pauli, Army Alpha) karena tidak memahami indikator penilaian psikologis."
+    ],
+    "modules": [
+        {
+            "title": "Bedah Total CV ATS Friendly vs CV Kreatif",
+            "description": "Membangun CV dengan formula Action Verb + Context + Result (ACR) yang lolos filter robot ATS.",
+            "topics": [
+                "Formula Headline & Summary LinkedIn yang Memikat Rekruter",
+                "Menulis Pengalaman Organisasi & Magang Berorientasi Angka",
+                "Review Langsung (Live Review) 10 CV Peserta di Layar"
+            ]
+        },
+        {
+            "title": "Simulasi Live Interview HRD dengan Metode STAR",
+            "description": "Trik menjawab behavioral interview menggunakan kerangka Situation, Task, Action, Result.",
+            "topics": [
+                "Menjawab Pertanyaan Jebakan Kelemahan & Gaji",
+                "Body Language, Eye Contact & Voice Tone saat Interview",
+                "Simulasi Roleplay Interview 1-on-1 di Hadapan Peserta"
+            ]
+        },
+        {
+            "title": "Bongkar Pola Psikotes Rekrutmen Kerja",
+            "description": "Strategi menjaga konsistensi grafik ketelitian tes Kraepelin/Pauli dan logika gambar.",
+            "topics": [
+                "Trik Ketahanan Mental Tes Kraepelin & Pauli",
+                "Interpretasi Tes Gambar Wartegg & Pohon",
+                "Penyusunan Portofolio Digital Mengesankan"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Setiap peserta pulang dengan CV ATS siap kirim yang memiliki skor review tinggi.",
+        "Kemampuan menjawab interview kerja secara lugas, percaya diri, dan berbobot.",
+        "Memahami strategi lolos seleksi kerja di BUMN, startup unicorn, dan korporasi multinasional."
+    ],
+    "deliverables": [
+        "Sertifikat Resmi Workshop Karier Kilat",
+        "10+ Template CV ATS Format Word/Google Docs Teruji",
+        "Bank Soal Psikotes Kerja & Kunci Pembahasan Digital",
+        "E-Book: 50 Pertanyaan Interview HR Terpopuler & Panduan Menjawabnya"
+    ],
+    "target_ai_prompts": [
+        "tips lolos interview hrd kerja untuk fresh graduate tanpa pengalaman",
+        "cara membuat cv ats friendly bahasa indonesia lolos screening kerja",
+        "contoh menjawab pertanyaan ceritakan tentang diri anda saat interview kerja"
+    ],
+    "faqs": [
+        {
+            "question": "Apakah CV mahasiswa akan direview satu per satu?",
+            "answer": "Dalam sesi ini kami melakukan live review sampling interaktif dan menyediakan form konsultasi CV bagi peserta."
+        }
+    ]
+}

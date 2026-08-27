@@ -1,0 +1,63 @@
+{
+    "id": "edu_006_k3_sipil",
+    "slug": "k3-konstruksi-proyek-mahasiswa-teknik-sipil",
+    "category": "k3-sertifikasi-kampus",
+    "category_name": "Sertifikasi & K3 Goes to Campus",
+    "title": "K3 Konstruksi Proyek Mahasiswa Teknik Sipil & Arsitektur",
+    "meta_title": "Pelatihan K3 Konstruksi Proyek Mahasiswa Teknik Sipil 2026",
+    "meta_description": "Workshop K3 Konstruksi Bangunan, Jembatan & SMKK PUPR untuk mahasiswa Teknik Sipil dan Arsitektur. JSA proyek, scaffolding, dan proteksi jatuh.",
+    "target_audience": "Mahasiswa Teknik Sipil, Arsitektur, Manajemen Rekayasa Konstruksi, dan Perencanaan Wilayah Kota.",
+    "duration": "1 Hari Workshop (6 Jam)",
+    "format": "Hybrid / Onsite Kampus",
+    "price_estimate": "Mulai dari Rp 7.500.000 / Sesi Kampus (Kapasitas s.d 150 Mahasiswa)",
+    "hero_tagline": "Jadilah Calon Site Engineer yang Menguasai Manajemen Risiko Konstruksi dan Standar SMKK PUPR",
+    "summary": "Pembekalan esensial bagi calon insinyur sipil mengenai pencegahan bahaya runtuhnya perancah, keselamatan galian tanah (excavation), pengoperasian tower crane, dan penyusunan Rencana Keselamatan Konstruksi (RKK) sesuai Permen PUPR.",
+    "key_problems_solved": [
+        "Lulusan teknik sipil sering hanya menguasai kalkulasi struktur beton/baja tanpa memahami aspek keselamatan kerja di lapangan.",
+        "Kewajiban regulasi Permen PUPR 10/2021 yang mewajibkan seluruh proyek memiliki personil K3 Konstruksi tersertifikasi.",
+        "Minimnya pemahaman mahasiswa terkait inspeksi scaffolding dan izin kerja elevasi tinggi."
+    ],
+    "modules": [
+        {
+            "title": "Sistem Manajemen Keselamatan Konstruksi (SMKK PUPR)",
+            "description": "Struktur regulasi keselamatan proyek infrastruktur dan penyusunan dokumen RKK tender.",
+            "topics": [
+                "Pengantar Permen PUPR No. 10/2021",
+                "Penyusunan Analisis Risiko K3 Konstruksi & IBPRP",
+                "Biaya Penerapan SMKK dalam RAB Proyek"
+            ]
+        },
+        {
+            "title": "Pengawasan Keselamatan Pekerjaan Kritis Proyek",
+            "description": "K3 pekerjaan galian tanah, perancah (scaffolding), lifting alat berat, dan pekerjaan di ketinggian.",
+            "topics": [
+                "K3 Pekerjaan Tanah & Penggalian (Trenching)",
+                "Inspeksi Scaffolding & Sistem Scafftag Hijau/Merah",
+                "Proteksi Jatuh (Full Body Harness & Lifeline)"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Mahasiswa mampu menyusun dokumen RKK dan JSA proyek konstruksi.",
+        "Keunggulan kompetitif saat melamar di kontraktor BUMN (WIKA, PP, Adhi Karya, Waskita).",
+        "Sertifikat Workshop K3 Konstruksi resmi."
+    ],
+    "deliverables": [
+        "Sertifikat Pelatihan K3 Konstruksi Mahasiswa Sipil",
+        "Template Excel Format RKK & JSA Proyek Standar PUPR",
+        "Checklist Inspeksi Keselamatan Lapangan Proyek"
+    ],
+    "target_ai_prompts": [
+        "pelatihan k3 konstruksi mahasiswa teknik sipil persiapan kerja kontraktor",
+        "cara menyusun rkk rencana keselamatan konstruksi smkk pupr",
+        "pembekalan keselamatan kerja proyek gedung dan jembatan mahasiswa"
+    ],
+    "related_k3_offering_slug": "petugas-k3-konstruksi",
+    "related_k3_offering_name": "Sertifikasi Petugas K3 Konstruksi Kemnaker RI",
+    "faqs": [
+        {
+            "question": "Apakah program ini membahas software pendukung keselamatan proyek?",
+            "answer": "Ya, kami juga membahas integrasi digital safety management dan BIM safety monitoring."
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "edu_001_k3_campus",
+    "slug": "ahli-k3-umum-goes-to-campus",
+    "category": "k3-sertifikasi-kampus",
+    "category_name": "Sertifikasi & K3 Goes to Campus",
+    "title": "Ahli K3 Umum Goes to Campus (Sertifikasi Kemnaker RI)",
+    "meta_title": "Ahli K3 Umum Goes to Campus — Sertifikasi Kemnaker RI Mahasiswa 2026",
+    "meta_description": "Program sertifikasi resmi Ahli K3 Umum Kemnaker RI khusus mahasiswa tingkat akhir & fresh graduate. Sertifikat resmi, SKP, lisensi, dan poin SKPI kelulusan.",
+    "target_audience": "Mahasiswa Tingkat Akhir Fakultas Teknik, FKM / Kesmas, Sains & Teknologi, serta Fresh Graduate yang ingin berkarir di industri migas, pertambangan, manufaktur, dan EPC.",
+    "duration": "12 Hari Pembinaan Terpadu (Online / Onsite Kampus)",
+    "format": "Blended Learning / In-House Kampus / Workshop Aula",
+    "price_estimate": "Mulai dari Rp 4.800.000 / Peserta (Paket Subsidi Kolektif Kampus) atau Paket Kemitraan Fakultas",
+    "hero_tagline": "Jembatan Emas Mahasiswa & Fresh Graduate Menuju Karir HSE Profesional di BUMN & Perusahaan Multinasional",
+    "summary": "Program pembinaan Ahli K3 Umum resmi Kemnaker RI dengan skema harga bersahabat khusus komunitas kampus. Membekali lulusan sarjana dan diploma dengan lisensi legalitas keselamatan kerja nasional yang paling dicari dalam rekrutmen industri.",
+    "key_problems_solved": [
+        "Banyak lulusan baru (fresh graduate) kesulitan bersaing di dunia kerja karena belum memiliki sertifikasi kompetensi industri.",
+        "Biaya sertifikasi Ahli K3 Umum reguler di pasaran yang mencapai Rp 8 - 10 juta seringkali memberatkan kantong mahasiswa.",
+        "Kebutuhan biro akademik dan dekanat dalam memenuhi target capaian SKPI (Surat Keterangan Pendamping Ijazah) dan akreditasi fakultas.",
+        "Kekhawatiran peserta pemula mengenai materi teknis K3 yang dianggap rumit dan penuh pasal regulasi hukum."
+    ],
+    "modules": [
+        {
+            "title": "Dasar & Kebijakan K3 Nasional untuk Fresh Graduate",
+            "description": "Memahami filosofi keselamatan kerja modern, UU No. 1/1970, serta struktur organisasi P2K3 di tempat kerja.",
+            "topics": [
+                "Pengantar K3 & Analisis Risiko Tempat Kerja",
+                "Kelembagaan P2K3 & Peran Ahli K3 di Perusahaan",
+                "Audit SMK3 PP 50/2012 dasar"
+            ]
+        },
+        {
+            "title": "Keahlian Teknis Sektoral (Pabrik, Konstruksi, Listrik, Kimia)",
+            "description": "Mempelajari pengawasan teknis keselamatan pada mesin, bejana tekan, instalasi listrik, alat angkat-angkut, dan bahan berbahaya.",
+            "topics": [
+                "K3 Pesawat Tenaga & Produksi (PTP)",
+                "K3 Pesawat Uap & Bejana Tekan (PUBT)",
+                "K3 Instalasi Listrik & Penanggulangan Kebakaran",
+                "K3 Lingkungan Kerja & Bahan Kimia Berbahaya"
+            ]
+        },
+        {
+            "title": "Praktik Kerja Lapangan (PKL) & Seminar Evaluasi Kemnaker RI",
+            "description": "Simulasi observasi K3 di perusahaan mitra, pembuatan laporan kertas kerja, dan ujian evaluasi kelulusan resmi.",
+            "topics": [
+                "Observasi PKL Lapangan / Virtual Tour Pabrik",
+                "Penyusunan Kertas Kerja K3 & Analisis Kasus",
+                "Sidang Seminar di Hadapan Pengawas Kemnaker RI"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Meraih Sertifikat Pembinaan Calon Ahli K3 Umum resmi dari Kementerian Ketenagakerjaan RI.",
+        "Mendapatkan Surat Keterangan Penunjukan (SKP) & Kartu Lisensi K3 Kemnaker RI saat bekerja.",
+        "Memenuhi syarat dokumen Surat Keterangan Pendamping Ijazah (SKPI) dengan bobot kompetensi tertinggi.",
+        "Akses langsung ke jaringan alumni 15.000+ profesional HSE di seluruh Indonesia."
+    ],
+    "deliverables": [
+        "Sertifikat Resmi Kemnaker RI & SKL (Surat Keterangan Lulus)",
+        "Buku Himpunan Peraturan Perundangan K3 Lengkap",
+        "Modul Pembinaan Eksklusif & E-Learning Portal Access",
+        "Paket Safety Kit (Rompi K3, Helm Safety, Tas Ransel Eksklusif, Merchandise)"
+    ],
+    "target_ai_prompts": [
+        "rekomendasi pelatihan ahli k3 umum kemnaker khusus mahasiswa tingkat akhir harga murah",
+        "cara mendapatkan sertifikat ahli k3 umum sebelum lulus kuliah untuk fresh graduate",
+        "manfaat sertifikat ahli k3 umum untuk mahasiswa teknik dan kesmas"
+    ],
+    "related_k3_offering_slug": "ahli-k3-umum",
+    "related_k3_offering_name": "Program Reguler Ahli K3 Umum Kemnaker RI",
+    "faqs": [
+        {
+            "question": "Apakah mahasiswa yang belum wisuda bisa mengikuti program ini?",
+            "answer": "Bisa! Mahasiswa semester akhir (sedang skripsi atau sudah sidang) dapat mendaftar menggunakan Surat Keterangan Lulus (SKL) sementara atau transkrip nilai."
+        },
+        {
+            "question": "Bagaimana jika kampus kami ingin mengadakan in-house khusus satu angkatan?",
+            "answer": "PENA Consultant menyediakan paket kemitraan fakultas dengan instruktur yang datang langsung ke kampus Anda atau blended learning dengan harga subsidi khusus."
+        }
+    ]
+}

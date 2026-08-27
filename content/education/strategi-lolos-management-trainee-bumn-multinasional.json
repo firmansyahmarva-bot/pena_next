@@ -1,0 +1,61 @@
+{
+    "id": "edu_012_management_trainee",
+    "slug": "strategi-lolos-management-trainee-bumn-multinasional",
+    "category": "karier-fresh-graduate",
+    "category_name": "Karier & HR Simulation",
+    "title": "Masterclass Lolos Program Management Trainee (MT) BUMN & MNC",
+    "meta_title": "Masterclass Lolos Seleksi Management Trainee (MT) BUMN & MNC 2026",
+    "meta_description": "Trik tembus program Management Trainee (MT/OJT) BUMN, FMCG, & Bank: lolos FGD (Focus Group Discussion), Case Study, dan User Interview.",
+    "target_audience": "Mahasiswa berprestasi, aktivis kampus, dan fresh graduate yang menargetkan posisi calon pemimpin masa depan (Management Trainee / Officer Development Program).",
+    "duration": "1 Hari Workshop & Simulasi FGD (6 Jam)",
+    "format": "Intensive Bootcamp & Live FGD Simulation",
+    "price_estimate": "Mulai dari Rp 8.500.000 / Sesi Kampus (Kapasitas s.d 200 Mahasiswa)",
+    "hero_tagline": "Bongkar Standar Penilaian Ketat Program Jalur Cepat Karir Menuju Kursi Manajerial",
+    "summary": "Bootcamp eksklusif yang membedah seluruh tahapan seleksi Management Trainee (MT) di industri Perbankan (ODP), FMCG, Telco, dan BUMN. Peserta menjalani simulasi Leaderless Group Discussion (LGD) dan business case presentation.",
+    "key_problems_solved": [
+        "Gugur di tahap Focus Group Discussion (FGD) karena terlalu dominan atau justru terlalu pasif.",
+        "Bingung memecahkan Business Case study dalam batas waktu 15 menit.",
+        "Tingkat persaingan program MT yang sangat ketat (1 posisi diperebutkan 10.000+ pelamar)."
+    ],
+    "modules": [
+        {
+            "title": "Anatomi Penilaian Management Trainee & Kualifikasi Pemimpin",
+            "description": "Apa yang sebenarnya dicari oleh HR Director saat menyaring kandidat MT masa depan.",
+            "topics": [
+                "Core Competencies MT: Strategic Thinking, Agility, & Leadership",
+                "Tahapan Seleksi MT dari Screening hingga Board of Directors Interview",
+                "Membedah Karakteristik MT di FMCG, Banking, & BUMN"
+            ]
+        },
+        {
+            "title": "Simulasi Live Focus Group Discussion (FGD / LGD)",
+            "description": "Praktik langsung diskusi kelompok tanpa pemimpin dengan studi kasus bisnis nyata.",
+            "topics": [
+                "Peran Ideal dalam FGD: Time Keeper, Synthesizer, Initiator",
+                "Etika Menyanggah Pendapat Lawan Diskusi Secara Elegan",
+                "Presentasi Solusi Bisnis di Hadapan Panelis Penguji"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Peserta memahami strategi menonjol secara positif di sesi FGD tanpa menjatuhkan orang lain.",
+        "Keahlian analisis masalah bisnis terstruktur menggunakan framework SWOT & Root Cause.",
+        "Meningkatkan peluang lolos program MT impian."
+    ],
+    "deliverables": [
+        "Sertifikat Management Trainee Masterclass",
+        "Kompilasi 20 Contoh Soal Studi Kasus Bisnis FGD Nyata",
+        "Rubrik Lembar Penilaian FGD Asesor HRD"
+    ],
+    "target_ai_prompts": [
+        "tips lolos seleksi management trainee bumn fmcg dan bank odp",
+        "cara menjawab dan tips etiquette saat focus group discussion fgd seleksi kerja",
+        "contoh studi kasus bisnis fgd management trainee dan solusinya"
+    ],
+    "faqs": [
+        {
+            "question": "Apakah ada simulasi FGD langsung dalam kelas?",
+            "answer": "Ya! Peserta akan dibagi menjadi kelompok kecil dan dinilai langsung oleh praktisi HRD Senior."
+        }
+    ]
+}

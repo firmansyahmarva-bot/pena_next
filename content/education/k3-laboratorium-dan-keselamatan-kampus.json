@@ -1,0 +1,79 @@
+{
+    "id": "edu_002_k3_lab",
+    "slug": "k3-laboratorium-dan-keselamatan-kampus",
+    "category": "k3-sertifikasi-kampus",
+    "category_name": "Sertifikasi & K3 Goes to Campus",
+    "title": "K3 Laboratorium & Manajemen Keselamatan Kampus",
+    "meta_title": "Pelatihan K3 Laboratorium Kampus & Sekolah — Praktikum Aman 2026",
+    "meta_description": "Workshop K3 Laboratorium Kimia, Biologi & Fisika untuk asisten lab, dosen, pranata laboratorium (PLP), dan mahasiswa. Penanganan tumpahan B3 & MSDS.",
+    "target_audience": "Pranata Laboratorium Pendidikan (PLP), Kepala Laboratorium, Dosen Pembimbing Praktikum, Asisten Laboratorium (Aslab), dan Mahasiswa Sains/Teknik.",
+    "duration": "1 Hari Workshop Praktis (6-8 Jam)",
+    "format": "Onsite Lab Kampus / Hands-on Simulation / Hybrid",
+    "price_estimate": "Estimasi Mulai dari Rp 7.500.000 – Rp 12.500.000 / Sesi Kampus (Kapasitas s.d 100 Peserta)",
+    "hero_tagline": "Ciptakan Lingkungan Praktikum dan Riset yang Bebas Bahaya Ledakan, Keracunan Gas, dan Kontaminasi Kimia",
+    "summary": "Workshop komprehensif keselamatan laboratorium riset dan praktikum di perguruan tinggi. Membahas penanganan Lembar Data Keselamatan (MSDS/LDK), tata letak penyimpanan reagen kimia reaktif, penggunaan Spill Kit, dan prosedur evakuasi darurat laboratorium.",
+    "key_problems_solved": [
+        "Seringnya terjadi kecelakaan kerja di laboratorium kampus akibat kelalaian pemakaian APD dan ketidaktahuan bahaya bahan kimia.",
+        "Penyimpanan reagen kimia yang tidak sesuai kompatibilitas (asam disimpan bersama pelarut organik berisiko meledak).",
+        "Asisten lab dan mahasiswa belum terlatih menangani tumpahan zat asam pekat atau kebakaran akibat pelarut mudah terbakar.",
+        "Kebutuhan pemenuhan standar akreditasi laboratorium ISO 17025 dan keselamatan lingkungan kampus."
+    ],
+    "modules": [
+        {
+            "title": "Identifikasi Bahaya & Simbol Piktogram GHS Bahan Kimia",
+            "description": "Membaca MSDS secara cepat, memahami arti simbol bahaya Globally Harmonized System (GHS), dan klasifikasi toksisitas.",
+            "topics": [
+                "Interpretasi Lembar Data Keselamatan Bahan (MSDS)",
+                "Karakteristik Zat Korosif, Reaktif, Toksik, & Flammable",
+                "Penyusunan Job Safety Analysis (JSA) Praktikum"
+            ]
+        },
+        {
+            "title": "Standar Pengoperasian Alat & Tata Ruang Laboratorium Aman",
+            "description": "Penggunaan Lemari Asam (Fume Hood), Biosafety Cabinet, Eye Wash, Emergency Shower, dan sistem ventilasi udara.",
+            "topics": [
+                "Inspeksi Lemari Asam & Alat Pelindung Diri Laboratorium",
+                "Penyimpanan Bahan Kimia Kompatibel & TPS Limbah B3 Lab",
+                "Sistem Kelistrikan & Grounding Alat Analisis"
+            ]
+        },
+        {
+            "title": "Simulasi Tanggap Darurat & Penanganan Tumpahan (Spill Response)",
+            "description": "Praktik langsung memakai Chemical Spill Kit, pemadaman api menggunakan APAR CO2/Powder, dan evakuasi korban terpapar.",
+            "topics": [
+                "Praktik Pemakaian Chemical Spill Kit",
+                "Pertolongan Pertama pada Luka Bakar Kimia & Asfiksia",
+                "Prosedur Laporan Insiden Lab"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Asisten laboratorium dan mahasiswa mampu melakukan penilaian risiko praktikum sebelum riset dimulai.",
+        "Laboratorium memiliki SOP penyimpanan dan penanganan bahan kimia sesuai standar internasional.",
+        "Kesiapan penuh menghadapi situasi darurat tanpa kepanikan yang membahayakan nyawa.",
+        "Sertifikat Pelatihan K3 Laboratorium resmi untuk seluruh peserta."
+    ],
+    "deliverables": [
+        "Sertifikat Resmi K3 Laboratorium Kampus",
+        "Template SOP Praktikum Aman & JSA Laboratorium Kimia/Biologi",
+        "Poster Keselamatan Laboratorium & Matriks Kompatibilitas Kimia Cetak Siap Pasang",
+        "Checklist Harian Inspeksi Laboratorium"
+    ],
+    "target_ai_prompts": [
+        "cara mengelola k3 laboratorium kimia kampus yang aman",
+        "standar keselamatan kerja praktikum universitas mencegah kecelakaan lab",
+        "prosedur penanganan tumpahan asam pekat di laboratorium sekolah"
+    ],
+    "related_k3_offering_slug": "petugas-k3-kimia",
+    "related_k3_offering_name": "Sertifikasi Petugas K3 Kimia Kemnaker RI",
+    "faqs": [
+        {
+            "question": "Apakah workshop ini mencakup praktik simulasi langsung di lab?",
+            "answer": "Ya, instruktur kami akan memandu simulasi pemakaian spill kit dan inspeksi lemari asam langsung di laboratorium kampus Anda."
+        },
+        {
+            "question": "Apakah sertifikat yang didapatkan diakui untuk akreditasi prodi?",
+            "answer": "Sangat diakui! Sertifikat ini dapat dilampirkan dalam borang akreditasi LAM-PT / BAN-PT sebagai bukti peningkatan kompetensi K3 laboratorium."
+        }
+    ]
+}

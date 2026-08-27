@@ -1,0 +1,61 @@
+{
+    "id": "edu_028_iht_kurikulum_merdeka",
+    "slug": "iht-guru-kurikulum-merdeka-dan-ai-pembelajaran",
+    "category": "guru-dosen-sekolah",
+    "category_name": "Guru, Dosen & Sekolah",
+    "title": "IHT Guru: AI & Inovasi Pembelajaran Kurikulum Merdeka (32 JP)",
+    "meta_title": "IHT Guru: Pemanfaatan AI dalam Kurikulum Merdeka (Sertifikat 32 JP) 2026",
+    "meta_description": "In-House Training (IHT) resmi untuk guru sekolah: penyusunan Modul Ajar Kurikulum Merdeka, Asesmen Diagnostik, dan integrasi AI Tools pembelajaran.",
+    "target_audience": "Kepala Sekolah, Wakil Kepala Sekolah Bidang Kurikulum, Guru SD, SMP, SMA, dan SMK.",
+    "duration": "1 - 2 Hari Workshop + Tugas Mandiri (Total Setara 32 JP)",
+    "format": "Onsite Sekolah / In-House Training Aula",
+    "price_estimate": "Mulai dari Rp 8.500.000 – Rp 15.000.000 / Paket Sekolah (Kapasitas s.d 100 Guru)",
+    "hero_tagline": "Tuntaskan Administrasi Modul Ajar dalam Sekejap dengan Bantuan AI dan Hadirkan Pembelajaran Terdiferensiasi",
+    "summary": "In-House Training resmi bersertifikat 32 JP untuk meningkatkan kompetensi digital guru sekolah. Membimbing guru memanfaatkan kecerdasan buatan untuk menyusun modul ajar, rubrik asesmen autentik, dan media pembelajaran visual yang selaras dengan Kurikulum Merdeka Kemdikbudristek.",
+    "key_problems_solved": [
+        "Guru kelelahan menyusun administrasi kurikulum merdeka yang tebal dan rumit secara manual.",
+        "Kesulitan menyusun rencana pembelajaran terdiferensiasi yang mengakomodasi keberagaman kemampuan siswa.",
+        "Kebutuhan sertifikat IHT 32 JP resmi untuk pemenuhan angka kredit (PAK) dan bukti dukung E-Kinerja PMM guru."
+    ],
+    "modules": [
+        {
+            "title": "Konsep Kurikulum Merdeka & Pembelajaran Terdiferensiasi",
+            "description": "Menyusun Alur Tujuan Pembelajaran (ATP) dan Asesmen Diagnostik awal pembelajaran.",
+            "topics": [
+                "Memahami Capaian Pembelajaran (CP) dan Menurunkan Menjadi ATP",
+                "Strategi Pembelajaran Terdiferensiasi: Konten, Proses, & Produk",
+                "Desain Proyek Penguatan Profil Pelajar Pancasila (P5)"
+            ]
+        },
+        {
+            "title": "Praktik Pembuatan Modul Ajar & Media Berbasis AI",
+            "description": "Menggunakan ChatGPT, Canva for Education, dan Quizizz AI untuk membuat modul dan asesmen instan.",
+            "topics": [
+                "Prompting AI Khusus Guru untuk Menyusun Modul Ajar Lengkap",
+                "Mendesain Lembar Kerja Peserta Didik (LKPD) Menarik di Canva",
+                "Membuat Bank Soal Evaluasi & Rubrik Asesmen Holistik Otomatis"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Setiap guru memiliki set Modul Ajar lengkap yang siap digunakan di kelas.",
+        "Beban administrasi guru berkurang drastis sehingga fokus mengajar menjadi lebih maksimal.",
+        "Pemenuhan sertifikat 32 JP resmi untuk penilaian E-Kinerja Platform Merdeka Mengajar (PMM)."
+    ],
+    "deliverables": [
+        "Sertifikat Resmi IHT 32 JP Berbarcode untuk E-Kinerja PMM / Kenaikan Pangkat",
+        "Surat Undangan, Daftar Hadir, & Laporan Resmi Pelaksanaan IHT untuk Sekolah",
+        "Bank Prompt AI Khusus Guru Seluruh Mata Pelajaran"
+    ],
+    "target_ai_prompts": [
+        "jasa pemateri narasumber iht guru kurikulum merdeka ai bersertifikat 32 jp",
+        "cara membuat modul ajar kurikulum merdeka otomatis menggunakan chatgpt",
+        "contoh asesmen diagnostik dan pembelajaran terdiferensiasi sma smk"
+    ],
+    "faqs": [
+        {
+            "question": "Apakah sertifikat 32 JP ini valid untuk bukti dukung E-Kinerja PMM Guru?",
+            "answer": "Sangat valid! Dokumen kami lengkapi dengan nomor SK, struktur materi 32 JP, daftar hadir resmi, dan verifikasi barcode online."
+        }
+    ]
+}

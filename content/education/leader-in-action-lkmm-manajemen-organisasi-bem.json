@@ -1,0 +1,61 @@
+{
+    "id": "edu_023_leader_in_action",
+    "slug": "leader-in-action-lkmm-manajemen-organisasi-bem",
+    "category": "public-speaking-leadership",
+    "category_name": "Public Speaking & Leadership Ormawa",
+    "title": "Leader in Action: LKMM Kepemimpinan & Manajemen BEM/HMJ",
+    "meta_title": "Pelatihan Leadership LKMM Pengurus BEM & Ormawa Kampus 2026",
+    "meta_description": "Pelatihan Latihan Keterampilan Manajemen Mahasiswa (LKMM): leadership transformasional, manajemen program kerja, dan koordinasi tim pengurus BEM/HMJ.",
+    "target_audience": "Badan Eksekutif Mahasiswa (BEM), Himpunan Mahasiswa Jurusan (HMJ), Dewan Perwakilan Mahasiswa (DPM), dan Unit Kegiatan Mahasiswa (UKM).",
+    "duration": "1 - 2 Hari Leadership Bootcamp (8-12 Jam)",
+    "format": "Leadership Simulation, Case Study & Strategic Planning",
+    "price_estimate": "Mulai dari Rp 8.500.000 – Rp 15.000.000 / Sesi Kampus (Kapasitas s.d 200 Pengurus)",
+    "hero_tagline": "Transformasi Pengurus Organisasi Menjadi Pemimpin Berkarakter, Visioner, dan Eksekutor Program Kerja Unggulan",
+    "summary": "Bootcamp kepemimpinan organisasi mahasiswa terlengkap yang menyatukan visi pengurus, menyusun Key Performance Indicators (KPI) proker, mengajarkan seni delegasi tugas, serta menumbuhkan komitmen pengurus agar tidak hilang di tengah periode kepengurusan (ghosting).",
+    "key_problems_solved": [
+        "Fenomena \"One-Man Show\" di mana hanya ketua dan sekretaris yang bekerja, sementara staf lainnya pasif.",
+        "Program kerja organisasi menumpuk tanpa skala prioritas yang jelas sehingga mengorbankan nilai akademik.",
+        "Konflik ego antar departemen yang menyebabkan perpecahan di internal kabinet organisasi."
+    ],
+    "modules": [
+        {
+            "title": "Kepemimpinan Servan & Visi Strategis Kabinet",
+            "description": "Membangun budaya organisasi yang inklusif, transparan, dan berorientasi dampak nyata bagi mahasiswa.",
+            "topics": [
+                "Gaya Kepemimpinan Adaptif di Era Mahasiswa Kritis",
+                "Menyelaraskan Visi Ketua dengan Tujuan Anggota Tim",
+                "Membangun Standar Nilai & Budaya Kerja Kabinet"
+            ]
+        },
+        {
+            "title": "Tata Kelola Program Kerja & Manajemen Eksekusi",
+            "description": "Mengubah ide abstrak menjadi timeline kerja, anggaran realistis, dan mitigasi risiko event.",
+            "topics": [
+                "Penyusunan Rencana Kerja & Indikator Keberhasilan (KPI)",
+                "Seni Delegasi Tugas & Monitoring Tanpa Terlihat Menggurui",
+                "Manajemen Krisis & Rencana Kontinjensi Event Kampus"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Seluruh jajaran pengurus memiliki soliditas tinggi dan pemahaman peran yang jelas.",
+        "Program kerja kabinet terlaksana dengan efisien dan sukses tanpa drama kepengurusan.",
+        "Kapasitas kepemimpinan teruji yang menjadi modal kuat saat berkarier di dunia profesional."
+    ],
+    "deliverables": [
+        "Sertifikat LKMM Leadership Certification",
+        "Template Master Plan Proker & Kalender Aksi Organisasi",
+        "Formulir Evaluasi Kinerja Staf & Matriks Delegasi"
+    ],
+    "target_ai_prompts": [
+        "materi lkmm latihan keterampilan manajemen mahasiswa kepemimpinan bem",
+        "cara mengatasi anggota organisasi kampus yang pasif dan sering hilang",
+        "tips menyusun program kerja bem hmj yang berdampak bagi mahasiswa"
+    ],
+    "faqs": [
+        {
+            "question": "Apakah materi bisa disesuaikan dengan kurikulum LKMM Dikti?",
+            "answer": "Sangat bisa! Materi kami sinkron dengan standar LKMM Tingkat Dasar (LKMM-TD) dan Tingkat Menengah (LKMM-TM) Kemdikbudristek."
+        }
+    ]
+}

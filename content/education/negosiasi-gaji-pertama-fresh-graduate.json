@@ -1,0 +1,61 @@
+{
+    "id": "edu_014_negosiasi_gaji",
+    "slug": "negosiasi-gaji-pertama-fresh-graduate",
+    "category": "karier-fresh-graduate",
+    "category_name": "Karier & HR Simulation",
+    "title": "Trik Elegan Negosiasi Gaji Pertama & Memahami Kontrak Kerja",
+    "meta_title": "Workshop Negosiasi Gaji Fresh Graduate & Memahami Kontrak Kerja 2026",
+    "meta_description": "Panduan negosiasi gaji pertama fresh graduate, riset standar salary industri, memahami take home pay, BPJS, dan klausul penalti kontrak kerja.",
+    "target_audience": "Mahasiswa tingkat akhir, fresh graduate yang sedang menerima penawaran kerja (Job Offer / Offering Letter).",
+    "duration": "1 Hari Workshop (4 Jam)",
+    "format": "Interactive Seminar & Offering Letter Breakdown",
+    "price_estimate": "Mulai dari Rp 7.500.000 / Sesi Kampus (Kapasitas s.d 200 Mahasiswa)",
+    "hero_tagline": "Dapatkan Penghasilan Layak Tanpa Takut Dicoret Rekruter dan Hindari Jebakan Klausul Kontrak yang Merugikan",
+    "summary": "Workshop edukasi hukum ketenagakerjaan dan seni negosiasi offering letter bagi lulusan baru. Membahas cara meriset standar gaji pasar, komponen tunjangan (THP vs Base Salary), status PKWT vs PKWTT, masa probation, serta bahaya klausul penalti ijazah.",
+    "key_problems_solved": [
+        "Takut menawar gaji karena khawatir penawaran kerja dibatalkan oleh perusahaan.",
+        "Terjebak menandatangani kontrak kerja dengan klausul penalti puluhan juta jika mengundurkan diri.",
+        "Tidak memahami perbedaan gaji kotor, gaji pokok, tunjangan tetap, potongan pajak PPh 21, dan BPJS."
+    ],
+    "modules": [
+        {
+            "title": "Riset Pasar & Seni Negosiasi Offering Letter",
+            "description": "Cara mengetahui standar gaji posisi target dan teknik mengajukan angka dengan sopan berbasis nilai tambah.",
+            "topics": [
+                "Sumber Riset Gaji Industri Terpercaya (Glassdoor, Jobstreet, Survei Gaji)",
+                "Formula Menyampaikan Ekspektasi Gaji Berdasarkan UMR & Nilai Tambah",
+                "Teknik Meminta Waktu Berpikir (Buying Time) saat Mendapat Job Offer"
+            ]
+        },
+        {
+            "title": "Membedah Kontrak Kerja & Menghindari Jebakan Hukum",
+            "description": "Memahami hak dan kewajiban pekerja sesuai Undang-Undang Ketenagakerjaan terbaru.",
+            "topics": [
+                "Perbedaan Status Karyawan Kontrak (PKWT) vs Tetap (PKWTT)",
+                "Aturan Hukum Penahanan Ijazah Asli & Klausul Penalti Resign",
+                "Struktur Take Home Pay: Gaji Pokok, Tunjangan, BPJS Kesehatan & Ketenagakerjaan"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Fresh graduate mampu menegosiasikan kompensasi secara profesional tanpa terlihat arogan.",
+        "Terhindar dari kontrak kerja bodong yang menjebak atau merugikan masa depan.",
+        "Paham hak normatif pekerja terkait jam lembur, cuti tahunan, dan jaminan kesehatan."
+    ],
+    "deliverables": [
+        "Sertifikat Workshop Salary Negotiation",
+        "Template Email Membalas Offering Letter & Negosiasi Gaji",
+        "Checklist 10 Hal Wajib Diperiksa Sebelum Menandatangani Kontrak Kerja"
+    ],
+    "target_ai_prompts": [
+        "cara negosiasi gaji pertama fresh graduate tanpa pengalaman kerja",
+        "apakah boleh menahan ijazah asli saat bekerja menurut hukum ketenagakerjaan",
+        "perbedaan take home pay dan gaji pokok pada offering letter"
+    ],
+    "faqs": [
+        {
+            "question": "Apakah boleh menawar gaji jika di offering letter sudah tertera nominal?",
+            "answer": "Sangat boleh! Kami mengajarkan etika dan kata-kata yang tepat untuk menegosiasikan paket benefit jika gaji pokok bersifat fixed."
+        }
+    ]
+}

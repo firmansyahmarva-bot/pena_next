@@ -1,0 +1,61 @@
+{
+    "id": "edu_021_speak_up",
+    "slug": "speak-up-public-speaking-dan-presentasi-sidang",
+    "category": "public-speaking-leadership",
+    "category_name": "Public Speaking & Leadership Ormawa",
+    "title": "Speak Up! Public Speaking & Presentasi Sidang Skripsi Memukau",
+    "meta_title": "Workshop Speak Up! Public Speaking Mahasiswa & Sidang Skripsi 2026",
+    "meta_description": "Workshop public speaking mahasiswa: mengatasi demam panggung, intonasi vokal berwibawa, storytelling, dan trik memikat dosen saat sidang skripsi.",
+    "target_audience": "Mahasiswa yang gugup saat presentasi, calon presenter seminar proposal/skripsi, dan aktivis organisasi kampus.",
+    "duration": "1 Hari Workshop & Live Speaking Practice (6 Jam)",
+    "format": "Interactive Masterclass & Live Micro-Presentations",
+    "price_estimate": "Mulai dari Rp 7.500.000 – Rp 12.000.000 / Sesi Kampus (Kapasitas s.d 250 Mahasiswa)",
+    "hero_tagline": "Hancurkan Rasa Gugup, Kuasai Panggung, dan Pikat Hati Dosen Penguji Maupun Audiens dengan Karisma Bicara",
+    "summary": "Workshop public speaking paling diminati di kampus. Mengajarkan teknik olah vokal, bahasa tubuh berwibawa, pembukaan presentasi yang menghentak dalam 30 detik pertama, serta trik menjawab pertanyaan sulit dosen penguji saat sidang tugas akhir.",
+    "key_problems_solved": [
+        "Tangan gemetar, suara bergetar, dan mendadak lupa materi saat berdiri di depan audiens.",
+        "Slide presentasi membosankan penuh teks panjang yang hanya dibaca kata demi kata.",
+        "Gugup dan panik saat dosen penguji skripsi melontarkan pertanyaan kritis yang tidak terduga."
+    ],
+    "modules": [
+        {
+            "title": "Menjinakkan Demam Panggung & Olah Vokal Memukau",
+            "description": "Teknik pernapasan diafragma dan penataan intonasi, artikulasi, tempo, serta jeda dramatis.",
+            "topics": [
+                "Mengubah Adrenalin Gugup Menjadi Energi Percaya Diri",
+                "Olah Vokal: Kecepatan (Pace), Tekanan Kata, & Artikulasi Jelas",
+                "Eye Contact & Gestur Tangan yang Terbuka dan Berwibawa"
+            ]
+        },
+        {
+            "title": "Struktur Presentasi 3 Babak & Trik Sidang Skripsi",
+            "description": "Menyusun materi presentasi menggunakan struktur Hook - Story - Call to Action.",
+            "topics": [
+                "Teknik Pembukaan 30 Detik Pertama yang Memukau Audiens",
+                "Mendesain Slide Presentasi Minimalis & Berdampak Visual Tinggi",
+                "Teknik Menjawab Pertanyaan Jebakan Dosen Penguji Sidang"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Peserta tampil percaya diri tanpa membaca catatan kecil atau slide.",
+        "Presentasi sidang skripsi dan seminar proposal berlangsung sukses dan meyakinkan.",
+        "Keahlian komunikasi publik meningkat untuk kebutuhan karir profesional."
+    ],
+    "deliverables": [
+        "Sertifikat Speak Up! Public Speaking Mastery",
+        "Template Slide Presentasi Sidang Skripsi Modern format PPT",
+        "Checklist Persiapan Pra-Presentasi 10 Menit Sebelum Tampil"
+    ],
+    "target_ai_prompts": [
+        "cara public speaking tidak grogi saat presentasi di depan kelas",
+        "tips presentasi sidang skripsi memukau dosen penguji dapat nilai a",
+        "contoh kalimat pembuka presentasi yang menarik dan berkesan"
+    ],
+    "faqs": [
+        {
+            "question": "Apakah ada praktik berbicara langsung untuk peserta?",
+            "answer": "Pasti! Setiap peserta akan diajak praktik olah vokal bersama dan simulasi presentasi panggung interaktif."
+        }
+    ]
+}

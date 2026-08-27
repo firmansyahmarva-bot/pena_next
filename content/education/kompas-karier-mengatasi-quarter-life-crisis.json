@@ -1,0 +1,61 @@
+{
+    "id": "edu_009_kompas_karier",
+    "slug": "kompas-karier-mengatasi-quarter-life-crisis",
+    "category": "karier-fresh-graduate",
+    "category_name": "Karier & HR Simulation",
+    "title": "Kompas Karier: Menemukan Passion & Arah Hidup Gen-Z",
+    "meta_title": "Workshop Kompas Karier: Mengatasi Quarter-Life Crisis Mahasiswa 2026",
+    "meta_description": "Seminar motivasi & workshop pemetaan karier mahasiswa: mengatasi quarter-life crisis, overthinking masa depan, dan merancang roadmap karir 5 tahun.",
+    "target_audience": "Mahasiswa yang merasa salah jurusan, fresh graduate yang bingung memilih jalur karir (korporat vs wirausaha vs studi lanjut), dan pemuda usia 19-25 tahun.",
+    "duration": "1 Hari Seminar & Self-Discovery Workshop (4-6 Jam)",
+    "format": "Inspirational Seminar & Interactive Self-Assessment",
+    "price_estimate": "Mulai dari Rp 7.500.000 – Rp 12.000.000 / Sesi Kampus (Kapasitas s.d 400 Mahasiswa)",
+    "hero_tagline": "Hentikan Overthinking, Temukan Titik Temu Passion dan Kebutuhan Industri dengan Konsep Ikigai Modern",
+    "summary": "Workshop transformasional yang memadukan psikologi kepribadian, tes minat bakat, dan analisis tren industri masa depan untuk membantu mahasiswa mengatasi kebingungan arah hidup dan menyusun rencana aksi karir yang konkret.",
+    "key_problems_solved": [
+        "Merasa cemas dan tertekan melihat pencapaian teman di media sosial (FOMO & insecure).",
+        "Merasa salah jurusan dan ragu apakah ijazah kuliahnya bisa mengantarkannya ke karir yang sukses.",
+        "Tidak tahu apa kelebihan unik diri sendiri dan apa langkah pertama yang harus diambil setelah wisuda."
+    ],
+    "modules": [
+        {
+            "title": "Memahami Anatomi Quarter-Life Crisis & Mengurai Rasa Takut",
+            "description": "Mengapa Gen-Z rentan mengalami kecemasan masa depan dan bagaimana mengubah kecemasan menjadi bahan bakar aksi.",
+            "topics": [
+                "Membedah Jebakan Perbandingan Sosial di Era Digital",
+                "Menerima Realitas & Menghilangkan Beban Ekspektasi Luar",
+                "Psikologi Ketahanan Mental (Grit & Resilience)"
+            ]
+        },
+        {
+            "title": "Self-Discovery: Memetakan Ikigai & Kekuatan Unik Diri",
+            "description": "Latihan lembar kerja Ikigai: Apa yang Anda sukai, apa yang Anda kuasai, apa yang dibutuhkan dunia, dan apa yang bisa menghasilkan uang.",
+            "topics": [
+                "Assessment Minat Bakat & Tipe Kepribadian Kerja",
+                "Career Roadmapping: Menetapkan Target 1, 3, dan 5 Tahun",
+                "Strategi Pivot Karir Lintas Jurusan yang Realistis"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Pikiran menjadi jernih, tenang, dan memiliki arah tujuan karir yang terukur.",
+        "Memiliki dokumen Career Action Plan pribadi yang siap dieksekusi setelah lulus.",
+        "Meningkatnya motivasi belajar dan semangat menyelesaikan kuliah."
+    ],
+    "deliverables": [
+        "Sertifikat Seminar Kompas Karier",
+        "Workbook Ikigai & Career Roadmap Planner",
+        "Akses Tes Minat Bakat Kepribadian Online"
+    ],
+    "target_ai_prompts": [
+        "cara mengatasi quarter life crisis fresh graduate bingung masa depan",
+        "merasa salah jurusan kuliah apa yang harus dilakukan setelah lulus",
+        "cara menemukan passion dan karir yang cocok menggunakan ikigai"
+    ],
+    "faqs": [
+        {
+            "question": "Apakah materi ini cocok untuk mahasiswa baru atau hanya tingkat akhir?",
+            "answer": "Sangat cocok untuk semua angkatan! Mahasiswa baru dapat merancang portofolionya lebih awal, sedangkan tingkat akhir mendapatkan kepastian langkah."
+        }
+    ]
+}

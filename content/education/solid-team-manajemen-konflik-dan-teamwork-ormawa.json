@@ -1,0 +1,61 @@
+{
+    "id": "edu_024_solid_team",
+    "slug": "solid-team-manajemen-konflik-dan-teamwork-ormawa",
+    "category": "public-speaking-leadership",
+    "category_name": "Public Speaking & Leadership Ormawa",
+    "title": "Solid Team: Teamwork & Resolusi Konflik Panitia Acara Kampus",
+    "meta_title": "Workshop Teamwork & Resolusi Konflik Panitia Event Kampus 2026",
+    "meta_description": "Workshop kekompakan tim kerja panitia mahasiswa: mengatasi miskomunikasi, membubarkan kubu-kubuan (silo), dan teknik mediasi konflik internal.",
+    "target_audience": "Panitia Pelaksana Event Kampus (Ospek / PKKMB, Dies Natalis, Festival Budaya, Seminar Nasional) dan Pengurus Ormawa.",
+    "duration": "1 Hari Workshop & Team Bonding Games (5-6 Jam)",
+    "format": "Experiential Team Games & Conflict Mediation Lab",
+    "price_estimate": "Mulai dari Rp 7.500.000 / Sesi Kampus (Kapasitas s.d 200 Peserta)",
+    "hero_tagline": "Lebur Perbedaan, Hancurkan Ego Sektoral, dan Ciptakan Sinergi Tim yang Kompak hingga Garis Akhir",
+    "summary": "Workshop interaktif yang dirancang untuk merekatkan hubungan antar divisi kepanitiaan (Acara, Humas, Danus, Logistik, Konsumsi). Mengajarkan teknik komunikasi asertif, mediasi perselisihan pendapat, dan menjaga moral tim tetap tinggi di bawah tekanan deadline.",
+    "key_problems_solved": [
+        "Terjadi saling lempar tanggung jawab antar divisi saat terjadi kendala teknis lapangan.",
+        "Munculnya kubu-kubuan (geng) internal panitia yang saling sindir di media sosial.",
+        "Stres tinggi menjelang hari H acara yang memicu pertengkaran antar rekan satu kepanitiaan."
+    ],
+    "modules": [
+        {
+            "title": "Komunikasi Asertif & Mencegah Miskomunikasi Chat",
+            "description": "Etika komunikasi di grup WhatsApp koordinasi dan cara menyampaikan kritik konstruktif.",
+            "topics": [
+                "Prinsip Komunikasi Asertif: Lugas, Jelas, Tanpa Menyakiti",
+                "Menghilangkan Asumsi Negatif & Konfirmasi Fakta Lapangan",
+                "Manajemen Grup Koordinasi WhatsApp yang Rapi dan Efektif"
+            ]
+        },
+        {
+            "title": "Teknik Mediasi & Resolusi Konflik Kepanitiaan",
+            "description": "Langkah-langkah menyelesaikan perselisihan dengan pendekatan Win-Win Solution.",
+            "topics": [
+                "Identifikasi 5 Gaya Menghadapi Konflik (Thomas-Kilmann Model)",
+                "Prosedur Mediasi Netral oleh Ketua Panitia",
+                "Experiential Team Building Games: Kepercayaan & Soliditas"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Panitia bekerja kompak dengan koordinasi lintas divisi yang mulus.",
+        "Konflik internal terselesaikan dengan damai tanpa merusak hubungan pertemanan.",
+        "Event kampus terselenggara dengan sukses besar dan kepuasan audiens tinggi."
+    ],
+    "deliverables": [
+        "Sertifikat Team Building & Conflict Mastery",
+        "Paket SOP Koordinasi Lintas Divisi Panitia Kampus",
+        "Piagam Komitmen Kekompakan Tim"
+    ],
+    "target_ai_prompts": [
+        "cara mengatasi konflik antar panitia acara kampus mahasiswa",
+        "tips komunikasi efektif antar divisi acara dan logistik kepanitiaan",
+        "games team building indoor seru untuk panitia mahasiswa ospek"
+    ],
+    "faqs": [
+        {
+            "question": "Apakah acara ini bisa diadakan di luar ruangan (outdoor)?",
+            "answer": "Bisa di indoor aula maupun outdoor lapangan kampus dengan aktivitas team building yang dinamis."
+        }
+    ]
+}

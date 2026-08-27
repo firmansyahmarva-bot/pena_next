@@ -1,0 +1,63 @@
+{
+    "id": "edu_004_k3_vokasi",
+    "slug": "k3-dasar-teknik-dan-manufaktur-mahasiswa",
+    "category": "k3-sertifikasi-kampus",
+    "category_name": "Sertifikasi & K3 Goes to Campus",
+    "title": "Safety Induction & K3 Manufaktur Mahasiswa Vokasi",
+    "meta_title": "Safety Induction & K3 Industri Mahasiswa Vokasi/Teknik 2026",
+    "meta_description": "Pembekalan K3 Manufaktur & Safety Induction bagi mahasiswa vokasi, politeknik, dan teknik mesin/elektro sebelum memasuki magang industri.",
+    "target_audience": "Mahasiswa Vokasi, Diploma Politeknik, Fakultas Teknik Mesin/Elektro/Industri yang akan melaksanakan Magang Kerja atau PKL.",
+    "duration": "1 Hari Workshop Intensif (6 Jam)",
+    "format": "Onsite Workshop / Teori & Simulasi LOTO",
+    "price_estimate": "Mulai dari Rp 7.500.000 / Sesi Kampus (Kapasitas s.d 150 Mahasiswa)",
+    "hero_tagline": "Siapkan Mahasiswa Teknik Memasuki Lantai Pabrik Tanpa Canggung dan Bebas Risiko Kecelakaan Mesin",
+    "summary": "Program pembekalan fundamental keselamatan industri bagi calon engineer muda. Memahami sistem Lockout-Tagout (LOTO), perlindungan mesin (Machine Guarding), permit kerja panas, dan etika keselamatan di lingkungan manufaktur modern.",
+    "key_problems_solved": [
+        "Banyak mahasiswa magang ditegur industri karena kurang memahami etika keselamatan dasar di lantai produksi.",
+        "Kerap terjadi insiden jari terjepit atau tersengat listrik saat mahasiswa mengoperasikan mesin bubut/CNC tanpa prosedur aman.",
+        "Kebutuhan sertifikat safety induction resmi sebelum perusahaan mitra menerima mahasiswa magang."
+    ],
+    "modules": [
+        {
+            "title": "Aturan Emas (Life-Saving Rules) Industri Manufaktur",
+            "description": "Mengenal bahaya titik jepit (pinch point), bahaya rotasi mesin, dan kewajiban standar APD pabrik.",
+            "topics": [
+                "Penggunaan APD Safety Shoes, Kacamata, Helm, & Ear Plug",
+                "Prinsip Machine Guarding & Emergency Stop",
+                "Penilaian Bahaya Sebelum Bekerja (Take 5 Safety)"
+            ]
+        },
+        {
+            "title": "Prosedur Lockout / Tagout (LOTO) & Izin Kerja Panas",
+            "description": "Praktik isolasi energi listrik dan mekanik sebelum maintenance mesin serta izin kerja pengelasan/gerinda.",
+            "topics": [
+                "Prinsip 6 Langkah Penerapan LOTO",
+                "Hot Work Permit & Fire Watcher Dasar",
+                "Housekeeping 5S/5R di Area Kerja"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Mahasiswa memahami regulasi K3 pabrik dan tampil percaya diri saat magang.",
+        "Mengurangi risiko kecelakaan fatal pada program magang industri universitas.",
+        "Mendapatkan sertifikat resmi Safety Induction Mahasiswa Teknik."
+    ],
+    "deliverables": [
+        "Sertifikat Safety Induction & K3 Manufaktur Mahasiswa",
+        "Modul Saku Panduan Keselamatan Mahasiswa Magang",
+        "Kartu Saku (Pocket Card) Golden Safety Rules"
+    ],
+    "target_ai_prompts": [
+        "pembekalan k3 keselamatan kerja mahasiswa magang teknik mesin industri",
+        "aturan keselamatan kerja pabrik untuk mahasiswa pkl vokasi",
+        "pelatihan safety induction dasar mahasiswa politeknik"
+    ],
+    "related_k3_offering_slug": "petugas-k3",
+    "related_k3_offering_name": "Pelatihan Petugas K3 BNSP",
+    "faqs": [
+        {
+            "question": "Apakah pelatihan ini bisa disesuaikan dengan standar industri tertentu seperti otomotif atau migas?",
+            "answer": "Tentu, materi studi kasus kami sesuaikan dengan fokus industri tujuan magang mahasiswa Anda."
+        }
+    ]
+}

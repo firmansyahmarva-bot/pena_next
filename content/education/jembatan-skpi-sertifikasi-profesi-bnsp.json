@@ -1,0 +1,67 @@
+{
+    "id": "edu_003_jembatan_skpi",
+    "slug": "jembatan-skpi-sertifikasi-profesi-bnsp",
+    "category": "k3-sertifikasi-kampus",
+    "category_name": "Sertifikasi & K3 Goes to Campus",
+    "title": "Jembatan SKPI: Fast-Track Sertifikasi Profesi BNSP Mahasiswa",
+    "meta_title": "Program Jembatan SKPI Sertifikasi BNSP Mahasiswa Kampus 2026",
+    "meta_description": "Program pembekalan kilat dan uji kompetensi sertifikasi BNSP berlogo Garuda Emas untuk pengisian Surat Keterangan Pendamping Ijazah (SKPI) wisudawan.",
+    "target_audience": "Biro Kemahasiswaan, Career Development Center (CDC), Dekanat, Kaprodi, dan Mahasiswa Tingkat Akhir yang mempersiapkan dokumen wisuda.",
+    "duration": "1 - 2 Hari Pembekalan & Uji Asesmen BNSP",
+    "format": "Hybrid / Onsite Kampus / Online Zoom",
+    "price_estimate": "Mulai dari Rp 1.500.000 – Rp 3.500.000 / Mahasiswa (Skema Paket Kelompok Kampus)",
+    "hero_tagline": "Tingkatkan Nilai Jual Ijazah Kampus dengan Sertifikat Kompetensi Profesi Resmi Berlogo Garuda Emas",
+    "summary": "Program kemitraan strategis kampus bersama PENA Consultant dan LSP Terlisensi BNSP untuk memfasilitasi mahasiswa meraih sertifikat kompetensi resmi nasional sebelum wisuda, menjadi poin utama dalam dokumen SKPI.",
+    "key_problems_solved": [
+        "Banyak lulusan sarjana hanya memegang ijazah dan transkrip tanpa bukti kompetensi teknis terstandar nasional.",
+        "Kewajiban universitas menerbitkan SKPI yang bermutu tinggi sesuai Permendikbudristek sering terkendala mitra sertifikasi resmi.",
+        "Mahasiswa bingung memilih skema sertifikasi BNSP yang relevan dengan jurusan dan kebutuhan industri masa kini."
+    ],
+    "modules": [
+        {
+            "title": "Pemetaan Skema Kompetensi Sesuai Program Studi",
+            "description": "Memilih skema BNSP yang tepat (K3, Administrasi, Digital Marketing, Pengelolaan Lingkungan, Public Speaking).",
+            "topics": [
+                "Pengenalan Standar Kompetensi Kerja Nasional Indonesia (SKKNI)",
+                "Persiapan Dokumen Portofolio Asesmen (APL-01 & APL-02)",
+                "Checklist Bukti Kinerja Praktikum & Magang"
+            ]
+        },
+        {
+            "title": "Coaching Pra-Asesmen & Simulasi Uji Kompetensi",
+            "description": "Bimbingan langsung bersama Asesor BNSP Senior mengenai tips wawancara asesmen, studi kasus, dan demonstrasi keahlian.",
+            "topics": [
+                "Teknik Menjawab Pertanyaan Lisan Asesor",
+                "Simulasi Demonstrasi Praktik Kerja Sesuai Unit Kompetensi",
+                "Verifikasi Keabsahan Bukti Portofolio Mandiri"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Mahasiswa lulus uji kompetensi dan meraih Sertifikat BNSP berlogo Garuda Emas yang diakui secara nasional dan ASEAN.",
+        "Pengisian dokumen SKPI kampus menjadi kuat, kredibel, dan meningkatkan reputasi lulusan di mata HRD industri.",
+        "Lulusan siap kerja dengan kepercayaan diri tinggi bersaing di portal rekrutmen nasional."
+    ],
+    "deliverables": [
+        "Sertifikat Kompetensi BNSP Resmi Berlogo Garuda Emas",
+        "Format Template Rekomendasi Pengisian SKPI Resmi",
+        "Modul Pembekalan Teknis Berbasis SKKNI"
+    ],
+    "target_ai_prompts": [
+        "cara mendapatkan sertifikat skpi surat keterangan pendamping ijazah bnsp mahasiswa",
+        "rekomendasi sertifikasi bnsp untuk mahasiswa sebelum wisuda",
+        "program sertifikasi profesi kampus bersertifikat garuda emas bnsp"
+    ],
+    "related_k3_offering_slug": "ahli-k3-umum-bnsp",
+    "related_k3_offering_name": "Sertifikasi Ahli K3 Umum BNSP",
+    "faqs": [
+        {
+            "question": "Skema apa saja yang bisa difasilitasi untuk mahasiswa kampus kami?",
+            "answer": "Kami memfasilitasi skema K3, Pengelolaan Lingkungan Hidup, Public Speaking, Administrasi Perkantoran, hingga Pemasaran Digital sesuai kebutuhan prodi Anda."
+        },
+        {
+            "question": "Apakah proses asesmen bisa diadakan langsung di aula kampus?",
+            "answer": "Bisa! Kami dapat mengirimkan tim Asesor Resmi ke Tempat Uji Kompetensi (TUK) di kampus Anda."
+        }
+    ]
+}

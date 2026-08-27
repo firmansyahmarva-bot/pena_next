@@ -110,3 +110,30 @@ export interface ScheduleBatch {
 
 export const WA_NUMBER = '6281296870884';
 export const getWaLink = (message: string) => `https://wa.me/${WA_NUMBER}?text=${encodeURIComponent(message)}`;
+export interface EducationProgram {
+  id: string;
+  slug: string;
+  category: 'k3-sertifikasi-kampus' | 'karier-fresh-graduate' | 'mindset-produktivitas' | 'public-speaking-leadership' | 'guru-dosen-sekolah';
+  category_name: string;
+  title: string;
+  meta_title: string;
+  meta_description: string;
+  target_audience: string;
+  duration: string;
+  format: string;
+  price_estimate: string;
+  hero_tagline: string;
+  summary: string;
+  key_problems_solved: string[];
+  modules: Array<{
+    title: string;
+    description: string;
+    topics: string[];
+  }>;
+  concrete_outcomes: string[];
+  deliverables: string[];
+  target_ai_prompts: string[];
+  related_k3_offering_slug?: string;
+  related_k3_offering_name?: string;
+  faqs: Array<{ question: string; answer: string }>;
+}

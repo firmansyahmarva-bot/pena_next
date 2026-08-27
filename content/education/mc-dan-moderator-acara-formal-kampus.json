@@ -1,0 +1,61 @@
+{
+    "id": "edu_022_mc_moderator",
+    "slug": "mc-dan-moderator-acara-formal-kampus",
+    "category": "public-speaking-leadership",
+    "category_name": "Public Speaking & Leadership Ormawa",
+    "title": "MC Starter: Teknik Memandu Acara Seminar & Protokoler Kampus",
+    "meta_title": "Pelatihan MC & Moderator Acara Seminar Kampus 2026",
+    "meta_description": "Pelatihan Master of Ceremony (MC) formal/semi-formal dan moderator seminar/talkshow kampus. Pembuatan cue card, protokoler pejabat, dan ice breaking.",
+    "target_audience": "Anggota humas himpunan, panitia seminar kampus, mahasiswa protokoler, dan calon MC acara profesional.",
+    "duration": "1 Hari Workshop Praktis (5 Jam)",
+    "format": "Live Cue Card & Hosting Simulation",
+    "price_estimate": "Mulai dari Rp 7.500.000 / Sesi Kampus (Kapasitas s.d 150 Mahasiswa)",
+    "hero_tagline": "Hidupkan Suasana Acara, Kawal Protokoler Pejabat, dan Jadilah Pemandu Seminar yang Dinamis dan Elegan",
+    "summary": "Workshop khusus untuk mencetak MC dan moderator seminar kampus yang handal. Mengajarkan etika keprotokolan menyambut rektor/pejabat, menyusun cue card anti-salah, mencairkan suasana beku di awal acara, serta memandu sesi tanya jawab narasumber secara teratur.",
+    "key_problems_solved": [
+        "Acara seminar kampus terasa kaku, garing, dan audiens mengantuk karena MC tidak bisa membawa suasana.",
+        "Moderator kewalahan membatasi penanya yang bertele-tele saat sesi diskusi narasumber.",
+        "Salah menyebut gelar kehormatan pejabat rektorat atau urutan susunan acara resmi."
+    ],
+    "modules": [
+        {
+            "title": "Karakteristik MC Formal, Semi-Formal, & Non-Formal",
+            "description": "Memahami tata krama protokoler acara resmi kampus vs talkshow santai.",
+            "topics": [
+                "Tata Tertib Protokoler Kampus & Pengucapan Gelar Akademik",
+                "Teknik Menyusun & Membaca Cue Card secara Natural",
+                "Vocal Smiling & Energi Suara Pemandu Acara"
+            ]
+        },
+        {
+            "title": "Seni Menjadi Moderator Seminar yang Cerdas",
+            "description": "Membuka sesi, memperkenalkan CV narasumber, merangkum poin penting, dan memimpin diskusi.",
+            "topics": [
+                "Membuat Pengantar Topik Seminar yang Menarik Perhatian",
+                "Teknik Memotong Penanya yang Terlalu Panjang secara Sopan",
+                "Sintesis & Penarikan Kesimpulan Acara yang Berbobot"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Organisasi kampus memiliki tim MC dan moderator internal yang siap memandu event skala nasional.",
+        "Acara seminar berjalan tepat waktu, profesional, dan berkesan positif bagi tamu undangan.",
+        "Peluang membuka jasa MC komersial di luar kampus."
+    ],
+    "deliverables": [
+        "Sertifikat Professional MC & Moderator Mastery",
+        "Kumpulan Contoh Teks Naskah MC Formal & Semi-Formal Siap Pakai",
+        "Template Cue Card Desain Elegan"
+    ],
+    "target_ai_prompts": [
+        "contoh teks naskah mc seminar nasional kampus formal dan semi formal",
+        "cara menjadi moderator seminar yang baik dan cara menyimpulkan materi",
+        "tips mengatasi suasana garing saat membawakan acara kampus"
+    ],
+    "faqs": [
+        {
+            "question": "Apakah diajarkan teknik ice breaking yang seru?",
+            "answer": "Ya, kami mengajarkan puluhan variasi ice breaking pintar tanpa kontak fisik yang langsung mencairkan suasana."
+        }
+    ]
+}

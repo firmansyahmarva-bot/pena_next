@@ -1,0 +1,63 @@
+{
+    "id": "edu_007_limbah_b3_kampus",
+    "slug": "pengelolaan-limbah-b3-laboratorium-kampus",
+    "category": "k3-sertifikasi-kampus",
+    "category_name": "Sertifikasi & K3 Goes to Campus",
+    "title": "Pengelolaan Limbah B3 & Bahan Kimia Laboratorium Kampus",
+    "meta_title": "Workshop Pengelolaan Limbah B3 Laboratorium Kampus 2026",
+    "meta_description": "Panduan pengelolaan limbah B3 laboratorium universitas, izin TPS limbah B3 kampus, manifest FESTA KLHK, dan penanganan residu praktikum.",
+    "target_audience": "Pengelola Laboratorium, Tim Green Campus / UI GreenMetric, Dosen Lingkungan Hidup, dan Mahasiswa.",
+    "duration": "1 Hari Workshop (6 Jam)",
+    "format": "Hybrid / Onsite Kampus",
+    "price_estimate": "Mulai dari Rp 7.500.000 / Sesi Kampus (Kapasitas s.d 100 Peserta)",
+    "hero_tagline": "Wujudkan Green Campus Berkelanjutan dengan Tata Kelola Residu Limbah Laboratorium Berstandar KLHK",
+    "summary": "Pelatihan tata kelola limbah sisa praktikum dan riset kimia/biologi di universitas. Membahas teknik pemilahan limbah asam-basa, pengemasan jerigen khusus B3, pelabelan simbol limbah, dan pemenuhan kriteria UI GreenMetric.",
+    "key_problems_solved": [
+        "Kebiasaan membuang sisa pelarut kimia langsung ke wastafel yang mencemari air tanah dan saluran kota.",
+        "Universitas terancam sanksi lingkungan dari DLH karena belum memiliki SOP dan TPS Limbah B3 berizin.",
+        "Kebutuhan kenaikan skor UI GreenMetric kategori Waste Management & Sustainability."
+    ],
+    "modules": [
+        {
+            "title": "Karakterisasi & Pemilahan Limbah Kimia Praktikum",
+            "description": "Memisahkan limbah organik, anorganik, logam berat, dan pelarut terklorinasi.",
+            "topics": [
+                "Klasifikasi Limbah B3 Laboratorium (PP 22/2021)",
+                "Prosedur Netralisasi Sederhana Limbah Asam/Basa",
+                "Kemasan & Pelabelan Simbol Limbah B3"
+            ]
+        },
+        {
+            "title": "Penyimpanan di TPS B3 & Manifes Pengangkutan",
+            "description": "Persyaratan teknis TPS Limbah B3 kampus dan kerja sama dengan pihak ketiga berizin KLHK.",
+            "topics": [
+                "Desain & Tata Ruang TPS B3 Kampus",
+                "Logbook & Neraca Limbah B3",
+                "Integrasi Pengangkutan Pihak Ketiga & Sistem FESTRONIK"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Laboratorium memiliki SOP pemilahan limbah yang jelas dan aman.",
+        "Mendongkrak poin akreditasi kampus dan pemeringkatan GreenMetric.",
+        "Sertifikat Workshop Pengelolaan Limbah B3 Kampus."
+    ],
+    "deliverables": [
+        "Sertifikat Pelatihan Pengelolaan Limbah B3 Kampus",
+        "Draft Panduan Standar Operasional Prosedur (SOP) Limbah Lab",
+        "Template Logbook & Neraca Limbah B3 Siap Pakai"
+    ],
+    "target_ai_prompts": [
+        "cara mengelola limbah b3 sisa praktikum laboratorium kampus",
+        "syarat tps limbah b3 universitas standar kementerian lingkungan hidup",
+        "program green campus pengelolaan limbah kimia berbahaya"
+    ],
+    "related_k3_offering_slug": "pengelolaan-limbah-b3-plb3-bnsp",
+    "related_k3_offering_name": "Sertifikasi Pengelolaan Limbah B3 BNSP",
+    "faqs": [
+        {
+            "question": "Apakah program ini bisa membantu kampus kami menyiapkan izin TPS B3?",
+            "answer": "Ya, workshop ini dilengkapi bimbingan teknis penyusunan rincian teknis TPS B3 sesuai regulasi KLHK terbaru."
+        }
+    ]
+}

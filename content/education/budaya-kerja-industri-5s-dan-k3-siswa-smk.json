@@ -1,0 +1,61 @@
+{
+    "id": "edu_029_smk_budaya_kerja",
+    "slug": "budaya-kerja-industri-5s-dan-k3-siswa-smk",
+    "category": "guru-dosen-sekolah",
+    "category_name": "Guru, Dosen & Sekolah",
+    "title": "Bootcamp Budaya Kerja 5R/5S & K3 Dasar Siswa SMK Siap Magang",
+    "meta_title": "Pelatihan Budaya Kerja 5R/5S & K3 Siswa SMK Siap Magang 2026",
+    "meta_description": "Pembekalan budaya kerja industri Jepang (5R/5S), kedisiplinan mental, dan K3 dasar untuk siswa SMK sebelum berangkat Praktik Kerja Lapangan (PKL).",
+    "target_audience": "Kepala SMK, Waka Hubungan Industri (Hubin), Guru Pembimbing PKL, dan Siswa SMK Kelas XI / XII.",
+    "duration": "1 Hari Bootcamp Intensif (6 Jam)",
+    "format": "Industrial Discipline & 5S Simulation Workshop",
+    "price_estimate": "Mulai dari Rp 7.500.000 – Rp 12.000.000 / Sesi Sekolah (Kapasitas s.d 300 Siswa)",
+    "hero_tagline": "Tanamkan Disiplin Standar Pabrik Industri Global, Cetak Lulusan SMK yang Terampil, Sopan, dan Siap Serap Kerja",
+    "summary": "Program standarisasi sikap kerja (attitude) dan keselamatan bagi siswa SMK sebelum terjun ke industri mitra. Mengajarkan prinsip 5R (Ringkas, Rapi, Resik, Rawat, Rajin), etika komunikasi dengan atasan pabrik, serta pencegahan bahaya kerja mekanik.",
+    "key_problems_solved": [
+        "Siswa SMK sering dipulangkan industri mitra magang karena masalah kedisiplinan dan tata krama kerja.",
+        "Kerap terjadi kecelakaan kerja pada siswa magang akibat mengabaikan pemakaian APD di bengkel.",
+        "Kesenjangan budaya antara lingkungan santai di sekolah dengan tuntutan kecepatan di pabrik industri."
+    ],
+    "modules": [
+        {
+            "title": "Penerapan Budaya Industri 5R / 5S di Tempat Kerja",
+            "description": "Mempraktikkan prinsip Ringkas, Rapi, Resik, Rawat, dan Rajin standar industri manufaktur.",
+            "topics": [
+                "Konsep Kaizen & 5S Pabrik Astra / Toyota",
+                "Red Tag Strategy & Penataan Alat Kerja di Tool Box",
+                "Standarisasi Kebersihan dan Manajemen Area Kerja"
+            ]
+        },
+        {
+            "title": "Mentalitas Kerja, Etika Komunikasi, & K3 Dasar",
+            "description": "Membangun etos kerja pantang menyerah, sopan santun industri (Aisatsu), dan kesadaran bahaya.",
+            "topics": [
+                "Budaya Salam & Etika Berkomunikasi dengan Senior/Atasan",
+                "Kepatuhan Pemakaian APD Wajib di Area Produksi",
+                "Bahaya Terjepit, Tertimpa, & Prosedur Evakuasi Kebakaran Pabrik"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Siswa SMK memiliki kedisiplinan tinggi dan siap beradaptasi dengan ritme kerja industri.",
+        "Reputasi sekolah meningkat di mata perusahaan mitra magang (DUDI).",
+        "Sertifikat Pembekalan Budaya Kerja Industri & K3 Siswa SMK."
+    ],
+    "deliverables": [
+        "Sertifikat Resmi Budaya Kerja 5S & K3 SMK",
+        "Buku Saku Panduan Siswa Magang Industri",
+        "Poster Budaya 5R untuk Ditempel di Bengkel Sekolah"
+    ],
+    "target_ai_prompts": [
+        "pelatihan budaya kerja industri 5s 5r dan k3 untuk siswa smk pkl",
+        "pembekalan attitude dan disiplin kerja siswa smk sebelum magang industri",
+        "materi keselamatan kerja dan kaizen jepang untuk sekolah vokasi smk"
+    ],
+    "faqs": [
+        {
+            "question": "Apakah program ini bisa digabung dengan upacara pelepasan PKL siswa?",
+            "answer": "Sangat bisa! Workshop ini menjadi agenda pembekalan pamungkas yang sangat membakar semangat siswa sebelum berangkat magang."
+        }
+    ]
+}

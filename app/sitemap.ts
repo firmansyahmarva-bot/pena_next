@@ -1,5 +1,5 @@
 import { MetadataRoute } from 'next';
-import { getPrograms, getArticles, getLocations, getIndustries, getBatches } from '@/lib/data';
+import { getPrograms, getArticles, getLocations, getIndustries, getBatches, getEducationPrograms } from '@/lib/data';
 import instructorsData from '@/content/global/instructors.json';
 import mitraData from '@/content/global/mitra.json';
 import caseStudiesData from '@/content/global/case_studies.json';
@@ -103,6 +103,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
+    // 30 Education & Campus Programs
+  const educationRoutes: MetadataRoute.Sitemap = getEducationPrograms().map((e) => ({
+    url: `${baseUrl}/edukasi/${e.slug}`,
+    lastModified: now,
+    changeFrequency: 'weekly',
+    priority: 0.8,
+  }));
   return [
     ...staticRoutes,
     ...clusterRoutes,
@@ -114,5 +121,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...instructorRoutes,
     ...mitraRoutes,
     ...caseStudyRoutes,
+    ...educationRoutes,
   ];
 }

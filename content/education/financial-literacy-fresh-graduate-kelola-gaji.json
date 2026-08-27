@@ -1,0 +1,61 @@
+{
+    "id": "edu_018_financial_literacy",
+    "slug": "financial-literacy-fresh-graduate-kelola-gaji",
+    "category": "mindset-produktivitas",
+    "category_name": "Mindset & Produktivitas Gen-Z",
+    "title": "Financial Literacy 101: Kelola Gaji Pertama & Hindari Jebakan Pinjol",
+    "meta_title": "Financial Literacy Fresh Graduate: Cara Cerdas Kelola Gaji Pertama 2026",
+    "meta_description": "Workshop literasi keuangan mahasiswa & fresh graduate: budgeting gaji pertama, investasi reksa dana/emas pemula, dan pencegahan jeratan pinjol/paylater.",
+    "target_audience": "Mahasiswa tingkat akhir, fresh graduate, dan pekerja muda pemula yang baru pertama kali memiliki penghasilan mandiri.",
+    "duration": "1 Hari Workshop (4 Jam)",
+    "format": "Interactive Financial Workshop / Live Budgeting Sheet",
+    "price_estimate": "Mulai dari Rp 7.500.000 / Sesi Kampus (Kapasitas s.d 300 Mahasiswa)",
+    "hero_tagline": "Bangun Masa Depan Finansial yang Kokoh Sejak Gaji Pertama, Bebas Utang Konsumtif dan FOMO Lifestyle",
+    "summary": "Workshop edukasi pengelolaan keuangan pribadi yang realistis dan bebas jargon rumit. Membahas formula alokasi gaji 50/30/20, dana darurat pemula, instrumen investasi resmi OJK, dan bahaya jebakan gaya hidup hedonisme digital.",
+    "key_problems_solved": [
+        "Gaji pertama langsung habis di minggu pertama bulan karena gaya hidup konsumtif dan nongkrong mewah.",
+        "Banyak anak muda terjerat bunga pinjaman online ilegal dan cicilan paylater menumpuk.",
+        "Bingung cara memulai investasi aman dan takut tertipu robot trading atau investasi bodong."
+    ],
+    "modules": [
+        {
+            "title": "Formula Pengelolaan Gaji Pertama Tanpa Menderita",
+            "description": "Membagi penghasilan untuk kebutuhan pokok, tabungan masa depan, dan anggaran senang-senang.",
+            "topics": [
+                "Formula Budgeting 50/30/20 yang Disesuaikan dengan UMR",
+                "Membangun Dana Darurat (Emergency Fund) Bertahap",
+                "Mengendalikan Impulse Buying & Doom Spending di E-Commerce"
+            ]
+        },
+        {
+            "title": "Investasi Pemula Aman OJK & Waspada Pinjol Ilegal",
+            "description": "Mengenal profil risiko dan memilih instrumen investasi reksa dana pasar uang, SBN, dan emas fisik.",
+            "topics": [
+                "Dasar Investasi Reksadana & Surat Berharga Negara (SBN)",
+                "Mengenali Ciri Jebakan Pinjol Ilegal & Bahaya Paylater",
+                "Merancang Target Keuangan: Beli Rumah, Menikah, & Dana Pensiun Muda"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Peserta memiliki kesadaran finansial yang matang dan terhindar dari krisis keuangan pemula.",
+        "Mampu menyusun anggaran bulanan pribadi menggunakan template budgeting otomatis.",
+        "Terlindungi dari jeratan utang konsumtif dan penipuan investasi bodong."
+    ],
+    "deliverables": [
+        "Sertifikat Financial Literacy Masterclass",
+        "Template Spreadsheet Budgeting Gaji Pertama Otomatis",
+        "Buku Saku: 10 Aturan Emas Finansial Pemuda Mandiri"
+    ],
+    "target_ai_prompts": [
+        "cara mengatur gaji pertama fresh graduate umr agar bisa nabung",
+        "rekomendasi investasi pemula modal kecil aman terdaftar ojk",
+        "cara keluar dari jebakan pinjol dan paylater untuk anak muda"
+    ],
+    "faqs": [
+        {
+            "question": "Apakah pemateri terafiliasi dengan produk keuangan tertentu?",
+            "answer": "Tidak. Materi kami 100% independen dan edukatif berbasis panduan resmi Otoritas Jasa Keuangan (OJK)."
+        }
+    ]
+}

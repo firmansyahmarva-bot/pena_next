@@ -1,0 +1,61 @@
+{
+    "id": "edu_017_anti_prokrastinasi",
+    "slug": "anti-prokrastinasi-skripsi-dan-tugas-akhir",
+    "category": "mindset-produktivitas",
+    "category_name": "Mindset & Produktivitas Gen-Z",
+    "title": "Bootcamp Anti-Prokrastinasi: Trik Tuntas Skripsi Tanpa Stres",
+    "meta_title": "Bootcamp Anti-Prokrastinasi Skripsi: Tuntas Tugas Akhir Tepat Waktu 2026",
+    "meta_description": "Strategi mengalahkan kebiasaan menunda skripsi, menghadapi dosen pembimbing killer, dan menyelesaikan tugas akhir tepat waktu.",
+    "target_audience": "Mahasiswa semester 7-14 yang sedang macet di bab 1-5 skripsi atau tugas akhir dan merasa kehilangan motivasi.",
+    "duration": "1 Hari Intensive Workshop (5 Jam)",
+    "format": "Motivation & Practical Writing Sprint",
+    "price_estimate": "Mulai dari Rp 7.500.000 / Sesi Kampus (Kapasitas s.d 250 Mahasiswa)",
+    "hero_tagline": "Ubah Skripsi yang Menakutkan Menjadi Langkah-Langkah Kecil yang Ringan dan Selesai Tepat Waktu",
+    "summary": "Program pendampingan khusus bagi pejuang skripsi yang mengalami writer’s block dan kebuntuan komunikasi dengan dosen pembimbing. Memberikan panduan psikologis dan teknis menulis cepat tanpa tersiksa rasa malas.",
+    "key_problems_solved": [
+        "Skripsi mandek berbulan-bulan di bab yang sama karena rasa malas dan takut salah.",
+        "Takut menemui dosen pembimbing yang sulit dihubungi atau sering memberi revisi coret habis.",
+        "Tekanan mental dari orang tua dan rasa malu karena teman seangkatan sudah lulus duluan."
+    ],
+    "modules": [
+        {
+            "title": "Mengapa Kita Menunda? Membedah Psikologi Prokrastinasi",
+            "description": "Menunda bukan karena malas, melainkan respon emosional terhadap rasa cemas dan perfeksionisme.",
+            "topics": [
+                "Membongkar Mitos \"Menunggu Mood Bagus\" untuk Menulis",
+                "Teknik Atomic Writing: Menulis 200 Kata per Hari Tanpa Edit",
+                "Mengatasi Writer’s Block dengan Metode Freewriting"
+            ]
+        },
+        {
+            "title": "Seni Komunikasi & Diplomasi dengan Dosen Pembimbing",
+            "description": "Cara menghubungi dosen secara sopan, mempersiapkan lembar revisi, dan membuat dosen senang membimbing.",
+            "topics": [
+                "Etika Chat Dosen Pembimbing yang Terbukti Cepat Dibalas",
+                "Membuat Lembar Catatan Revisi Komparatif yang Rapi",
+                "Menghadapi Kritik Pedas Dosen dengan Kepala Dingin"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Mental mahasiswa pulih dan kembali bersemangat menyelesaikan naskah skripsi.",
+        "Hubungan komunikasi dengan dosen pembimbing menjadi jauh lebih lancar.",
+        "Jadwal sidang skripsi dapat tercapai sebelum batas akhir semester."
+    ],
+    "deliverables": [
+        "Sertifikat Bootcamp Anti-Prokrastinasi",
+        "Template Excel Skripsi Progress Tracker",
+        "Panduan Template Chat Sopan Menghubungi Berbagai Karakter Dosen"
+    ],
+    "target_ai_prompts": [
+        "cara mengatasi malas dan menunda ngerjain skripsi yang macet",
+        "etika chat wa dosen pembimbing skripsi yang tidak membalas",
+        "cara menghadapi revisi skripsi dosen galak tanpa down"
+    ],
+    "faqs": [
+        {
+            "question": "Apakah ada sesi praktik menulis langsung di kelas?",
+            "answer": "Ya! Kami menyelenggarakan sesi \"Writing Sprint 25 Menit\" di mana semua peserta fokus menulis draft tanpa distraksi."
+        }
+    ]
+}

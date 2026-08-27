@@ -1,0 +1,61 @@
+{
+    "id": "edu_010_linkedin_branding",
+    "slug": "personal-branding-linkedin-mahasiswa",
+    "category": "karier-fresh-graduate",
+    "category_name": "Karier & HR Simulation",
+    "title": "Personal Brand Camp: Optimasi Profil LinkedIn & Portofolio",
+    "meta_title": "Workshop LinkedIn & Personal Branding Mahasiswa Fresh Graduate 2026",
+    "meta_description": "Workshop optimasi profil LinkedIn, copywriting konten profesional, dan cara dilirik headhunter rekruter top company untuk mahasiswa.",
+    "target_audience": "Mahasiswa dan fresh graduate yang ingin membangun reputasi profesional digital dan mendapatkan tawaran kerja langsung dari rekruter.",
+    "duration": "1 Hari Workshop Praktis (5 Jam)",
+    "format": "Hands-on Laptop / Interactive Workshop",
+    "price_estimate": "Mulai dari Rp 7.500.000 / Sesi Kampus (Kapasitas s.d 200 Mahasiswa)",
+    "hero_tagline": "Jadikan Profil LinkedIn Magnet Peluang Karir, Magang Bergengsi, dan Kolaborasi Profesional",
+    "summary": "Kelas praktik langsung mengoptimasi profil LinkedIn dari level pemula menjadi level All-Star. Mengajarkan formula headline yang memikat algoritma pencarian rekruter, teknik networking elegan dengan HRD, dan cara membuat postingan portofolio yang viral.",
+    "key_problems_solved": [
+        "Profil LinkedIn kosong melompong seperti resume basi tanpa foto dan deskripsi yang menjual.",
+        "Malu dan bingung mau posting apa di LinkedIn karena merasa belum punya prestasi hebat.",
+        "Mengirim pesan (cold message) ke rekruter yang sering diabaikan atau dianggap spam."
+    ],
+    "modules": [
+        {
+            "title": "Arsitektur Profil LinkedIn All-Star",
+            "description": "Mengubah profil biasa menjadi etalase profesional yang memikat pandangan rekruter dalam 5 detik pertama.",
+            "topics": [
+                "Formula Headline: Role + Value Proposition + Keywords",
+                "Menulis Bagian \"About\" dengan Teknik Storytelling Emosional",
+                "Optimasi Bagian Experience, Projects, & Licenses Sertifikasi"
+            ]
+        },
+        {
+            "title": "Content Strategy & Networking Berkelas",
+            "description": "Menulis konten sharing pengalaman kuliah, magang, dan proyek tanpa terlihat pamer atau sombong.",
+            "topics": [
+                "Formula Hook Postingan LinkedIn yang Menarik Engagement",
+                "Etika Menghubungi HRD & Senior Melalui LinkedIn InMail",
+                "Cara Mendapatkan Rekomendasi & Skill Endorsements"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Profil LinkedIn peserta langsung berubah menjadi level All-Star dalam hitungan jam.",
+        "Peningkatan visibilitas profil (Search Appearances) di dashboard pencarian rekruter.",
+        "Jaringan koneksi bertambah dengan para profesional di industri impian."
+    ],
+    "deliverables": [
+        "Sertifikat Personal Branding Masterclass",
+        "Template Hook & Formula 20 Ide Postingan LinkedIn Mahasiswa",
+        "Checklist Optimasi Profil LinkedIn All-Star"
+    ],
+    "target_ai_prompts": [
+        "cara optimasi profil linkedin mahasiswa fresh graduate dilirik rekruter",
+        "contoh headline linkedin mahasiswa teknik tanpa pengalaman kerja",
+        "cara menulis cold message hr di linkedin agar dibalas"
+    ],
+    "faqs": [
+        {
+            "question": "Apakah peserta wajib membawa laptop?",
+            "answer": "Sangat disarankan membawa laptop atau smartphone agar bisa langsung mengedit profil saat workshop berlangsung."
+        }
+    ]
+}

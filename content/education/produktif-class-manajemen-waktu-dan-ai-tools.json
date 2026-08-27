@@ -1,0 +1,61 @@
+{
+    "id": "edu_016_produktif_ai",
+    "slug": "produktif-class-manajemen-waktu-dan-ai-tools",
+    "category": "mindset-produktivitas",
+    "category_name": "Mindset & Produktivitas Gen-Z",
+    "title": "Produktif Class: Manajemen Waktu Skripsi & Pemanfaatan AI Tools",
+    "meta_title": "Workshop Manajemen Waktu Mahasiswa & Pemanfaatan AI Tools 2026",
+    "meta_description": "Masterclass produktivitas mahasiswa: mengatur jadwal kuliah, skripsi, dan organisasi menggunakan teknik time-blocking dan tools AI etis.",
+    "target_audience": "Mahasiswa yang kewalahan membagi waktu antara kuliah, tugas skripsi, organisasi BEM, magang, dan kehidupan pribadi.",
+    "duration": "1 Hari Workshop Praktis (5 Jam)",
+    "format": "Hands-on Digital Productivity Workshop",
+    "price_estimate": "Mulai dari Rp 7.500.000 / Sesi Kampus (Kapasitas s.d 250 Mahasiswa)",
+    "hero_tagline": "Kuasai Waktumu, Selesaikan Tugas 3 Kali Lebih Cepat dengan Kolaborasi Cerdas Bersama Kecerdasan Buatan",
+    "summary": "Workshop produktivitas modern yang menggabungkan prinsip time-management terbukti (Pomodoro, Time Boxing, Eisenhower Matrix) dengan teknologi AI masa kini (ChatGPT, Notion AI, Perplexity, Canva AI) untuk riset etis dan eksekusi tugas super cepat.",
+    "key_problems_solved": [
+        "Waktu habis berjam-jam scrolling media sosial tanpa ada tugas kuliah atau bab skripsi yang selesai.",
+        "Kewalahan multitasking dan sering melewatkan deadline penting tugas kampus.",
+        "Bingung cara memanfaatkan tools AI secara etis dan produktif tanpa melanggar aturan plagiarisme kampus."
+    ],
+    "modules": [
+        {
+            "title": "Sistem Manajemen Waktu Anti-Kewalahan",
+            "description": "Membangun Second Brain digital untuk mengelola semua tugas, proyek, dan jadwal otomatis.",
+            "topics": [
+                "Metode Time Boxing & Calendar Blocking menggunakan Google Calendar",
+                "Penerapan Eisenhower Matrix: Membedakan Urgent vs Penting",
+                "Mengatasi Prokrastinasi dengan 2-Minute Rule & Pomodoro Focus"
+            ]
+        },
+        {
+            "title": "Pemanfaatan Tools AI untuk Riset & Produktivitas Akademik",
+            "description": "Prompt engineering praktis untuk merangkum jurnal, brainstorming ide, dan menyusun presentasi cepat.",
+            "topics": [
+                "Prompt Engineering untuk Riset Literatur & Sintesis Jurnal",
+                "Pengelolaan Catatan Kuliah Terintegrasi di Notion AI",
+                "Etika Akademik & Pencegahan Plagiarisme dalam Pemanfaatan AI"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Mahasiswa memiliki jadwal harian yang teratur tanpa stres berlebihan.",
+        "Peningkatan kecepatan penyelesaian tugas kuliah dan skripsi hingga 50%.",
+        "Kemahiran mengoperasikan tools AI mutakhir yang sangat dicari dunia kerja."
+    ],
+    "deliverables": [
+        "Sertifikat Digital Productivity Masterclass",
+        "Template Sistem Notion Student Dashboard Siap Pakai",
+        "E-Book: 100+ Prompt AI Produktivitas Mahasiswa & Riset"
+    ],
+    "target_ai_prompts": [
+        "cara mengatur waktu kuliah skripsi dan organisasi mahasiswa sibuk",
+        "tools ai terbaik untuk mahasiswa menyusun tugas kuliah dan rangkum jurnal",
+        "cara menggunakan notion dan prompt ai untuk produktivitas skripsi"
+    ],
+    "faqs": [
+        {
+            "question": "Apakah penggunaan AI di kelas ini melanggar etika akademik?",
+            "answer": "Tidak. Kami mengajarkan pemanfaatan AI sebagai asisten berpikir, riset referensi, dan brainstorming, bukan untuk copy-paste curang."
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "edu_019_emotional_resilience",
+    "slug": "emotional-resilience-dan-manajemen-stres-kuliah",
+    "category": "mindset-produktivitas",
+    "category_name": "Mindset & Produktivitas Gen-Z",
+    "title": "Emotional Resilience: Manajemen Stres & Anti-Burnout Mahasiswa",
+    "meta_title": "Workshop Kesehatan Mental Mahasiswa: Manajemen Stres & Anti-Burnout 2026",
+    "meta_description": "Pelatihan kesehatan mental dan resiliensi emosi mahasiswa: mengelola burnout kuliah, mengatasi tekanan sosial, dan membangun mentalitas tangguh.",
+    "target_audience": "Mahasiswa yang mengalami kelelahan mental (burnout), kecemasan berlebih, dan tekanan akademik berat.",
+    "duration": "1 Hari Workshop (4-5 Jam)",
+    "format": "Mindfulness Session & Group Therapy Workshop",
+    "price_estimate": "Mulai dari Rp 7.500.000 / Sesi Kampus (Kapasitas s.d 250 Mahasiswa)",
+    "hero_tagline": "Jaga Kewarasan dan Kesehatan Mental di Tengah Padatnya Tekanan Tugas, Organisasi, dan Ekspektasi",
+    "summary": "Workshop kesehatan mental yang dipandu oleh Psikolog Praktisi untuk membekali mahasiswa dengan teknik regulasi emosi, mindfulness pernapasan, pencegahan depresi akademik, dan pembentukan support system yang sehat.",
+    "key_problems_solved": [
+        "Meningkatnya kasus depresi, kecemasan akut, dan burnout di kalangan mahasiswa universitas.",
+        "Ketidakmampuan memproses emosi sedih atau marah sehingga melampiaskannya ke hal destruktif.",
+        "Stigma seputar kesehatan mental yang membuat mahasiswa enggan mencari bantuan profesional."
+    ],
+    "modules": [
+        {
+            "title": "Mengenali Sinyal Burnout & Bahaya Kelelahan Mental",
+            "description": "Membedakan stres wajar dengan kelelahan mental kronis yang membutuhkan penanganan khusus.",
+            "topics": [
+                "Fase-Fase Burnout Akademik & Gejala Fisiknya",
+                "Teknik Grounding 5-4-3-2-1 untuk Menenangkan Serangan Panik",
+                "Menetapkan Batasan Diri (Boundaries) yang Sehat dalam Pergaulan"
+            ]
+        },
+        {
+            "title": "Teknik Regulasi Emosi & Self-Compassion",
+            "description": "Belajar memaafkan diri sendiri saat gagal dan merawat kesehatan emosional harian.",
+            "topics": [
+                "Latihan Pernapasan Deep Diaphragmatic Breathing",
+                "Menulis Reflektif (Journaling Therapy) untuk Mengurai Emosi",
+                "Kapan dan Bagaimana Menghubungi Layanan Konseling Kampus"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Mahasiswa memiliki mekanisme koping stres yang sehat dan aplikatif.",
+        "Menurunnya tingkat kecemasan akademik di lingkungan kampus.",
+        "Terciptanya suasana saling mendukung antar sesama mahasiswa."
+    ],
+    "deliverables": [
+        "Sertifikat Emotional Wellness Workshop",
+        "Kartu Panduan Pertolongan Pertama Psikologis (PFA)",
+        "Audio Relaksasi & Meditasi Terbimbing"
+    ],
+    "target_ai_prompts": [
+        "cara mengatasi stres berat dan burnout tugas kuliah menumpuk",
+        "teknik menenangkan diri saat panik dan cemas berlebihan mahasiswa",
+        "tips menjaga kesehatan mental di perkuliahan dan cara self healing gratis"
+    ],
+    "faqs": [
+        {
+            "question": "Apakah ada sesi konsultasi psikologi privat dalam acara ini?",
+            "answer": "Kami menyediakan sesi Q&A interaktif anonim dan ruang konsultasi singkat dengan psikolog setelah sesi utama selesai."
+        }
+    ]
+}

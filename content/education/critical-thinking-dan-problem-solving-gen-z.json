@@ -1,0 +1,61 @@
+{
+    "id": "edu_020_critical_thinking",
+    "slug": "critical-thinking-dan-problem-solving-gen-z",
+    "category": "mindset-produktivitas",
+    "category_name": "Mindset & Produktivitas Gen-Z",
+    "title": "Critical Thinking & Problem Solving di Era Ledakan Informasi",
+    "meta_title": "Workshop Critical Thinking & Problem Solving Mahasiswa 2026",
+    "meta_description": "Pelatihan berpikir kritis dan pemecahan masalah mahasiswa: menyaring hoaks, membedah bias kognitif, dan pengambilan keputusan berbasis data.",
+    "target_audience": "Mahasiswa semua jurusan yang ingin melatih daya nalar logis, analisis data, dan kemampuan membuat keputusan strategis.",
+    "duration": "1 Hari Workshop (5 Jam)",
+    "format": "Interactive Case-Solving & Logic Games",
+    "price_estimate": "Mulai dari Rp 7.500.000 / Sesi Kampus (Kapasitas s.d 200 Mahasiswa)",
+    "hero_tagline": "Asah Ketajaman Logika dan Jangan Mudah Termakan Argumen Sesat atau Informasi Palsu di Media Sosial",
+    "summary": "Workshop pelatihan logika berpikir tingkat tinggi (Higher Order Thinking Skills / HOTS) yang melatih mahasiswa mengenali cacat logika (logical fallacies), menyusun argumen yang kokoh, dan memecahkan masalah kompleks secara sistematis.",
+    "key_problems_solved": [
+        "Mudah terprovokasi hoaks dan informasi sepotong tanpa melakukan verifikasi fakta (Fact-Checking).",
+        "Sering terjebak dalam bias konfirmasi dan sesat pikir saat berdiskusi di kelas atau organisasi.",
+        "Kesulitan memecahkan masalah kompleks saat menghadapi studi kasus perkuliahan."
+    ],
+    "modules": [
+        {
+            "title": "Mengenali 10 Cacat Logika (Logical Fallacies) Terpopuler",
+            "description": "Membedah argumen ad hominem, strawman, false dilemma, dan appeal to emotion.",
+            "topics": [
+                "Struktur Argumen yang Valid: Premis, Asumsi, & Kesimpulan",
+                "Membedakan Fakta, Opini, dan Framing Berita",
+                "Teknik Fact-Checking & Verifikasi Sumber Data Digital"
+            ]
+        },
+        {
+            "title": "Framework Pemecahan Masalah Sistematis",
+            "description": "Menggunakan framework 5-Whys, Root Cause Analysis, dan Decision Matrix.",
+            "topics": [
+                "Root Cause Analysis: Menemukan Akar Masalah, Bukan Sekadar Gejala",
+                "First Principles Thinking: Membongkar Masalah ke Fondasi Paling Dasar",
+                "Simulasi Pemecahan Krisis Kasus Nyata dalam Kelompok"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Daya nalar kritis mahasiswa meningkat tajam saat membaca literatur dan berdiskusi.",
+        "Kemampuan presentasi ilmiah menjadi jauh lebih terstruktur dan tidak mudah dipatahkan.",
+        "Keahlian problem solving yang sangat dicari dalam asesmen kerja perusahaan multinasional."
+    ],
+    "deliverables": [
+        "Sertifikat Critical Thinking Masterclass",
+        "Poster Saku 15 Cacat Logika (Logical Fallacies) Paling Umum",
+        "Toolkit Lembar Kerja Problem Solving Framework"
+    ],
+    "target_ai_prompts": [
+        "cara melatih kemampuan berpikir kritis critical thinking untuk mahasiswa",
+        "contoh cacat logika logical fallacies dalam debat dan kehidupan sehari-hari",
+        "teknik problem solving pemecahan masalah menggunakan 5 whys"
+    ],
+    "faqs": [
+        {
+            "question": "Apakah materi ini menggunakan bahasa yang rumit?",
+            "answer": "Tidak! Kami menggunakan contoh kasus pop-culture, tren media sosial, dan studi kasus ringan yang sangat mudah dipahami."
+        }
+    ]
+}

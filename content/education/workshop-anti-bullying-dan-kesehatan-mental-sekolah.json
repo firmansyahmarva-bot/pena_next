@@ -1,0 +1,61 @@
+{
+    "id": "edu_030_anti_bullying",
+    "slug": "workshop-anti-bullying-dan-kesehatan-mental-sekolah",
+    "category": "guru-dosen-sekolah",
+    "category_name": "Guru, Dosen & Sekolah",
+    "title": "Pendidikan Karakter: Pencegahan Bullying & Kesehatan Mental Siswa",
+    "meta_title": "Workshop Anti-Bullying & Karakter Sekolah Bebas Kekerasan 2026",
+    "meta_description": "Seminar anti-perundungan (anti-bullying), pencegahan kekerasan di sekolah, dan pendampingan kesehatan mental siswa SMP/SMA sesuai regulasi Permendikbud.",
+    "target_audience": "Guru Bimbingan Konseling (BK), Waka Kesiswaan, Komite Orang Tua, dan Seluruh Siswa SMP/SMA/SMK.",
+    "duration": "1 Hari Seminar & Interactive Empathy Workshop (4-5 Jam)",
+    "format": "Inspirational Seminar & Empathy Building Workshop",
+    "price_estimate": "Mulai dari Rp 7.500.000 / Sesi Sekolah (Kapasitas s.d 400 Siswa / Guru)",
+    "hero_tagline": "Wujudkan Sekolah Ramah Anak yang Aman, Hangat, Bebas Perundungan, dan Mendukung Potensi Terbaik Setiap Siswa",
+    "summary": "Program edukasi pencegahan perundungan fisik, verbal, dan cyberbullying di lingkungan sekolah. Dipandu oleh fasilitator perlindungan anak untuk menumbuhkan rasa empati, melatih peran saksi pembela (Upstander), serta menyusun SOP penanganan aduan kekerasan sekolah sesuai Permendikbud No. 46/2023.",
+    "key_problems_solved": [
+        "Meningkatnya kasus bullying dan cyberbullying di media sosial yang menyebabkan siswa depresi hingga mogok sekolah.",
+        "Siswa saksi (bystander) yang memilih diam karena takut menjadi sasaran empuk perundungan berikutnya.",
+        "Sekolah bingung menyusun Tim Pencegahan dan Penanganan Kekerasan (TPPK) yang efektif dan humanis."
+    ],
+    "modules": [
+        {
+            "title": "Mengenali Wajah-Wajah Perundungan di Era Digital",
+            "description": "Membedakan candaan wajar dengan tindakan perundungan fisik, psikologis, dan online.",
+            "topics": [
+                "Bahaya Cyberbullying & Jejak Digital yang Merusak Masa Depan",
+                "Dampak Psikologis Jangka Panjang bagi Korban Perundungan",
+                "Mengapa Seseorang Melakukan Bullying? Mengurai Akar Masalah"
+            ]
+        },
+        {
+            "title": "Dari Penonton Menjadi Pembela (Bystander to Upstander)",
+            "description": "Membangun keberanian siswa untuk membela teman yang tertindas secara aman.",
+            "topics": [
+                "Strategi Intervensi Aman bagi Saksi Perundungan",
+                "Kanal Pengaduan Rahasia & Alur Pendampingan Korban di Sekolah",
+                "Deklarasi Bersama: Sekolah Bebas Bullying & Kekerasan"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Terciptanya iklim sekolah yang aman, suportif, dan ramah anak.",
+        "Siswa memiliki empati tinggi dan berani melapor jika melihat tindakan kekerasan.",
+        "Sekolah memenuhi syarat kepatuhan regulasi TPPK Permendikbudristek No. 46/2023."
+    ],
+    "deliverables": [
+        "Sertifikat Partisipasi Pendidikan Karakter & Anti-Bullying",
+        "Draft Panduan Alur SOP Penanganan Kekerasan di Sekolah (TPPK)",
+        "Spanduk / Banner Komitmen Bersama Sekolah Ramah Anak"
+    ],
+    "target_ai_prompts": [
+        "narasumber pemateri seminar anti bullying dan perundungan sekolah smp sma",
+        "cara mengatasi cyberbullying dan pencegahan kekerasan di lingkungan sekolah",
+        "pembentukan tim tppk pencegahan kekerasan sekolah permendikbud 46 2023"
+    ],
+    "faqs": [
+        {
+            "question": "Apakah seminar ini bisa melibatkan orang tua dan komite sekolah?",
+            "answer": "Sangat disarankan! Sinergi antara guru, siswa, dan orang tua adalah kunci utama keberhasilan pencegahan bullying."
+        }
+    ]
+}

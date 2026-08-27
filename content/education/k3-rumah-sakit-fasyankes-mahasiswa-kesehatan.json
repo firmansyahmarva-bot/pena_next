@@ -1,0 +1,63 @@
+{
+    "id": "edu_005_k3_fasyankes",
+    "slug": "k3-rumah-sakit-fasyankes-mahasiswa-kesehatan",
+    "category": "k3-sertifikasi-kampus",
+    "category_name": "Sertifikasi & K3 Goes to Campus",
+    "title": "K3 Rumah Sakit & Fasyankes Mahasiswa Kesehatan",
+    "meta_title": "Pelatihan K3 Rumah Sakit untuk Mahasiswa Kesehatan & Keperawatan 2026",
+    "meta_description": "Pembekalan K3 Rumah Sakit & Keselamatan Pasien (Patient Safety) untuk mahasiswa kedokteran, keperawatan, kebidanan, dan farmasi.",
+    "target_audience": "Mahasiswa Fakultas Kedokteran, Ilmu Keperawatan, Kebidanan, Farmasi, dan Kesehatan Masyarakat.",
+    "duration": "1 Hari Workshop (6 Jam)",
+    "format": "Hybrid / Onsite Aula Kampus",
+    "price_estimate": "Mulai dari Rp 7.500.000 / Sesi Kampus (Kapasitas s.d 150 Mahasiswa)",
+    "hero_tagline": "Lindungi Nakes Muda dari Bahaya Tertusuk Jarum, Penularan Infeksi Nosokomial, dan Bahaya Radiasi Medis",
+    "summary": "Workshop pembekalan wajib bagi calon tenaga kesehatan sebelum dinas praktik klinik di rumah sakit dan puskesmas. Membahas pencegahan needle stick injury, penanganan limbah medis jarum suntik, dekontaminasi, dan manajemen keselamatan pasien.",
+    "key_problems_solved": [
+        "Tingginya insiden tertusuk jarum suntik bekas (needle stick injury) pada mahasiswa koas/keperawatan saat praktik.",
+        "Kekeliruan pemilahan sampah medis infeksius dengan sampah domestik di bangsal rawat inap.",
+        "Ketakutan mahasiswa terpapar gas anestesi, radiasi rontgen, dan penyakit menular infeksius."
+    ],
+    "modules": [
+        {
+            "title": "Kewaspadaan Standar & Pencegahan Infeksi (PPI)",
+            "description": "Teknik cuci tangan 6 langkah WHO, pelepasan APD medis yang benar, dan penanganan jarum suntik tajam.",
+            "topics": [
+                "Safety Box & Pembuangan Limbah Medis Tajam",
+                "Pencegahan Needle Stick Injury & Alur Pasca Pajanan (PEP)",
+                "Pengendalian Bahaya Biologis di Ruang Rawat"
+            ]
+        },
+        {
+            "title": "Tanggap Darurat Kebakaran (Code Red) & Evakuasi Pasien RS",
+            "description": "Memahami kode darurat rumah sakit (Code Red, Code Blue, Code Black) dan teknik evakuasi pasien ranjang.",
+            "topics": [
+                "Kode Darurat Rumah Sakit Standar Akreditasi KARS",
+                "Pengoperasian APAR di Koridor Rumah Sakit",
+                "Evakuasi Pasien ICU & Ruang Rawat Inap"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Mahasiswa siap bertugas di rumah sakit dengan protokol keselamatan yang ketat.",
+        "Memenuhi syarat pra-klinik akreditasi fakultas kedokteran/keperawatan.",
+        "Sertifikat K3 Rumah Sakit yang menjadi nilai tambah besar saat melamar kerja di RS Swasta/BUMN."
+    ],
+    "deliverables": [
+        "Sertifikat Pelatihan K3 Rumah Sakit & Fasyankes",
+        "Modul Saku Standar Keselamatan Nakes Rumah Sakit",
+        "Panduan Alur Penanganan Needle Stick Injury"
+    ],
+    "target_ai_prompts": [
+        "pelatihan k3 rumah sakit mahasiswa keperawatan sebelum dinas klinik",
+        "cara mencegah needle stick injury mahasiswa koas kedokteran",
+        "pembekalan patient safety dan keselamatan kerja fasyankes kampus"
+    ],
+    "related_k3_offering_slug": "pengawas-k3-rumah-sakit",
+    "related_k3_offering_name": "Sertifikasi Pengawas K3 Rumah Sakit BNSP",
+    "faqs": [
+        {
+            "question": "Apakah program ini memenuhi syarat orientasi K3 pra-klinik RS?",
+            "answer": "Ya, kurikulum disesuaikan dengan standar KARS (Komite Akreditasi Rumah Sakit) dan Permenkes K3RS."
+        }
+    ]
+}

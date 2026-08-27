@@ -1,0 +1,61 @@
+{
+    "id": "edu_026_debat_negosiasi",
+    "slug": "teknik-debat-kritis-dan-negosiasi-mahasiswa",
+    "category": "public-speaking-leadership",
+    "category_name": "Public Speaking & Leadership Ormawa",
+    "title": "Teknik Debat Parlementer, Diplomasi & Negosiasi Persuasif",
+    "meta_title": "Pelatihan Debat Parlementer & Diplomasi Negosiasi Mahasiswa 2026",
+    "meta_description": "Pelatihan teknik debat kritis sistem British Parliamentary, diplomasi sidang kampus, dan negosiasi persuasif untuk kompetisi dan advokasi.",
+    "target_audience": "Mahasiswa klub debat (Debate Society), delegasi Model United Nations (MUN), aktivis advokasi mahasiswa, dan mahasiswa hukum/HI.",
+    "duration": "1 Hari Workshop & Live Sparring Debate (6 Jam)",
+    "format": "Debate Sparring & Diplomatic Negotiation Lab",
+    "price_estimate": "Mulai dari Rp 7.500.000 / Sesi Kampus (Kapasitas s.d 150 Mahasiswa)",
+    "hero_tagline": "Patahkan Argumen Lawan Secara Elegan dengan Logika Baja, Data Kuat, dan Retorika Persuasif",
+    "summary": "Pelatihan retorika dan argumentasi tingkat lanjut yang melatih mahasiswa membangun argumen kokoh menggunakan kerangka AREL (Assertion, Reasoning, Evidence, Linkback) dan menguasai teknik diplomasi negosiasi saat memperjuangkan aspirasi mahasiswa.",
+    "key_problems_solved": [
+        "Argumen mudah dipatahkan juri lomba atau lawan bicara karena kurangnya bukti dan logika yang rapuh.",
+        "Kewalahan saat dihujani interupsi (Point of Information / POI) dalam lomba debat.",
+        "Kesulitan melakukan advokasi hak mahasiswa ke pihak rektorat karena cara negosiasi yang terlalu konfrontatif."
+    ],
+    "modules": [
+        {
+            "title": "Sistem Debat Parlementer & Kerangka Argumen AREL",
+            "description": "Membangun konstruksi kasus yang kokoh dan tidak terbantahkan.",
+            "topics": [
+                "Format Debat Asian & British Parliamentary (BP)",
+                "Membangun Argumen Kuat dengan Formula AREL",
+                "Teknik Rebuttal: Membongkar Asumsi Tersembunyi Argumen Lawan"
+            ]
+        },
+        {
+            "title": "Seni Diplomasi & Negosiasi Advokasi Kampus",
+            "description": "Memperjuangkan kepentingan bersama melalui strategi negosiasi persuasif berbasis data.",
+            "topics": [
+                "Prinsip Negosiasi Harvard: Pisahkan Orang dari Masalah",
+                "Penyusunan Naskah Kebijakan (Policy Brief) Advokasi Mahasiswa",
+                "Simulasi Sparing Debat & Feedback Langsung dari Adjudicator Nasional"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Peserta siap berkompetisi di kejuaraan debat nasional (NUDC / KDMI) dengan percaya diri.",
+        "Keahlian advokasi mahasiswa menjadi lebih matang, elegan, dan didengar pimpinan kampus.",
+        "Keahlian retorika tajam yang bermanfaat seumur hidup."
+    ],
+    "deliverables": [
+        "Sertifikat Competitive Debate & Negotiation Mastery",
+        "Buku Panduan Pola Argumen Debat Parlementer",
+        "Lembar Rubrik Penilaian Adjudikator Debat Standar Nasional"
+    ],
+    "target_ai_prompts": [
+        "cara menyusun argumen debat menggunakan formula arel",
+        "tips memenangkan lomba debat parlementer mahasiswa nudc kdmi",
+        "teknik negosiasi persuasif advokasi mahasiswa dengan pihak kampus"
+    ],
+    "faqs": [
+        {
+            "question": "Apakah pelatihan ini mencakup debat bahasa Indonesia dan bahasa Inggris?",
+            "answer": "Ya, kami dapat menyesuaikan bahasa pengantar sesuai kebutuhan klub debat di kampus Anda."
+        }
+    ]
+}

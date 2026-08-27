@@ -1,0 +1,61 @@
+{
+    "id": "edu_027_teaching_genz",
+    "slug": "workshop-dosen-guru-engaging-teaching-gen-z",
+    "category": "guru-dosen-sekolah",
+    "category_name": "Guru, Dosen & Sekolah",
+    "title": "Workshop Dosen & Guru: Engaging Teaching untuk Mahasiswa Gen-Z",
+    "meta_title": "Workshop Dosen & Guru: Metode Mengajar Interaktif untuk Gen-Z 2026",
+    "meta_description": "Pelatihan dosen dan guru: metode mengajar interaktif, gamifikasi kelas, ice breaking pintar, dan cara mengajar materi berat agar disukai Gen-Z.",
+    "target_audience": "Dosen Perguruan Tinggi, Guru SMA/SMK, Widyaiswara, dan Tenaga Pengajar Profesional.",
+    "duration": "1 Hari Workshop (6 Jam)",
+    "format": "Interactive Pedagogical Masterclass & Teaching Simulation",
+    "price_estimate": "Mulai dari Rp 8.500.000 – Rp 15.000.000 / Sesi Institusi (Kapasitas s.d 150 Pendidik)",
+    "hero_tagline": "Ubah Suasana Kelas yang Pasif dan Mengantuk Menjadi Ruang Diskusi yang Hidup, Menyenangkan, dan Inspiratif",
+    "summary": "Workshop pedagogi modern khusus bagi tenaga pendidik untuk memahami psikologi belajar generasi Z yang visual dan serba cepat. Mengajarkan teknik gamifikasi pembelajaran, micro-learning, pemanfaatan kuis interaktif (Kahoot/Mentimeter), dan seni menjadi pendidik yang dirindukan siswa/mahasiswa.",
+    "key_problems_solved": [
+        "Mahasiswa sibuk menatap layar smartphone atau tertidur saat dosen menjelaskan materi kuliah di depan kelas.",
+        "Metode mengajar satu arah (ceramah panjang) yang sudah tidak relevan dengan rentang atensi generasi digital.",
+        "Kesenjangan komunikasi (generation gap) antara dosen senior dan mahasiswa muda."
+    ],
+    "modules": [
+        {
+            "title": "Memahami Karakteristik & Psikologi Belajar Gen-Z",
+            "description": "Mengapa Gen-Z mudah bosan dan bagaimana menarik rasa ingin tahu mereka sejak menit pertama.",
+            "topics": [
+                "Pergeseran Pola Pikir Pendidik: Dari Pengajar Menjadi Fasilitator Pembelajaran",
+                "Attention Span Management: Siklus Fokus 15 Menit",
+                "Menciptakan Suasana Kelas yang Psikologis Aman (Psychological Safety)"
+            ]
+        },
+        {
+            "title": "Gamifikasi & Tools Interaktif di Ruang Kuliah",
+            "description": "Mengintegrasikan kuis digital, studi kasus viral, dan roleplay interaktif ke dalam silabus.",
+            "topics": [
+                "Penggunaan Mentimeter, Kahoot, & Padlet untuk Partisipasi Massal",
+                "Metode Case-Based Learning & Problem-Based Learning yang Menantang",
+                "Teknik Ice Breaking Pembuka & Penutup Kelas yang Berkesan"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Tingkat kehadiran dan partisipasi aktif mahasiswa di kelas meningkat drastis.",
+        "Skor evaluasi dosen oleh mahasiswa (EDOM / Kuesioner Kepuasan) melonjak tinggi.",
+        "Proses transfer ilmu menjadi lebih bermakna dan menyenangkan bagi dosen maupun mahasiswa."
+    ],
+    "deliverables": [
+        "Sertifikat Resmi Engaging Teaching Mastery (Diakui untuk BKD / SKP Dosen)",
+        "Toolkit 30 Ide Ice Breaking & Aktivitas Gamifikasi Kelas",
+        "Template Rencana Pembelajaran Semester (RPS) Berbasis Interaktif"
+    ],
+    "target_ai_prompts": [
+        "cara mengajar dosen yang seru dan interaktif disukai mahasiswa gen z",
+        "metode gamifikasi pembelajaran di perguruan tinggi menggunakan tools digital",
+        "tips mengatasi mahasiswa pasif dan main hp saat kuliah berlangsung"
+    ],
+    "faqs": [
+        {
+            "question": "Apakah sertifikat pelatihan ini dapat digunakan untuk pelaporan BKD dosen?",
+            "answer": "Sangat bisa! Sertifikat mencantumkan jam pelatihan resmi (JP) yang diakui untuk pelaporan Beban Kerja Dosen (BKD)."
+        }
+    ]
+}

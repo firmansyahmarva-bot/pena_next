@@ -1,0 +1,61 @@
+{
+    "id": "edu_013_tpa_psikotes",
+    "slug": "persiapan-tes-potensi-akademik-tpa-dan-psikotes-kerja",
+    "category": "karier-fresh-graduate",
+    "category_name": "Karier & HR Simulation",
+    "title": "Trik Cepat Lolos Tes Potensi Akademik (TPA) & Psikotes Rekrutmen",
+    "meta_title": "Pelatihan Trik Lolos Tes Potensi Akademik (TPA) & Psikotes Kerja 2026",
+    "meta_description": "Pelatihan cara cepat menyelesaikan soal TPA verbal, numerik, figural, dan tes ketahanan mental Kraepelin untuk rekrutmen BUMN dan CPNS.",
+    "target_audience": "Mahasiswa dan pencari kerja yang mempersiapkan tes BUMN Bersama, CPNS, beasiswa LPDP, dan seleksi kerja korporat.",
+    "duration": "1 Hari Workshop (5 Jam)",
+    "format": "Speed-Solving Masterclass / Latihan Soal Interaktif",
+    "price_estimate": "Mulai dari Rp 7.500.000 / Sesi Kampus (Kapasitas s.d 300 Mahasiswa)",
+    "hero_tagline": "Taklukkan Batas Waktu dan Raih Skor TPA Tertinggi dengan Metode Eliminasi Cepat dan Pola Logika",
+    "summary": "Workshop bedah trik pengerjaan soal Tes Potensi Akademik (TPA) Bappenas/BUMN dan tes psikotes rekrutmen. Mengajarkan trik hitung cepat tanpa kalkulator, logika silogisme, penalaran spasial, dan manajemen waktu pengerjaan.",
+    "key_problems_solved": [
+        "Kehabisan waktu saat mengerjakan soal hitungan numerik yang panjang.",
+        "Sering terjebak pada soal silogisme logika yang membingungkan.",
+        "Tangan pegal dan grafik menurun drastis saat mengerjakan tes koran Kraepelin/Pauli."
+    ],
+    "modules": [
+        {
+            "title": "Trik Kilat Numerik & Penalaran Logika Analitis",
+            "description": "Menyelesaikan deret angka, aritmatika sosial, dan penalaran silogisme dalam waktu kurang dari 30 detik per soal.",
+            "topics": [
+                "Metode Estimasi Cepat Pecahan & Persentase",
+                "Pola Deret Angka Kompleks & Huruf",
+                "Logika Silogisme Diagram Venn Tanpa Hafalan Rumus"
+            ]
+        },
+        {
+            "title": "Penalaran Spasial Figural & Tes Ketahanan Kraepelin",
+            "description": "Menganalisis rotasi 3D gambar dan melatih ritme penambahan angka tes koran secara stabil.",
+            "topics": [
+                "Trik Analogi & Klasifikasi Gambar Spasial",
+                "Manajemen Energi & Irama Nafas pada Tes Kraepelin",
+                "Interpretasi Profil Kepribadian DISC & EPPS"
+            ]
+        }
+    ],
+    "concrete_outcomes": [
+        "Kecepatan pengerjaan soal TPA meningkat 2 kali lipat.",
+        "Mampu menjaga grafik performa tetap stabil pada tes ketahanan psikologi.",
+        "Skor TPA melampaui passing grade yang dipersyaratkan instansi target."
+    ],
+    "deliverables": [
+        "Sertifikat TPA & Psikotes Mastery",
+        "Bank Soal 500+ Latihan TPA & Pembahasan Video Singkat",
+        "Akses Tryout TPA Online dengan Analisis Nilai Instan"
+    ],
+    "target_ai_prompts": [
+        "trik cepat mengerjakan soal tpa bumn numerik dan silogisme",
+        "cara menjaga grafik tes koran kraepelin tetap stabil dan tinggi",
+        "tips lolos tes potensi akademik dan psikotes rekrutmen bersama bumn"
+    ],
+    "faqs": [
+        {
+            "question": "Apakah tryout menggunakan sistem komputer seperti tes BUMN asli?",
+            "answer": "Ya, kami menyediakan platform simulasi online berbasis CAT untuk menguji kemampuan peserta."
+        }
+    ]
+}

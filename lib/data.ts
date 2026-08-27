@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { Program, Article, Industry, Location, ScheduleBatch } from './types';
+import { Program, Article, Industry, Location, ScheduleBatch, EducationProgram } from './types';
 
 export * from './types';
 
@@ -52,3 +52,5 @@ export const getFaqs = () => {
   const file = path.join(contentDir, 'global', 'faqs.json');
   return fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf-8')) : [];
 };
+export const getEducationPrograms = (): EducationProgram[] => readJsonDir<EducationProgram>('education');
+export const getEducationProgramBySlug = (slug: string): EducationProgram | undefined => readJsonFile<EducationProgram>('education', slug);
