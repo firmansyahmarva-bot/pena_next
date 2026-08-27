@@ -1,17 +1,3 @@
-import fs from 'fs';
-import path from 'path';
-
-// Load compiled 3,332 legacy redirects
-let legacyRedirects = [];
-try {
-  const redirectsFile = path.join(process.cwd(), 'scripts', 'generated_legacy_redirects.json');
-  if (fs.existsSync(redirectsFile)) {
-    legacyRedirects = JSON.parse(fs.readFileSync(redirectsFile, 'utf8'));
-  }
-} catch (e) {
-  console.error('Error loading legacy redirects:', e);
-}
-
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
@@ -55,7 +41,48 @@ const nextConfig = {
     ];
   },
   async redirects() {
-    return legacyRedirects;
+    return [
+      {
+        source: '/tryout-k3',
+        destination: '/pelatihan/ahli-k3-umum/tryout',
+        permanent: true,
+      },
+      {
+        source: '/tryout',
+        destination: '/pelatihan/ahli-k3-umum/tryout',
+        permanent: true,
+      },
+      {
+        source: '/klien',
+        destination: '/mitra',
+        permanent: true,
+      },
+      {
+        source: '/pelatihan-inhouse',
+        destination: '/pelatihan',
+        permanent: true,
+      },
+      {
+        source: '/pelatihan-online',
+        destination: '/webinar',
+        permanent: true,
+      },
+      {
+        source: '/sertifikasi-bnsp',
+        destination: '/pelatihan',
+        permanent: true,
+      },
+      {
+        source: '/sertifikasi-kemnaker',
+        destination: '/pelatihan',
+        permanent: true,
+      },
+      {
+        source: '/konsultasi',
+        destination: '/pelatihan',
+        permanent: true,
+      },
+    ];
   },
 };
 
