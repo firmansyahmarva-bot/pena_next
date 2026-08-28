@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
@@ -16,8 +16,10 @@ import {
   Building2
 } from 'lucide-react';
 import caseStudiesData from '@/content/global/case_studies.json';
+import { getPrograms, getIndustries, getLocations, getBatches } from '@/lib/data';
 import { BreadcrumbJsonLd } from '@/components/JsonLd';
 import CorporateQuoteForm from '@/components/CorporateQuoteForm';
+import SiloHubCrosslinks from '@/components/SiloHubCrosslinks';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -81,23 +83,21 @@ function renderBlocks(blocks: any[]) {
             </ul>
           );
         }
-        if (block.type === 'callout') {
-          return (
-            <div key={idx} className="p-4 bg-amber-50 border-l-4 border-amber-500 rounded-r-xl text-amber-900 font-medium">
-              {block.data?.text || block.text}
-            </div>
-          );
-        }
         return null;
       })}
     </div>
   );
 }
 
-export default async function CaseStudySlugPage({ params }: Props) {
+export default async function CaseStudyDetailPage({ params }: Props) {
   const { slug } = await params;
   const cs = (caseStudiesData as any[]).find((item) => item.slug === slug);
   if (!cs) notFound();
+
+  const allPrograms = getPrograms();
+  const allIndustries = getIndustries();
+  const allLocations = getLocations();
+  const allBatches = getBatches();
 
   const breadcrumbs = [
     { name: 'Home', url: 'https://penaconsultant.com' },
@@ -262,6 +262,15 @@ export default async function CaseStudySlugPage({ params }: Props) {
           </div>
           <CorporateQuoteForm defaultProgram={`Studi Kasus: ${cs.title}`} />
         </div>
+
+        {/* Silo Hub Crosslinks */}
+        <SiloHubCrosslinks
+          programs={allPrograms.slice(0, 4)}
+          industries={allIndustries.slice(0, 4)}
+          locations={allLocations.slice(0, 4)}
+          batches={allBatches.slice(0, 4)}
+          currentType="article"
+        />
       </div>
     </>
   );

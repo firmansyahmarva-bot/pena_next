@@ -1,15 +1,17 @@
-import React from 'react';
+﻿import React from 'react';
 import type { Metadata } from 'next';
 import { notFound, permanentRedirect } from 'next/navigation';
 import Link from 'next/link';
 import { 
   Shield, Clock, Award, CheckCircle2, ArrowRight, BookOpen, AlertTriangle, 
   Users, Building, HelpCircle, FileText, Send, Calendar, CheckSquare, 
-  Sparkles, Check, Star, Download, ChevronRight, PhoneCall, GraduationCap
+  Sparkles, Check, Star, Download, ChevronRight, PhoneCall, GraduationCap, MapPin, Building2
 } from 'lucide-react';
 import { getPrograms, getProgramBySlug, getArticles, getBatches, getWaLink } from '@/lib/data';
+import { getProgramSiloData } from '@/lib/silos';
 import StructuredContent from '@/components/StructuredContent';
 import CorporateQuoteForm from '@/components/CorporateQuoteForm';
+import SiloHubCrosslinks from '@/components/SiloHubCrosslinks';
 import { CourseJsonLd, BreadcrumbJsonLd, FaqJsonLd } from '@/components/JsonLd';
 
 export async function generateStaticParams() {
@@ -63,8 +65,9 @@ export default async function ProgramPage({ params }: { params: Promise<{ slug: 
   const isKemnaker = program.certification_body === 'kemnaker';
   const isBnsp = program.certification_body === 'bnsp';
   const imageSrc = program.hero_media?.path ? `/${program.hero_media.path}` : '/media/pelatihan-001.webp';
-  const relatedArticles = getArticles().filter(a => a.related_offering_slug === program.slug).slice(0, 4);
-  const relatedBatches = getBatches().filter(b => b.offering_slug === program.slug || b.slug.includes(program.slug)).slice(0, 3);
+  
+  const siloData = getProgramSiloData(program);
+  const { programBatches, relatedArticles, relevantIndustries, topLocations } = siloData;
 
   const basePrice = program.base_price || 6500000;
   const freshGradPrice = Math.round(basePrice * 0.75 / 100000) * 100000;
@@ -124,7 +127,7 @@ export default async function ProgramPage({ params }: { params: Promise<{ slug: 
     },
   ];
 
-  // 12-Day Syllabus Timeline (if AK3U or technical)
+  // 12-Day Syllabus Timeline
   const syllabusTimeline = [
     { day: 'Hari 1', title: 'Kebijakan K3 Nasional & Pokok Dasar Hukum UU No. 1/1970', type: 'Teori Regulasi' },
     { day: 'Hari 2-3', title: 'Kelembagaan P2K3, Sistem Manajemen K3 (SMK3 PP 50/2012) & Audit Internal', type: 'Manajemen K3' },
@@ -142,10 +145,10 @@ export default async function ProgramPage({ params }: { params: Promise<{ slug: 
   const sections = [
     { title: 'Dasar Hukum & Regulasi Acuan', icon: '⚖️', content: program.legal_basis },
     { title: 'Tujuan & Sasaran Pembinaan', icon: '🎯', content: program.objectives },
-    { title: 'Ruang Lingkup Materi & Silabus Pelatihan', icon: '📋', content: program.scope },
-    { title: 'Persyaratan & Kualifikasi Peserta', icon: '👤', content: program.requirements },
-    { title: 'Kelengkapan Dokumen & Persyaratan Administrasi', icon: '📄', content: program.documents },
-    { title: 'Fasilitas Peserta & Keuntungan Pelatihan', icon: '🎁', content: program.facilities },
+    { title: 'Ruang Lingkup Materi & Silabus Pelatihan', icon: '📚', content: program.scope },
+    { title: 'Persyaratan & Kualifikasi Peserta', icon: '📋', content: program.requirements },
+    { title: 'Kelengkapan Dokumen & Persyaratan Administrasi', icon: '📂', content: program.documents },
+    { title: 'Fasilitas Peserta & Keuntungan Pelatihan', icon: '🌟', content: program.facilities },
     { title: 'Tata Cara & Prosedur Pendaftaran', icon: '📝', content: program.registration_procedure },
   ];
 
@@ -198,118 +201,153 @@ export default async function ProgramPage({ params }: { params: Promise<{ slug: 
           <span className="text-slate-900 font-bold line-clamp-1">{program.name}</span>
         </nav>
 
-        {/* Hero Header Card */}
-        <div className="bg-white rounded-3xl border border-slate-200 shadow-xl overflow-hidden grid grid-cols-1 lg:grid-cols-12">
-          <div className="lg:col-span-5 relative min-h-[320px] bg-slate-900 overflow-hidden">
-            <img
-              src={imageSrc}
-              alt={`Dokumentasi Pelatihan ${program.name}`}
-              width={600}
-              height={400}
-              decoding="async"
-              className="w-full h-full object-cover"
-            />
-            <div className="absolute inset-0 bg-gradient-to-t from-slate-950/80 via-slate-950/20 to-transparent"></div>
-
-            <div className="absolute top-4 left-4 flex flex-wrap items-center gap-2 z-10">
-              {isKemnaker && (
-                <span className="bg-emerald-600 text-white font-black text-xs px-3 py-1 rounded-md shadow-md flex items-center gap-1.5">
-                  <Shield className="w-3.5 h-3.5" /> Kemnaker RI Resmi
+        {/* Hero Section */}
+        <section className="bg-gradient-to-br from-slate-900 via-primary-950 to-slate-950 text-white rounded-3xl p-6 sm:p-12 border border-slate-800 shadow-2xl relative overflow-hidden">
+          <div className="relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
+            <div className="lg:col-span-8 space-y-6">
+              <div className="flex flex-wrap items-center gap-2">
+                <span className="inline-flex items-center gap-1.5 bg-emerald-500/20 text-emerald-300 text-xs font-bold px-3 py-1 rounded-full border border-emerald-500/30">
+                  <Shield className="w-3.5 h-3.5" />
+                  {isKemnaker ? 'Sertifikasi Resmi Kemnaker RI' : isBnsp ? 'Sertifikasi Kompetensi BNSP RI' : 'Sertifikasi K3 Terakreditasi'}
                 </span>
-              )}
-              {isBnsp && (
-                <span className="bg-blue-600 text-white font-black text-xs px-3 py-1 rounded-md shadow-md flex items-center gap-1.5">
-                  <Shield className="w-3.5 h-3.5" /> BNSP RI Lisensi
+                <span className="inline-flex items-center gap-1.5 bg-amber-500/20 text-amber-300 text-xs font-bold px-3 py-1 rounded-full border border-amber-500/30">
+                  <Sparkles className="w-3.5 h-3.5" />
+                  Batch Tahun 2026 Dibuka
                 </span>
-              )}
-            </div>
-
-            <div className="absolute bottom-4 left-4 right-4 text-white z-10 flex items-center justify-between text-xs bg-slate-950/80 backdrop-blur-md p-3 rounded-xl border border-slate-800">
-              <span className="flex items-center gap-1.5 font-bold">
-                <Clock className="w-4 h-4 text-amber-400" />
-                Durasi: {program.duration || '12 Hari Kerja'}
-              </span>
-              <span className="flex items-center gap-1.5 font-bold text-emerald-400">
-                <Star className="w-4 h-4 fill-amber-400 text-amber-400" />
-                Rating 4.9/5 (1.500+ Alumni)
-              </span>
-            </div>
-          </div>
-
-          <div className="lg:col-span-7 p-6 sm:p-10 flex flex-col justify-between space-y-6">
-            <div className="space-y-3">
-              <span className="text-xs font-black uppercase tracking-wider text-primary-700 bg-primary-50 border border-primary-200 px-3 py-1 rounded-md inline-block">
-                PEMBINAAN &amp; SERTIFIKASI PROFESI RESMI
-              </span>
-              <h1 className="text-2xl sm:text-4xl font-black text-slate-900 leading-tight">
-                Pelatihan &amp; Sertifikasi {program.name} 2026
-              </h1>
-              <p className="text-sm sm:text-base text-slate-600 leading-relaxed">
-                {program.summary || `Program pembinaan resmi berlisensi Ditjen Binwasnaker & K3 Kemnaker RI untuk mencetak praktisi K3 profesional berkualifikasi tinggi.`}
-              </p>
-            </div>
-
-            {/* Price & Primary Action */}
-            <div className="pt-6 border-t border-slate-100 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
-              <div>
-                <span className="text-xs text-slate-500 font-bold uppercase tracking-wider block">Investasi Mulai:</span>
-                <div className="flex items-baseline gap-2">
-                  <span className="text-2xl sm:text-3xl font-black text-slate-900">
-                    Rp {freshGradPrice.toLocaleString('id-ID')}
-                  </span>
-                  <span className="text-xs text-slate-400 line-through">Rp 8.000.000</span>
-                </div>
-                <span className="text-[11px] text-emerald-700 font-semibold block mt-0.5">✓ Tersedia Paket Fresh Graduate &amp; Utusan Perusahaan</span>
               </div>
 
-              <div className="flex flex-col sm:flex-row gap-2.5">
+              <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight">
+                Pelatihan &amp; Sertifikasi {program.name}
+              </h1>
+
+              <p className="text-sm sm:text-base text-slate-300 max-w-2xl leading-relaxed">
+                {program.summary || 'Program pembinaan sertifikasi kompetensi K3 resmi untuk mencetak tenaga ahli profesional yang siap memimpin kepatuhan keselamatan kerja di industri.'}
+              </p>
+
+              {/* Key Trust Signals */}
+              <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 pt-4 border-t border-slate-800">
+                <div>
+                  <span className="text-[11px] text-slate-400 block font-medium">Durasi Program:</span>
+                  <span className="text-sm font-bold text-white flex items-center gap-1 mt-0.5">
+                    <Clock className="w-3.5 h-3.5 text-primary-400" />
+                    {program.duration || '12 Hari'}
+                  </span>
+                </div>
+                <div>
+                  <span className="text-[11px] text-slate-400 block font-medium">Metode Belajar:</span>
+                  <span className="text-sm font-bold text-white flex items-center gap-1 mt-0.5">
+                    <GraduationCap className="w-3.5 h-3.5 text-primary-400" />
+                    Online / Onsite
+                  </span>
+                </div>
+                <div>
+                  <span className="text-[11px] text-slate-400 block font-medium">Kelulusan Ujian:</span>
+                  <span className="text-sm font-bold text-emerald-400 flex items-center gap-1 mt-0.5">
+                    <CheckCircle2 className="w-3.5 h-3.5" />
+                    98.7% Lulus
+                  </span>
+                </div>
+                <div>
+                  <span className="text-[11px] text-slate-400 block font-medium">Investasi Mulai:</span>
+                  <span className="text-sm font-black text-amber-400 block mt-0.5">
+                    Rp {freshGradPrice.toLocaleString('id-ID')}
+                  </span>
+                </div>
+              </div>
+
+              {/* Action Buttons */}
+              <div className="flex flex-wrap gap-4 pt-4">
                 <a
-                  href={getWaLink(`Halo Admin PENA Consultant, saya ingin konsultasi pendaftaran pelatihan ${program.name} batch 2026.`)}
+                  href={getWaLink(`Halo Admin PENA Consultant, saya ingin konsultasi pendaftaran pelatihan ${program.name}.`)}
                   target="_blank"
                   rel="noopener nofollow"
-                  className="bg-gradient-to-r from-emerald-600 to-primary-700 hover:from-emerald-700 text-white font-black text-xs px-6 py-3.5 rounded-xl shadow-lg flex items-center justify-center gap-2 transition-all cursor-pointer"
+                  className="bg-emerald-600 hover:bg-emerald-700 text-white font-black text-xs sm:text-sm px-6 py-3.5 rounded-xl shadow-lg transition-all inline-flex items-center gap-2"
                 >
-                  <Send className="w-4 h-4" />
-                  <span>Daftar Batch 2026</span>
+                  <PhoneCall className="w-4 h-4" />
+                  Daftar via WhatsApp Sekarang
+                </a>
+                <a
+                  href="#biaya-paket"
+                  className="bg-white/10 hover:bg-white/20 text-white font-bold text-xs sm:text-sm px-6 py-3.5 rounded-xl backdrop-blur-md transition-all inline-flex items-center gap-2"
+                >
+                  Lihat Biaya Paket &amp; Fasilitas &darr;
                 </a>
               </div>
             </div>
-          </div>
-        </div>
 
-        {/* Free Tryout Simulator Banner Hook */}
-        <div className="bg-gradient-to-r from-amber-500 via-amber-600 to-amber-700 text-slate-950 p-6 sm:p-8 rounded-3xl shadow-xl flex flex-col sm:flex-row items-center justify-between gap-6">
-          <div className="space-y-2">
-            <span className="bg-slate-950 text-amber-400 font-black text-[10px] uppercase tracking-widest px-2.5 py-1 rounded-md inline-block">
-              🎯 SIMULATOR UJIAN GRATIS
-            </span>
-            <h2 className="text-xl sm:text-2xl font-black text-white">
-              Coba Tryout Ujian 50 Soal AK3U Kemnaker RI Sekarang!
-            </h2>
-            <p className="text-xs sm:text-sm text-slate-900 font-semibold">
-              Uji pemahaman regulasi K3 Anda dengan 50 butir soal riil berstandar evaluasi Kemnaker RI lengkap dengan timer 60 menit &amp; pembahasan hukum.
-            </p>
+            <div className="lg:col-span-4 hidden lg:block">
+              <div className="bg-white/5 p-4 rounded-2xl border border-white/10 backdrop-blur-sm space-y-3">
+                <img
+                  src={imageSrc}
+                  alt={program.name}
+                  className="rounded-xl w-full h-48 object-cover shadow-md"
+                />
+                <div className="p-2 space-y-1 text-center">
+                  <span className="text-xs font-bold text-slate-200 block">Lembaga PJK3 Resmi Berlisensi</span>
+                  <span className="text-[11px] text-slate-400 block">Ditjen Binwasnaker &amp; K3 Kemnaker RI</span>
+                </div>
+              </div>
+            </div>
           </div>
-          <Link
-            href="/pelatihan/ahli-k3-umum/tryout"
-            className="shrink-0 bg-slate-950 hover:bg-slate-900 text-white font-black text-xs px-6 py-3.5 rounded-xl shadow-md transition-all flex items-center gap-2"
-          >
-            <span>Mulai Tryout 50 Soal</span>
-            <ArrowRight className="w-4 h-4" />
-          </Link>
-        </div>
+        </section>
 
-        {/* 3-Tiered Comparison Pricing Matrix (Midiatama / AhliK3 Style) */}
-        <section className="space-y-6">
-          <div className="text-center max-w-3xl mx-auto space-y-2">
+        {/* Live Scheduled Batches Section (If Available) */}
+        {programBatches.length > 0 && (
+          <section className="bg-gradient-to-r from-primary-900 to-slate-900 text-white p-6 sm:p-8 rounded-3xl border border-primary-800 shadow-lg space-y-4">
+            <div className="flex flex-wrap items-center justify-between gap-4">
+              <div>
+                <span className="text-xs font-bold text-amber-400 uppercase tracking-wider block">
+                  JADWAL AKTIF TAHUN 2026
+                </span>
+                <h2 className="text-xl font-bold text-white">
+                  Pendaftaran Batch Pelatihan {program.name} yang Sedang Dibuka
+                </h2>
+              </div>
+              <Link
+                href="/jadwal"
+                className="text-xs font-bold text-slate-300 hover:text-white underline flex items-center gap-1"
+              >
+                Lihat Kalender Lengkap &rarr;
+              </Link>
+            </div>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
+              {programBatches.map((batch) => (
+                <div key={batch.slug} className="bg-white/10 border border-white/15 p-4 rounded-2xl backdrop-blur-md space-y-3">
+                  <div className="flex items-center justify-between text-xs">
+                    <span className="font-bold text-amber-300">Batch {batch.batch_number || '2026'}</span>
+                    <span className="bg-emerald-500/20 text-emerald-300 text-[10px] font-bold px-2 py-0.5 rounded">
+                      {batch.is_online ? 'Online Zoom' : batch.location_name}
+                    </span>
+                  </div>
+                  <div className="space-y-1 text-xs">
+                    <span className="text-slate-300 block flex items-center gap-1">
+                      <Calendar className="w-3.5 h-3.5 text-slate-400" />
+                      {batch.start_date} {batch.end_date ? `s/d ${batch.end_date}` : ''}
+                    </span>
+                  </div>
+                  <Link
+                    href={`/jadwal/${batch.slug}`}
+                    className="w-full block text-center bg-white hover:bg-slate-100 text-slate-900 font-bold text-xs py-2 rounded-xl transition-all"
+                  >
+                    Rincian Batch &amp; Pendaftaran &rarr;
+                  </Link>
+                </div>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* 3-Tier Pricing Packages */}
+        <section id="biaya-paket" className="space-y-6">
+          <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold uppercase tracking-wider text-primary-700 bg-primary-50 px-3 py-1 rounded-md">
-              SKEMA INVESTASI RESMI 2026
+              PILIHAN PAKET INVESTASI
             </span>
-            <h2 className="text-2xl sm:text-4xl font-black text-slate-900">
-              Pilihan Paket Pelatihan {program.name}
+            <h2 className="text-2xl sm:text-3xl font-black text-slate-900">
+              Biaya &amp; Paket Pelatihan {program.name} (Tahun 2026)
             </h2>
             <p className="text-xs sm:text-sm text-slate-600">
-              Pilih paket yang sesuai dengan kebutuhan kualifikasi personal maupun penunjukan resmi kepatuhan perusahaan Anda.
+              Transparan tanpa biaya tersembunyi. Sudah termasuk ujian, sertifikat resmi, dan fasilitas lengkap.
             </p>
           </div>
 
@@ -317,29 +355,29 @@ export default async function ProgramPage({ params }: { params: Promise<{ slug: 
             {packages.map((pkg, idx) => (
               <div
                 key={idx}
-                className={`bg-white rounded-3xl p-6 sm:p-8 border flex flex-col justify-between transition-all ${
-                  pkg.popular 
-                    ? 'border-primary-500 shadow-2xl ring-2 ring-primary-500/20 relative' 
+                className={`bg-white rounded-3xl p-6 sm:p-8 border transition-all flex flex-col justify-between relative ${
+                  pkg.popular
+                    ? 'border-primary-600 shadow-xl ring-2 ring-primary-600/20'
                     : 'border-slate-200 shadow-sm hover:shadow-md'
                 }`}
               >
                 {pkg.popular && (
-                  <div className="absolute -top-3.5 left-1/2 -translate-x-1/2 bg-gradient-to-r from-emerald-600 to-primary-700 text-white font-black text-[11px] uppercase tracking-wider px-3.5 py-1 rounded-full shadow">
+                  <span className="absolute -top-3.5 left-1/2 -translate-x-1/2 bg-gradient-to-r from-amber-500 to-amber-600 text-white font-black text-[10px] uppercase tracking-wider px-3.5 py-1 rounded-full shadow">
                     {pkg.badge}
-                  </div>
+                  </span>
                 )}
 
                 <div className="space-y-4">
-                  <div>
-                    <span className="text-xs font-bold text-primary-700 uppercase tracking-wider block mb-1">
-                      {pkg.name}
+                  <div className="space-y-1">
+                    <h3 className="text-base font-bold text-slate-900">{pkg.name}</h3>
+                    <p className="text-xs text-slate-500">{pkg.desc}</p>
+                  </div>
+
+                  <div className="pt-2">
+                    <span className="text-[11px] text-slate-400 block font-medium">Biaya Investasi:</span>
+                    <span className="text-2xl sm:text-3xl font-black text-slate-900">
+                      Rp {pkg.price.toLocaleString('id-ID')}
                     </span>
-                    <div className="flex items-baseline gap-1 mt-2">
-                      <span className="text-xs text-slate-500 font-semibold">Rp</span>
-                      <span className="text-3xl font-black text-slate-900">{pkg.price.toLocaleString('id-ID')}</span>
-                      <span className="text-xs text-slate-400">/orang</span>
-                    </div>
-                    <p className="text-xs text-slate-500 mt-2 leading-relaxed">{pkg.desc}</p>
                   </div>
 
                   <div className="pt-4 border-t border-slate-100 space-y-2.5">
@@ -364,7 +402,7 @@ export default async function ProgramPage({ params }: { params: Promise<{ slug: 
                         : 'bg-slate-900 hover:bg-slate-800 text-white'
                     }`}
                   >
-                    {pkg.cta} →
+                    {pkg.cta} &rarr;
                   </a>
                 </div>
               </div>
@@ -474,7 +512,7 @@ export default async function ProgramPage({ params }: { params: Promise<{ slug: 
                 rel="noopener nofollow"
                 className="w-full block text-center bg-emerald-600 hover:bg-emerald-700 text-white font-black text-xs py-3 px-4 rounded-xl shadow transition-all"
               >
-                Chat WhatsApp Admin →
+                Chat WhatsApp Admin &rarr;
               </a>
             </div>
 
@@ -501,8 +539,59 @@ export default async function ProgramPage({ params }: { params: Promise<{ slug: 
                 </div>
               </div>
             )}
+
+            {/* Available Training Centers in Major Cities */}
+            {topLocations.length > 0 && (
+              <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm space-y-4">
+                <h3 className="text-sm font-bold text-slate-900 flex items-center gap-2">
+                  <MapPin className="w-4 h-4 text-primary-700" />
+                  Pusat Pelatihan di Kota Industri
+                </h3>
+                <div className="flex flex-wrap gap-1.5">
+                  {topLocations.map((loc) => (
+                    <Link
+                      key={loc.slug}
+                      href={`/cabang/${loc.slug}`}
+                      className="text-xs bg-slate-100 hover:bg-primary-100 text-slate-700 hover:text-primary-800 font-medium px-2.5 py-1 rounded-lg transition-colors"
+                    >
+                      {loc.name}
+                    </Link>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* Relevant Industry Applications */}
+            {relevantIndustries.length > 0 && (
+              <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm space-y-4">
+                <h3 className="text-sm font-bold text-slate-900 flex items-center gap-2">
+                  <Building2 className="w-4 h-4 text-primary-700" />
+                  Penerapan di Sektor Industri
+                </h3>
+                <div className="flex flex-wrap gap-1.5">
+                  {relevantIndustries.map((ind) => (
+                    <Link
+                      key={ind.slug}
+                      href={`/industri/${ind.slug}`}
+                      className="text-xs bg-slate-100 hover:bg-blue-100 text-slate-700 hover:text-blue-800 font-medium px-2.5 py-1 rounded-lg transition-colors"
+                    >
+                      {ind.name}
+                    </Link>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
         </div>
+
+        {/* Bottom Silo Hub Cross-Links */}
+        <SiloHubCrosslinks
+          programs={getPrograms().filter(p => p.slug !== program.slug).slice(0, 6)}
+          industries={relevantIndustries}
+          locations={topLocations}
+          batches={programBatches.length > 0 ? programBatches : getBatches().slice(0, 6)}
+          currentType="program"
+        />
       </div>
     </>
   );
