@@ -273,7 +273,7 @@ export default async function MitraSlugPage({ params }: Props) {
               {m.relevant_offering_slugs.map((progSlug: string, idx: number) => (
                 <Link
                   key={idx}
-                  href={`/pelatihan/${progSlug}`}
+                  href={['jembatan-skpi-sertifikasi-profesi-bnsp', 'budaya-kerja-industri-5s-dan-k3-siswa-smk'].includes(progSlug) ? `/edukasi/${progSlug}` : `/pelatihan/${progSlug}`}
                   className="px-3 py-1.5 bg-white border border-slate-200 hover:border-blue-500 hover:text-blue-600 text-xs font-bold text-slate-800 rounded-lg transition-colors flex items-center gap-1 shadow-2xs"
                 >
                   <ShieldCheck className="w-3.5 h-3.5 text-blue-600" />

@@ -2480,8 +2480,8 @@
         },
         "relevant_offering_slugs": [
             "ahli-k3-kimia",
-            "k3-ruang-terbatas-madya",
-            "incident-commander-tanggap-darurat"
+            "petugas-k3-ruang-terbatas-confined-space-madya",
+            "pelatihan-manajemen-tanggap-darurat-incident-commander"
         ]
     },
     {
@@ -2540,7 +2540,7 @@
         },
         "relevant_offering_slugs": [
             "operator-boiler-kelas-1",
-            "teknisi-k3-bejana-tekan-tangki-timbun",
+            "pelatihan-k3-bejana-tekan-dan-tangki-timbun-pubt",
             "ahli-k3-umum"
         ]
     },
@@ -2599,8 +2599,8 @@
             "Pelaporan Bahaya K3": "+180% Meningkat"
         },
         "relevant_offering_slugs": [
-            "smkp-minerba-esdm",
-            "k3-ruang-terbatas-madya",
+            "sistem-manajemen-keselamatan-pertambangan-smkp",
+            "petugas-k3-ruang-terbatas-confined-space-madya",
             "ahli-k3-umum"
         ]
     },
@@ -2660,7 +2660,7 @@
         },
         "relevant_offering_slugs": [
             "operator-forklift-kelas-1",
-            "petugas-p3k-kemnaker",
+            "petugas-p3k",
             "ahli-k3-umum"
         ]
     },
@@ -2721,7 +2721,7 @@
         "relevant_offering_slugs": [
             "pengawas-k3-rumah-sakit",
             "pengelolaan-limbah-b3-plb3-bnsp",
-            "k3-kebakaran-kelas-d"
+            "petugas-peran-kebakaran-kelas-d"
         ]
     },
     {
@@ -2780,8 +2780,8 @@
         },
         "relevant_offering_slugs": [
             "operator-crane-kelas-1",
-            "rigger-juru-ikat-beban-kemnaker",
-            "csms-kontraktor"
+            "rigger-juru-ikat-beban",
+            "csms-contractor-safety-management-system"
         ]
     },
     {
@@ -2900,7 +2900,7 @@
         },
         "relevant_offering_slugs": [
             "ahli-k3-lingkungan-kerja",
-            "k3-kebakaran-kelas-b",
+            "koordinator-unit-p-keb-kelas-b",
             "ahli-k3-umum"
         ]
     }

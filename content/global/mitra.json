@@ -84,8 +84,8 @@
         "delivery_method": "In-House Onsite Training di Tembagapura & Virtual Hybrid Mentoring",
         "relevant_offering_slugs": [
             "ahli-k3-umum",
-            "k3-ruang-terbatas-madya",
-            "pengawas-k3-tambang-pop"
+            "petugas-k3-ruang-terbatas-confined-space-madya",
+            "sistem-manajemen-keselamatan-pertambangan-smkp"
         ]
     },
     {
@@ -165,9 +165,9 @@
         },
         "delivery_method": "Onsite Field Simulation & Training Center Rumbai",
         "relevant_offering_slugs": [
-            "pengawas-k3-migas",
-            "csms-kontraktor",
-            "teknisi-k3-bejana-tekan-tangki-timbun"
+            "pengawas-k3-industri-migas",
+            "csms-contractor-safety-management-system",
+            "pelatihan-k3-bejana-tekan-dan-tangki-timbun-pubt"
         ]
     },
     {
@@ -249,7 +249,7 @@
         "delivery_method": "Onsite Tangguh Site & Intensive Hybrid Webinar",
         "relevant_offering_slugs": [
             "ahli-k3-lingkungan-kerja",
-            "pengawas-k3-scaffolding",
+            "pengawas-k3-scaffolding-perancah",
             "ahli-k3-umum"
         ]
     },
@@ -330,8 +330,8 @@
         },
         "delivery_method": "Offshore Onsite & Balikpapan Training Facility",
         "relevant_offering_slugs": [
-            "k3-ruang-terbatas-madya",
-            "incident-commander-tanggap-darurat",
+            "petugas-k3-ruang-terbatas-confined-space-madya",
+            "pelatihan-manajemen-tanggap-darurat-incident-commander",
             "ahli-k3-umum"
         ]
     },
@@ -407,7 +407,7 @@
         "relevant_offering_slugs": [
             "ahli-k3-kimia",
             "internal-auditor-smk3-pp-50-2012",
-            "pengawas-k3-migas"
+            "pengawas-k3-industri-migas"
         ]
     },
     {
@@ -482,7 +482,7 @@
         "relevant_offering_slugs": [
             "ahli-k3-listrik",
             "teknisi-k3-listrik",
-            "k3-kebakaran-kelas-b"
+            "koordinator-unit-p-keb-kelas-b"
         ]
     },
     {
@@ -555,8 +555,8 @@
         },
         "delivery_method": "Jakarta Corporate Office & Virtual Interactive Workshop",
         "relevant_offering_slugs": [
-            "penyusunan-pertek-limbah-b3-emisi",
-            "pengawas-k3-migas",
+            "pelatihan-penanggung-jawab-teknis-pertek-limbah-b3",
+            "pengawas-k3-industri-migas",
             "ahli-k3-lingkungan-kerja"
         ]
     },
@@ -637,8 +637,8 @@
         "delivery_method": "Onsite Field Geothermal Camp Wayang Windu & Salak",
         "relevant_offering_slugs": [
             "ahli-k3-listrik",
-            "k3-ruang-terbatas-madya",
-            "incident-commander-tanggap-darurat"
+            "petugas-k3-ruang-terbatas-confined-space-madya",
+            "pelatihan-manajemen-tanggap-darurat-incident-commander"
         ]
     },
     {
@@ -718,9 +718,9 @@
         },
         "delivery_method": "Onsite Sanga-Sanga Base & Balikpapan Training Hall",
         "relevant_offering_slugs": [
-            "operator-kompresor-udara-ptp",
-            "csms-kontraktor",
-            "pengawas-k3-migas"
+            "pelatihan-penggerak-mula-kompresor-kemnaker",
+            "csms-contractor-safety-management-system",
+            "pengawas-k3-industri-migas"
         ]
     },
     {
@@ -793,8 +793,8 @@
         },
         "delivery_method": "Balikpapan Shorebase Training & FPU Offshore Simulation",
         "relevant_offering_slugs": [
-            "k3-ruang-terbatas-madya",
-            "pengawas-k3-migas",
+            "petugas-k3-ruang-terbatas-confined-space-madya",
+            "pengawas-k3-industri-migas",
             "ahli-k3-umum"
         ]
     },
@@ -876,7 +876,7 @@
         "delivery_method": "Medco Training Center Jakarta & Onsite Rimau Block",
         "relevant_offering_slugs": [
             "ahli-k3-umum",
-            "csms-kontraktor",
+            "csms-contractor-safety-management-system",
             "internal-auditor-smk3-pp-50-2012"
         ]
     },
@@ -958,7 +958,7 @@
         },
         "delivery_method": "Badak Learning Center Bontang & Onsite Plant Tour",
         "relevant_offering_slugs": [
-            "teknisi-k3-bejana-tekan-tangki-timbun",
+            "pelatihan-k3-bejana-tekan-dan-tangki-timbun-pubt",
             "ahli-k3-kimia",
             "ahli-k3-umum"
         ]
@@ -1042,8 +1042,8 @@
         "delivery_method": "Pertamina Corporate University, In-House Refinery, & Hybrid Online",
         "relevant_offering_slugs": [
             "ahli-k3-umum",
-            "csms-kontraktor",
-            "k3-ruang-terbatas-madya"
+            "csms-contractor-safety-management-system",
+            "petugas-k3-ruang-terbatas-confined-space-madya"
         ]
     },
     {
@@ -1203,7 +1203,7 @@
         "delivery_method": "PLTU Paiton / Gresik & PJB Academy Surabaya",
         "relevant_offering_slugs": [
             "operator-boiler-kelas-1",
-            "k3-ruang-terbatas-madya",
+            "petugas-k3-ruang-terbatas-confined-space-madya",
             "ahli-k3-umum"
         ]
     },
@@ -1276,8 +1276,8 @@
         },
         "delivery_method": "Onsite Tabalong Mine Site & Virtual Hybrid Class",
         "relevant_offering_slugs": [
-            "operator-excavator-bnsp",
-            "smkp-minerba-esdm",
+            "operator-alat-gali-muat-excavator-bnsp",
+            "sistem-manajemen-keselamatan-pertambangan-smkp",
             "ahli-k3-umum"
         ]
     },
@@ -1593,7 +1593,7 @@
         },
         "delivery_method": "Plant Narogong / Tuban & Practical Tower Rigging",
         "relevant_offering_slugs": [
-            "k3-ruang-terbatas-madya",
+            "petugas-k3-ruang-terbatas-confined-space-madya",
             "internal-auditor-smk3-pp-50-2012",
             "ahli-k3-umum"
         ]
@@ -1665,8 +1665,8 @@
         },
         "delivery_method": "Plaza Mandiri Jakarta & Onsite Evacuation Drill",
         "relevant_offering_slugs": [
-            "k3-kebakaran-kelas-d",
-            "petugas-p3k-kemnaker",
+            "petugas-peran-kebakaran-kelas-d",
+            "petugas-p3k",
             "ahli-k3-umum"
         ]
     },
@@ -1738,8 +1738,8 @@
         "delivery_method": "BRI Corporate University Jakarta & Online Webinar",
         "relevant_offering_slugs": [
             "ahli-k3-umum",
-            "petugas-p3k-kemnaker",
-            "k3-kebakaran-kelas-d"
+            "petugas-p3k",
+            "petugas-peran-kebakaran-kelas-d"
         ]
     },
     {
@@ -1809,8 +1809,8 @@
         },
         "delivery_method": "Menara BTN Jakarta Onsite Workshop",
         "relevant_offering_slugs": [
-            "k3-kebakaran-kelas-d",
-            "petugas-p3k-kemnaker",
+            "petugas-peran-kebakaran-kelas-d",
+            "petugas-p3k",
             "ahli-k3-umum"
         ]
     },
@@ -1886,7 +1886,7 @@
         "delivery_method": "Diklat Pupuk Kaltim Bontang & Ammonia Plant Simulation",
         "relevant_offering_slugs": [
             "ahli-k3-kimia",
-            "popal-air-limbah-bnsp",
+            "penanggung-jawab-operasional-pengolahan-air-limbah-popal",
             "ahli-k3-umum"
         ]
     },
@@ -1961,8 +1961,8 @@
         },
         "delivery_method": "Pusdiklat Pupuk Kujang Cikampek",
         "relevant_offering_slugs": [
-            "pppu-emisi-udara-bnsp",
-            "k3-ruang-terbatas-madya",
+            "penanggung-jawab-pengendalian-pencemaran-udara-pppu",
+            "petugas-k3-ruang-terbatas-confined-space-madya",
             "ahli-k3-kimia"
         ]
     },
@@ -2259,8 +2259,8 @@
         "delivery_method": "Graha Sucofindo Jakarta & Environmental Field Sampling Lab",
         "relevant_offering_slugs": [
             "internal-auditor-smk3-pp-50-2012",
-            "lead-auditor-eksternal-smk3-kemnaker-ri",
-            "petugas-sampling-air-pcua-bnsp"
+            "lead-auditor-smk3-pp-50-2012-kemnaker",
+            "petugas-pengambil-contoh-uji-air-pcua"
         ]
     },
     {
@@ -2334,8 +2334,8 @@
         "delivery_method": "Halliburton Base Cikarang & Balikpapan Onsite",
         "relevant_offering_slugs": [
             "ahli-k3-kimia",
-            "k3-ruang-terbatas-madya",
-            "pengawas-k3-migas"
+            "petugas-k3-ruang-terbatas-confined-space-madya",
+            "pengawas-k3-industri-migas"
         ]
     },
     {
@@ -2408,9 +2408,9 @@
         },
         "delivery_method": "SLB Training Base Cikarang & Duri Logistics Hub",
         "relevant_offering_slugs": [
-            "teknisi-k3-bejana-tekan-tangki-timbun",
-            "rigger-juru-ikat-beban-kemnaker",
-            "pengawas-k3-migas"
+            "pelatihan-k3-bejana-tekan-dan-tangki-timbun-pubt",
+            "rigger-juru-ikat-beban",
+            "pengawas-k3-industri-migas"
         ]
     },
     {
@@ -2467,8 +2467,8 @@
         "delivery_method": "WIKA Tower Jakarta & Onsite Proyek Strategis Nasional",
         "relevant_offering_slugs": [
             "petugas-k3-konstruksi",
-            "ahli-madya-k3-konstruksi-jenjang-8",
-            "pengawas-k3-scaffolding"
+            "ahli-madya-k3-konstruksi",
+            "pengawas-k3-scaffolding-perancah"
         ]
     },
     {
@@ -2519,7 +2519,7 @@
         "delivery_method": "Waskita Heritage Training Hall & Onsite Proyek Tol Layang",
         "relevant_offering_slugs": [
             "operator-crane-kelas-1",
-            "rigger-juru-ikat-beban-kemnaker",
+            "rigger-juru-ikat-beban",
             "ahli-k3-umum"
         ]
     },
@@ -2572,7 +2572,7 @@
         "relevant_offering_slugs": [
             "petugas-k3-konstruksi",
             "ahli-k3-umum",
-            "pengawas-k3-scaffolding"
+            "pengawas-k3-scaffolding-perancah"
         ]
     },
     {
@@ -2680,7 +2680,7 @@
         },
         "delivery_method": "UBPN Kolaka Sulawesi Tenggara & Tambang Pongkor Bogor",
         "relevant_offering_slugs": [
-            "smkp-minerba-esdm",
+            "sistem-manajemen-keselamatan-pertambangan-smkp",
             "ahli-k3-kimia",
             "ahli-k3-umum"
         ]
@@ -2791,7 +2791,7 @@
         "delivery_method": "Pusdiklat Petrokimia Gresik & Onsite Plant Practical Facility",
         "relevant_offering_slugs": [
             "ahli-k3-kimia",
-            "k3-ruang-terbatas-madya",
+            "petugas-k3-ruang-terbatas-confined-space-madya",
             "pengelolaan-limbah-b3-plb3-bnsp"
         ]
     },
@@ -2895,8 +2895,8 @@
         "delivery_method": "Distribution Center Balaraja & Alfa Tower Tangerang",
         "relevant_offering_slugs": [
             "operator-forklift-kelas-1",
-            "k3-kebakaran-kelas-d",
-            "petugas-p3k-kemnaker"
+            "petugas-peran-kebakaran-kelas-d",
+            "petugas-p3k"
         ]
     },
     {
@@ -3154,8 +3154,8 @@
         },
         "delivery_method": "PAMA Training Center Balikpapan & Site Sangatta / Adaro",
         "relevant_offering_slugs": [
-            "operator-excavator-bnsp",
-            "smkp-minerba-esdm",
+            "operator-alat-gali-muat-excavator-bnsp",
+            "sistem-manajemen-keselamatan-pertambangan-smkp",
             "ahli-k3-umum"
         ]
     },
@@ -3208,7 +3208,7 @@
         "relevant_offering_slugs": [
             "ahli-k3-listrik",
             "ahli-k3-umum",
-            "petugas-p3k-kemnaker"
+            "petugas-p3k"
         ]
     },
     {
@@ -3310,7 +3310,7 @@
         },
         "delivery_method": "Jawa-1 Power Plant Project Site Cilamaya & Jakarta Office",
         "relevant_offering_slugs": [
-            "pengawas-k3-scaffolding",
+            "pengawas-k3-scaffolding-perancah",
             "operator-crane-kelas-1",
             "ahli-k3-umum"
         ]
@@ -3362,8 +3362,8 @@
         },
         "delivery_method": "Betara Gas Plant Jambi & Jakarta Learning Base",
         "relevant_offering_slugs": [
-            "pengawas-k3-migas",
-            "k3-ruang-terbatas-madya",
+            "pengawas-k3-industri-migas",
+            "petugas-k3-ruang-terbatas-confined-space-madya",
             "ahli-k3-kimia"
         ]
     },
@@ -3519,7 +3519,7 @@
         "delivery_method": "SIG Training Center Tuban & Pabrik Indarung Padang",
         "relevant_offering_slugs": [
             "ahli-k3-umum",
-            "k3-ruang-terbatas-madya",
+            "petugas-k3-ruang-terbatas-confined-space-madya",
             "internal-auditor-smk3-pp-50-2012"
         ]
     },
@@ -3571,7 +3571,7 @@
         "delivery_method": "Workshop Pabrik Barata Gresik",
         "relevant_offering_slugs": [
             "operator-overhead-crane-kelas-3",
-            "k3-ruang-terbatas-madya",
+            "petugas-k3-ruang-terbatas-confined-space-madya",
             "ahli-k3-umum"
         ]
     },
