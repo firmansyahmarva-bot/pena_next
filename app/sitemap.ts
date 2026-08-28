@@ -13,6 +13,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Static root routes & Special Landing Pages
   const staticRoutes: MetadataRoute.Sitemap = [
     { url: baseUrl, lastModified: now, changeFrequency: 'daily', priority: 1.0 },
+    { url: `${baseUrl}/k3`, lastModified: now, changeFrequency: 'daily', priority: 0.95 },
     { url: `${baseUrl}/pelatihan`, lastModified: now, changeFrequency: 'daily', priority: 0.9 },
     { url: `${baseUrl}/webinar`, lastModified: now, changeFrequency: 'daily', priority: 0.9 },
     { url: `${baseUrl}/webinar-gratis`, lastModified: now, changeFrequency: 'daily', priority: 0.9 },
