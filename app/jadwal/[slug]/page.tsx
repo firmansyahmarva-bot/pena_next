@@ -19,7 +19,8 @@ import {
   BookOpen,
   Laptop,
   Building2,
-  HelpCircle
+  HelpCircle,
+  Tag
 } from 'lucide-react';
 import { getBatches, getBatchBySlug, getProgramBySlug, getWaLink } from '@/lib/data';
 import { BreadcrumbJsonLd } from '@/components/JsonLd';
@@ -38,9 +39,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const batch = getBatchBySlug(slug);
   if (!batch) return {};
 
+  const program = batch.offering_slug ? getProgramBySlug(batch.offering_slug) : null;
   const certTitle = batch.certification_body === 'kemnaker' ? 'Kemnaker RI' : 'BNSP';
-  const pageTitle = `Jadwal Pendaftaran ${batch.offering_name} Batch ${batch.batch_number} (Tahun 2026)`;
-  const pageDesc = `Informasi resmi pendaftaran ${batch.offering_name} Batch ${batch.batch_number} sertifikasi ${certTitle}. Jadwal ${batch.start_date} s/d ${batch.end_date || 'selesai'}, metode ${batch.is_online ? 'Online Zoom' : `Onsite ${batch.location_name}`}, kuota terbatas.`;
+  const pageTitle = `Jadwal & Biaya Pendaftaran ${batch.offering_name} Batch ${batch.batch_number} (Tahun 2026)`;
+  const pageDesc = `Informasi resmi pendaftaran ${batch.offering_name} Batch ${batch.batch_number} sertifikasi ${certTitle}. Jadwal ${batch.start_date} s/d ${batch.end_date || 'selesai'}, metode ${batch.is_online ? 'Online Zoom' : `Onsite ${batch.location_name}`}, investasi resmi bersertifikat.`;
   const pageUrl = `https://penaconsultant.com/jadwal/${slug}`;
 
   return {
@@ -72,6 +74,11 @@ export default async function BatchPage({ params }: Props) {
 
   const program = batch.offering_slug ? getProgramBySlug(batch.offering_slug) : null;
   const certName = batch.certification_body === 'kemnaker' ? 'Kementerian Ketenagakerjaan RI (Kemnaker)' : 'Badan Nasional Sertifikasi Profesi (BNSP)';
+
+  // Consistent pricing formula matching /pelatihan/[slug]
+  const basePrice = program?.base_price || batch.normal_price || 6500000;
+  const freshGradPrice = Math.round(basePrice * 0.75 / 100000) * 100000;
+  const corporatePrice = basePrice;
 
   const breadcrumbs = [
     { name: 'Home', url: 'https://penaconsultant.com' },
@@ -106,7 +113,7 @@ export default async function BatchPage({ params }: Props) {
         },
     offers: {
       '@type': 'Offer',
-      price: batch.promo_price || batch.normal_price || 0,
+      price: corporatePrice,
       priceCurrency: 'IDR',
       availability: 'https://schema.org/InStock',
       url: `https://penaconsultant.com/jadwal/${batch.slug}`,
@@ -119,7 +126,7 @@ export default async function BatchPage({ params }: Props) {
     },
   };
 
-  const waMessage = `Halo Admin PENA Consultant, saya ingin mendaftar ${batch.offering_name} Batch #${batch.batch_number} (Jadwal: ${batch.start_date} s/d ${batch.end_date || 'selesai'}). Mohon informasi ketersediaan kursi dan formulir pendaftaran.`;
+  const waMessage = `Halo Admin PENA Consultant, saya ingin mendaftar ${batch.offering_name} Batch #${batch.batch_number} (Jadwal: ${batch.start_date} s/d ${batch.end_date || 'selesai'}). Mohon informasi ketersediaan kursi dan formulir pendaftaran resmi.`;
 
   return (
     <>
@@ -181,19 +188,17 @@ export default async function BatchPage({ params }: Props) {
             <div>
               <span className="text-[11px] font-bold text-slate-400 uppercase tracking-wider block mb-1">Durasi Program:</span>
               <span className="text-xs sm:text-sm font-bold text-slate-800">
-                {program?.duration || '12 Hari Pembinaan'}
+                {program?.duration || 'Sesuai Standar'}
               </span>
             </div>
             <div>
               <span className="text-[11px] font-bold text-slate-400 uppercase tracking-wider block mb-1">Biaya Investasi:</span>
               <div>
-                {batch.promo_price && (
-                  <span className="text-xs sm:text-sm font-black text-emerald-700 block">
-                    Rp {batch.promo_price.toLocaleString('id-ID')}
-                  </span>
-                )}
-                <span className={`text-[11px] ${batch.promo_price ? 'line-through text-slate-400' : 'font-black text-slate-900'}`}>
-                  {batch.normal_price ? `Rp ${batch.normal_price.toLocaleString('id-ID')}` : 'Hubungi Admin'}
+                <span className="text-xs sm:text-sm font-black text-slate-900 block">
+                  Rp {corporatePrice.toLocaleString('id-ID')}
+                </span>
+                <span className="text-[10px] text-emerald-700 font-semibold">
+                  Mulai Rp {freshGradPrice.toLocaleString('id-ID')} (Umum/Fresh Grad)
                 </span>
               </div>
             </div>
@@ -230,7 +235,7 @@ export default async function BatchPage({ params }: Props) {
               </h2>
             </div>
             <span className="text-xs font-bold bg-blue-50 text-blue-800 px-3 py-1.5 rounded-lg border border-blue-200">
-              Terstandar Kemnaker / BNSP
+              Terstandar {certName}
             </span>
           </div>
 
@@ -356,7 +361,7 @@ export default async function BatchPage({ params }: Props) {
               : `Kelas tatap muka dilaksanakan di Tempat Uji Kompetensi (TUK) resmi PENA Consultant di ${batch.location_name}. Dilengkapi ruang kelas modern ber-AC, proyektor multimedia, konsumsi harian (lunch & coffee break), serta peralatan praktikum keselamatan lengkap.`}
           </p>
           <div className="flex flex-wrap gap-2 text-xs font-semibold text-slate-700">
-            <span className="bg-white border border-slate-200 px-3 py-1 rounded-lg">✓ Kuota Terbatas Max 25 Peserta</span>
+            <span className="bg-white border border-slate-200 px-3 py-1 rounded-lg">✓ Kuota Terbatas Max 25-30 Peserta</span>
             <span className="bg-white border border-slate-200 px-3 py-1 rounded-lg">✓ Instruktur Berlisensi Pengawas</span>
             <span className="bg-white border border-slate-200 px-3 py-1 rounded-lg">✓ Bantuan Pengisian Berkas Pendaftaran</span>
           </div>
@@ -399,7 +404,7 @@ export default async function BatchPage({ params }: Props) {
               Amankan Kursi Anda di Batch #{batch.batch_number}
             </h3>
             <p className="text-xs sm:text-sm text-slate-300 mt-1">
-              Hubungi tim admin untuk formulir registrasi instan dan penawaran invoice perusahaan.
+              Hubungi tim admin untuk formulir registrasi resmi dan penawaran invoice perusahaan.
             </p>
           </div>
           <a

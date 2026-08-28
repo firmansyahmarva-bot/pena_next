@@ -104,8 +104,8 @@
             "end_date": "2026-11-04",
             "is_online": true,
             "mode": "online",
-            "normal_price": 4500000,
-            "promo_price": 3800000,
+            "normal_price": 3800000,
+            "promo_price": 2900000,
             "location_name": "Online Zoom",
             "availability": "available"
         }

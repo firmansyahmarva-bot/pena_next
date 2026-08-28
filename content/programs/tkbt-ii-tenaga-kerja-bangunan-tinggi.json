@@ -145,8 +145,8 @@
             "end_date": "2026-08-07",
             "is_online": false,
             "mode": "offline",
-            "normal_price": 5500000,
-            "promo_price": 3370000,
+            "normal_price": 5750000,
+            "promo_price": 4300000,
             "location_name": "TUK Onsite",
             "availability": "available"
         },
@@ -158,8 +158,8 @@
             "end_date": "2026-09-11",
             "is_online": false,
             "mode": "offline",
-            "normal_price": 5500000,
-            "promo_price": 3370000,
+            "normal_price": 5750000,
+            "promo_price": 4300000,
             "location_name": "TUK Onsite",
             "availability": "available"
         },
@@ -171,8 +171,8 @@
             "end_date": "2026-10-09",
             "is_online": false,
             "mode": "offline",
-            "normal_price": 5500000,
-            "promo_price": 3370000,
+            "normal_price": 5750000,
+            "promo_price": 4300000,
             "location_name": "TUK Onsite",
             "availability": "available"
         },
@@ -184,8 +184,8 @@
             "end_date": "2026-11-06",
             "is_online": false,
             "mode": "offline",
-            "normal_price": 5500000,
-            "promo_price": 3370000,
+            "normal_price": 5750000,
+            "promo_price": 4300000,
             "location_name": "TUK Onsite",
             "availability": "available"
         },
@@ -197,8 +197,8 @@
             "end_date": "2026-12-11",
             "is_online": false,
             "mode": "offline",
-            "normal_price": 5500000,
-            "promo_price": 3370000,
+            "normal_price": 5750000,
+            "promo_price": 4300000,
             "location_name": "TUK Onsite",
             "availability": "available"
         },
@@ -210,8 +210,8 @@
             "end_date": "2027-01-08",
             "is_online": false,
             "mode": "offline",
-            "normal_price": 5500000,
-            "promo_price": 3370000,
+            "normal_price": 5750000,
+            "promo_price": 4300000,
             "location_name": "TUK Onsite",
             "availability": "available"
         }

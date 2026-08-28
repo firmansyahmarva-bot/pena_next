@@ -112,8 +112,8 @@
             "end_date": "2026-11-20",
             "is_online": false,
             "mode": "offline",
-            "normal_price": 9500000,
-            "promo_price": 8500000,
+            "normal_price": 8500000,
+            "promo_price": 6400000,
             "location_name": "TUK Onsite",
             "availability": "available"
         }

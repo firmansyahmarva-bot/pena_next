@@ -2,7 +2,7 @@ import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { Calendar, ShieldCheck, MapPin, ArrowRight, Laptop, Building2, Clock, Users, CheckCircle2 } from 'lucide-react';
-import { getBatches, getWaLink } from '@/lib/data';
+import { getBatches, getProgramBySlug, getWaLink } from '@/lib/data';
 import { BreadcrumbJsonLd } from '@/components/JsonLd';
 
 export const metadata: Metadata = {
@@ -87,62 +87,62 @@ export default function JadwalHubPage() {
               </tr>
             </thead>
             <tbody className="divide-y divide-slate-200">
-              {batches.map((b) => (
-                <tr key={b.id} className="hover:bg-slate-50/80 transition-colors">
-                  <td className="px-6 py-4">
-                    <Link href={`/jadwal/${b.slug}`} className="font-bold text-slate-900 hover:text-blue-600 block">
-                      {b.offering_name}
-                    </Link>
-                    <span className="text-[11px] font-semibold text-slate-400">Batch #{b.batch_number}</span>
-                  </td>
-                  <td className="px-6 py-4">
-                    <span className="inline-flex items-center gap-1 font-semibold text-xs text-blue-900 bg-blue-50 px-2.5 py-1 rounded-md border border-blue-100">
-                      <ShieldCheck className="w-3.5 h-3.5 text-blue-600" />
-                      {b.certification_body === 'kemnaker' ? 'Kemnaker RI' : 'BNSP RI'}
-                    </span>
-                  </td>
-                  <td className="px-6 py-4 font-medium text-slate-900">
-                    <span className="flex items-center gap-1 text-xs sm:text-sm">
-                      <Calendar className="w-3.5 h-3.5 text-slate-400" /> {b.start_date}
-                    </span>
-                  </td>
-                  <td className="px-6 py-4 text-xs">
-                    <span className="flex items-center gap-1 font-medium text-slate-700">
-                      {b.is_online ? <Laptop className="w-3.5 h-3.5 text-blue-600" /> : <Building2 className="w-3.5 h-3.5 text-slate-500" />}
-                      {b.is_online ? 'Online Zoom' : `Onsite ${b.location_name}`}
-                    </span>
-                  </td>
-                  <td className="px-6 py-4">
-                    {b.promo_price ? (
+              {batches.map((b) => {
+                const prog = b.offering_slug ? getProgramBySlug(b.offering_slug) : null;
+                const basePrice = prog?.base_price || b.normal_price || 6500000;
+                const freshGradPrice = Math.round(basePrice * 0.75 / 100000) * 100000;
+
+                return (
+                  <tr key={b.id} className="hover:bg-slate-50/80 transition-colors">
+                    <td className="px-6 py-4">
+                      <Link href={`/jadwal/${b.slug}`} className="font-bold text-slate-900 hover:text-blue-600 block">
+                        {b.offering_name}
+                      </Link>
+                      <span className="text-[11px] font-semibold text-slate-400">Batch #{b.batch_number}</span>
+                    </td>
+                    <td className="px-6 py-4">
+                      <span className="inline-flex items-center gap-1 font-semibold text-xs text-blue-900 bg-blue-50 px-2.5 py-1 rounded-md border border-blue-100">
+                        <ShieldCheck className="w-3.5 h-3.5 text-blue-600" />
+                        {b.certification_body === 'kemnaker' ? 'Kemnaker RI' : 'BNSP RI'}
+                      </span>
+                    </td>
+                    <td className="px-6 py-4 font-medium text-slate-900">
+                      <span className="flex items-center gap-1 text-xs sm:text-sm">
+                        <Calendar className="w-3.5 h-3.5 text-slate-400" /> {b.start_date}
+                      </span>
+                    </td>
+                    <td className="px-6 py-4 text-xs">
+                      <span className="flex items-center gap-1 font-medium text-slate-700">
+                        {b.is_online ? <Laptop className="w-3.5 h-3.5 text-blue-600" /> : <Building2 className="w-3.5 h-3.5 text-slate-500" />}
+                        {b.is_online ? 'Online Zoom' : `Onsite ${b.location_name}`}
+                      </span>
+                    </td>
+                    <td className="px-6 py-4">
                       <div>
-                        <span className="font-black text-emerald-700 block text-xs sm:text-sm">
-                          Rp {b.promo_price.toLocaleString('id-ID')}
+                        <span className="font-black text-slate-900 block text-xs sm:text-sm">
+                          Rp {basePrice.toLocaleString('id-ID')}
                         </span>
-                        <span className="text-[10px] text-slate-400 line-through">
-                          Rp {b.normal_price?.toLocaleString('id-ID')}
+                        <span className="text-[10px] text-emerald-700 font-semibold block">
+                          Mulai Rp {freshGradPrice.toLocaleString('id-ID')}
                         </span>
                       </div>
-                    ) : (
-                      <span className="font-black text-slate-900 text-xs sm:text-sm">
-                        {b.normal_price ? `Rp ${b.normal_price.toLocaleString('id-ID')}` : 'Hubungi Admin'}
+                    </td>
+                    <td className="px-6 py-4">
+                      <span className="inline-block px-2.5 py-1 rounded-md text-[11px] font-bold bg-emerald-50 text-emerald-700 border border-emerald-200">
+                        {b.availability === 'available' ? 'Tersedia' : 'Sisa 3 Kursi'}
                       </span>
-                    )}
-                  </td>
-                  <td className="px-6 py-4">
-                    <span className="inline-block px-2.5 py-1 rounded-md text-[11px] font-bold bg-emerald-50 text-emerald-700 border border-emerald-200">
-                      {b.availability === 'available' ? 'Tersedia' : 'Sisa 3 Kursi'}
-                    </span>
-                  </td>
-                  <td className="px-6 py-4 text-center">
-                    <Link
-                      href={`/jadwal/${b.slug}`}
-                      className="inline-flex items-center justify-center gap-1 px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg text-xs font-bold transition-colors shadow-2xs"
-                    >
-                      Detail &amp; Daftar <ArrowRight className="w-3 h-3" />
-                    </Link>
-                  </td>
-                </tr>
-              ))}
+                    </td>
+                    <td className="px-6 py-4 text-center">
+                      <Link
+                        href={`/jadwal/${b.slug}`}
+                        className="inline-flex items-center justify-center gap-1 px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg text-xs font-bold transition-colors shadow-2xs"
+                      >
+                        Detail &amp; Daftar <ArrowRight className="w-3 h-3" />
+                      </Link>
+                    </td>
+                  </tr>
+                );
+              })}
             </tbody>
           </table>
         </div>
