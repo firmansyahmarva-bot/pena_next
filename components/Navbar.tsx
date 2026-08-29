@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
-import { Shield, Menu, X, Phone, Calendar, BookOpen, Building2, MapPin, Video, HelpCircle } from 'lucide-react';
+import { Shield, Menu, X, Phone, Calendar, BookOpen, Building2, MapPin, Award } from 'lucide-react';
 import { getWaLink } from '@/lib/types';
 
 export default function Navbar() {
@@ -10,12 +10,11 @@ export default function Navbar() {
 
   const navLinks = [
     { name: 'Pelatihan K3', href: '/pelatihan', icon: Shield },
-    { name: 'Webinar Online', href: '/webinar-gratis', icon: Video },
-    { name: 'Jadwal 2026', href: '/jadwal', icon: Calendar },
+    { name: 'Ahli K3 Umum', href: '/pelatihan/ahli-k3-umum', icon: Award },
+    { name: 'Jadwal Pelatihan', href: '/jadwal', icon: Calendar },
     { name: 'Panduan K3', href: '/panduan', icon: BookOpen },
     { name: 'Cabang & TUK', href: '/cabang', icon: MapPin },
-    { name: 'Sektor Industri', href: '/industri', icon: Building2 },
-    { name: 'FAQ', href: '/faq', icon: HelpCircle },
+    { name: 'Industri', href: '/industri', icon: Building2 },
   ];
 
   return (
