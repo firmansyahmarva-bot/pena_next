@@ -1,0 +1,61 @@
+{
+  "id": "01kyw9k_cara_memilih_pjk3_resmi",
+  "title": "Cara Memilih Lembaga Pelatihan K3 Resmi: Panduan Verifikasi PJK3 Kemnaker RI",
+  "slug": "cara-memilih-lembaga-pelatihan-k3-resmi",
+  "path": "/panduan/regulasi-k3/cara-memilih-lembaga-pelatihan-k3-resmi",
+  "role": "article",
+  "cluster": {
+    "name": "Regulasi K3",
+    "slug": "regulasi-k3"
+  },
+  "summary": "Panduan lengkap cara memverifikasi legalitas PJK3 resmi Kemnaker RI via portal TemanK3, ciri lembaga sertifikasi abal-abal, dan tips memilih mitra training terpercaya.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Tingginya permintaan sertifikasi K3 di Indonesia sayangnya diiringi oleh maraknya penipuan berkedok pelatihan K3 murah yang menerbitkan sertifikat tidak resmi atau tanpa SKP terdaftar di Kementerian Ketenagakerjaan RI. Bagi individu maupun perusahaan, menggunakan sertifikat tidak resmi berakibat fatal pada diskualifikasi tender proyek dan risiko sanksi hukum ketenagakerjaan."
+    },
+    {
+      "type": "citation",
+      "text": "Penunjukan Perusahaan Jasa Keselamatan dan Kesehatan Kerja (PJK3) — Pelatihan dan pembinaan sertifikasi K3 resmi hanya sah diselenggarakan oleh badan hukum yang mengantongi Surat Keputusan Penunjukan (SKP) PJK3 Bidang Pembinaan dari Kemnaker RI.",
+      "source": "Permenaker No. Per-04/MEN/1995"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5 Ciri Utama PJK3 Resmi & Kredibel"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Memiliki SKP PJK3 Bidang Pembinaan K3 yang Masih Aktif: Diterbitkan langsung oleh Direktur Jenderal Binwasnaker dan Pengujian K3 Kemnaker RI dengan nomor registrasi yang dapat divalidasi.",
+        "Terdaftar dan Aktif di Portal TemanK3 (temank3.kemnaker.go.id): Seluruh peserta terdata dalam database resmi Kemnaker sejak hari pertama pendaftaran dan presensi tervalidasi sistem digital.",
+        "Instruktur Pengawas dan Penguji Resmi: Sesi materi dibawakan langsung oleh Pejabat Fungsional Pengawas Ketenagakerjaan Spesialis K3 dan Master Trainer bersertifikat TOT.",
+        "Fasilitas TUK dan Sertifikasi BNSP Terakreditasi: Memiliki Tempat Uji Kompetensi (TUK) resmi dengan lisensi LSP K3 BNSP yang terdaftar.",
+        "Transparansi Biaya dan Komitmen Administrasi: Menjamin kepengurusan SKP, Lisensi Kewenangan K3, dan legalisir berkas hingga tuntas tanpa biaya tersembunyi."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Langkah Step-by-Step Cek Legalitas PJK3 di Portal TemanK3"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Langkah 1: Kunjungi situs resmi Kementerian Ketenagakerjaan di https://temank3.kemnaker.go.id.",
+        "Langkah 2: Buka menu \"Lembaga K3\" atau \"Daftar PJK3 Terdaftar\".",
+        "Langkah 3: Masukkan nama lembaga (contoh: PENA Consultant / PT Mitra Pena K3) pada kolom pencarian.",
+        "Langkah 4: Periksa nomor SKP PJK3, bidang keahlian yang disetujui (Pembinaan K3), dan masa berlaku izin operasional."
+      ]
+    },
+    {
+      "type": "callout",
+      "title": "Waspadai Indikasi Sertifikasi K3 Abal-Abal",
+      "text": "Hindari tawaran pelatihan kilat 1-2 hari untuk Ahli K3 Umum, janji kelulusan instan tanpa ujian komprehensif, sertifikat tanpa nomor registrasi Kemnaker RI yang tidak bisa diverifikasi di TemanK3, atau harga yang jauh di bawah biaya resmi operasional."
+    }
+  ],
+  "related_offering_slug": "ahli-k3-umum",
+  "meta_title": "Cara Memilih Lembaga Pelatihan K3 Resmi: Cek PJK3 Kemnaker",
+  "meta_description": "Panduan lengkap cara memverifikasi keaslian lembaga pelatihan K3 resmi Kemnaker RI via TemanK3, ciri PJK3 terpercaya, dan cara menghindari sertifikat bodong.",
+  "published_at": "2026-08-30T00:00:00.000Z"
+}

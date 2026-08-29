@@ -1,0 +1,69 @@
+{
+  "id": "01kyw9k_k3_umum_perusahaan",
+  "title": "Ahli K3 Umum untuk Perusahaan: Kewajiban Hukum, P2K3, & Pengurusan SKP",
+  "slug": "ahli-k3-umum-untuk-perusahaan",
+  "path": "/panduan/regulasi-k3/ahli-k3-umum-untuk-perusahaan",
+  "role": "article",
+  "cluster": {
+    "name": "Regulasi K3",
+    "slug": "regulasi-k3"
+  },
+  "summary": "Kewajiban regulasi perusahaan memiliki Ahli K3 Umum ber-SKP, pembentukan Panitia Pembina K3 (P2K3), wewenang hukum pengawasan internal, dan sanksi audit.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Bagi entitas korporat, keberadaan personil bersertifikat dan ber-SKP Ahli K3 Umum bukan sekadar nilai tambah operasional, melainkan mandat regulasi ketenagakerjaan yang bersifat mutlak dengan implikasi hukum langsung terhadap legalitas izin usaha dan hasil audit SMK3."
+    },
+    {
+      "type": "citation",
+      "text": "Kewajiban Pembentukan P2K3 — Tempat kerja yang mempekerjakan 100 orang atau lebih, atau kurang dari 100 orang dengan tingkat bahaya sangat tinggi, wajib membentuk Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3).",
+      "source": "UU No. 1 Tahun 1970 Pasal 10 & Permenaker No. Per-04/MEN/1987"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Peran Kunci Ahli K3 Umum sebagai Sekretaris P2K3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Berdasarkan Permenaker No. 04/MEN/1987 Pasal 3 Ayat 2, Sekretaris P2K3 wajib dijabat oleh Ahli K3 Umum dari perusahaan yang bersangkutan. Tanggung jawab hukumnya mencakup:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Penyusunan Rencana Kerja K3: Merumuskan program kerja keselamatan tahunan, sasaran K3, dan alokasi anggaran implementasi SMK3.",
+        "Investigasi & Analisis Insiden: Melakukan penyelidikan atas setiap kecelakaan kerja, penyakit akibat kerja (PAK), dan insiden nyaris celaka (near miss).",
+        "Pelaporan Triwulan P2K3: Menyusun laporan periodik pelaksanaan kegiatan K3 setiap 3 bulan sekali kepada Dinas Tenaga Kerja (Disnaker) provinsi setempat.",
+        "Pimpinan Audit Internal SMK3: Memimpin pelaksanaan audit internal berkala berdasarkan 64, 122, atau 166 kriteria PP No. 50 Tahun 2012."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Prosedur Pengajuan Surat Keputusan Penunjukan (SKP) Perusahaan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sertifikat kelulusan pembinaan membuktikan kompetensi individu. Namun, agar individu tersebut sah bertindak sebagai Ahli K3 atas nama perusahaan, perusahaan wajib mengajukan SKP ke Direktur Bina Kelembagaan K3 Kemnaker RI dengan melampirkan berkas:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Surat permohonan resmi penunjukan Ahli K3 dari pimpinan / direktur utama perusahaan.",
+        "Salinan Ijazah minimal D3/S1 (semua jurusan) dan Salinan Sertifikat Pembinaan Calon Ahli K3 Umum Kemnaker RI.",
+        "Surat keterangan pengalaman kerja minimal 2 (dua) tahun di bidang keselamatan kerja atau surat penugasan personil K3 penuh waktu.",
+        "Bukti kepesertaan aktif BPJS Ketenagakerjaan dan BPJS Kesehatan atas nama personil yang bersangkutan.",
+        "Bagan struktur organisasi P2K3 yang telah disahkan pimpinan perusahaan."
+      ]
+    },
+    {
+      "type": "callout",
+      "title": "Masa Berlaku SKP & Ketentuan Mutasi",
+      "text": "Berdasarkan Permenaker No. 02/MEN/1992 Pasal 8, SKP berlaku selama 3 (tiga) tahun dan wajib diperpanjang sebelum masa berlaku habis. Jika personil mengundurkan diri atau pindah kerja, SKP pada perusahaan lama otomatis tidak berlaku dan perusahaan baru wajib mengajukan proses mutasi SKP."
+    }
+  ],
+  "related_offering_slug": "ahli-k3-umum",
+  "meta_title": "Ahli K3 Umum untuk Perusahaan: Kewajiban P2K3 & Pengurusan SKP",
+  "meta_description": "Pelajari kewajiban hukum perusahaan memiliki Ahli K3 Umum, peran sekretaris P2K3, syarat berkas pengajuan SKP Kemnaker, dan risiko sanksi audit.",
+  "published_at": "2026-08-30T00:00:00.000Z"
+}

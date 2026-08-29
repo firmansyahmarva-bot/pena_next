@@ -1,0 +1,88 @@
+{
+  "id": "01kyw9k_inhouse_k3_perusahaan",
+  "title": "Pelatihan K3 In-House Training Perusahaan: Kustomisasi Silabus & Efisiensi",
+  "slug": "pelatihan-k3-inhouse-training-perusahaan",
+  "path": "/panduan/smk3/pelatihan-k3-inhouse-training-perusahaan",
+  "role": "article",
+  "cluster": {
+    "name": "SMK3",
+    "slug": "smk3"
+  },
+  "summary": "Panduan lengkap penyelenggaraan in-house training K3 korporat di lokasi pabrik/site dengan silabus kustom sesuai HIRADC dan efisiensi anggaran operasional.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "In-House Training (IHT) K3 merupakan skema pembinaan keselamatan dan kesehatan kerja yang diselenggarakan secara privat dan eksklusif bagi karyawan internal satu korporasi di lokasi kantor, pabrik, maupun site proyek operasional klien."
+    },
+    {
+      "type": "citation",
+      "text": "Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) — Pengusaha wajib memastikan setiap pekerja memperoleh pelatihan dan pendidikan K3 yang sesuai dengan risiko bahaya pada tempat kerjanya.",
+      "source": "Peraturan Pemerintah No. 50 Tahun 2012 Elemen 3.2"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Keuntungan Strategis In-House Training untuk Perusahaan"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Kustomisasi Silabus Sesuai HIRADC/IBPR Perusahaan: Studi kasus, video, dan prosedur darurat yang dibahas 100% relevan dengan bahaya spesifik pabrik (misal: penanganan bahan kimia beracun, pekerjaan panas, atau ruang terbatas).",
+        "Penghematan Anggaran Signifikan: Mengeliminasi biaya perjalanan dinas, tiket pesawat, kamar hotel, dan uang saku harian puluhan karyawan ke training center eksternal.",
+        "Penjadwalan Fleksibel: Waktu pelatihan dapat disesuaikan per shift atau batch kerja sehingga tidak mengganggu target kontinuitas produksi industri.",
+        "Praktik pada Peralatan Kerja Asli: Peserta berlatih menggunakan jaringan hidran pabrik, APAR internal, jalur evakuasi riil, dan sistem Lockout-Tagout (LOTO) fasilitas sendiri.",
+        "Penguatan Budaya Keselamatan Kerja Kolektif: Menumbuhkan kesadaran safety yang seragam antara level operator, supervisor, dan manajemen puncak."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Program Unggulan In-House Training K3"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Program Pelatihan K3",
+        "Sasaran Peserta",
+        "Durasi Standar",
+        "Sertifikasi"
+      ],
+      "rows": [
+        [
+          "Basic Safety Awareness & Hazard Identification",
+          "Seluruh Karyawan & Operator Produksi",
+          "1 – 2 Hari",
+          "PENA Consultant / Sertifikat Internal"
+        ],
+        [
+          "Petugas Penanggulangan Kebakaran (Kelas D & C)",
+          "Tim Emergency Response Team (ERT) Pabrik",
+          "3 Hari",
+          "Kemnaker RI / BNSP"
+        ],
+        [
+          "Petugas Pertolongan Pertama (P3K di Tempat Kerja)",
+          "Perwakilan First Aider Tiap Divisi / Shift",
+          "3 Hari",
+          "Kemnaker RI"
+        ],
+        [
+          "K3 Bekerja di Ketinggian (Working at Height - TKPK 1)",
+          "Teknisi Maintenance, Scaffolder, & Sipil",
+          "3 – 4 Hari",
+          "Kemnaker RI"
+        ],
+        [
+          "Internal Auditor SMK3 PP 50/2012 & ISO 45001",
+          "Tim Auditor Internal K3, HSE Officer, & Manager",
+          "2 – 3 Hari",
+          "Kemnaker RI / IRCA"
+        ]
+      ]
+    }
+  ],
+  "related_offering_slug": "ahli-k3-umum",
+  "meta_title": "Pelatihan K3 In-House Training Perusahaan: Kustomisasi & Biaya",
+  "meta_description": "Temukan keunggulan in-house training K3 untuk perusahaan, kustomisasi silabus sesuai risiko kerja, fleksibilitas shift, dan efisiensi biaya korporat.",
+  "published_at": "2026-08-30T00:00:00.000Z"
+}

@@ -1,0 +1,132 @@
+{
+  "id": "01kyw9k_durasi_k3_umum_kemnaker",
+  "title": "Durasi Pelatihan Ahli K3 Umum Kemnaker: Rincian 120 JP, Silabus, & Jadwal",
+  "slug": "durasi-pelatihan-ahli-k3-umum-kemnaker",
+  "path": "/panduan/sertifikasi-k3/durasi-pelatihan-ahli-k3-umum-kemnaker",
+  "role": "article",
+  "cluster": {
+    "name": "Sertifikasi K3",
+    "slug": "sertifikasi-k3"
+  },
+  "summary": "Rincian lengkap durasi pelatihan Ahli K3 Umum Kemnaker RI sebanyak 120 Jam Pelajaran (JP) selama 12 hari kerja efektif, mencakup alokasi modul teori, PKL, seminar, dan ujian CAT.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Pelatihan dan Pembinaan Calon Ahli Keselamatan dan Kesehatan Kerja (K3) Umum merupakan program sertifikasi profesi resmi yang diatur secara ketat oleh Direktorat Bina Pengawasan Ketenagakerjaan dan Pengujian K3 (Binwasnaker & Pengujian K3) Kementerian Ketenagakerjaan Republik Indonesia. Standar kurikulum nasional menetapkan bahwa program ini memiliki beban belajar minimal 120 Jam Pelajaran (JP) yang ditempuh selama 12 hari kerja efektif (sekitar 2 minggu kalender)."
+    },
+    {
+      "type": "citation",
+      "text": "Pedoman Pembinaan Calon Ahli Keselamatan dan Kesehatan Kerja (K3) Umum — menetapkan kurikulum baku 120 JP yang terdiri dari kelompok dasar, kelompok inti, kelompok penunjang, Praktik Kerja Lapangan (PKL), dan evaluasi.",
+      "source": "Keputusan Direktur Jenderal Pembinaan Pengawasan Ketenagakerjaan No. Kep. 69/PPK/XII/2011"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rincian Pembagian 120 Jam Pelajaran (JP)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Satu Jam Pelajaran (JP) dalam standar diklat Kemnaker RI berdurasi 45 menit pembelajaran aktif. Total 120 JP dialokasikan secara proporsional ke dalam 4 kelompok modul pembelajaran utama:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Kelompok Kurikulum",
+        "Alokasi Waktu",
+        "Materi & Pokok Bahasan Utama"
+      ],
+      "rows": [
+        [
+          "1. Kelompok Dasar (Regulasi & Kelembagaan)",
+          "15 JP",
+          "Kebijakan K3 Nasional, Pokok-pokok UU No. 1 Tahun 1970, Pengawasan Ketenagakerjaan, Kelembagaan P2K3, dan Tata Cara Penunjukan Ahli K3 (Permenaker 02/1992)."
+        ],
+        [
+          "2. Kelompok Inti (Keahlian Teknis Sektoral)",
+          "65 JP",
+          "K3 Mekanik & Pesawat Angkat-Angkut (Permenaker 08/2020), K3 Pesawat Uap & Bejana Tekan (Permenaker 37/2016), K3 Listrik & Penyalur Petir (Permenaker 12/2015 & 31/2015), K3 Penanggulangan Kebakaran (Kepmenaker 186/1999), K3 Konstruksi Bangunan (Permenaker 01/1980), K3 Lingkungan Kerja & Bahan Berbahaya (Permenaker 05/2018 & Kepmenaker 187/1999), Kesehatan Kerja & Ergonomi (Permenaker 15/2008), serta SMK3 PP No. 50 Tahun 2012."
+        ],
+        [
+          "3. Praktik Kerja Lapangan (PKL)",
+          "20 JP",
+          "Observasi lapangan di perusahaan sampling, identifikasi potensi bahaya (HIRADC), audit pemenuhan norma K3 di 4 bidang teknis (Mekanik/PUBT, Listrik/Kebakaran, Konstruksi/Lingkungan Kerja, Kesehatan Kerja)."
+        ],
+        [
+          "4. Evaluasi, Seminar Laporan, & Ujian",
+          "20 JP",
+          "Penyusunan laporan PKL kelompok, seminar dan tanya jawab di hadapan Pengawas Ketenagakerjaan Kemnaker RI, pre-test, post-test, dan Ujian Komprehensif CAT Kemnaker RI."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Struktur Jadwal Harian Pelatihan (08.00 – 17.00 WIB)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pelatihan diselenggarakan setiap hari Senin sampai Sabtu dengan ritme intensif 10 JP per hari guna memastikan seluruh materi dapat diserap maksimal:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "08.00 – 08.15 WIB: Presensi digital melalui portal TemanK3 Kemnaker RI dan safety briefing harian.",
+        "08.15 – 10.00 WIB: Sesi Perkuliahan Teori Sesi 1 (Penyampaian modul regulasi / norma teknis oleh Pengawas Kemnaker).",
+        "10.00 – 10.15 WIB: Coffee Break pagi & rehat singkat.",
+        "10.15 – 12.00 WIB: Sesi Perkuliahan Teori Sesi 2 & Pembahasan Studi Kasus Kecelakaan Kerja.",
+        "12.00 – 13.00 WIB: Istirahat, Sholat, dan Makan Siang (ISHOMA).",
+        "13.00 – 15.00 WIB: Sesi Perkuliahan Teknis Sesi 3 & Praktik Analisis Kepatuhan Regulasi.",
+        "15.00 – 15.15 WIB: Coffee Break sore.",
+        "15.15 – 17.00 WIB: Diskusi Kelompok, Bedah Peraturan Terkait, dan Kuis Harian Persiapan Ujian CAT."
+      ]
+    },
+    {
+      "type": "callout",
+      "title": "Ketentuan Kehadiran Mutlak 100%",
+      "text": "Kemnaker RI mewajibkan presensi 100% dari seluruh 120 JP. Ketidakhadiran tanpa izin resmi menyebabkan gugurnya hak peserta mengikuti ujian komprehensif akhir dan membatalkan penerbitan SKP Ahli K3 Umum."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Perbandingan Durasi: Kemnaker RI vs BNSP"
+    },
+    {
+      "type": "paragraph",
+      "text": "Banyak calon peserta keliru membandingkan durasi 12 hari Kemnaker dengan program 2-4 hari BNSP. Keduanya memiliki filosofi dan tujuan hukum yang berbeda:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Parameter Evaluasi",
+        "Ahli K3 Umum Kemnaker RI",
+        "Ahli K3 Umum BNSP"
+      ],
+      "rows": [
+        [
+          "Durasi Pelatihan",
+          "12 Hari Kerja (120 Jam Pelajaran)",
+          "2 – 4 Hari Kerja (Asesmen & Pembekalan)"
+        ],
+        [
+          "Metode Pelaksanaan",
+          "Pembinaan pemahaman regulasi perundangan secara menyeluruh",
+          "Uji kompetensi portofolio bukti kerja & wawancara asesor"
+        ],
+        [
+          "Prasyarat Pengalaman",
+          "Fresh Graduate (D3/S1) atau Praktisi baru diperbolehkan",
+          "Wajib memiliki portofolio bukti kerja K3 minimal 6 bulan – 2 tahun"
+        ],
+        [
+          "Keluaran Berkas Resmi",
+          "Sertifikat Kemnaker, SKP Ahli K3 (jika diutus PT), & Lisensi Kewenangan",
+          "Sertifikat Kompetensi Kerja Nasional Indonesia (SKKNI) BNSP"
+        ]
+      ]
+    }
+  ],
+  "related_offering_slug": "ahli-k3-umum",
+  "meta_title": "Durasi Pelatihan Ahli K3 Umum Kemnaker: Rincian 120 JP & Jadwal",
+  "meta_description": "Pelajari rincian durasi pelatihan Ahli K3 Umum Kemnaker RI 120 JP selama 12 hari kerja, timeline harian, materi modul, PKL, dan perbandingannya dengan BNSP.",
+  "published_at": "2026-08-30T00:00:00.000Z"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "01kyw9k_k3_umum_online_kemnaker",
+  "title": "Ahli K3 Umum Online Kemnaker: Mekanisme Blended Learning & Ujian CAT",
+  "slug": "ahli-k3-umum-online-kemnaker",
+  "path": "/panduan/sertifikasi-k3/ahli-k3-umum-online-kemnaker",
+  "role": "article",
+  "cluster": {
+    "name": "Sertifikasi K3",
+    "slug": "sertifikasi-k3"
+  },
+  "summary": "Panduan lengkap mekanisme pelatihan Ahli K3 Umum Online resmi Kemnaker RI via Blended Learning Zoom, presensi digital TemanK3, PKL virtual, dan ujian CAT.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Sejak diberlakukannya petunjuk teknis adaptasi digital oleh Kementerian Ketenagakerjaan RI, pembinaan Ahli K3 Umum metode online (Blended Learning) telah memiliki kekuatan hukum penuh. Sertifikat pembinaan, Surat Keputusan Penunjukan (SKP), dan Lisensi Kewenangan yang diterbitkan 100% identik dan memiliki keabsahan hukum yang sama dengan pelatihan tatap muka konvensional."
+    },
+    {
+      "type": "citation",
+      "text": "Petunjuk Teknis Penyelenggaraan Pembinaan Keselamatan dan Kesehatan Kerja (K3) Melalui Jarak Jauh (Blended / Online Learning).",
+      "source": "Kepdirjen Binwasnaker & K3 No. 5/158/AS.02/VI/2020"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Alur & Mekanisme Pelatihan Online 12 Hari"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pelatihan online Ahli K3 Umum Kemnaker RI diselenggarakan secara interaktif melalui kombinasi 3 pilar teknologi diklat:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Live Synchronous Webinar (Zoom Meeting): Sesi tatap muka virtual interaktif selama 12 hari penuh dipandu langsung oleh Pejabat Fungsional Pengawas Ketenagakerjaan Kemnaker RI dan praktisi senior K3.",
+        "Presensi Biometrik TemanK3: Validasi kehadiran peserta secara real-time pagi dan siang melalui portal TemanK3 (temank3.kemnaker.go.id) menggunakan verifikasi kamera aktif dan geo-tagging.",
+        "Praktik Kerja Lapangan (PKL) Virtual: Observasi video rekaman walkthrough fasilitas industri berisiko tinggi (pabrik peleburan, migas, atau konstruksi) dilanjutkan dengan analisis bahaya, checklist audit SMK3, dan penyusunan laporan PKL kelompok via breakout room Zoom."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sistem Ujian Computer Assisted Test (CAT) Kemnaker"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ujian akhir pembinaan Ahli K3 Umum online dilaksanakan secara terpusat melalui server Computer Assisted Test (CAT) Kementerian Ketenagakerjaan RI pada hari ke-11 dan ke-12:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Tahapan Ujian",
+        "Bentuk Soal & Pengujian",
+        "Passing Grade",
+        "Durasi Waktu"
+      ],
+      "rows": [
+        [
+          "1. Ujian Teori CAT (Pilihan Ganda)",
+          "100 Soal Pilihan Ganda (Regulasi & Teknis K3 Sektoral)",
+          "Nilai Minimal 70",
+          "90 Menit"
+        ],
+        [
+          "2. Ujian Studi Kasus & Esai",
+          "5 Soal Kasus Investigasi Kecelakaan & Kepatuhan Norma K3",
+          "Nilai Minimal 70",
+          "60 Menit"
+        ],
+        [
+          "3. Seminar Laporan PKL",
+          "Presentasi Laporan Kelompok & Tanya Jawab Penguji Kemnaker",
+          "Kategori Kompeten",
+          "30 Menit / Kelompok"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "title": "Spesifikasi Perangkat Wajib Peserta",
+      "text": "Peserta wajib menggunakan laptop atau PC desktop dengan webcam menyala sepanjang kelas berlangsung, headset/mikrofon jernih, serta koneksi internet stabil berkecepatan minimal 10 Mbps untuk menghindari diskualifikasi sistem CAT."
+    }
+  ],
+  "related_offering_slug": "ahli-k3-umum",
+  "meta_title": "Ahli K3 Umum Online Kemnaker: Blended Learning & Ujian CAT",
+  "meta_description": "Pelajari mekanisme pelatihan Ahli K3 Umum online resmi Kemnaker RI via Zoom, presensi digital TemanK3, PKL virtual, dan panduan ujian CAT.",
+  "published_at": "2026-08-30T00:00:00.000Z"
+}

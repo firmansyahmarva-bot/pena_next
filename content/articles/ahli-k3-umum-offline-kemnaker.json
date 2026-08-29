@@ -1,0 +1,80 @@
+{
+  "id": "01kyw9k_k3_umum_offline_kemnaker",
+  "title": "Ahli K3 Umum Offline Kemnaker: Kelas Tatap Muka & PKL Pabrik Riil",
+  "slug": "ahli-k3-umum-offline-kemnaker",
+  "path": "/panduan/sertifikasi-k3/ahli-k3-umum-offline-kemnaker",
+  "role": "article",
+  "cluster": {
+    "name": "Sertifikasi K3",
+    "slug": "sertifikasi-k3"
+  },
+  "summary": "Panduan lengkap kelas tatap muka pembinaan Ahli K3 Umum Kemnaker RI di Tempat Uji Kompetensi (TUK) PENA Consultant dengan fasilitas PKL pabrik riil.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Meskipun metode daring menawarkan efisiensi mobilitas, kelas tatap muka (offline training) tetap menjadi primadona bagi profesional dan utusan korporat yang menginginkan pembelajaran intensif, kalibrasi alat ukur lingkungan kerja secara fisik, dan inspeksi langsung ke lokasi pabrik/proyek."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Keunggulan Utama Kelas Offline Ahli K3 Umum"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Praktik Instrumen Uji Higiene Industri: Demonstrasi dan kalibrasi langsung alat pengukur kebisingan (Sound Level Meter / Dosimeter), pencahayaan (Lux Meter), deteksi gas beracun (4-Gas Multi Detector), dan pengukur iklim kerja (WBGT Heat Stress Meter).",
+        "Inspeksi PKL di Fasilitas Pabrik Mitra: Mengunjungi pabrik manufaktur, smelter, atau proyek konstruksi aktif untuk melakukan audit penerapan SMK3 PP 50/2012 secara langsung di lapangan.",
+        "Networking Lintas Sektoral: Berdiskusi dan membangun relasi profesional tatap muka dengan puluhan safety officer, engineer, dan HSE manager dari berbagai industri.",
+        "Fasilitas Pembinaan Lengkap: Modul fisik hardcopy, safety kit (Safety Helmet & High-Visibility Vest), tryout intensif, ruang kelas hotel berbintang, coffee break 2x sehari, dan makan siang prasmanan."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Jaringan TUK Offline PENA Consultant di 23 Kota"
+    },
+    {
+      "type": "paragraph",
+      "text": "PENA Consultant menyelenggarakan pembinaan offline reguler di pusat-pusat kawasan industri strategis nasional:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Wilayah Geografis",
+        "Kota Pusat Pelatihan (TUK)",
+        "Sektor Industri Mitra PKL"
+      ],
+      "rows": [
+        [
+          "DKI Jakarta & Banten",
+          "Jakarta Pusat, Cilegon, Tangerang",
+          "Manufaktur Kimia, Pembangkit Listrik (PLTU), dan Gedung Bertingkat"
+        ],
+        [
+          "Jawa Barat & Tengah",
+          "Bandung, Bekasi, Karawang, Semarang",
+          "Manufaktur Otomotif, Tekstil, dan Industri Komponen Presisi"
+        ],
+        [
+          "Jawa Timur & Bali",
+          "Surabaya, Sidoarjo, Gresik, Denpasar",
+          "Petrokimia, Pabrik Baja, dan Pariwisata / Perhotelan"
+        ],
+        [
+          "Sumatera",
+          "Medan, Batam, Pekanbaru, Palembang",
+          "Galangan Kapal (Shipyard), Kelapa Sawit, dan Kilang Migas"
+        ],
+        [
+          "Kalimantan & Sulawesi",
+          "Balikpapan, Samarinda, Makassar",
+          "Pertambangan Batubara, Logistik Pelabuhan, dan Smelter Nikel"
+        ]
+      ]
+    }
+  ],
+  "related_offering_slug": "ahli-k3-umum",
+  "meta_title": "Ahli K3 Umum Offline Kemnaker: Kelas Tatap Muka & PKL Pabrik",
+  "meta_description": "Temukan informasi kelas offline Ahli K3 Umum Kemnaker RI, praktik alat ukur higene, PKL industri riil, dan jadwal TUK offline di 23 kota.",
+  "published_at": "2026-08-30T00:00:00.000Z"
+}

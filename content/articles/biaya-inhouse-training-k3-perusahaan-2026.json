@@ -1,0 +1,86 @@
+{
+  "id": "01kyw9k_biaya_inhouse_k3_2026",
+  "title": "Biaya In-House Training K3 Perusahaan 2026: Komponen & Simulasi ROI",
+  "slug": "biaya-inhouse-training-k3-perusahaan-2026",
+  "path": "/panduan/smk3/biaya-inhouse-training-k3-perusahaan-2026",
+  "role": "article",
+  "cluster": {
+    "name": "SMK3",
+    "slug": "smk3"
+  },
+  "summary": "Rincian komponen biaya penawaran in-house training K3 korporat 2026, simulasi perbandingan penghematan biaya publik vs in-house, dan kalkulasi ROI kepatuhan.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Perencanaan anggaran pembinaan K3 korporat menuntut transparansi biaya antara skema perorangan (public training) dan skema rombongan (in-house training). In-house training menerapkan struktur harga paket flat kelompok (cohort pricing) yang memberikan efisiensi biaya luar biasa bagi perusahaan."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Komponen Pembentuk Penawaran In-House Training"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Honorarium Instruktur & Tim Asesor: Biaya pengajar resmi berlisensi Pengawas Ketenagakerjaan Kemnaker RI atau Master Trainer BNSP.",
+        "Biaya Penerbitan Sertifikat & Administrasi Resmi: Biaya registrasi, penerbitan sertifikat Kemnaker/BNSP, lisensi kewenangan, dan buku kerja per peserta.",
+        "Modul Pelatihan & Safety Starter Kit: Pengadaan modul cetak eksklusif, kumpulan undang-undang K3, tas diklat, ID card, dan suvenir keselamatan kerja.",
+        "Transportasi & Akomodasi Tim Trainer: Tiket perjalanan dinas, penginapan hotel, dan transportasi lokal instruktur menuju lokasi operasional klien.",
+        "Bahan Konsumabel Praktik: Tabung APAR isi ulang untuk praktik pemadaman api, manekin CPR, bahan P3K, atau gas kalibrasi uji emisi."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Simulasi Perbandingan Biaya: Public Class vs In-House Class"
+    },
+    {
+      "type": "paragraph",
+      "text": "Berikut simulasi riil perbandingan pembinaan K3 (contoh pelatihan Petugas P3K & Kebakaran untuk 20 orang karyawan):"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Komponen Pengeluaran",
+        "Opsi Public Training (20 Orang)",
+        "Opsi In-House Training (20 Orang)"
+      ],
+      "rows": [
+        [
+          "Biaya Pendaftaran / Kursus",
+          "Rp 90.000.000 (Rp 4.5 jt / orang)",
+          "Rp 50.000.000 (Paket Flat Corporate)"
+        ],
+        [
+          "Biaya Tiket & Transportasi Peserta",
+          "Rp 30.000.000 (Transportasi ke TUK)",
+          "Rp 0 (Diadakan di Site Pabrik Sendiri)"
+        ],
+        [
+          "Biaya Penginapan Hotel Peserta",
+          "Rp 48.000.000 (3 Hari x 20 orang)",
+          "Rp 0 (Karyawan tidak menginap)"
+        ],
+        [
+          "Total Pengeluaran Perusahaan",
+          "Rp 168.000.000",
+          "Rp 58.000.000 (Termasuk akomodasi trainer)"
+        ],
+        [
+          "Selisih Penghematan (Cost Saving)",
+          "—",
+          "Rp 110.000.000 (Hemat 65.5%)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "title": "Kapan In-House Training Mencapai Titik Impas (BEP)?",
+      "text": "Analisis Return on Investment (ROI) menunjukkan bahwa titik impas efisiensi in-house training tercapai ketika perusahaan mengikutsertakan minimal 8 hingga 10 orang peserta dalam satu kali sesi pembinaan."
+    }
+  ],
+  "related_offering_slug": "ahli-k3-umum",
+  "meta_title": "Biaya In-House Training K3 Perusahaan 2026: Simulasi & Hemat",
+  "meta_description": "Simulasi rincian biaya in-house training K3 korporat 2026, breakdown komponen penawaran harga, dan hitungan penghematan hingga 60% dibanding public class.",
+  "published_at": "2026-08-30T00:00:00.000Z"
+}
