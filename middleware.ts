@@ -16,56 +16,53 @@ const redisToken =
 
 const redis = redisUrl && redisToken ? new Redis({ url: redisUrl, token: redisToken }) : null;
 
-function logRedirect(sourcePath: string, targetPath: string, req: NextRequest) {
+async function logRedirect(sourcePath: string, targetPath: string, req: NextRequest) {
   if (!redis) return;
   const referrer = req.headers.get('referer') || 'direct';
   const now = new Date().toISOString();
 
-  // Fire-and-forget async logging so redirect speed is instantaneous
-  (async () => {
-    try {
-      const existing = await redis.hget<{
-        source_path: string;
-        target_path: string;
-        hits: number;
-        first_seen: string;
-        last_seen: string;
-        referrers: string[];
-      }>('pena:301_logs', sourcePath);
+  try {
+    const existing = await redis.hget<{
+      source_path: string;
+      target_path: string;
+      hits: number;
+      first_seen: string;
+      last_seen: string;
+      referrers: string[];
+    }>('pena:301_logs', sourcePath);
 
-      if (existing && typeof existing === 'object') {
-        const referrers = Array.isArray(existing.referrers) ? existing.referrers : [];
-        if (!referrers.includes(referrer)) referrers.push(referrer);
+    if (existing && typeof existing === 'object') {
+      const referrers = Array.isArray(existing.referrers) ? existing.referrers : [];
+      if (!referrers.includes(referrer)) referrers.push(referrer);
 
-        await redis.hset('pena:301_logs', {
-          [sourcePath]: {
-            source_path: sourcePath,
-            target_path: targetPath,
-            hits: (existing.hits || 0) + 1,
-            first_seen: existing.first_seen || existing.last_seen || now,
-            last_seen: now,
-            referrers: referrers.slice(-20),
-          },
-        });
-      } else {
-        await redis.hset('pena:301_logs', {
-          [sourcePath]: {
-            source_path: sourcePath,
-            target_path: targetPath,
-            hits: 1,
-            first_seen: now,
-            last_seen: now,
-            referrers: [referrer],
-          },
-        });
-      }
-    } catch {
-      // ignore logging errors
+      await redis.hset('pena:301_logs', {
+        [sourcePath]: {
+          source_path: sourcePath,
+          target_path: targetPath,
+          hits: (existing.hits || 0) + 1,
+          first_seen: existing.first_seen || existing.last_seen || now,
+          last_seen: now,
+          referrers: referrers.slice(-20),
+        },
+      });
+    } else {
+      await redis.hset('pena:301_logs', {
+        [sourcePath]: {
+          source_path: sourcePath,
+          target_path: targetPath,
+          hits: 1,
+          first_seen: now,
+          last_seen: now,
+          referrers: [referrer],
+        },
+      });
     }
-  })();
+  } catch {
+    // Ignore logging errors to ensure redirect is never blocked
+  }
 }
 
-export function middleware(request: NextRequest) {
+export async function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
   // Ignore static assets, api, and internal Next.js files
@@ -82,7 +79,7 @@ export function middleware(request: NextRequest) {
   const target = map[pathname] || (pathname.endsWith('/') && pathname.length > 1 ? map[pathname.slice(0, -1)] : null);
 
   if (target) {
-    logRedirect(pathname, target, request);
+    await logRedirect(pathname, target, request);
     if (target.startsWith('http')) {
       return NextResponse.redirect(target, 301);
     }
@@ -95,7 +92,7 @@ export function middleware(request: NextRequest) {
   if (pathname.startsWith('/artikel/')) {
     const slug = pathname.replace('/artikel/', '').replace(/\/$/, '');
     const targetPath = `/panduan/${slug}`;
-    logRedirect(pathname, targetPath, request);
+    await logRedirect(pathname, targetPath, request);
     const url = request.nextUrl.clone();
     url.pathname = targetPath;
     return NextResponse.redirect(url, 301);
@@ -104,7 +101,7 @@ export function middleware(request: NextRequest) {
   if (pathname.startsWith('/blog/')) {
     const slug = pathname.replace('/blog/', '').replace(/\/$/, '');
     const targetPath = `/panduan/${slug}`;
-    logRedirect(pathname, targetPath, request);
+    await logRedirect(pathname, targetPath, request);
     const url = request.nextUrl.clone();
     url.pathname = targetPath;
     return NextResponse.redirect(url, 301);
@@ -113,7 +110,7 @@ export function middleware(request: NextRequest) {
   if (pathname.startsWith('/post/')) {
     const slug = pathname.replace('/post/', '').replace(/\/$/, '');
     const targetPath = `/panduan/${slug}`;
-    logRedirect(pathname, targetPath, request);
+    await logRedirect(pathname, targetPath, request);
     const url = request.nextUrl.clone();
     url.pathname = targetPath;
     return NextResponse.redirect(url, 301);
@@ -122,7 +119,7 @@ export function middleware(request: NextRequest) {
   if (pathname.startsWith('/training/')) {
     const slug = pathname.replace('/training/', '').replace(/\/$/, '');
     const targetPath = `/pelatihan/${slug}`;
-    logRedirect(pathname, targetPath, request);
+    await logRedirect(pathname, targetPath, request);
     const url = request.nextUrl.clone();
     url.pathname = targetPath;
     return NextResponse.redirect(url, 301);
@@ -131,7 +128,7 @@ export function middleware(request: NextRequest) {
   if (pathname.startsWith('/kursus/')) {
     const slug = pathname.replace('/kursus/', '').replace(/\/$/, '');
     const targetPath = `/pelatihan/${slug}`;
-    logRedirect(pathname, targetPath, request);
+    await logRedirect(pathname, targetPath, request);
     const url = request.nextUrl.clone();
     url.pathname = targetPath;
     return NextResponse.redirect(url, 301);
@@ -140,7 +137,7 @@ export function middleware(request: NextRequest) {
   if (pathname.startsWith('/layanan/')) {
     const slug = pathname.replace('/layanan/', '').replace(/\/$/, '');
     const targetPath = `/pelatihan/${slug}`;
-    logRedirect(pathname, targetPath, request);
+    await logRedirect(pathname, targetPath, request);
     const url = request.nextUrl.clone();
     url.pathname = targetPath;
     return NextResponse.redirect(url, 301);
