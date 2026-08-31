@@ -3,7 +3,7 @@
   "/tryout": "/pelatihan/ahli-k3-umum/tryout",
   "/klien": "/mitra",
   "/pelatihan-inhouse": "/pelatihan",
-  "/pelatihan-online": "/webinar",
+  "/pelatihan-online": "/webinar-gratis",
   "/sertifikasi-bnsp": "/pelatihan",
   "/sertifikasi-kemnaker": "/pelatihan",
   "/konsultasi": "/pelatihan",
@@ -17,8 +17,6 @@
   "/tentang-kami/": "/tentang",
   "/k3/iso": "/pelatihan/internal-auditor-iso-45001-2018",
   "/k3/iso/": "/pelatihan/internal-auditor-iso-45001-2018",
-  "/rekan-pelatihan": "/pelatihan/ahli-k3-umum-2",
-  "/rekan-pelatihan/": "/pelatihan/ahli-k3-umum-2",
   "/artikel/kerajaan-mataram-islam-kejayaan-keruntuhan-warisan": "/panduan/kerajaan-mataram-islam-kejayaan-keruntuhan-warisan",
   "/artikel/kerajaan-mataram-islam-kejayaan-keruntuhan-warisan/": "/panduan/kerajaan-mataram-islam-kejayaan-keruntuhan-warisan",
   "/artikel/wisata-jogja-tersembunyi-belum-ramai-2025": "/panduan/wisata-jogja-tersembunyi-belum-ramai-2025",
@@ -3119,5 +3117,7 @@
   "/pelatihan/pelatihan-pppu/?lang=id": "/pelatihan/penanggung-jawab-pengendalian-pencemaran-udara-pppu",
   "/pelatihan/pelatihan-public-speaking": "/edukasi/speak-up-public-speaking-dan-presentasi-sidang",
   "/pelatihan/pelatihan-public-speaking/": "/edukasi/speak-up-public-speaking-dan-presentasi-sidang",
-  "/pelatihan/pelatihan-public-speaking/?lang=en": "/edukasi/speak-up-public-speaking-dan-presentasi-sidang"
+  "/pelatihan/pelatihan-public-speaking/?lang=en": "/edukasi/speak-up-public-speaking-dan-presentasi-sidang",
+  "/webinar": "/webinar-gratis",
+  "/webinar/": "/webinar-gratis"
 }

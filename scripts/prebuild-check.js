@@ -29,17 +29,36 @@ const instructors = loadGlobal('content/global/instructors.json');
 const mitra = loadGlobal('content/global/mitra.json');
 const caseStudies = loadGlobal('content/global/case_studies.json');
 
-const coreStatic = [
-  '/', '/k3', '/pelatihan', '/webinar', '/webinar-gratis', '/galeri',
-  '/pelatihan/ahli-k3-umum/tryout', '/panduan', '/jadwal', '/cabang',
-  '/industri', '/instruktur', '/mitra', '/studi-kasus', '/tentang',
-  '/kebijakan-privasi', '/faq', '/kontak',
+// Dynamically discover all static app routes in app/ folder
+function getStaticAppRoutes(dir, prefix) {
+  prefix = prefix || '';
+  let routes = [];
+  if (!fs.existsSync(dir)) return routes;
+  const files = fs.readdirSync(dir);
+  for (const file of files) {
+    const fullPath = path.join(dir, file);
+    const stat = fs.statSync(fullPath);
+    if (stat.isDirectory()) {
+      if (!file.startsWith('[') && file !== 'api') {
+        routes = routes.concat(getStaticAppRoutes(fullPath, prefix + '/' + file));
+      }
+    } else if (file === 'page.tsx' || file === 'page.ts' || file === 'page.js' || file === 'page.jsx') {
+      routes.push(prefix || '/');
+    }
+  }
+  return routes;
+}
+
+const staticAppRoutes = getStaticAppRoutes(path.join(rootDir, 'app'));
+
+const clusterHubs = [
   '/panduan/smk3', '/panduan/karier-k3', '/panduan/sertifikasi-k3',
   '/panduan/k3-teknis', '/panduan/regulasi-k3'
 ];
 
 const activeRoutes = new Set([
-  ...coreStatic,
+  ...staticAppRoutes,
+  ...clusterHubs,
   ...articles.map(s => '/panduan/' + s),
   ...programs.map(s => '/pelatihan/' + s),
   ...locations.map(s => '/cabang/' + s),
@@ -67,7 +86,7 @@ let errors = [];
 // RULE 1: FAIL if any active/live URL is also listed as a redirect source
 for (const source of Object.keys(redirectMap)) {
   const cleanSource = source.split('?')[0].replace(/\/+$/, '') || '/';
-  if (activeRoutes.has(cleanSource)) {
+  if (activeRoutes.has(cleanSource) || activeRoutes.has(source)) {
     errors.push(`Active URL is listed as a redirect source in legacyRedirectsMap: "${source}" -> "${redirectMap[source]}"`);
   }
 }

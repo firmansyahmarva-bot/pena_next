@@ -24,6 +24,7 @@
   "/cabang/surabaya",
   "/cabang/tangerang",
   "/cabang/yogyakarta",
+  "/edukasi",
   "/edukasi/ahli-k3-umum-goes-to-campus",
   "/edukasi/anti-prokrastinasi-skripsi-dan-tugas-akhir",
   "/edukasi/budaya-kerja-industri-5s-dan-k3-siswa-smk",
@@ -781,6 +782,7 @@
   "/pelatihan/welding-inspector-standard",
   "/pelatihan/welding-specialist-supervisor",
   "/pelatihan/welding-technologist-superintendent",
+  "/rekan-pelatihan",
   "/studi-kasus",
   "/studi-kasus/audit-integritas-bejana-tekan-sertifikasi-operator-boiler-pabrik-petrokimia",
   "/studi-kasus/k3-aviasi-ground-support-equipment-bandara-internasional",
@@ -795,6 +797,5 @@
   "/studi-kasus/transformasi-keselamatan-tambang-bawah-tanah-pembinaan-pengawas-pop",
   "/studi-kasus/zero-accident-movement-standardisasi-operasi-forklift-pusat-distribusi-fmcg",
   "/tentang",
-  "/webinar",
   "/webinar-gratis"
 ]
