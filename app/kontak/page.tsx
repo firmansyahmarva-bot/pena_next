@@ -63,7 +63,7 @@ export default function KontakPage() {
               <Mail className="w-5 h-5 text-primary-600 shrink-0" />
               <div>
                 <strong>Email Informasi:</strong>
-                <p>info@penaconsultant.co.id</p>
+                <p>info@penaconsultant.com</p>
               </div>
             </div>
           </div>

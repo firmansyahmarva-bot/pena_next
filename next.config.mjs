@@ -64,7 +64,12 @@ const nextConfig = {
       },
       {
         source: '/pelatihan-online',
-        destination: '/webinar',
+        destination: '/webinar-gratis',
+        permanent: true,
+      },
+      {
+        source: '/webinar',
+        destination: '/webinar-gratis',
         permanent: true,
       },
       {

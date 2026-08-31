@@ -15,7 +15,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: baseUrl, lastModified: now, changeFrequency: 'daily', priority: 1.0 },
     { url: `${baseUrl}/k3`, lastModified: now, changeFrequency: 'daily', priority: 0.95 },
     { url: `${baseUrl}/pelatihan`, lastModified: now, changeFrequency: 'daily', priority: 0.9 },
-    { url: `${baseUrl}/webinar`, lastModified: now, changeFrequency: 'daily', priority: 0.9 },
     { url: `${baseUrl}/webinar-gratis`, lastModified: now, changeFrequency: 'daily', priority: 0.9 },
     { url: `${baseUrl}/galeri`, lastModified: now, changeFrequency: 'weekly', priority: 0.7 },
     { url: `${baseUrl}/pelatihan/ahli-k3-umum/tryout`, lastModified: now, changeFrequency: 'daily', priority: 0.8 },
