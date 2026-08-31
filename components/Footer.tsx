@@ -216,6 +216,7 @@ export default function Footer() {
             <Link href="/faq" className="hover:text-slate-300">FAQ</Link>
             <Link href="/kontak" className="hover:text-slate-300">Kontak</Link>
             <Link href="/kebijakan-privasi" className="hover:text-slate-300">Kebijakan Privasi</Link>
+            <Link href="/rekan-pelatihan" className="hover:text-slate-300">Rekan Pelatihan</Link>
           </div>
         </div>
       </div>

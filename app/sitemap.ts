@@ -1,4 +1,4 @@
-import { MetadataRoute } from 'next';
+﻿import { MetadataRoute } from 'next';
 import { getPrograms, getArticles, getLocations, getIndustries, getBatches, getEducationPrograms } from '@/lib/data';
 import instructorsData from '@/content/global/instructors.json';
 import mitraData from '@/content/global/mitra.json';
@@ -29,6 +29,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${baseUrl}/kebijakan-privasi`, lastModified: now, changeFrequency: 'monthly', priority: 0.5 },
     { url: `${baseUrl}/faq`, lastModified: now, changeFrequency: 'monthly', priority: 0.6 },
     { url: `${baseUrl}/kontak`, lastModified: now, changeFrequency: 'monthly', priority: 0.6 },
+    { url: `${baseUrl}/rekan-pelatihan`, lastModified: now, changeFrequency: 'monthly', priority: 0.5 },
   ];
 
   // 5 Cluster Hubs: /panduan/smk3, /panduan/k3-teknis, etc.
