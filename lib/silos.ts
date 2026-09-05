@@ -1,4 +1,4 @@
-﻿import { Program, Article, Industry, Location, ScheduleBatch } from './types';
+import { Program, Article, Industry, Location, ScheduleBatch } from './types';
 import { getPrograms, getArticles, getIndustries, getLocations, getBatches } from './data';
 
 export interface ArticleSiloData {
@@ -129,9 +129,12 @@ export function getLocationSiloData(location: Location) {
     .filter(p => location.top_programs?.some(tp => p.name.toLowerCase().includes(tp.toLowerCase()) || tp.toLowerCase().includes(p.slug)))
     .slice(0, 6);
 
-  const localBatches = allBatches
+  let localBatches = allBatches
     .filter(b => b.location_name.toLowerCase().includes(location.name.toLowerCase()) || b.is_online)
     .slice(0, 4);
+  if (localBatches.length === 0) {
+    localBatches = allBatches.slice(0, 4);
+  }
 
   const localArticles = allArticles
     .filter(a => a.title.toLowerCase().includes(location.name.toLowerCase()) || (location.key_industries && location.key_industries.some(ki => a.title.toLowerCase().includes(ki.toLowerCase()))))

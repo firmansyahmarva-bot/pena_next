@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
@@ -223,26 +223,35 @@ export default async function LocationPage({ params }: { params: Promise<{ slug:
                 </div>
 
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
-                  {localBatches.map((b) => (
-                    <div key={b.slug} className="bg-white/10 border border-white/15 p-4 rounded-xl space-y-2">
-                      <div className="flex items-center justify-between text-xs">
-                        <span className="font-bold text-amber-300">{b.offering_name}</span>
-                        <span className="bg-emerald-500/20 text-emerald-300 text-[10px] font-bold px-2 py-0.5 rounded">
-                          {b.is_online ? 'Online Zoom' : b.location_name}
+                  {localBatches.map((b) => {
+                    const isMatchedLocation = b.location_name?.toLowerCase().includes(loc.name.toLowerCase());
+                    const locationBadge = b.is_online
+                      ? 'Online Zoom'
+                      : isMatchedLocation
+                      ? b.location_name
+                      : 'Tersedia untuk Peserta via Kelas Onsite/In-House';
+
+                    return (
+                      <div key={b.slug} className="bg-white/10 border border-white/15 p-4 rounded-xl space-y-2">
+                        <div className="flex flex-wrap items-center justify-between gap-1 text-xs">
+                          <span className="font-bold text-amber-300">{b.offering_name}</span>
+                          <span className="bg-emerald-500/20 text-emerald-300 text-[10px] font-bold px-2 py-0.5 rounded shrink-0">
+                            {locationBadge}
+                          </span>
+                        </div>
+                        <span className="text-xs text-slate-300 block flex items-center gap-1">
+                          <Calendar className="w-3.5 h-3.5 text-slate-400" />
+                          {b.start_date} {b.end_date ? `s/d ${b.end_date}` : ''}
                         </span>
+                        <Link
+                          href={`/jadwal/${b.slug}`}
+                          className="w-full block text-center bg-white hover:bg-slate-100 text-slate-900 font-bold text-xs py-2 rounded-lg transition-all mt-2"
+                        >
+                          Daftar Batch Ini &rarr;
+                        </Link>
                       </div>
-                      <span className="text-xs text-slate-300 block flex items-center gap-1">
-                        <Calendar className="w-3.5 h-3.5 text-slate-400" />
-                        {b.start_date} {b.end_date ? `s/d ${b.end_date}` : ''}
-                      </span>
-                      <Link
-                        href={`/jadwal/${b.slug}`}
-                        className="w-full block text-center bg-white hover:bg-slate-100 text-slate-900 font-bold text-xs py-2 rounded-lg transition-all mt-2"
-                      >
-                        Daftar Batch Ini &rarr;
-                      </Link>
-                    </div>
-                  ))}
+                    );
+                  })}
                 </div>
               </section>
             )}
